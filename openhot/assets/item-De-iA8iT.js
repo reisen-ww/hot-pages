@@ -1,0 +1,1 @@
+import{F as e,Nt as t}from"./shared-B831CU2w.js";async function n({params:n,serverLoader:r}){let i=t()?e(n.id):null;return i?{item:null,preview:i,detail:r()}:r()}export{n as t};

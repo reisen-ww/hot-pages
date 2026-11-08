@@ -1,0 +1,1 @@
+import{F as e,Nt as t}from"./shared-BkBwwekR.js";async function n({params:n,serverLoader:r}){let i=t()?e(n.id):null;return i?{item:null,preview:i,detail:r()}:r()}export{n as t};
