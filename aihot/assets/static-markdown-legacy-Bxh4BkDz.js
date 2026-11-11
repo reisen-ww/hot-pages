@@ -1,0 +1,1 @@
+import{sr as e}from"./shared-Clivdvf9.js";import{i as t,n}from"./item-Bk-Sf15v.js";async function r(r){let i=e(r.request),a=()=>t({...r,request:i});return n({...r,request:i,serverLoader:a})}export{r as t};

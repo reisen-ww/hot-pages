@@ -1,0 +1,1 @@
+import{t as e}from"./static-markdown-legacy-DHyoseXh.js";export{e as clientLoader};

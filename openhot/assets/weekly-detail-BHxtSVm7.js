@@ -1,0 +1,1 @@
+import{t as e}from"./weekly-detail-DJPoIhIX.js";export{e as clientLoader};

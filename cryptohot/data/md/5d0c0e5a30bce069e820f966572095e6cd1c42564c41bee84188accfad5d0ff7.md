@@ -1,0 +1,16 @@
+# 纳斯达克反对SEC代币化股票豁免政策 OKXICE合作平台面临22家上市公司抵制
+
+> 原标题：Nasdaq opts out of SEC tokenization exemption as OKXICE objections mount
+
+- 来源：Crypto Briefing
+- 发布时间：2026-10-29T20:26:49.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/hstkezfa17dcqi7g5b78dsx0v
+- 原文：https://cryptobriefing.com/nasdaq-opts-out-sec-tokenization-exemption-okxice/
+
+## 摘要
+
+SEC于2026年9月17日启动为期5年的代币化股票豁免政策，允许OKXICE等平台无需注册传统交易所即可交易63只美股代币。截至2026年10月23日，已有22家上市公司（包括微软、谷歌等）正式反对其股票代币化，主要担忧价格发现机制受损、流动性碎片化及股东沟通问题。纳斯达克强调需通过其发行方主导的代币化模型维护市场系统完整性。
+
+## 推荐理由
+
+原文指出纳斯达克反对SEC代币化股票豁免政策的核心动因是价格发现机制和交易数据披露问题，并提到OKXICE平台已收到22家上市公司反对，显示监管政策与市场实践存在冲突。

@@ -1,0 +1,1 @@
+import{t as e}from"./daily-detail-DZOoRRZp.js";export{e as clientLoader};

@@ -1,0 +1,1 @@
+import{gt as e,sr as t}from"./shared-Clivdvf9.js";import"./item-Bk-Sf15v.js";async function n({params:t,request:n}){return{item:await e(`/api/site/items/${encodeURIComponent(t.id)}/original`,{signal:n.signal})}}async function r(e){let r=t(e.request);return n({...e,request:r})}export{r as t};

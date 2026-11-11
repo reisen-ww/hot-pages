@@ -1,0 +1,1 @@
+import{t as e}from"./routes-about-D2NrWOIH.js";export{e as clientLoader};

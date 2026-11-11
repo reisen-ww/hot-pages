@@ -1,0 +1,1 @@
+import{At as e}from"./shared-C-NMwrwM.js";import{n as t}from"./all-kI2PpBbh.js";var n={tab:`featured`};function r(){return[{title:e(`搜索繁忙`)},{name:`robots`,content:`noindex, follow`}]}var i=t;export{r as n,i as r,n as t};

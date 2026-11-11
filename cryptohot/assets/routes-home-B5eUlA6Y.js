@@ -1,0 +1,1 @@
+import{t as e}from"./routes-home-BYXaJCMR.js";export{e as clientLoader};

@@ -1,9 +1,4 @@
 User-agent: *
-Allow: /api/v1/
-Allow: /api/mcp
-Disallow: /api/
-Disallow: /admin/
-Disallow: /starred
-Disallow: /feedback
-
+Disallow: /hot-pages/acadhot/admin
+Disallow: /hot-pages/acadhot/starred
 Sitemap: https://reisen-ww.github.io/hot-pages/acadhot/sitemap.xml

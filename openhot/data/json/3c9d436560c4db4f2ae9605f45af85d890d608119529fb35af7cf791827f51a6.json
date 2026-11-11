@@ -1,0 +1,1 @@
+{"factId":"fD4tfns2mePQ","reports":[{"id":"ocvwr9aaajlxx8jljlyg8ed9y","title":"curl 8.23.0 修复 HTTP/2 上传 Use-After-Free 漏洞 CVE-2026-92392","source":{"name":"Lobsters 热榜"},"timelineAt":"2026-10-14T10:12:17.568Z","originalUrl":"https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/","channel":"news","category":"security-privacy","tags":["安全漏洞","供应链安全"],"firstParty":false}]}

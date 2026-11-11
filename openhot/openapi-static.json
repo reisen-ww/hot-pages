@@ -1,0 +1,1 @@
+{"openapi":"3.1.0","info":{"title":"开源热点 静态公开快照","version":"1"},"servers":[{"url":"https://reisen-ww.github.io/hot-pages/openhot"}],"paths":{"/data/manifest.json":{"get":{"summary":"版本、在线文章窗口、完整历史报告与阅读路由","responses":{"200":{"description":"同版本公开快照 manifest"}}}},"/agent/index.md":{"get":{"summary":"静态读取说明","responses":{"200":{"description":"Markdown"}}}}}}

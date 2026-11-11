@@ -1,0 +1,1 @@
+import{t as e}from"./monthly-detail-DJPoIhIX.js";export{e as clientLoader};

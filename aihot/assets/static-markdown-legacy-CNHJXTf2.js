@@ -1,0 +1,1 @@
+import{t as e}from"./static-markdown-legacy-Bxh4BkDz.js";export{e as clientLoader};

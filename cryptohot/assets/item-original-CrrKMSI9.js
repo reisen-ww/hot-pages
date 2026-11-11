@@ -1,0 +1,1 @@
+import{t as e}from"./item-original-f7l2q_PQ.js";export{e as clientLoader};

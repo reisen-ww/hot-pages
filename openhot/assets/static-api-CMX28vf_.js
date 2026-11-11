@@ -1,0 +1,1 @@
+import{_t as e,ht as t}from"./shared-HvmF4hBj.js";export{t as apiGet,e as staticFetch};

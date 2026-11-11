@@ -1,0 +1,1 @@
+import{t as e}from"./routes-daily-archive-CrT9Gcbk.js";export{e as clientLoader};

@@ -1,0 +1,1 @@
+import{sr as e}from"./shared-DZ3_ElDP.js";import{r as t}from"./report-latest-C3BJ3UCs.js";async function n(n){let r=e(n.request);return t({...n,request:r})}export{n as t};

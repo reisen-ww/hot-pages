@@ -1,0 +1,1 @@
+import{t as e}from"./item-original-JopfDQGS.js";export{e as clientLoader};

@@ -1,0 +1,1 @@
+import{t as e}from"./monthly-latest-BrUfGWfL.js";export{e as clientLoader};

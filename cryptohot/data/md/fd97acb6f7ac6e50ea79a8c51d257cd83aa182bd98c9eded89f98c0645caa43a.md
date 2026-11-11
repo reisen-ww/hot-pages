@@ -1,0 +1,16 @@
+# 美国财政部新增制裁45个与加密货币诈骗集团Prince Group相关的实体及个人
+
+> 原标题：US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group
+
+- 来源：Decrypt
+- 发布时间：2026-11-06T17:42:31.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/k53bcgvi0vm5bv00kn0xs8sh5
+- 原文：https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group
+
+## 摘要
+
+美国财政部宣布新增制裁45个与Prince Group相关的实体及个人，包括香港和英属维尔京群岛公司、涉事人员妻子及助理。该集团被指控通过加密货币投资诈骗，涉案金额超400万美元，多国执法机构参与行动。此前英国已冻结涉事人员伦敦公寓，中国已逮捕Prince集团主席陈志。
+
+## 推荐理由
+
+原文披露了美国财政部对45个与Prince Group相关的实体及个人的制裁，包括利用加密货币洗钱的具体案例，并提及多国执法机构合作冻结资产。

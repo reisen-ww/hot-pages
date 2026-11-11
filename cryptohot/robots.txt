@@ -1,9 +1,4 @@
 User-agent: *
-Allow: /api/v1/
-Allow: /api/mcp
-Disallow: /api/
-Disallow: /admin/
-Disallow: /starred
-Disallow: /feedback
-
+Disallow: /hot-pages/cryptohot/admin
+Disallow: /hot-pages/cryptohot/starred
 Sitemap: https://reisen-ww.github.io/hot-pages/cryptohot/sitemap.xml

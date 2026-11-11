@@ -1,0 +1,1 @@
+import{t as e}from"./static-markdown-legacy-BDSFg1S5.js";export{e as clientLoader};

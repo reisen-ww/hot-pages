@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>学术热点 月报</title>
+    <link>https://reisen-ww.github.io/hot-pages/acadhot/monthly</link>
+    <description>学术热点 每月 1 日 10:30（北京时间）发布的月报：从上个月每天的日报里选出的大事，按栏目分好，附总述；保留最近 12 期。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://reisen-ww.github.io/hot-pages/acadhot/feed/monthly.xml" rel="self" type="application/rss+xml" />
+    <ttl>360</ttl>
+    <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
+    <item>
+      <title><![CDATA[学术热点 月报 · 2026-10 — 琥珀中的蜥蜴尾巴揭示了一亿年前的防御机制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/monthly/2026-10</link>
+      <description><![CDATA[<p>本月 30 件大事，最受关注的是：琥珀中的蜥蜴尾巴揭示了一亿年前的防御机制；McGill与Leicester大学联合发表2型糖尿病干预研究：54%受试者6个月实现缓解；CheMoDesign 将扩展化学空间引入从头蛋白质设计。</p>
+<p><strong>AI 与计算</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/fujvl79zmz29ycg6xm8yhvhem">某团队提出基于迭代优化的新型蛋白质序列结构优化方法</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/c5pa7cw9cy1sav06kzxj7seaz">flodl-bio: 首个用 Rust 编写的生物序列深度学习框架</a></li><li><a href="https://www.biorxiv.org/content/10.64898/2026.10.14.759035v1?rss=1">RNAverse：多模态生成模型实现功能 RNA 的可编程设计</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/hj7hom9yoijy062kumzz7g8gf">某研究团队在 bioRxiv 发表跨家族热适应学习转移研究</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/foj52l06si11b0sb9uhop0r92">Calico Life Sciences LLC 发表利用机器学习平台 CAMOLE-1 加速发现和优化 MMP12 抑制剂</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/o7dow76ykwxi5xrpc7peagt1s">医学期刊中 AI 辅助写作的异质性：使用频率和趋势的差异</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/c2zg2cgqpnca6x705pavy363h">概率论中的核积分与Kleisli提升：同一操作的不同视角</a></li></ul>
+<p><strong>生命与医学</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ouhbdsxp6pk9l27i2h09k7mua">琥珀中的蜥蜴尾巴揭示了一亿年前的防御机制</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/en8q8lw0qchq04n9vo943qiz5">McGill与Leicester大学联合发表2型糖尿病干预研究：54%受试者6个月实现缓解</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/avnlfdt1017v25xhhdeba3ad8">CheMoDesign 将扩展化学空间引入从头蛋白质设计</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/blpj274re0vhvledvx2ba0v6i">日本海洋科技研究所与京都大学合作首次分离并培养古菌近亲揭示真核生物起源</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/vo7vje78nnqiifd7l4vtu0405">人类常见着丝粒变异与分子性状及复杂性状相关</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/dsxbpkdwnm7p1l1bsxrpjx78t">SETDB1蛋白在肿瘤中的表达预示膀胱癌患者更短的总体生存期</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/pbaapn2p4xu6wev05lstt3dsx">Human Gut Cell Atlas V1整合人类肠道细胞多样性数据</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/afoi97k3qgzkv6xzo0p73ztvb">神秘蘑菇引发小人幻觉：DNA测序揭示未知致幻物质</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/i3cs5as7ccp5dqcbfaip61kys">某研究团队发布大规模RAS-MAPK通路变异效应图谱</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/fz22fagppd7wxy5tksidrirp5">NASA &apos;毅力号&apos;火星车揭示超细尘埃防护新线索</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oe9qc15ckb5ociatff66ve0eh">某研究团队在 bioRxiv 发表肺炎球菌入侵相关候选遗传因子的研究</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/qurj2mbyw3yqmrgz14xhtipjs">某研究团队在 bioRxiv 发表PAX3::FOXO1 驱动ARMS肿瘤起始的转录调控机制</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rdfiflqjv0kfa585kvd6mrufp">Science发表DNA Typewriter追踪小鼠胚胎细胞谱系历史的研究</a></li><li><a href="https://www.biorxiv.org/content/10.64898/2026.10.13.758836v1?rss=1">研究团队在 bioRxiv 评估短读长全基因组测序结构变异分析标准</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/sse033j3y315lql4669r1t25e">某研究团队在 bioRxiv 发表 theta-相位靶向编码影响记忆敏感性的研究</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/w5qgbkkld7zbbvjo5eveqqk0c">国家药监局批准全球首个XI因子抑制剂在中国上市</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ea79svf9bmo7ivquv4gfyjuiv">小鼠卵子和早期胚胎中 γ-tubulin 的新型细胞外、细胞间和胚外组装</a></li></ul>
+<p><strong>物质与量子</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/jgjjh2f20fajqm7ip74d9ami2">Laurencia属红藻中发现非典型萜类合成酶基因簇，开辟卤代萜生物合成新途径</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/yqjrphqzs699im03dv1mk3pjy">清华大学团队在 Nature 发表钍-229核光钟研究成果</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/jjkzh254ns5h3ucn0eg3exu7c">波茨坦气候影响研究所（PIK）在《地球物理研究快报》发表研究：全球变暖速度创历史最快纪录</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/v9pybto2ocwviq55l8phxnp7a">代尔夫特理工大学团队在 Nature 发表研究：首次直接操控单个原子核磁共振</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/aw8ztx321yz09ht9v62ky1ohx">Nature 发表利用拓扑显微镜探测 KV₂Se₂O 二维 d-wave 交替磁序的研究</a></li><li><a href="https://reisen-ww.github.io/hot-pages/acadhot/items/uk5pnxjsmkbpkl6l0wy453z74">SLAC团队在 Science 发表论文确认第三种磁相——替代磁体</a></li></ul>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/monthly/2026-10">https://reisen-ww.github.io/hot-pages/acadhot/monthly/2026-10</a></p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 02:31:02 GMT</pubDate>
+      <guid isPermaLink="false">monthly-2026-10</guid>
+      <author>noreply@reisen-ww.github.io (学术热点)</author>
+    </item>
+  </channel>
+</rss>

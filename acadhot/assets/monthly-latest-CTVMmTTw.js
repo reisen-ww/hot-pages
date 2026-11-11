@@ -1,0 +1,1 @@
+import{t as e}from"./monthly-latest-BNM4rC7F.js";export{e as clientLoader};

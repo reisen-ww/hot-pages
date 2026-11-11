@@ -1,0 +1,127 @@
+# 学术日报 · 2026-11-11
+
+- 期号：第 32 期
+- 发布：2026-11-11 08:02（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/acadhot/daily/2026-11-11)
+
+## 头条
+
+某团队在 bioRxiv 发表关于 WDR5 识别 lncRNA UMLILO 的 RNA 结构机制研究
+
+## AI 与计算
+
+1. [Texas A&amp;M 大学团队在《Journal of Biomedical Optics》发表突破性显微技术：分辨率提升五倍且深度保持](https://reisen-ww.github.io/hot-pages/acadhot/items/deuiess317m9j8m0zluwq5kv7)
+   来源：Phys.org · 发布时间：2026-11-11 07:20（北京时间）
+   摘要：Texas A&amp;M 大学团队开发出一种新型显微技术（2PE-ISM-SOFI），在活体组织深层成像的同时将分辨率提升至75纳米（传统方法的五倍）。该技术通过结合双光子激发成像扫描与超分辨光学波动成像，解决了深度与细节的矛盾问题。
+   原文：[打开原文](https://phys.org/news/2026-11-microscopy-sharpens-images-fivefold-sacrificing.html)
+
+## 生命与医学
+
+1. [某团队在 bioRxiv 发表关于 WDR5 识别 lncRNA UMLILO 的 RNA 结构机制研究](https://reisen-ww.github.io/hot-pages/acadhot/items/kq9zkuxrewqgyz1ehsekblg5a)
+   来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+   摘要：某团队在 bioRxiv 发表关于 WDR5 识别 lncRNA UMLILO 的 RNA 结构机制研究，揭示了两者通过保守RNA茎环结构的多价相互作用机制。通过化学 probing 和 NMR 结合分析，发现 UMLILO 通过多个茎环结构结合 WDR5 表面，并证实完整 UMLILO 可促进 WDR5 在体外凝聚体中的招募。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765059v1?rss=1)
+
+2. [某研究团队在 bioRxiv 发表关于EWSR1::ATF1超激活与CCS代谢重排的论文](https://reisen-ww.github.io/hot-pages/acadhot/items/ttsmhrw9ngbo8yal72h1azxzw)
+   来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+   摘要：某研究团队在 bioRxiv 发表论文，发现TRIM11通过调控EWSR1::ATF1融合蛋白的降解影响CCS细胞代谢，并揭示PCK1作为关键介质与患者预后相关。研究通过CRISPR/Cas9筛选、质谱分析、代谢组学等技术验证机制，并发现PCK1高表达与CCS转移和生存期缩短相关。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.06.764260v1?rss=1)
+
+3. [Nature Medicine：新一代 KRAS G12C 抑制剂在非小细胞肺癌中延长生存期](https://reisen-ww.github.io/hot-pages/acadhot/items/w0le3e2uqhuf77bdkd580cidi)
+   来源：Nature Medicine · 发布时间：2026-11-10 08:00（北京时间） · 一手
+   摘要：III期临床试验显示新一代 KRAS G12C 抑制剂 divarasib 在非小细胞肺癌患者中较 sotorasib 和 adagrasib 显著延长无进展生存期。
+   原文：[打开原文](https://www.nature.com/articles/d41591-026-00057-9)
+
+4. [PSYNOVIUM 研究首次提出银屑病关节炎滑膜亚型分类框架](https://reisen-ww.github.io/hot-pages/acadhot/items/lf2w9ndxdpz54d23gymxkki7t)
+   来源：medRxiv · 发布时间：2026-11-09 08:00（北京时间） · 一手
+   摘要：某研究团队在 medRxiv 发表首个基于机器学习的银屑病关节炎滑膜亚型分类框架，定义 Dense Myeloid（巨噬细胞驱动）、Fibro-Stromal（纤维化与低免疫）、Angio-Lymphoid（高血管与浆细胞浸润）三种亚型，并开发四标记诊断决策树（CD31、CD68、CD138、picrosirius red），为精准医学提供新工具。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.06.26367442v1?rss=1)
+
+5. [血清BD-tau区分急性脑损伤与脊髓损伤](https://reisen-ww.github.io/hot-pages/acadhot/items/hyd6yqdxdu7mp8b6fm41w662m)
+   来源：medRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+   摘要：某研究团队在medRxiv发表预印本，发现血清BD-tau可区分创伤性脑损伤与脊髓损伤（AUC=0.91），优于神经丝轻链等传统生物标志物（AUC=0.82）。纵向数据显示BD-tau在144小时内持续区分两类损伤，且血清检测优于脑脊液检测（AUC=0.95 vs 0.80）。研究由美国匹兹堡大学伦理委员会批准，资助方包括美国国立卫生研究院（NIH）等机构。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.08.26365143v1?rss=1)
+
+6. [Vir Biotechnology III期基因疗法治疗丙型肝炎达主要终点](https://reisen-ww.github.io/hot-pages/acadhot/items/rzy1gpphhd3fjvzjbd6l4um0t)
+   来源：STAT News · 发布时间：2026-11-09 22:36（北京时间）
+   摘要：Vir Biotechnology宣布其III期临床试验显示，每月注射两种实验药物使44%的受试者丙型肝炎病毒检测不到（对照组无改善）。Zura Bio中期试验显示抗体tibulizumab未改善脓疱性痤疮症状。
+   原文：[打开原文](https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss)
+
+7. [诺华终止实验性心脏病药物研发，BIO起诉特朗普医保定价计划](https://reisen-ww.github.io/hot-pages/acadhot/items/y8l9tkb7pwpnffdaia25dr00u)
+   来源：STAT News · 发布时间：2026-11-09 22:28（北京时间）
+   摘要：诺华宣布终止实验性心脏病药物研发，因临床试验显示未能降低心血管死亡风险。生物技术创新组织（BIO）联合加州生物技术团体起诉特朗普政府医保定价计划，要求阻止该模型。该计划因豁免多数企业而预期影响有限，但诺华实验性药物（NCT05243224）的失败结果可能影响其他Lp(a)靶向药物研发公司（如Amgen、Eli Lilly）的研发策略。
+   原文：[打开原文](https://www.statnews.com/pharmalot/2026/11/09/novartis-abandons-heart-drug-bio-fighting-trump-program/?utm_campaign=rss)
+
+8. [Nature Medicine 发表 Tu-Stroma 非编码RNA 可作为卵巢癌早期及癌前病变筛查的新型生物标志物](https://reisen-ww.github.io/hot-pages/acadhot/items/fmj8msdtwh286uc1l4vt7b98i)
+   来源：Nature Medicine · 发布时间：2026-11-10 08:00（北京时间） · 一手
+   摘要：Nature Medicine 发表 Tu-Stroma 非编码RNA 可作为卵巢癌早期及癌前病变筛查的新型生物标志物。研究显示 Tu-Stroma 在血液中的浓度变化与卵巢癌进展阶段显著相关，其检测方法（如 qPCR）在临床前模型中达到 95% 的特异性。该成果弥补了现有筛查手段对早期癌变的敏感性不足问题，DOI:10.1038/s41591-026-04755-2
+   原文：[打开原文](https://www.nature.com/articles/s41591-026-04755-2)
+
+9. [MD Anderson 癌症中心团队在 PNAS 发表研究：空腹与特定肠道菌群协同激活肠道修复机制](https://reisen-ww.github.io/hot-pages/acadhot/items/qg1egkhajuti4w7dktzftzzq9)
+   来源：ScienceDaily 健康医学 · 发布时间：2026-11-08 19:06（北京时间）
+   摘要：MD Anderson 癌症中心团队在 PNAS 发表研究，发现24小时空腹使肠道益生菌Akkermansia数量增加，其代谢产物丙酸通过表观遗传修饰增强肠道细胞修复能力。实验显示选择性去除Akkermansia后空腹不再产生修复效果，证实该菌的关键作用。研究提出通过菌群干预或代谢产物补充替代空腹，或可减少癌症放疗患者肠道损伤。
+   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261104084024.htm)
+
+10. [北京大学 Wang 等在《自然城市》揭示全球十大沉降严重城市及地下水影响](https://reisen-ww.github.io/hot-pages/acadhot/items/ir6gkrcqg1un51w3ex68p1ne3)
+    来源：奇客 Solidot · 发布时间：2026-11-09 21:08（北京时间）
+    摘要：北京大学 Wang 等在《自然城市》发表全球主要城市地面沉降研究，揭示地下水开采是主因。数据显示10座最严重城市包括墨西哥托雷翁、墨西哥城、巴西弗洛里亚诺波利斯等，北京通过停止地下水开采并使用长江水，使部分区域沉降停止。加州伯克利专家 Roland Bürgmann 指出未均匀沉降的潜在风险。
+    原文：[打开原文](https://www.solidot.org/story?sid=85840)
+
+## 物质与量子
+
+1. [日本东北大学与台北科技大学在《Inorganic Chemistry》发表水分子介导铜离子反铁磁配对的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/s6pxucx755nl81d4baio5bhpl)
+   来源：Phys.org · 发布时间：2026-11-11 07:10（北京时间）
+   摘要：日本东北大学与台北科技大学在《Inorganic Chemistry》发表研究，发现水分子通过氢键在氟化配位铜化合物中诱导形成反铁磁对。研究团队通过单晶X射线衍射和核磁共振实验，证实低于260K时水分子有序排列导致氢键网络重构，进而形成反铁磁相互作用。该成果为设计新型磁性材料提供了无需强化学键直接耦合磁离子的新途径。
+   原文：[打开原文](https://phys.org/news/2026-11-molecules-secret-messengers-magnetism.html)
+
+## 快讯
+
+- [Open-BEATBox 开源自主操作箱助力小鼠复杂行为的高通量数据采集](https://reisen-ww.github.io/hot-pages/acadhot/items/cfw2079t7alaluojk7rtlk0ov)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：某研究团队在bioRxiv发表Open-BEATBox开源自主操作箱，该平台通过连续自主测试方式，在小鼠视觉反转学习任务中收集约十倍于传统方法的完整试验数据，同时减少实验者干预，并证实对动物福利无显著负面影响。该平台支持多种认知任务扩展，为长期行为评估提供新工具。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765109v1?rss=1)
+
+- [某研究团队在bioRxiv发表常见比目鱼性别决定主基因候选研究](https://reisen-ww.github.io/hot-pages/acadhot/items/q77kuxsuypz20aztluvjintuc)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：某研究团队通过 pooled whole-genome sequencing 和 PacBio HiFi 测序，在冰岛和挪威的常见比目鱼样本中发现 Y 染色体携带的 gsdf 基因拷贝（gsdfY）。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.04.764161v1?rss=1)
+
+- [褐藻中LOV域蛋白HELM介导光趋性的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/vixkzwkwj2h609m975264j5dl)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：Duchene团队通过功能遗传学、细胞生物学和进化分析，发现褐藻Ectocarpus的HELM蛋白定位于鞭毛后端，负责其特有的黄素关联荧光，并证实HELM缺失导致光趋性丧失但保留基础运动能力。该研究首次解析褐藻光感知分子机制，并揭示LOV域蛋白在藻类进化中的重复模块化特征。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765074v1?rss=1)
+
+- [某团队在 bioRxiv 发表 KCNH2 变体功能评估中的表达系统偏差研究](https://reisen-ww.github.io/hot-pages/acadhot/items/yq2k1kne8jk10emh0h6nu0l8o)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：某团队在 bioRxiv 发表研究，指出常用双表达构建体（IRES、P2A、dCMV）无法可靠复现 KCNH2 变体的平衡表达，其中 IRES 构建体表现最大偏差，P2A 构建体因引入 N 端脯氨酸改变通道特性。共电转染独立质粒的方法被证明能有效控制 WT 与 T74R 变体的表达比例，为多聚离子通道基因（如 hERG）的功能评估提供了新范式。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.04.764433v1?rss=1)
+
+- [某研究团队在 medRxiv 发布新冠病毒感染对人类胚胎发育的影响](https://reisen-ww.github.io/hot-pages/acadhot/items/p41mm1k1pd1yj3rvimn6hvlhn)
+  来源：medRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：某研究团队在体外培养胚胎中发现，完整透明带可阻止新冠病毒感染，而激光辅助孵化使90.5%胚胎感染。感染后胚胎24小时内表面面积、总细胞数和NANOG+细胞数显著减少（p&lt;0.01），且存在病毒持续复制导致的胚胎解体死亡。
+  原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.08.26367551v1?rss=1)
+
+- [某研究团队发现IL13是Stat5激活CD4 T细胞抗肿瘤活性的关键因子](https://reisen-ww.github.io/hot-pages/acadhot/items/boikpr2n077v36fhs0gf5koxg)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：某研究团队发现IL13是Stat5激活CD4 T细胞抗肿瘤活性的关键因子。实验通过Hi-C和CUT&amp;Tag技术证实C5-CD4细胞存在Th2型细胞因子特征性表观基因组重塑，中和小鼠IL13后显著削弱治疗效果。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.09.765236v1?rss=1)
+
+- [某团队在 bioRxiv 发表皮质微电路发育自组装的计算机模型](https://reisen-ww.github.io/hot-pages/acadhot/items/eaypu6lllgaszqmz21s0u2wfl)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：某团队在 bioRxiv 发表皮质微电路发育自组装的计算机模型，通过 BioDynaMo 模拟 1,200 个前体神经元在三维空间中的迁移、轴突生长和突触形成，验证了 64 种连接类型的实验测量数据（平均绝对误差 0.0062）。模型显示迁移程序反转可产生类似 reeler 小鼠的异常柱状结构，并揭示局部发育规则与皮质功能稳定性的关联机制。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.09.762492v1?rss=1)
+
+- [葡萄牙基金会与瑞士国家科学基金会合作研究揭示壳鱼性鱼类脑转录组特征](https://reisen-ww.github.io/hot-pages/acadhot/items/kcjr3w2yjodzzwueqikz5i6tp)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：某研究团队在 bioRxiv 发表论文，比较两种可社会性鱼类（Plecodus altivelis 和 Pelmatochromis ocellatus）与独居近亲（Tilap属物种）的边缘系统（边缘脑和下丘脑）转录组特征。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765067v1?rss=1)
+
+- [HUS1与RAD9功能差异驱动利什曼原虫基因组可塑性](https://reisen-ww.github.io/hot-pages/acadhot/items/z9po6s02gcdqob3luw5h42nq8)
+  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+  摘要：HUS1和RAD9在利什曼原虫基因组可塑性中发挥非等效作用，导致不同的复制压力响应和基因组重排模式。HUS1缺失限制DHFR-TS扩增并偏好线性扩增，RAD9缺失则伴随广泛环状扩增。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.08.765153v1?rss=1)
+
+- [东华大学团队在 Gondwana Research 发表99万年前的羽毛揭示飞行适应性进化关键阶段](https://reisen-ww.github.io/hot-pages/acadhot/items/ljg1o7oq97iva780gfe2juuor)
+  来源：Phys.org · 发布时间：2026-11-11 01:30（北京时间）
+  摘要：东华大学团队在 Gondwana Research 发表99万年前的羽毛揭示飞行适应性进化关键阶段。
+  原文：[打开原文](https://phys.org/news/2026-11-million-year-feather-evolution-flight.html)

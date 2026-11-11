@@ -1,0 +1,12 @@
+# Alarm.com 门铃摄像头自托管可行性探讨
+
+> 原标题：Alarm.com doorbell cam flash
+
+- 来源：Reddit r/selfhosted
+- 发布时间：2026-11-09T21:59:12.000Z
+- 开源热点：https://reisen-ww.github.io/hot-pages/openhot/items/f85yvgvsxeyie6svoq5c9h16x
+- 原文：https://www.reddit.com/r/selfhosted/comments/1xs547u/alarmcom_doorbell_cam_flash/
+
+## 摘要
+
+作者购买了一套附带安装的安防系统，发现门铃摄像头来自 Alarm.com，希望自托管而不需订阅服务。尽管 Alarm.com 称无法直接访问摄像头，但该设备为通用硬件，有用户尝试通过 Home Assistant 访问或刷写固件。

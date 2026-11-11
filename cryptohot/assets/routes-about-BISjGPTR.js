@@ -1,0 +1,1 @@
+import{t as e}from"./routes-about-BAYfoPb6.js";export{e as clientLoader};

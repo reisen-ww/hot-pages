@@ -1,0 +1,1 @@
+import{t as e}from"./routes-hot-CDwtBUGU.js";export{e as clientLoader};

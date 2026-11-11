@@ -1,0 +1,1 @@
+import{gt as e,sr as t}from"./shared-HvmF4hBj.js";import"./item-DGf4KcmY.js";async function n({params:t,request:n}){return{item:await e(`/api/site/items/${encodeURIComponent(t.id)}/original`,{signal:n.signal})}}async function r(e){let r=t(e.request);return n({...e,request:r})}export{r as t};

@@ -1,0 +1,12 @@
+# 亚马逊AWS预计2028年前营收增长超40%
+
+> 原标题：Amazon: AWS Above 40% Through 2028
+
+- 来源：Seeking Alpha
+- 发布时间：2026-10-30T17:05:00.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/l7vpagl97wvcr1t645iu6xz62
+- 原文：https://seekingalpha.com/article/4960329-amazon-aws-above-40-percent-through-2028?source=feed_all_articles
+
+## 摘要
+
+亚马逊AWS预计2028年前营收增长超40%，当前市盈率18.87倍，存在自由现金流风险。报告指出AWS合同负债达5780亿美元（6.4年平均账期），零售与广告业务经营利润率显著提升，但需关注债务扩张与现金流压力可能延续至2027年。

@@ -1,0 +1,26 @@
+import{t as e}from"./framework-DJuiLJ4E.js";import{Tt as t,er as n,nr as r}from"./shared-Clivdvf9.js";import{n as i,r as a,t as o}from"./CopyPage-BGEV0JHB.js";var s=`# 隐私说明
+
+页首说明：
+
+> 使用本站不需要注册或登录。读者端反馈功能已取消，不再通过本站提交新反馈。
+
+## 1. 浏览器本地数据
+
+收藏、已读记录、最近搜索（你搜过的词，最多 10 条）和更新日志已读状态保存在当前浏览器的本地存储中；返回时的列表位置、滚动位置和展开状态使用当前标签页的会话存储。这些记录不通过本站的业务接口主动上传，也不自动同步到其他设备；清除相应浏览器数据会移除这些记录。收藏、已读记录和外观设置可以在“收藏”页导出和导入，备份文件由你自行保存。
+
+四站在同一域名下的收藏、已读、最近搜索、更新标记及会话缓存按站点分别保存；旧版未带站点归属的记录不会被自动分配或删除。
+
+深浅色外观通过同一主机共享的主题 Cookie 保存，并保留本地存储副本，因此可在四站之间沿用。浏览器可能按 Cookie 的域和路径设置，在请求中携带该主题值。
+
+## 2. 历史反馈
+
+取消读者端入口不等于删除历史反馈业务数据或旧浏览器草稿。本次改造不删除这些记录，也不把它们导出到公开静态站。
+
+## 3. 网络访问与日志
+
+本软件默认不做访客统计。加载网页和静态文件仍会向托管服务发出网络请求。托管服务、反向代理或 CDN 可能按各自配置记录访问日志，例如 IP 地址、访问时间、页面地址和浏览器信息；日志的记录方式及保存期限取决于相应服务的实际配置与说明。
+
+## 4. 第三方内容
+
+本站展示的是第三方原文的摘要与链接。点击原文链接后，你访问的是对方网站，适用对方的隐私政策。
+`,c=e(),l={tab:`me`},u=a(s);function d(){return t({title:`隐私说明`,description:n.privacy.description,path:`/privacy`,image:`/og/pages/privacy.png`})}function f(){return(0,c.jsx)(o,{doc:u.doc,rendered:u.rendered,eyebrow:r.name,footer:(0,c.jsx)(i,{links:[{to:`/terms`,label:n.terms.name}],note:[`隐私说明`,u.doc.meta.版本,u.doc.meta.生效日期].filter(Boolean).join(` · `)})})}export{f as default,l as handle,d as meta};

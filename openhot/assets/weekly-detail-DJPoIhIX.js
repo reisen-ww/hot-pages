@@ -1,0 +1,1 @@
+import{sr as e}from"./shared-HvmF4hBj.js";import{r as t}from"./report-detail-BRPJWzIn.js";async function n(n){let r=e(n.request);return t({...n,request:r})}export{n as t};

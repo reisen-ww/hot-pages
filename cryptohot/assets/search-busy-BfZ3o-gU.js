@@ -1,0 +1,1 @@
+import{At as e}from"./shared-DZ3_ElDP.js";import{n as t}from"./all-HpSrlew1.js";var n={tab:`featured`};function r(){return[{title:e(`搜索繁忙`)},{name:`robots`,content:`noindex, follow`}]}var i=t;export{r as n,i as r,n as t};

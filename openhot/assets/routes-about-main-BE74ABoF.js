@@ -1,0 +1,1 @@
+import{i as e,n as t,r as n}from"./routes-about-D2NrWOIH.js";export{t as default,n as handle,e as meta};

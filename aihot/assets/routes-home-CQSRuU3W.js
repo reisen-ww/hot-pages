@@ -1,0 +1,1 @@
+import{t as e}from"./routes-home-IrnCIOCM.js";export{e as clientLoader};

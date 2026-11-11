@@ -1,0 +1,1 @@
+import{t as e}from"./item-original-BD8POE4x.js";export{e as clientLoader};

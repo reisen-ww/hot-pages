@@ -1,0 +1,1 @@
+import{t as e}from"./routes-item-BDSFg1S5.js";export{e as clientLoader};

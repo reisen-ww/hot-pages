@@ -1,0 +1,1 @@
+import{_t as e,ht as t}from"./shared-C-NMwrwM.js";export{t as apiGet,e as staticFetch};

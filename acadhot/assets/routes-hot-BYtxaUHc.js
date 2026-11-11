@@ -1,0 +1,1 @@
+import{t as e}from"./routes-hot-DfubC_sN.js";export{e as clientLoader};

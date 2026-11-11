@@ -1,0 +1,12 @@
+# Project ProtoStar 发布：促进公共资助科研成果的 AI 化再利用
+
+> 原标题：Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready
+
+- 来源：Hugging Face Blog
+- 发布时间：2026-10-29T00:00:00.000Z
+- MyHOT：https://reisen-ww.github.io/hot-pages/aihot/items/cls128bi8poges3qlp2odv853
+- 原文：https://huggingface.co/blog/announcing-project-protostar
+
+## 摘要
+
+Hugging Face 发起 Project ProtoStar，旨在通过提供 AI 友好的数据集、模型和代码格式，促进公共资助科研成果的再利用。该项目联合了多所大学和研究机构，通过开放挑战等方式展示其价值。首批挑战将于 11 月 2 日启动，旨在加速科学研究和公共利益。

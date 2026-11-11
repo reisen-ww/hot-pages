@@ -1,0 +1,1 @@
+import{t as e}from"./routes-item-Dern9IH2.js";export{e as clientLoader};
