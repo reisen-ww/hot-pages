@@ -99,11 +99,11 @@
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-04</link>
       <description><![CDATA[<p>作者通过逆向工程获取系统脏话词库（VulgarWordUsage.db），发现 Apple 将 &apos;Trump&apos; 标记为敏感层级，但其他当代政要如 Biden、Obama、Putin 未被标记。</p>
 <p><strong>工具与项目</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/x6jbye70xgu86x35toejtl1y7">LLVM Vulkan 1.1 正式发布：集成GPU加速编译插件及多平台性能测试</a></li><li><a href="https://github.com/pigeon-labs-stack/v100-sxm2-reference">某团队开源V100 SXM2模块载体板设计参考套件，含连接器映射与NVLink连接指南</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/s1x6sjh4vl4ea6ooh3pevpd6i">MiBeeNVR开源项目发布：支持多协议与自托管NVR系统</a></li></ul>
+<ul><li><a href="https://www.reddit.com/r/programming/comments/1xn802v/llvm_vulkan_11_dropin_compiler_passes_gvn_cse_cfg/">LLVM Vulkan 1.1 正式发布：集成GPU加速编译插件及多平台性能测试</a></li><li><a href="https://github.com/pigeon-labs-stack/v100-sxm2-reference">某团队开源V100 SXM2模块载体板设计参考套件，含连接器映射与NVLink连接指南</a></li><li><a href="https://www.reddit.com/r/selfhosted/comments/1xn7jbb/mibeenvr_dynamic_timelapse_and_thermal_cameras_in/">MiBeeNVR开源项目发布：支持多协议与自托管NVR系统</a></li></ul>
 <p><strong>应用与安全</strong></p>
 <ul><li><a href="https://helgesver.re/articles/macos-vulgar-word-flags">逆向工程 macOS 脏话数据库：Apple 如何标记 Trump 为敏感但未标记其他政要</a></li></ul>
 <p><strong>基础设施</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/y2iztyytg6jr6gzvrhzdk0q40">PostgreSQL 19 发布内置在线表膨胀清理工具 REPACK</a></li></ul>
+<ul><li><a href="https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/">PostgreSQL 19 发布内置在线表膨胀清理工具 REPACK</a></li></ul>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-04">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-04</a></p>]]></description>
       <pubDate>Wed, 04 Nov 2026 00:00:20 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-11-04</guid>

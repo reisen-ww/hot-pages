@@ -9,6 +9,27 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[将CPython适配到yk框架并进行性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qjrumt439kgpxront066oopkk</link>
+      <description><![CDATA[<p>某团队将yk JIT编译器应用于CPython，在多个基准测试中实现性能提升，但指出当前版本尚未完善，未来需进一步优化。</p>
+<p>🔗 <a href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qjrumt439kgpxront066oopkk">https://reisen-ww.github.io/hot-pages/openhot/items/qjrumt439kgpxront066oopkk</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 12 Nov 2026 12:29:56 GMT</pubDate>
+      <guid isPermaLink="false">qjrumt439kgpxront066oopkk</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Unity土耳其字母导致多款游戏崩溃问题已修复]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/j0012r36201grgyebfdmh122m</link>
+      <description><![CDATA[<p>Unity因土耳其字母‘İ/i’和‘I/ı’的 casing 规则差异导致多款游戏（CRYSTAR、Speedrunners）在土耳其语言设置下无法启动。开发者通过将 C# 的 ToUpper 方法替换为 ToUpperInvariant 或使用 StringComparison.OrdinalIgnoreCase 解决问题，建议所有软件公司采用‘土耳其测试’确保兼容性。</p>
+<p>🔗 <a href="https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/j0012r36201grgyebfdmh122m">https://reisen-ww.github.io/hot-pages/openhot/items/j0012r36201grgyebfdmh122m</a></p>]]></description>
+      <pubDate>Thu, 12 Nov 2026 08:15:24 GMT</pubDate>
+      <guid isPermaLink="false">j0012r36201grgyebfdmh122m</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/programming)</author>
+    </item>
+    <item>
       <title><![CDATA[Darling开源项目发布Q4更新：引入AI辅助开发策略及ARM64架构支持]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu</link>
       <description><![CDATA[<p>Darling项目维护者宣布Q4更新，包含AI辅助开发政策（要求提交者解释代码并禁止使用苹果受限源码）和ARM64架构初始支持。通过VibeDarling分支的持续开发，ARM64支持已具备可合并基础。未来计划整合各分支代码并增强AppKit支持，目标实现i386/x86-64/ARM64三架构协同。</p>
@@ -535,28 +556,6 @@
       <pubDate>Thu, 05 Nov 2026 12:24:42 GMT</pubDate>
       <guid isPermaLink="false">e7id5u39sxzhczos0hxfcymte</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Conductor 云服务关闭在即，开发者自托管实践与数据迁移挑战]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/sitqh9jqngzgbraue6lne5uhc</link>
-      <description><![CDATA[<p>Conductor 云服务将于 11 月 13 日进入只读模式，开发者需关注数据迁移与自托管实践。作者分享迁移过程中发现的问题：1) 云端会话记录、环境变量和定时任务配置丢失；2) 符号链接未被恢复脚本识别；3) 工作区历史对话记录未随代码迁移。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xogygi/conductors_cloud_goes_readonly_on_the_13th_what/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/sitqh9jqngzgbraue6lne5uhc">https://reisen-ww.github.io/hot-pages/openhot/items/sitqh9jqngzgbraue6lne5uhc</a></p>]]></description>
-      <category>基础设施</category>
-      <pubDate>Thu, 05 Nov 2026 12:04:37 GMT</pubDate>
-      <guid isPermaLink="false">sitqh9jqngzgbraue6lne5uhc</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Ubuntu与Debian APT漏洞（CVE-2026-109518）修复指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/q1xhgvru8ruyhqf3pwkpf56o0</link>
-      <description><![CDATA[<p>Ubuntu和Debian的APT系统存在安全漏洞（CVE-2026-109518），攻击者可通过篡改HTTP流量或使用恶意镜像绕过签名检查，从而获取root权限。修复需更新至指定版本（Ubuntu 22.04/24.04/26.04及Debian trixie 3.0.4）并调整配置参数（如sudo apt upgrade -o Acquire::Retries=0）。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xodzj7/apt_cve2026109518_root_via_packages_that_fail/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/q1xhgvru8ruyhqf3pwkpf56o0">https://reisen-ww.github.io/hot-pages/openhot/items/q1xhgvru8ruyhqf3pwkpf56o0</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Thu, 05 Nov 2026 09:02:36 GMT</pubDate>
-      <guid isPermaLink="false">q1xhgvru8ruyhqf3pwkpf56o0</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>
 </rss>

@@ -140,27 +140,5 @@
       <guid isPermaLink="false">fx67eouq9ky8jof7mpoaglguv</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[musl Linux 环境下 SSH 密码哈希漏洞的十年修复历程与持续风险]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e7id5u39sxzhczos0hxfcymte</link>
-      <description><![CDATA[<p>musl Linux 环境下的 SSH 服务存在安全漏洞（CVE-2016-6210），未设置密码的账户（如 root 或默认用户）可能被 257-1024 字符长度的任意密码入侵。</p>
-<p>🔗 <a href="https://sshhole.com/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e7id5u39sxzhczos0hxfcymte">https://reisen-ww.github.io/hot-pages/openhot/items/e7id5u39sxzhczos0hxfcymte</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Thu, 05 Nov 2026 12:24:42 GMT</pubDate>
-      <guid isPermaLink="false">e7id5u39sxzhczos0hxfcymte</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Ubuntu与Debian APT漏洞（CVE-2026-109518）修复指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/q1xhgvru8ruyhqf3pwkpf56o0</link>
-      <description><![CDATA[<p>Ubuntu和Debian的APT系统存在安全漏洞（CVE-2026-109518），攻击者可通过篡改HTTP流量或使用恶意镜像绕过签名检查，从而获取root权限。修复需更新至指定版本（Ubuntu 22.04/24.04/26.04及Debian trixie 3.0.4）并调整配置参数（如sudo apt upgrade -o Acquire::Retries=0）。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xodzj7/apt_cve2026109518_root_via_packages_that_fail/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/q1xhgvru8ruyhqf3pwkpf56o0">https://reisen-ww.github.io/hot-pages/openhot/items/q1xhgvru8ruyhqf3pwkpf56o0</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Thu, 05 Nov 2026 09:02:36 GMT</pubDate>
-      <guid isPermaLink="false">q1xhgvru8ruyhqf3pwkpf56o0</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
   </channel>
 </rss>

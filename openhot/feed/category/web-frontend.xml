@@ -52,16 +52,5 @@
       <guid isPermaLink="false">kwv42whjm76sdngvpq8zkftgk</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[Servo 0.7.0发布：支持rounded rectangles、CSS新特性及安全修复]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/g9375qehlya5nkvngxsnsa53d</link>
-      <description><![CDATA[<p>Servo 0.7.0版本发布，包含rounded rectangles绘制支持、CSS新特性（如user-select和alpha()函数）、安全漏洞修复（升级SpiderMonkey至v153.3）及内存优化（减少约2MB）。</p>
-<p>🔗 <a href="https://servo.org/blog/2026/11/05/september-in-servo/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/g9375qehlya5nkvngxsnsa53d">https://reisen-ww.github.io/hot-pages/openhot/items/g9375qehlya5nkvngxsnsa53d</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Thu, 05 Nov 2026 13:47:56 GMT</pubDate>
-      <guid isPermaLink="false">g9375qehlya5nkvngxsnsa53d</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
   </channel>
 </rss>

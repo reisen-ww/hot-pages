@@ -1,6 +1,6 @@
-# NVIDIA盘后股价暴跌近9% CEO命运受更多消息影响
+# 英伟达股价暴跌超7% 董事会正评估黄仁勋去留
 
-> 原标题：Nvidia shares tumble in after-market trading
+> 原标题：Nvidia shares slide as board considers Huang’s future
 
 - 来源：Financial Times
 - 发布时间：2026-11-12T03:39:25.000Z
@@ -9,8 +9,4 @@
 
 ## 摘要
 
-NVIDIA盘后股价暴跌近9%，CEO命运受更多消息影响
-
-## 推荐理由
-
-读者可据此了解当前市场对NVIDIA管理层变动及潜在负面消息的反应
+英伟达股价暴跌超7% 董事会正评估黄仁勋去留。事件引发市场对CEO决策的预期波动。

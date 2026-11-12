@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Google Deepmind推出AlphaGenome 2单细胞基因组分析模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i</link>
+      <description><![CDATA[<p>Google Deepmind发布AlphaGenome 2单细胞基因组分析模型，在疾病基因和疫苗响应预测上精度提升30%，并支持AI药物研发。该模型基于1070万个体细胞数据训练，可预测DNA物理包装和甲基化标记，在TenK10K基准测试中识别出约30%的致病基因变体，优于前代模型16%的准确率。系统支持通过少量细胞数据推断新细胞状态，已在COVID-19疫苗研究中验证其区分激活T细胞的能力。</p>
+<p>🔗 <a href="https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i">https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Thu, 12 Nov 2026 12:09:43 GMT</pubDate>
+      <guid isPermaLink="false">z8ecskpqxdj2jc98qan7ad24i</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
       <title><![CDATA[DeepMind发布AlphaGenome 2模型：解析细胞读取DNA机制以增进疾病理解]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm</link>
       <description><![CDATA[<p>DeepMind发布AlphaGenome 2模型，通过单细胞生物学与人类遗传学结合，显著提升特定细胞类型基因表达预测精度（较前代因果变体识别率提高30%至16%，方向性基因效应识别率提升23%至43%）。该模型支持未见过的新细胞状态推断（如COVID-19 mRNA疫苗激活的T细胞），并首次整合DNA甲基化预测功能。现提供非商业API访问和商业预览，已包含107百万个体细胞数据训练。</p>
@@ -128,17 +139,6 @@
       <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="false">dv88sc6s9mn5tyn6jikwnz1ud</guid>
       <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 发布 GPT-6 Cyber 安全模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/b92wxe7nrmxaifrkx5xpjeyax</link>
-      <description><![CDATA[<p>OpenAI 发布 GPT-6 Cyber 安全模型，用于发现漏洞和开发修复方案，其训练范围受授权约束</p>
-<p>🔗 <a href="https://openai.com/index/introducing-gpt-6-cyber">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/b92wxe7nrmxaifrkx5xpjeyax">https://reisen-ww.github.io/hot-pages/aihot/items/b92wxe7nrmxaifrkx5xpjeyax</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b92wxe7nrmxaifrkx5xpjeyax</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
-# 黄仁勋在特朗普政府受挫：NVIDIA高层面临审查
+# 黄士豪在美国失宠，与疑似中国间谍的绯闻引发对手关注
 
-> 原标题：State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington
+> 原标题：Huang falls out of favour in Washington
 
 - 来源：Financial Times
 - 发布时间：2026-11-12T04:19:48.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-NVIDIA CEO 黄仁勋因与疑似中国间谍的绯闻受到对手的攻击，面临华盛顿政府高层的审查。
+黄士豪在美国政坛失宠，近期与疑似中国间谍的绯闻令其对手更加警惕。

@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
+      <title><![CDATA[Manohar 等在 bioRxiv 发表 RNA噬菌体 Sgl蛋白靶向 MraY 的协同进化研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/jyvg71wfuhlwbma73tn7fncbq</link>
+      <description><![CDATA[<p>本研究通过生理实验证实 Caulobacter ssRNA 噬菌体 φCb5 的 Sgl 蛋白靶向 MraY，尽管其序列与 φX174 的 E 蛋白无显著相似性，但两者在亲疏水残基分布、膜拓扑结构及裂解活性方面高度相似。实验还表明，Caulobacter 的 FKBP-type 转录因子 CC2799 可增强 SglφCb5 在 E. coli 中的裂解效果。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765132v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/jyvg71wfuhlwbma73tn7fncbq">https://reisen-ww.github.io/hot-pages/acadhot/items/jyvg71wfuhlwbma73tn7fncbq</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">jyvg71wfuhlwbma73tn7fncbq</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队提出通过粗调优化蛋白质基础模型的方法，以外膜β-折叠蛋白为例]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/glg0iweesdv8pz1tizksfaln4</link>
+      <description><![CDATA[<p>某团队在 bioRxiv 发表预印本，提出针对蛋白质基础模型的粗调优化方法，并以外膜β-折叠蛋白（OMBBs）为例验证其有效性。结果显示，粗调模型在多种迁移学习任务中表现优于原模型，并分析了注意力矩阵与接触图预测的差异。该研究使用小于10万条序列的中等规模数据集，证明基础模型可通过定向微调实现领域专业化。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765412v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/glg0iweesdv8pz1tizksfaln4">https://reisen-ww.github.io/hot-pages/acadhot/items/glg0iweesdv8pz1tizksfaln4</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">glg0iweesdv8pz1tizksfaln4</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[新加坡大学与中国团队开发无标记微流控芯片实现细胞分选]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/wlbriqimgr9mgtb163njcg12c</link>
       <description><![CDATA[<p>新加坡大学与中国研究团队在 Small Methods 发表论文，开发了一种无标记微流控芯片平台，通过电信号和声波分选实现98%纯度的细胞分离，并首次在光敏蛋白工程细胞中基于功能电信号进行分选。该平台已验证可用于区分化学修饰红细胞和光敏激活细胞，未来计划结合机器学习提升分类精度。</p>
@@ -185,105 +207,6 @@
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[某团队在bioRxiv发表Burkholderia cepacia complex新型分型方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/mdok1jo5p3heijanigqpzej63</link>
-      <description><![CDATA[<p>某团队开发了Burkholderia cepacia complex的新型分型方案（cgMLST和LIN代码系统），包含1,925个核心基因和14位LIN编码规则。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765358v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/mdok1jo5p3heijanigqpzej63">https://reisen-ww.github.io/hot-pages/acadhot/items/mdok1jo5p3heijanigqpzej63</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">mdok1jo5p3heijanigqpzej63</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Sharma 等在 bioRxiv 发表 RNA 小分子结合位点预测框架 RSMBind]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/l3d5w1o6u8t734qdxpuf33hd9</link>
-      <description><![CDATA[<p>Sharma 等提出基于图注意力机制的深度学习框架 RSMBind，用于预测 RNA 小分子结合位点。该模型整合了 RNA 语言模型预训练嵌入和三维结构几何描述，在 TR60 和 HARIBOSS 数据集上训练后，在 RB9、TL12、JL10 和 TE18 四个基准数据集上验证。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765632v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/l3d5w1o6u8t734qdxpuf33hd9">https://reisen-ww.github.io/hot-pages/acadhot/items/l3d5w1o6u8t734qdxpuf33hd9</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">l3d5w1o6u8t734qdxpuf33hd9</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[稀疏自编码器揭示ProteinMPNN的隐藏特征]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/hpb6s4tpi6xg6sf3x5y91wkvh</link>
-      <description><![CDATA[<p>某团队在预印本平台bioRxiv发表研究，提出稀疏自编码器（SAEs）可扩展ProteinMPNN的潜在空间，并验证其对Brolucizumab稳定性的提升效果。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765161v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/hpb6s4tpi6xg6sf3x5y91wkvh">https://reisen-ww.github.io/hot-pages/acadhot/items/hpb6s4tpi6xg6sf3x5y91wkvh</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">hpb6s4tpi6xg6sf3x5y91wkvh</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在bioRxiv发表炎症性关节炎中CCR2-PET/CT成像追踪早期单核细胞浸润研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/h5xr68uaka5ixwmev4km05ujt</link>
-      <description><![CDATA[<p>某团队通过⁶⁸Ga-DOTA-ECL1i PET/CT成像在实验性关节炎小鼠中发现，炎症单核细胞和巨噬细胞浸润与关节⁶⁸Ga-DOTA-ECL1i摄取量显著相关，并验证了该方法与关节肿胀、疼痛及CCL2水平的相关性，为早期检测和疗效评估提供新工具。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765427v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/h5xr68uaka5ixwmev4km05ujt">https://reisen-ww.github.io/hot-pages/acadhot/items/h5xr68uaka5ixwmev4km05ujt</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">h5xr68uaka5ixwmev4km05ujt</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在bioRxiv发表RawMod：基于大模型的非特定修饰DNA碱基检测方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ghboe3aqxkucjxxoisvtgry2g</link>
-      <description><![CDATA[<p>某团队在bioRxiv发表RawMod，提出基于大模型的非特定修饰DNA碱基检测方法，在无对照情况下实现5种修饰的高效识别（均AUROC 0.964），优于现有控制组依赖模型（0.799）。该方法已开源，并提供完整复现脚本与数据集。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765445v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ghboe3aqxkucjxxoisvtgry2g">https://reisen-ww.github.io/hot-pages/acadhot/items/ghboe3aqxkucjxxoisvtgry2g</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ghboe3aqxkucjxxoisvtgry2g</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 bioRxiv 发表 scBoost 方法显著提升细胞类型分类准确率]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/e8owmz9dij2l7xu3q26jm7irw</link>
-      <description><![CDATA[<p>某团队在 bioRxiv 发表 scBoost 方法，通过集成学习显著提升单细胞RNA测序数据的细胞类型分类准确率。实验显示该方法在人类胎儿心脏图谱和斑块图谱上优于现有方法，并在OpenProblems基准测试中排名前列。研究指出 scBoost 模块化设计可适配新单细胞技术，未来将持续为社区提供资源支持。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765730v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/e8owmz9dij2l7xu3q26jm7irw">https://reisen-ww.github.io/hot-pages/acadhot/items/e8owmz9dij2l7xu3q26jm7irw</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e8owmz9dij2l7xu3q26jm7irw</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在bioRxiv发表数字心脏孪生快速贝叶斯校准方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/bxulyo6e8qhq4xsclqocfoq3z</link>
-      <description><![CDATA[<p>某团队在bioRxiv发表研究，通过训练群体水平的模拟器，将数字心脏孪生校准时间从15小时缩短至59.7-63.0秒（n=26，左束支传导阻滞患者），并比较了真实队列重采样与数字嵌合体增强两种训练策略的效率。结果显示重采样策略的R²值均≥0.9，而校准模型未显示群体偏差（标准化残差中位数-0.12），95%预测区间覆盖78.5%的临床目标。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.08.765186v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/bxulyo6e8qhq4xsclqocfoq3z">https://reisen-ww.github.io/hot-pages/acadhot/items/bxulyo6e8qhq4xsclqocfoq3z</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bxulyo6e8qhq4xsclqocfoq3z</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 bioRxiv 发表蛋白质结合数据集生成的新筛选方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/b86uzfh6wrwwk8j7xcbrdpg42</link>
-      <description><![CDATA[<p>某团队在 bioRxiv 发表预印本，提出基于口袋相似性的蛋白质目标筛选方法，覆盖36%的已知可成药口袋。方法通过两层级聚类将口袋分为1,865类，最终筛选出200个口袋，覆盖5,600多个蛋白质，并比较了两种优先级策略的覆盖效果。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765562v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/b86uzfh6wrwwk8j7xcbrdpg42">https://reisen-ww.github.io/hot-pages/acadhot/items/b86uzfh6wrwwk8j7xcbrdpg42</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">b86uzfh6wrwwk8j7xcbrdpg42</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在bioRxiv发表AI预测无序蛋白质构象集合的论文]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ary925lgpesohame4y8iuyf4c</link>
-      <description><![CDATA[<p>某团队提出bAIes框架，通过整合六种AI结构预测工具（AlphaFold2/3、Boltz-1/2、ESMFold）的互残基距离分布，生成无序蛋白质原子分辨率构象集合。实验显示该框架在NMR/SAXS数据验证下表现与所有原子模拟相当，且鲁棒性不受单一预测工具影响，为动态结构建模提供了可迁移方法。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765624v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ary925lgpesohame4y8iuyf4c">https://reisen-ww.github.io/hot-pages/acadhot/items/ary925lgpesohame4y8iuyf4c</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ary925lgpesohame4y8iuyf4c</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
       <title><![CDATA[Texas A&M 大学团队在《Journal of Biomedical Optics》发表突破性显微技术：分辨率提升五倍且深度保持]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/deuiess317m9j8m0zluwq5kv7</link>
       <description><![CDATA[<p>Texas A&amp;M 大学团队开发出一种新型显微技术（2PE-ISM-SOFI），在活体组织深层成像的同时将分辨率提升至75纳米（传统方法的五倍）。该技术通过结合双光子激发成像扫描与超分辨光学波动成像，解决了深度与细节的矛盾问题。</p>
@@ -293,17 +216,6 @@
       <pubDate>Tue, 10 Nov 2026 23:20:06 GMT</pubDate>
       <guid isPermaLink="false">deuiess317m9j8m0zluwq5kv7</guid>
       <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[美国中期选举致得州AI热潮与能源政策转向面临政策风险]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/zqj5ygddk1xq7lrl7d42zaalm</link>
-      <description><![CDATA[<p>美国中期选举使民主党首次掌控得克萨斯州议会，该州此前为AI数据中心建设核心区域。选举结果可能阻碍联邦层面的气候与能源立法，并引发对数据中心的州级政策争议。法案方面，参议院计划11月9日投票通过《两党美国可负担性与就业法案》（BAAJA），旨在简化能源基建审批流程，但遭环保组织反对。</p>
-<p>🔗 <a href="https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/zqj5ygddk1xq7lrl7d42zaalm">https://reisen-ww.github.io/hot-pages/acadhot/items/zqj5ygddk1xq7lrl7d42zaalm</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Thu, 05 Nov 2026 13:10:00 GMT</pubDate>
-      <guid isPermaLink="false">zqj5ygddk1xq7lrl7d42zaalm</guid>
-      <author>noreply@reisen-ww.github.io (MIT Technology Review)</author>
     </item>
   </channel>
 </rss>

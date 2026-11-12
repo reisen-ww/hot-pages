@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>金融热点 (https://reisen-ww.github.io/hot-pages/cryptohot/agent)</generator>
     <item>
+      <title><![CDATA[Ethlabs撤回Hготá快速槽提案，转向2027量子安全路线图]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/stkd3yaktvybj534vbchiny9y</link>
+      <description><![CDATA[<p>Ethlabs宣布撤回Hготá升级中的快速槽提案，将资源转向2027年量子安全准备计划pqai27。该路线图明确以防范量子计算和AI威胁为核心目标，并要求Glamsterdam升级按原计划推进，但需重新评估FOCIL censorship-resistance功能与Frame Transactions账户认证功能的优先级。</p>
+<p>🔗 <a href="https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/stkd3yaktvybj534vbchiny9y">https://reisen-ww.github.io/hot-pages/cryptohot/items/stkd3yaktvybj534vbchiny9y</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 10:30:29 GMT</pubDate>
+      <guid isPermaLink="false">stkd3yaktvybj534vbchiny9y</guid>
+      <author>noreply@reisen-ww.github.io (Cointelegraph)</author>
+    </item>
+    <item>
+      <title><![CDATA[Chainstack 因数据泄露建议用户更换节点凭据]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/lgtuqq084gbq9hizn5gen72gi</link>
+      <description><![CDATA[<p>Chainstack 宣布因数据泄露事件要求用户更换节点凭据并更新应用。服务保持在线但客户必须采取安全措施，原文未披露泄露数据量及具体影响范围。</p>
+<p>🔗 <a href="https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/lgtuqq084gbq9hizn5gen72gi">https://reisen-ww.github.io/hot-pages/cryptohot/items/lgtuqq084gbq9hizn5gen72gi</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 08:50:00 GMT</pubDate>
+      <guid isPermaLink="false">lgtuqq084gbq9hizn5gen72gi</guid>
+      <author>noreply@reisen-ww.github.io (The Defiant)</author>
+    </item>
+    <item>
+      <title><![CDATA[比特币核心披露中危漏洞：Tor连接错误授予白名单权限]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/a5h28rb1fag4834hxkz36yiyk</link>
+      <description><![CDATA[<p>比特币核心于2026年11月10日披露CVE-2025-62860中危漏洞，影响使用28.3、29.2和30.0之前版本的节点，修复已包含在对应版本中。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1ce3e-bd57-77bc-bfeb-c39928583ae3">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/a5h28rb1fag4834hxkz36yiyk">https://reisen-ww.github.io/hot-pages/cryptohot/items/a5h28rb1fag4834hxkz36yiyk</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 05:33:00 GMT</pubDate>
+      <guid isPermaLink="false">a5h28rb1fag4834hxkz36yiyk</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
       <title><![CDATA[Ripple设计的XRP Ledger借贷系统距激活启动仅差7票]]></title>
       <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/n2ftofo3hs8djn4x4l0nhv94q</link>
       <description><![CDATA[<p>Ripple设计的XRP Ledger借贷系统距离激活启动还差7票，目前累计22票支持（含LendingProtocol和SingleAssetVault修正案）。系统要求存款人存入XRP或其他代币至金库，由贷款经纪人以固定期限贷出且无需抵押品，依赖链下风险管理。开发者仍在推进代码合并，11月4日新增第三个借贷修正案。</p>
@@ -20,81 +53,15 @@
       <author>noreply@reisen-ww.github.io (PANews)</author>
     </item>
     <item>
-      <title><![CDATA[Telegram 新功能被指存在恶意代码风险 慢雾创始人余弦发出警告]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/g7jsq5v85skha2mkyf3eutf3s</link>
-      <description><![CDATA[<p>Telegram 11 月 9 日推出的 Bot API 10.4 版本因嵌入交互式应用功能存在安全漏洞风险，慢雾创始人余弦建议用户谨慎升级。该版本采用 QuickJS 执行 JavaScript，安全研究人员发现其沙盒隔离机制存在可被利用的远程代码执行漏洞。</p>
-<p>🔗 <a href="https://www.chaincatcher.com/article/2303981">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/g7jsq5v85skha2mkyf3eutf3s">https://reisen-ww.github.io/hot-pages/cryptohot/items/g7jsq5v85skha2mkyf3eutf3s</a></p>]]></description>
+      <title><![CDATA[比特币核心漏洞致数千节点误信 Tor 用户]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ck0b0i8oxu17ljwicjbamw1sc</link>
+      <description><![CDATA[<p>比特币核心周二披露一个2025年10月修复但未及时公开的漏洞，导致数千节点在Tor网络中误信陌生用户。同时，另一个高严重性漏洞可能阻止矿工生成区块，需重启系统。</p>
+<p>🔗 <a href="https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ck0b0i8oxu17ljwicjbamw1sc">https://reisen-ww.github.io/hot-pages/cryptohot/items/ck0b0i8oxu17ljwicjbamw1sc</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Thu, 12 Nov 2026 00:45:26 GMT</pubDate>
-      <guid isPermaLink="false">g7jsq5v85skha2mkyf3eutf3s</guid>
-      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
-    </item>
-    <item>
-      <title><![CDATA[Aave V3.8上线15个市场，引入重入保护机制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/xj676p3iw69acyivtoczc52nu</link>
-      <description><![CDATA[<p>Aave宣布其V3.8版本已在以太坊（Core/Lido）、Plasma、Avalanche、BNB、Base、Arbitrum、Polygon、Optimism等15个市场上线。该版本通过EIP-1153标准实现重入保护机制，降低外部回调和多次交互时的记账不一致风险，且Gas费用控制较小。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1cd1a-a7bb-70bd-be40-1e3fc28200fe">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/xj676p3iw69acyivtoczc52nu">https://reisen-ww.github.io/hot-pages/cryptohot/items/xj676p3iw69acyivtoczc52nu</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Thu, 12 Nov 2026 00:13:58 GMT</pubDate>
-      <guid isPermaLink="false">xj676p3iw69acyivtoczc52nu</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[Aftermath Finance推出Sui链原子市场与TWAP订单支持多市场交易]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/e4bcr7elsvmv84vgin2p8df8g</link>
-      <description><![CDATA[<p>Aftermath Finance宣布推出Sui链原子市场订单和原子TWAP订单，支持多市场交易全流程执行或失败。Sui链永续合约周交易量环比增长超30%，新功能特别针对高频交易和复杂组合场景设计，可避免部分成交导致的策略失效。</p>
-<p>🔗 <a href="https://cryptobriefing.com/aftermath-atomic-market-twap-orders-sui/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/e4bcr7elsvmv84vgin2p8df8g">https://reisen-ww.github.io/hot-pages/cryptohot/items/e4bcr7elsvmv84vgin2p8df8g</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 23:14:15 GMT</pubDate>
-      <guid isPermaLink="false">e4bcr7elsvmv84vgin2p8df8g</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Katana Layer 2 计划用质押收入回购 KAT 代币]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/wm46i2t0u0nvs60b4f5rnw5d7</link>
-      <description><![CDATA[<p>Katana Layer 2宣布将用质押收入回购 KAT 代币，回购计划于 11 月 17 日正式启动，并将在链上实现全自动化执行。</p>
-<p>🔗 <a href="https://thedefiant.io/news/tokens/katana-plans-revenue-funded-buybacks-for-kat-stakers">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/wm46i2t0u0nvs60b4f5rnw5d7">https://reisen-ww.github.io/hot-pages/cryptohot/items/wm46i2t0u0nvs60b4f5rnw5d7</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 22:56:07 GMT</pubDate>
-      <guid isPermaLink="false">wm46i2t0u0nvs60b4f5rnw5d7</guid>
-      <author>noreply@reisen-ww.github.io (The Defiant)</author>
-    </item>
-    <item>
-      <title><![CDATA[以太坊实验室 Ethlabs 提前部署量子防御，暂缓速度升级]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/licy6gmmgvc7mugmz4ptsl9ts</link>
-      <description><![CDATA[<p>以太坊实验室 Ethlabs 宣布将 2027 年升级计划从快速槽（Quick Slots）转向量子与 AI 防御，撤回 Hegotá 推进中的 Quick Slots 机制，并要求开发者重新评估技术路线。</p>
-<p>🔗 <a href="https://thedefiant.io/news/blockchains/ethlabs-puts-ethereum-quantum-defense-ahead-of-speed">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/licy6gmmgvc7mugmz4ptsl9ts">https://reisen-ww.github.io/hot-pages/cryptohot/items/licy6gmmgvc7mugmz4ptsl9ts</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 21:00:46 GMT</pubDate>
-      <guid isPermaLink="false">licy6gmmgvc7mugmz4ptsl9ts</guid>
-      <author>noreply@reisen-ww.github.io (The Defiant)</author>
-    </item>
-    <item>
-      <title><![CDATA[Ledger钱包默认行为泄露用户交易数据与设备信息]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/eki9al72osfrg2z4jxqpm4sfy</link>
-      <description><![CDATA[<p>Ledger硬件钱包默认SDK向服务器传输用户交易签名和设备信息（含型号、软件版本、区块链地址）。2020年曾发生27.2万用户隐私数据泄露，近期马来西亚分销商设备遭黑客窃取超860万美元。用户需手动关闭数据共享功能，但多数未操作。Ledger回应称系性能优化需求，但隐私倡导者质疑默认行为合理性。</p>
-<p>🔗 <a href="https://protos.com/ledgers-sdk-snitched-users-transaction-data-and-device-info/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/eki9al72osfrg2z4jxqpm4sfy">https://reisen-ww.github.io/hot-pages/cryptohot/items/eki9al72osfrg2z4jxqpm4sfy</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 19:56:16 GMT</pubDate>
-      <guid isPermaLink="false">eki9al72osfrg2z4jxqpm4sfy</guid>
-      <author>noreply@reisen-ww.github.io (Protos)</author>
-    </item>
-    <item>
-      <title><![CDATA[Coinbase代币化美股在Base Layer2交易量突破5亿美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/nrzjf5b5e7rn5wy0r2rkr168j</link>
-      <description><![CDATA[<p>Coinbase在Base Layer2推出代币化美股，累计交易量突破5亿美元（截至2026-11-05）。单日最高达1500万美元（2026-11-06），周末单日交易量达1700万美元（传统美股市场休市期间）。产品依赖Alpaca托管真实股票、Chainlink价格或acles提供实时估值，并采用B20标准。当前仅限非美国用户参与。</p>
-<p>🔗 <a href="https://cryptobriefing.com/base-tokenized-stocks-5-billion-dex-volume/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/nrzjf5b5e7rn5wy0r2rkr168j">https://reisen-ww.github.io/hot-pages/cryptohot/items/nrzjf5b5e7rn5wy0r2rkr168j</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 18:53:57 GMT</pubDate>
-      <guid isPermaLink="false">nrzjf5b5e7rn5wy0r2rkr168j</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+      <pubDate>Thu, 12 Nov 2026 05:22:31 GMT</pubDate>
+      <guid isPermaLink="false">ck0b0i8oxu17ljwicjbamw1sc</guid>
+      <author>noreply@reisen-ww.github.io (CoinDesk)</author>
     </item>
     <item>
       <title><![CDATA[Across跨链桥遭社交工程攻击后恢复运营]]></title>
@@ -282,28 +249,6 @@
       <pubDate>Thu, 05 Nov 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="false">y5pyr6p4i8ebmjdfcbd7u39xt</guid>
       <author>noreply@reisen-ww.github.io (The Block)</author>
-    </item>
-    <item>
-      <title><![CDATA[Loopscale遭持续攻击致协议暂停，用户资金安全确认]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/dyojzfsbiavsswdfcufisr5te</link>
-      <description><![CDATA[<p>Loopscale因安全事件暂停协议，用户资金未受损失。原文提供了攻击频率（日均3万次）、资金补足措施及安全确认。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1ab7c-96ae-728d-b861-31fd11ed7d06">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/dyojzfsbiavsswdfcufisr5te">https://reisen-ww.github.io/hot-pages/cryptohot/items/dyojzfsbiavsswdfcufisr5te</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Thu, 05 Nov 2026 11:33:51 GMT</pubDate>
-      <guid isPermaLink="false">dyojzfsbiavsswdfcufisr5te</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[ZetaChain Layer1关闭投票启动]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/uv80w0z4hnsg7gj4qjm3jm647</link>
-      <description><![CDATA[<p>ZetaChain宣布启动Layer1关闭投票计划，预计于12月9日进行表决。质押及解质押中的ZETA仍可参与兑换，但具体兑换窗口由交易所自行设定。</p>
-<p>🔗 <a href="https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/uv80w0z4hnsg7gj4qjm3jm647">https://reisen-ww.github.io/hot-pages/cryptohot/items/uv80w0z4hnsg7gj4qjm3jm647</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Thu, 05 Nov 2026 09:14:09 GMT</pubDate>
-      <guid isPermaLink="false">uv80w0z4hnsg7gj4qjm3jm647</guid>
-      <author>noreply@reisen-ww.github.io (The Defiant)</author>
     </item>
   </channel>
 </rss>

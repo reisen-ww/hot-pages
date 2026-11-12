@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[将CPython适配到yk框架并进行性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qjrumt439kgpxront066oopkk</link>
+      <description><![CDATA[<p>某团队将yk JIT编译器应用于CPython，在多个基准测试中实现性能提升，但指出当前版本尚未完善，未来需进一步优化。</p>
+<p>🔗 <a href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qjrumt439kgpxront066oopkk">https://reisen-ww.github.io/hot-pages/openhot/items/qjrumt439kgpxront066oopkk</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 12 Nov 2026 12:29:56 GMT</pubDate>
+      <guid isPermaLink="false">qjrumt439kgpxront066oopkk</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Darling开源项目发布Q4更新：引入AI辅助开发策略及ARM64架构支持]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu</link>
       <description><![CDATA[<p>Darling项目维护者宣布Q4更新，包含AI辅助开发政策（要求提交者解释代码并禁止使用苹果受限源码）和ARM64架构初始支持。通过VibeDarling分支的持续开发，ARM64支持已具备可合并基础。未来计划整合各分支代码并增强AppKit支持，目标实现i386/x86-64/ARM64三架构协同。</p>

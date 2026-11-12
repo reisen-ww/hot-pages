@@ -1,6 +1,6 @@
-# NVIDIA领导层动荡致AMD Broadcom及Alphabet股价盘后异动
+# Nvidia 领导层动荡助推 AMD、Broadcom 盘后上涨
 
-> 原标题：AMD, Broadcom, Alphabet Poised to Gain From Nvidia Scandal
+> 原标题：AMD, Broadcom Poised to Gain From Scandal Roiling Nvidia
 
 - 来源：Bloomberg Markets
 - 发布时间：2026-11-12T02:56:15.000Z
@@ -9,8 +9,4 @@
 
 ## 摘要
 
-NVIDIA董事会准备罢免CEO Jensen Huang，致其股价盘后下跌9%，AMD、Broadcom股价分别上涨超3%，Alphabet微涨0.3%。市场预期这些公司可能从NVIDIA业务转移中获益。
-
-## 推荐理由
-
-原文指出市场对AMD、Broadcom和Alphabet可能从NVIDIA业务转移中获益的预期，导致其股价盘后上涨。
+Nvidia 股价盘后暴跌 9%，AMD 和 Broadcom 涨幅均超 3%。市场预期这两家芯片公司可能承接 Nvidia 丧失的业务份额。

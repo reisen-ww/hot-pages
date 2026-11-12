@@ -93,7 +93,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
    - [CoreWeave第三季度财报超预期并上调2026年预测](https://cryptobriefing.com/coreweave-beats-earnings-estimates-raises-2026-forecast-despite-capital-concerns/) · Crypto Briefing · 2026-11-11 05:44（北京时间）
    - [CoreWeave Q3财报超预期致股价单日涨超24%创2025年4月以来最佳表现](https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html) · CNBC Top News · 2026-11-11 17:07（北京时间）
    - [CoreWeave业绩提振市场信心 美联储加息预期受CPI数据推动](https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video) · Bloomberg Markets · 2026-11-11 19:45（北京时间）
-   - [CoreWeave寻求4亿美元投资级贷款以增强财务稳定性](https://reisen-ww.github.io/hot-pages/cryptohot/items/ses4ugap9f1aby3f84pdoxkub) · Crypto Briefing · 2026-11-12 06:50（北京时间）
+   - [CoreWeave寻求4亿美元投资级贷款以增强财务稳定性](https://cryptobriefing.com/coreweave-seeks-4b-investment-grade-loan-to-boost-financial-stability/) · Crypto Briefing · 2026-11-12 06:50（北京时间）
    - [CoreWeave财报电话会：拒绝无担保发债，靠预付款与资产抵押推动资本支出，预计2028年盈利转正](https://reisen-ww.github.io/hot-pages/cryptohot/items/yngslr3ft0elebg08fhce5e0c) · 华尔街见闻 · 2026-11-11 08:35（北京时间）
    - [CoreWeave财报超预期推动纳斯达克100指数单日反弹2.6%](https://reisen-ww.github.io/hot-pages/cryptohot/items/d9qcwbki0bm6rjshwl6vr7xdi) · 华尔街见闻 · 2026-11-12 05:10（北京时间）
    - [Costco宣布发放30美元特殊股息及回购计划](https://reisen-ww.github.io/hot-pages/cryptohot/items/o6463fbyltoz2okc1ptpxaizv) · Seeking Alpha · 2026-11-11 18:45（北京时间）
@@ -164,7 +164,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
   相关：
   - [德意志银行上线数字资产托管服务并签署资产管理协议](https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851) · The Block · 2026-11-11 19:46（北京时间）
   - [德意志银行推出企业级加密资产托管服务](https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) · Cointelegraph · 2026-11-11 22:02（北京时间）
-  - [德意志银行正式上线加密托管服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/rf7zib31ceh3gdaxdfiypgj7b) · Decrypt · 2026-11-12 03:06（北京时间）
+  - [德意志银行正式上线加密托管服务](https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup) · Decrypt · 2026-11-12 03:06（北京时间）
   - [德意志银行与DWS签署备忘录，拟探索代币化货币基金等产品](https://www.panewslab.com/zh/articles/01a1cb5b-df82-76d6-80e5-7a8728bd6e82) · PANews · 2026-11-12 00:05（北京时间）
   原文：[打开原文](https://www.chaincatcher.com/article/2303786)
 
@@ -177,7 +177,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
   来源：PANews · 发布时间：2026-11-12 02:07（北京时间） · 一手 · 另有 1 家信源报道
   摘要：以色列贴现银行宣布App内开放比特币和以太坊交易，仅限已开通证券账户且年满18岁的以色列居民，每笔交易手续费2%，前半年免托管费，之后每季度收0.25%。资产由Fireblocks提供托管基础设施。
   相关：
-  - [以色列第四大银行推出移动端比特币和以太坊交易服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/uwszgdhhb9kgir5sc0l402j2q) · Crypto Briefing · 2026-11-12 02:02（北京时间）
+  - [以色列第四大银行推出移动端比特币和以太坊交易服务](https://cryptobriefing.com/israel-discount-bank-bitcoin-trading-app/) · Crypto Briefing · 2026-11-12 02:02（北京时间）
   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1cbca-b414-73c1-a637-da158e36141b)
 
 - [OpenAI第三季度营收约100亿美元，同比增长50%](https://reisen-ww.github.io/hot-pages/cryptohot/items/td5t408mnpe1vkzxos1xl6veq)

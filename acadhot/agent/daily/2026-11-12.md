@@ -91,7 +91,7 @@
   摘要：某团队通过生成模型设计出新型AAV载体，其中一种衣壳蛋白序列与自然序列差异达18%，在人类血清中完全避免中和抗体。实验合成并测试了255种设计，在两次实验中，7种设计在人类细胞中转导效率超过50%，其中4种在所有相关血清中均无中和抗体反应。该成果为突破AAV载体免疫原性提供新方法。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.06.764881v1?rss=1)
 
-- [Broehl等在bioRxiv发表工作记忆多项目维持的时序动态研究](https://reisen-ww.github.io/hot-pages/acadhot/items/etwukmk8ye4pmkpztlwhpoyb7)
+- [Broehl等在bioRxiv发表工作记忆多项目维持的时序动态研究](https://www.biorxiv.org/content/10.64898/2026.11.09.765261v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
   摘要：研究通过眼动追踪和EEG记录，发现工作记忆中多项目维持的眼动模式稳定且不交替。实验显示EEG编码仅短暂存在，而眼动模式在整个工作记忆延迟期间均反映所有项目的负荷和序列位置效应，与额叶θ活动无关。该成果验证了眼动追踪与EEG在解析工作记忆时序动态中的互补性。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.09.765261v1?rss=1)
@@ -103,7 +103,7 @@
   - [JGU与MPI-BP联合团队在《Nature》发表核孔内流体状屏障动态研究](https://reisen-ww.github.io/hot-pages/acadhot/items/jtpyyt328vab37fquggh3x2jv) · Phys.org · 2026-11-12 07:20（北京时间）
   原文：[打开原文](https://www.nature.com/articles/d41586-026-03428-x)
 
-- [灵长类与啮齿类动物基底神经节多巴胺释放能力生命周期轨迹研究](https://reisen-ww.github.io/hot-pages/acadhot/items/j8fsdpk78vh6cpyqdvkkdmyod)
+- [灵长类与啮齿类动物基底神经节多巴胺释放能力生命周期轨迹研究](https://www.biorxiv.org/content/10.64898/2026.11.10.765699v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
   摘要：本研究首次在灵长类和啮齿类动物中系统测量了基底神经节多巴胺可及性的生命周期轨迹，发现其成年期峰值出现延迟且受GABA和乙酰胆碱调节存在物种差异。主要数据包括：恒河猴（Macaca fascicularis）多巴胺释放量在32-36月龄达到峰值，而小鼠（Mus musculus）在6-8月龄出现峰值。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765699v1?rss=1)
@@ -113,17 +113,17 @@
   摘要：该研究揭示先天性中性粒细胞减少症（CN）和Shwachman-Diamond综合征（SDS）患者中白血病转化并非随机事件，而是存在明确的突变序列。研究分析了658份样本（309例患者）的克隆造血动态，发现CN患者以CSF3R突变为主，ASXL1突变常与CSF3R共现；SDS患者TP53突变最常见。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765578v1?rss=1)
 
-- [Nature：全球变暖致993种仙人掌因干旱丧失80%以上适宜栖息地](https://reisen-ww.github.io/hot-pages/acadhot/items/i6mfb1y02zwzvs1ioxgbebsfy)
+- [Nature：全球变暖致993种仙人掌因干旱丧失80%以上适宜栖息地](https://www.nature.com/articles/d41586-026-03496-z)
   来源：Nature · 发布时间：2026-11-11 08:00（北京时间） · 一手
   摘要：该研究预测，到2100年全球变暖将导致超过25%的993种仙人掌因干旱失去至少80%的适宜栖息地。研究指出传统气候模型常忽略极端干旱事件，而纳入严重干旱情景后，物种栖息地损失量显著增加。
   原文：[打开原文](https://www.nature.com/articles/d41586-026-03496-z)
 
-- [Hartmann 等在 bioRxiv 发表神经嵴细胞中 NEDD4 调控透明质酸合成对心脏瓣膜发育的影响](https://reisen-ww.github.io/hot-pages/acadhot/items/gopqs0yoomlccpr84lzkd215j)
+- [Hartmann 等在 bioRxiv 发表神经嵴细胞中 NEDD4 调控透明质酸合成对心脏瓣膜发育的影响](https://www.biorxiv.org/content/10.64898/2026.11.08.764443v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
   摘要：Hartmann 等在小鼠中发现神经嵴来源的 NEDD4 缺失导致心脏流出道瓣膜发育异常，并揭示透明质酸（HA）合成减少是关键机制。研究显示神经嵴来源瓣膜间质中HA含量显著下降，而其他细胞外基质成分如纤连蛋白和versican不受影响。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.08.764443v1?rss=1)
 
-- [某团队在bioRxiv发表NNRTIs通过靶向激活细胞杀伤化合物影响HIV-1病毒颗粒组装的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/l9vy6hpshvlasklfd40mo8hsw)
+- [某团队在bioRxiv发表NNRTIs通过靶向激活细胞杀伤化合物影响HIV-1病毒颗粒组装的研究](https://www.biorxiv.org/content/10.64898/2026.11.10.765689v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
   摘要：某团队发现Pyr01治疗显著减少HIV-1病毒颗粒中Env包膜蛋白的整合（Env cytoplasmic tail-independent manner），并导致病毒酶大量流失。研究证实病毒颗粒膜有序性下降与蛋白酶提前激活破坏Gag晶格结构直接相关。该成果为TACK化合物（如Pyr01）在HIV治疗中的应用提供了分子机制依据，同时揭示了病毒膜蛋白组装的关键调控条件。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765689v1?rss=1)
