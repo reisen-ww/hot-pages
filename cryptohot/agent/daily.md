@@ -10,7 +10,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
 
 ## 加密货币
 
-1. [Omni（Variational）主网上线，提前布局$VAR代币生成事件](https://reisen-ww.github.io/hot-pages/cryptohot/items/xzpqusmqnjnorz8qqji7gkv3m)
+1. [Omni（Variational）主网上线，提前布局$VAR代币生成事件](https://cryptobriefing.com/variational-mainnet-launch-var-token/)
    来源：Crypto Briefing · 发布时间：2026-11-11 23:41（北京时间） · 另有 2 家信源报道
    摘要：Omni（Variational）主网上线，提前布局$VAR代币生成事件。该平台支持500+市场包括加密衍生品、大宗商品和Pre-IPO公司（如SpaceX、OpenAI），已处理数百亿累计交易量，单周万亿级交易量。用户可通过Points计划（每周15万点）参与代币分配。
    相关：
@@ -25,7 +25,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
    - [Hyperliquid收益协议Hyperwave将于12月16日正式关闭](https://www.chaincatcher.com/article/2303822) · 链捕手 ChainCatcher · 2026-11-11 18:45（北京时间）
    原文：[打开原文](https://www.panewslab.com/zh/articles/01a1ca39-f6ef-768c-b884-31c41cdacd70)
 
-3. [Pyth Network 将纽约证券交易所实时行情数据接入其数据市场](https://reisen-ww.github.io/hot-pages/cryptohot/items/nu888f2xxh39dqfprt9bheyb0)
+3. [Pyth Network 将纽约证券交易所实时行情数据接入其数据市场](https://www.chaincatcher.com/article/2303898)
    来源：链捕手 ChainCatcher · 发布时间：2026-11-11 23:13（北京时间） · 一手 · 另有 1 家信源报道
    摘要：Pyth Network 宣布将纽约证券交易所的实时行情数据接入其数据市场，覆盖该交易所集团旗下五家交易所。客户需先与纽交所完成数据授权才能获取相关数据。
    相关：
@@ -38,7 +38,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
    来源：PANews · 发布时间：2026-11-11 15:57（北京时间） · 一手 · 另有 2 家信源报道
    摘要：MSCI将于11月11日公布最终名单，Strategy公司因‘非运营公司’规则面临指数席位风险，变更于11月30日生效。摩根大通分析师此前预估若剔除，相关基金或抛售约28亿美元股票（基于较早提案数据）。
    相关：
-   - [MSCI周三将宣布是否剔除Strategy公司：比特币持仓与市场反应分析](https://reisen-ww.github.io/hot-pages/cryptohot/items/vwmf56uby1e4wjsg5c3kvq5lt) · Bitcoin Magazine · 2026-11-12 01:05（北京时间）
+   - [MSCI周三将宣布是否剔除Strategy公司：比特币持仓与市场反应分析](https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted) · Bitcoin Magazine · 2026-11-12 01:05（北京时间）
    - [MSCI 将 Strategy 公司从全球指数中剔除](https://reisen-ww.github.io/hot-pages/cryptohot/items/cyb237dqmplmq83vhqvgydujr) · Crypto Briefing · 2026-11-12 06:27（北京时间）
    原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c99c-c113-7738-8181-50e3e61d40e4)
 
@@ -53,10 +53,10 @@ MSCI公布最终名单 Strategy指数席位面临风险
    来源：Bloomberg Markets · 发布时间：2026-11-11 21:00（北京时间） · 一手 · 另有 4 家信源报道
    摘要：沙特通知OPEC其10月原油日产量增至10.56万桶，环比增长26%，达到2019年战争爆发前最高水平，推动OPEC地区产量恢复并抑制油价上涨。该数据为观察OPEC政策调整与大宗商品价格关联提供关键依据。
    相关：
-   - [沙特石油日产量回升至接近战前水平](https://reisen-ww.github.io/hot-pages/cryptohot/items/bfwpp2kxkune2z27aj3sc53fd) · Crypto Briefing · 2026-11-11 22:05（北京时间）
-   - [沙特石油产量回升至战前水平](https://reisen-ww.github.io/hot-pages/cryptohot/items/e4qc0tp7otkvl4ilxkxqu5qun) · Financial Times · 2026-11-11 21:29（北京时间）
-   - [沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成](https://reisen-ww.github.io/hot-pages/cryptohot/items/lfkg2xvpuwbnd5jmxbiiq1o8x) · 华尔街见闻 · 2026-11-12 01:23（北京时间）
-   - [沙特10月原油日产量环比增26% 欧佩克+供应回升速度超预期](https://reisen-ww.github.io/hot-pages/cryptohot/items/oe5xk9q01j9xuy4uuywipj72v) · 东方财富 · 2026-11-12 00:00（北京时间）
+   - [沙特石油日产量回升至接近战前水平](https://cryptobriefing.com/saudi-oil-production-rebounds-close-to-prewar-levels/) · Crypto Briefing · 2026-11-11 22:05（北京时间）
+   - [沙特石油产量回升至战前水平](https://www.ft.com/content/c844b957-3c98-43a3-b02e-2d0f5368bd49?syn-25a6b1a6=1) · Financial Times · 2026-11-11 21:29（北京时间）
+   - [沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成](https://wallstreetcn.com/articles/3785753) · 华尔街见闻 · 2026-11-12 01:23（北京时间）
+   - [沙特10月原油日产量环比增26% 欧佩克+供应回升速度超预期](http://futures.eastmoney.com/news/11233,202611113928780431.html) · 东方财富 · 2026-11-12 00:00（北京时间）
    原文：[打开原文](https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high)
 
 4. [美联储高官Goolsbee称10月通胀数据‘令人不安’ 考虑进一步加息](https://reisen-ww.github.io/hot-pages/cryptohot/items/xcgi1qcqimj4gluk4w9iigd4l)
@@ -92,7 +92,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
    - [CoreWeave披露第三季度营收36.6亿美元债务达470亿美元及利息支出1亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/w9tpp9wg9jigctj8glxo26qgb) · Crypto Briefing · 2026-11-11 05:46（北京时间）
    - [CoreWeave第三季度财报超预期并上调2026年预测](https://cryptobriefing.com/coreweave-beats-earnings-estimates-raises-2026-forecast-despite-capital-concerns/) · Crypto Briefing · 2026-11-11 05:44（北京时间）
    - [CoreWeave Q3财报超预期致股价单日涨超24%创2025年4月以来最佳表现](https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html) · CNBC Top News · 2026-11-11 17:07（北京时间）
-   - [CoreWeave业绩提振市场信心 美联储加息预期受CPI数据推动](https://reisen-ww.github.io/hot-pages/cryptohot/items/x14ugf4p8he9pq4t5kjtxs5ih) · Bloomberg Markets · 2026-11-11 19:45（北京时间）
+   - [CoreWeave业绩提振市场信心 美联储加息预期受CPI数据推动](https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video) · Bloomberg Markets · 2026-11-11 19:45（北京时间）
    - [CoreWeave寻求4亿美元投资级贷款以增强财务稳定性](https://reisen-ww.github.io/hot-pages/cryptohot/items/ses4ugap9f1aby3f84pdoxkub) · Crypto Briefing · 2026-11-12 06:50（北京时间）
    - [CoreWeave财报电话会：拒绝无担保发债，靠预付款与资产抵押推动资本支出，预计2028年盈利转正](https://reisen-ww.github.io/hot-pages/cryptohot/items/yngslr3ft0elebg08fhce5e0c) · 华尔街见闻 · 2026-11-11 08:35（北京时间）
    - [CoreWeave财报超预期推动纳斯达克100指数单日反弹2.6%](https://reisen-ww.github.io/hot-pages/cryptohot/items/d9qcwbki0bm6rjshwl6vr7xdi) · 华尔街见闻 · 2026-11-12 05:10（北京时间）
@@ -135,7 +135,7 @@ MSCI公布最终名单 Strategy指数席位面临风险
   - [Anthropic $1.4万亿IPO对加密货币市场的影响分析](https://reisen-ww.github.io/hot-pages/cryptohot/items/jaf9u7e5s1ten2btvn3yl687c) · Decrypt · 2026-11-11 20:55（北京时间）
   - [Anthropic启动IPO路演：收入一年翻12倍，设定长期35%利润率目标](https://wallstreetcn.com/articles/3785694) · 华尔街见闻 · 2026-11-11 10:24（北京时间）
   - [Anthropic发布新一代旗舰模型Claude Fable 5.2和Claude Mythos 5.2](http://finance.eastmoney.com/news/1354,202611103926630547.html) · 东方财富 · 2026-11-10 04:17（北京时间）
-  - [Anthropic IPO认购需求超额数倍 拟融资904亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/yxkk4sy1g90a1og0ihtw1mveo) · 东方财富 · 2026-11-11 22:40（北京时间）
+  - [Anthropic IPO认购需求超额数倍 拟融资904亿美元](http://finance.eastmoney.com/news/1345,202611113928745779.html) · 东方财富 · 2026-11-11 22:40（北京时间）
   - [Anthropic上市前夕发布两款新模型 英伟达等七巨头拟投260亿美元](http://finance.eastmoney.com/news/1354,202611103927234437.html) · 东方财富 · 2026-11-10 13:49（北京时间）
   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c662-e0f0-7360-b622-79a7c9a08191)
 
@@ -162,10 +162,10 @@ MSCI公布最终名单 Strategy指数席位面临风险
   来源：链捕手 ChainCatcher · 发布时间：2026-11-11 16:09（北京时间） · 一手 · 另有 4 家信源报道
   摘要：德意志银行面向德国机构客户推出数字资产托管服务，支持 BTC、ETH 及 USDC 等稳定币。该服务在 BaFin/MiCA 授权下上线，采用多层密钥控制机制，计划 2027 年扩展至亚洲并推出代币化服务，但初期不面向零售用户且无存款担保。
   相关：
-  - [德意志银行上线数字资产托管服务并签署资产管理协议](https://reisen-ww.github.io/hot-pages/cryptohot/items/qwae8p282rtnjkjupewmf93kj) · The Block · 2026-11-11 19:46（北京时间）
-  - [德意志银行推出企业级加密资产托管服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/smmzjeglmmhiuc4etl6fsed2d) · Cointelegraph · 2026-11-11 22:02（北京时间）
+  - [德意志银行上线数字资产托管服务并签署资产管理协议](https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851) · The Block · 2026-11-11 19:46（北京时间）
+  - [德意志银行推出企业级加密资产托管服务](https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) · Cointelegraph · 2026-11-11 22:02（北京时间）
   - [德意志银行正式上线加密托管服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/rf7zib31ceh3gdaxdfiypgj7b) · Decrypt · 2026-11-12 03:06（北京时间）
-  - [德意志银行与DWS签署备忘录，拟探索代币化货币基金等产品](https://reisen-ww.github.io/hot-pages/cryptohot/items/bxnm9vx986y4e3q12j559924l) · PANews · 2026-11-12 00:05（北京时间）
+  - [德意志银行与DWS签署备忘录，拟探索代币化货币基金等产品](https://www.panewslab.com/zh/articles/01a1cb5b-df82-76d6-80e5-7a8728bd6e82) · PANews · 2026-11-12 00:05（北京时间）
   原文：[打开原文](https://www.chaincatcher.com/article/2303786)
 
 - [Sui生态硬件钱包项目Suiball宣布关闭并启动退款流程](https://reisen-ww.github.io/hot-pages/cryptohot/items/tw8dmo2ve7suyw3bm3qxzyb5h)

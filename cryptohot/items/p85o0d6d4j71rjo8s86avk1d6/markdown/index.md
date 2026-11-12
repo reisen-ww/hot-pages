@@ -1,4 +1,4 @@
-# 沃尔玛股价上涨，数据中心担忧情绪缓解
+# 沃尔玛股票上涨，数据中心担忧情绪缓解
 
 > 原标题：Bloom Energy’s stock rallies as data-center jitters subside
 

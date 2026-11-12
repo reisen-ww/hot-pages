@@ -79,7 +79,7 @@ Go团队发布encoding/json/v2解决15年遗留问题并优化性能，Claude Op
    摘要：某团队自托管Plausible分析容器中发现未经授权的加密货币挖矿程序，该程序利用CVE-2026-8467漏洞运行，最终通过/proc路径终止进程。修复措施包括升级至v3.2.1版本、删除linuxsys伪装进程、限制Docker socket访问权限，并建议设置定时更新检查和镜像追踪机制。完整分析见404privacy.com的详细技术文档。
    原文：[打开原文](https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/)
 
-6. [逆向工程 macOS 脏话数据库：Apple 如何标记 Trump 为敏感但未标记其他政要](https://reisen-ww.github.io/hot-pages/openhot/items/cfqrrzr73f0bbrk40lcep50zc)
+6. [逆向工程 macOS 脏话数据库：Apple 如何标记 Trump 为敏感但未标记其他政要](https://helgesver.re/articles/macos-vulgar-word-flags)
    来源：Hacker News 热榜 · 发布时间：2026-11-04 04:33（北京时间）
    摘要：作者通过逆向工程获取系统脏话词库（VulgarWordUsage.db），发现 Apple 将 'Trump' 标记为敏感层级，但其他当代政要如 Biden、Obama、Putin 未被标记。
    原文：[打开原文](https://helgesver.re/articles/macos-vulgar-word-flags)

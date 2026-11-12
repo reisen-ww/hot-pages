@@ -140,16 +140,5 @@
       <guid isPermaLink="false">djb87lpxn6o19qngyud3ciaoo</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[某开发者开源 Rust 写的图库服务器 Frameleaf，支持百万级照片管理及本地AI标签生成]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/zes6zg4nnvczvxy06yxvl7y0b</link>
-      <description><![CDATA[<p>某开发者开源 Rust 写的图库服务器 Frameleaf，支持百万级照片管理及本地AI标签生成。项目基于PostgreSQL 19实现向量搜索，提供跨平台客户端（iOS/Android/Web）及免费本地服务，付费版增加云端备份和远程访问功能。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xobk8o/frameleaf_the_photo_server_you_always_dreamed_of/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/zes6zg4nnvczvxy06yxvl7y0b">https://reisen-ww.github.io/hot-pages/openhot/items/zes6zg4nnvczvxy06yxvl7y0b</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Thu, 05 Nov 2026 06:24:13 GMT</pubDate>
-      <guid isPermaLink="false">zes6zg4nnvczvxy06yxvl7y0b</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
   </channel>
 </rss>

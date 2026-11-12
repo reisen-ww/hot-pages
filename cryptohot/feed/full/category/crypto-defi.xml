@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>金融热点 (https://reisen-ww.github.io/hot-pages/cryptohot/agent)</generator>
     <item>
+      <title><![CDATA[Ripple设计的XRP Ledger借贷系统距激活启动仅差7票]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/n2ftofo3hs8djn4x4l0nhv94q</link>
+      <description><![CDATA[<p>Ripple设计的XRP Ledger借贷系统距离激活启动还差7票，目前累计22票支持（含LendingProtocol和SingleAssetVault修正案）。系统要求存款人存入XRP或其他代币至金库，由贷款经纪人以固定期限贷出且无需抵押品，依赖链下风险管理。开发者仍在推进代码合并，11月4日新增第三个借贷修正案。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1ce37-59c4-7385-928a-a79b7eb47a3f">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/n2ftofo3hs8djn4x4l0nhv94q">https://reisen-ww.github.io/hot-pages/cryptohot/items/n2ftofo3hs8djn4x4l0nhv94q</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 05:24:56 GMT</pubDate>
+      <guid isPermaLink="false">n2ftofo3hs8djn4x4l0nhv94q</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[Telegram 新功能被指存在恶意代码风险 慢雾创始人余弦发出警告]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/g7jsq5v85skha2mkyf3eutf3s</link>
+      <description><![CDATA[<p>Telegram 11 月 9 日推出的 Bot API 10.4 版本因嵌入交互式应用功能存在安全漏洞风险，慢雾创始人余弦建议用户谨慎升级。该版本采用 QuickJS 执行 JavaScript，安全研究人员发现其沙盒隔离机制存在可被利用的远程代码执行漏洞。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2303981">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/g7jsq5v85skha2mkyf3eutf3s">https://reisen-ww.github.io/hot-pages/cryptohot/items/g7jsq5v85skha2mkyf3eutf3s</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 00:45:26 GMT</pubDate>
+      <guid isPermaLink="false">g7jsq5v85skha2mkyf3eutf3s</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
       <title><![CDATA[Aave V3.8上线15个市场，引入重入保护机制]]></title>
       <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/xj676p3iw69acyivtoczc52nu</link>
       <description><![CDATA[<p>Aave宣布其V3.8版本已在以太坊（Core/Lido）、Plasma、Avalanche、BNB、Base、Arbitrum、Polygon、Optimism等15个市场上线。该版本通过EIP-1153标准实现重入保护机制，降低外部回调和多次交互时的记账不一致风险，且Gas费用控制较小。</p>
@@ -75,39 +97,6 @@
       <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
     </item>
     <item>
-      <title><![CDATA[Anthropic预计Q4营收77亿美元，较10月峰值下降4%]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/hapsvdzoqem9rlvhvhgs125na</link>
-      <description><![CDATA[<p>Anthropic预计2026年第四季度营收77亿美元，较10月峰值下降4%。价格下调和模型效率提升导致单任务收入下降，但客户数量增长至11900家（其中超11%贡献百万美元以上收入）及90%的净留存率支撑营收。需关注Q4实际营收及价格调整后的使用量增长是否足够弥补降价影响。</p>
-<p>🔗 <a href="https://cryptobriefing.com/anthropic-q4-arr-guidance-77-billion/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/hapsvdzoqem9rlvhvhgs125na">https://reisen-ww.github.io/hot-pages/cryptohot/items/hapsvdzoqem9rlvhvhgs125na</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 17:14:12 GMT</pubDate>
-      <guid isPermaLink="false">hapsvdzoqem9rlvhvhgs125na</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Helius在Solana主网上线隐私环（Privacy Rings）——无需切换链的加密解决方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/dxpj65xb1cp4j2cq13vmbcfpz</link>
-      <description><![CDATA[<p>Helius于2026年11月10日在Solana主网上线隐私环（Privacy Rings），通过零知识证明加密资产和交易金额，无需切换链。默认环仅隐藏金额，自定义环支持隐藏地址，并允许机构添加KYC、制裁筛查等合规控制。目前处于测试阶段，代码已开源，安全措施包括Certora等第三方审计。</p>
-<p>🔗 <a href="https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/dxpj65xb1cp4j2cq13vmbcfpz">https://reisen-ww.github.io/hot-pages/cryptohot/items/dxpj65xb1cp4j2cq13vmbcfpz</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 17:09:18 GMT</pubDate>
-      <guid isPermaLink="false">dxpj65xb1cp4j2cq13vmbcfpz</guid>
-      <author>noreply@reisen-ww.github.io (Decrypt)</author>
-    </item>
-    <item>
-      <title><![CDATA[Apex集团加入Hedera区块链理事会探索代币化与结算方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/cjt677rr3x6noj06b4byzkaru</link>
-      <description><![CDATA[<p>Apex集团（管理规模达$3.5 trillion）加入Hedera区块链理事会，探索代币化、合规及结算应用。</p>
-<p>🔗 <a href="https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/cjt677rr3x6noj06b4byzkaru">https://reisen-ww.github.io/hot-pages/cryptohot/items/cjt677rr3x6noj06b4byzkaru</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 17:07:22 GMT</pubDate>
-      <guid isPermaLink="false">cjt677rr3x6noj06b4byzkaru</guid>
-      <author>noreply@reisen-ww.github.io (The Block)</author>
-    </item>
-    <item>
       <title><![CDATA[Across跨链桥遭社交工程攻击后恢复运营]]></title>
       <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ca89at3ez8chxmwa94q5fb884</link>
       <description><![CDATA[<p>Across跨链桥因域名被社交工程攻击遭劫持，GoPlus安全公司估计用户损失约35万美元（涉及Ethereum/BNB Chain等链的EIP-2612授权），攻击者通过伪造页面窃取代币权限。Cloudflare协助封禁期间，用户访问跨.to域名可能被钓鱼，建议受影响用户检查交易并撤销权限。Across已致谢Namecheap创始人介入调查，承诺发布完整事件复盘。</p>
@@ -119,50 +108,6 @@
       <author>noreply@reisen-ww.github.io (Unchained)</author>
     </item>
     <item>
-      <title><![CDATA[Moonwell 调整 Base 和 Optimism 链抵押品限制并下线 VELO 和 wrsETH]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ujarerpiuaazuy4n5z8mv694n</link>
-      <description><![CDATA[<p>Moonwell 调整 Base 和 Optimism 链抵押品限制并下线 VELO 和 wrsETH。该政策影响接近抵押品上限的借款人，需减少债务或补充合格抵押品以避免清算。</p>
-<p>🔗 <a href="https://thedefiant.io/news/defi/moonwell-cuts-collateral-limits-drops-velo-and-wrseth">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ujarerpiuaazuy4n5z8mv694n">https://reisen-ww.github.io/hot-pages/cryptohot/items/ujarerpiuaazuy4n5z8mv694n</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 16:13:50 GMT</pubDate>
-      <guid isPermaLink="false">ujarerpiuaazuy4n5z8mv694n</guid>
-      <author>noreply@reisen-ww.github.io (The Defiant)</author>
-    </item>
-    <item>
-      <title><![CDATA[Aave创始人Stani Kulechov警告DeFi不可变代码风险]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/eemz890bb94btfpgjnzorb7bd</link>
-      <description><![CDATA[<p>Aave创始人Stani Kulechov在DAS London会议警告DeFi不可变代码风险，提及2026年两次重大事件（$27M液化和$8.45B挤兑）及V4升级的模块化风控措施。</p>
-<p>🔗 <a href="https://cryptobriefing.com/aave-kulechov-defi-circuit-breakers-immutability/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/eemz890bb94btfpgjnzorb7bd">https://reisen-ww.github.io/hot-pages/cryptohot/items/eemz890bb94btfpgjnzorb7bd</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 16:13:48 GMT</pubDate>
-      <guid isPermaLink="false">eemz890bb94btfpgjnzorb7bd</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Omni（Variational）主网上线，提前布局$VAR代币生成事件]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/xzpqusmqnjnorz8qqji7gkv3m</link>
-      <description><![CDATA[<p>Omni（Variational）主网上线，提前布局$VAR代币生成事件。该平台支持500+市场包括加密衍生品、大宗商品和Pre-IPO公司（如SpaceX、OpenAI），已处理数百亿累计交易量，单周万亿级交易量。用户可通过Points计划（每周15万点）参与代币分配。</p>
-<p>🔗 <a href="https://cryptobriefing.com/variational-mainnet-launch-var-token/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/xzpqusmqnjnorz8qqji7gkv3m">https://reisen-ww.github.io/hot-pages/cryptohot/items/xzpqusmqnjnorz8qqji7gkv3m</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 15:41:52 GMT</pubDate>
-      <guid isPermaLink="false">xzpqusmqnjnorz8qqji7gkv3m</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[管理资产超3.5万亿美元的Apex Group加入Hedera理事会]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/j3h7q3i38zvcdavpu9t771oaw</link>
-      <description><![CDATA[<p>Apex Group宣布加入Hedera理事会，其管理的资产规模超过3.5万亿美元。Hedera称这是首个将分布式账本用于合规证券登记的过户代理和基金服务商，Apex后续将研究将Hedera网络应用于代币化业务。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1cb42-f62a-73d2-862f-9110bdaafce2">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/j3h7q3i38zvcdavpu9t771oaw">https://reisen-ww.github.io/hot-pages/cryptohot/items/j3h7q3i38zvcdavpu9t771oaw</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 15:38:45 GMT</pubDate>
-      <guid isPermaLink="false">j3h7q3i38zvcdavpu9t771oaw</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
       <title><![CDATA[Variational旗下Omni开放公共主网：未平仓合约超15亿美元]]></title>
       <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ijc3sxj4bdervk573qqrm8tfn</link>
       <description><![CDATA[<p>Variational旗下Omni交易平台开放公共主网，未平仓合约达15亿美元，累计成交量超4500亿美元。私募测试于2025年1月启动，注册取消邀请码要求，当前支持所有加密货币。</p>
@@ -172,61 +117,6 @@
       <pubDate>Wed, 11 Nov 2026 15:30:00 GMT</pubDate>
       <guid isPermaLink="false">ijc3sxj4bdervk573qqrm8tfn</guid>
       <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
-    </item>
-    <item>
-      <title><![CDATA[Decrypt上线Solana基交易所Phoenix的永续合约交易功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/wjfoylmb01bpebsrrd1vay5y0</link>
-      <description><![CDATA[<p>Decrypt宣布整合Solana基交易所Phoenix的永续合约交易功能，支持加密货币、美股、黄金及Pre-IPO企业等106个永续合约市场，24小时交易量约3176万美元。该功能允许用户在阅读相关新闻后直接进行多空操作，无需切换应用</p>
-<p>🔗 <a href="https://cryptobriefing.com/decrypt-perpetual-futures-phoenix-solana/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/wjfoylmb01bpebsrrd1vay5y0">https://reisen-ww.github.io/hot-pages/cryptohot/items/wjfoylmb01bpebsrrd1vay5y0</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 14:21:15 GMT</pubDate>
-      <guid isPermaLink="false">wjfoylmb01bpebsrrd1vay5y0</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Scroll完成主网验证合约漏洞修复并注册新版本]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/l7ak969h0p8fdd38sxvt2rgtx</link>
-      <description><![CDATA[<p>Scroll于11月10日完成主网验证合约漏洞修复并注册新版本。漏洞可能导致最终确认任意状态根和提款根，但实际未发生利用，修复后版本已上线。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1cae9-ea4a-7517-90da-bde79303de9e">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/l7ak969h0p8fdd38sxvt2rgtx">https://reisen-ww.github.io/hot-pages/cryptohot/items/l7ak969h0p8fdd38sxvt2rgtx</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 14:01:29 GMT</pubDate>
-      <guid isPermaLink="false">l7ak969h0p8fdd38sxvt2rgtx</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[Laser Digital与ZIG Finance合作推出沙特1亿美元中小企业信贷库（基于BNB Chain）]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/klkknvy9o07uf06eqtww3ud7g</link>
-      <description><![CDATA[<p>Laser Digital与ZIG Finance合作推出沙特1亿美元中小企业信贷库，基于BNB Chain运行，投资者通过稳定币出入金。该产品由Beehive平台提供合规贷款标的，ZIG Markets此前已实现无违约的5千万美元放贷记录。首期目标锁定1亿美元，后续计划拓展至海湾国家及其他新兴市场</p>
-<p>🔗 <a href="https://cryptobriefing.com/laser-digital-saudi-sme-credit-vault-bnb-chain/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/klkknvy9o07uf06eqtww3ud7g">https://reisen-ww.github.io/hot-pages/cryptohot/items/klkknvy9o07uf06eqtww3ud7g</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 13:47:30 GMT</pubDate>
-      <guid isPermaLink="false">klkknvy9o07uf06eqtww3ud7g</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[比特币核心披露三个已修复的安全漏洞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ih9wtnuz3fjwzvouvmwtjc3ab</link>
-      <description><![CDATA[<p>某媒体机构报道比特币核心披露三个已修复的安全漏洞，包括高严重性挖矿漏洞。</p>
-<p>🔗 <a href="https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ih9wtnuz3fjwzvouvmwtjc3ab">https://reisen-ww.github.io/hot-pages/cryptohot/items/ih9wtnuz3fjwzvouvmwtjc3ab</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 12:50:08 GMT</pubDate>
-      <guid isPermaLink="false">ih9wtnuz3fjwzvouvmwtjc3ab</guid>
-      <author>noreply@reisen-ww.github.io (The Block)</author>
-    </item>
-    <item>
-      <title><![CDATA[Payward（Kraken母公司）上线200只英国及欧盟股票代币]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/iu9yi4wkf87z16w7kmp5ebetw</link>
-      <description><![CDATA[<p>Payward宣布上线200只英国及欧盟股票代币，覆盖HSBC、Shell等企业。该代币由持牌托管机构1:1背书，可在Kraken及xStocks联盟平台交易，支持Solana、Ethereum等链。伦敦证券交易所计划2027年上线xStocks，但当前不向英国投资者开放。Payward平台管理资产超11亿美元，累计交易额45亿美元，用户超55万。</p>
-<p>🔗 <a href="https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/iu9yi4wkf87z16w7kmp5ebetw">https://reisen-ww.github.io/hot-pages/cryptohot/items/iu9yi4wkf87z16w7kmp5ebetw</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Wed, 11 Nov 2026 12:46:24 GMT</pubDate>
-      <guid isPermaLink="false">iu9yi4wkf87z16w7kmp5ebetw</guid>
-      <author>noreply@reisen-ww.github.io (Decrypt)</author>
     </item>
     <item>
       <title><![CDATA[NYSE选择Avalanche区块链作为数字证券交易平台底层技术]]></title>

@@ -1,6 +1,6 @@
-# 黄仁勋涉与中国间谍有染 NVIDIA 董事会即将开会
+# 英伟达董事会将决定黄仁勋命运，丑闻与间谍指控引发内部动荡
 
-> 原标题：Nvidia board set to meet after revelations Huang had affair with top company executive
+> 原标题：Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate
 
 - 来源：Financial Times
 - 发布时间：2026-11-11T22:56:26.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-NVIDIA 董事会计划在黄仁勋被指与中国间谍有染的消息曝光后召开会议。黄仁勋面临日益增大的压力。
+英伟达董事会决定对CEO黄仁勋展开调查，涉及与下属的丑闻及间谍指控。事件背景为近期曝光的丑闻及间谍指控，目前尚无官方结论。

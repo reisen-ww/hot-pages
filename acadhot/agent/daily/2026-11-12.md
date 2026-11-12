@@ -69,7 +69,7 @@
    摘要：中南大学刘建团队在 Aerospace 期刊发表研究，揭示降低巡航速度至156节可使混合动力飞机每千克有效载荷碳排放减少49%，但需权衡飞行时间延长与氢气消耗增加。
    原文：[打开原文](http://blog.sciencenet.cn/home.php?mod=space&uid=3516770&do=blog&id=1560733)
 
-5. [CERN LHCb实验团队宣布发现B d粒子衰变为mu子对的强证据（3.2σ）](https://reisen-ww.github.io/hot-pages/acadhot/items/t6h1c9rm0gonu59iiaz7brj4u)
+5. [CERN LHCb实验团队宣布发现B d粒子衰变为mu子对的强证据（3.2σ）](https://www.sciencedaily.com/releases/2026/11/261108233047.htm)
    来源：ScienceDaily 综合 · 发布时间：2026-11-10 08:42（北京时间）
    摘要：CERN LHCb实验团队宣布发现B d粒子衰变为mu子对的强证据（3.2σ），该结果首次由单一实验提供足够证据支持这一罕见衰变过程。研究通过升级探测器（2024年数据采集率提升5倍）和机器学习技术，将统计显著性从3.0σ提升至3.2σ，同时精确测定了相关B s衰变的参数。未来LHCb升级计划（2030年后）有望将数据采集率再提升10倍，为探测超出LHC直接产出的粒子提供新途径。
    原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261108233047.htm)

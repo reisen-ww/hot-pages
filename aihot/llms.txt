@@ -1,6 +1,6 @@
 # MyHOT 静态读取说明
 
-快照时间：2026-11-12T00:20:08.793Z；版本：b7d9dd20-6d57-4e66-8d4c-ad6dcbd464f9。仅包含当前允许公开的内容。
+快照时间：2026-11-12T06:22:00.504Z；版本：2b90b1a1-0a10-442a-b327-dd9ba18c1669。仅包含当前允许公开的内容。
 
 - [当前 manifest](https://reisen-ww.github.io/hot-pages/aihot/data/manifest.json)：文件使用 SHA-256 内容地址；读取方须绑定同一版本并验证字节。
 - catalog 与 bodyShards 仅覆盖当前在线文章窗口，分别用于标题摘要与获许可的全文搜索。全部历史报告保留。availability 将超窗（outside-window）与不再公开区分；缺少详情不代表来源撤回。

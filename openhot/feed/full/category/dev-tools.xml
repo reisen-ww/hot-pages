@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Darling开源项目发布Q4更新：引入AI辅助开发策略及ARM64架构支持]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu</link>
+      <description><![CDATA[<p>Darling项目维护者宣布Q4更新，包含AI辅助开发政策（要求提交者解释代码并禁止使用苹果受限源码）和ARM64架构初始支持。通过VibeDarling分支的持续开发，ARM64支持已具备可合并基础。未来计划整合各分支代码并增强AppKit支持，目标实现i386/x86-64/ARM64三架构协同。</p>
+<p>🔗 <a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu">https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 12 Nov 2026 04:32:31 GMT</pubDate>
+      <guid isPermaLink="false">it6ny6x8i4a7e7p2sho2ohilu</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Rust项目公布2026年Google Summer of Code 13个成功项目成果]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</link>
       <description><![CDATA[<p>Rust项目在GitHub发布2026年GSoC成果，13个项目全部通过终评。涉及Wild linker支持Linux内核模块链接（性能比BFD快2-4倍）、rust-analyzer迁移至SyntaxEditor减少内存占用、libc解决32/64位兼容性问题等。</p>

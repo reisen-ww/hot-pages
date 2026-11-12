@@ -9,9 +9,20 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
-      <title><![CDATA[AWS Bedrock AgentCore 推出Web Search API]]></title>
+      <title><![CDATA[Google发布Gemini Decision 1决策模型API]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</link>
+      <description><![CDATA[<p>Google发布Gemini Decision 1决策模型API，支持文本/图像/音频/视频/PDF输入，单次请求最多处理1000个问题，上下文窗口256K，端到端延迟150-250ms。评测显示其5项基准测试得分优于Jev 1.14，成本为$0.10/1M tokens。</p>
+<p>🔗 <a href="https://latent.space/p/ainews-d-day-decision-models-day/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir">https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 05:26:54 GMT</pubDate>
+      <guid isPermaLink="false">jv01m5sdubxlugsc3afgns7ir</guid>
+      <author>noreply@reisen-ww.github.io (Latent Space)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS Bedrock AgentCore发布Web Search API]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3</link>
-      <description><![CDATA[<p>AWS推出Web Search API，开发者可通过API直接调用实时网页搜索功能，无需创建资源，支持多种集成场景。该API提供域名过滤、时间范围筛选（1-25结果/次），结果包含文本摘要、URL、发布时间等。</p>
+      <description><![CDATA[<p>AWS Bedrock AgentCore正式推出Web Search API，支持开发者通过单次API调用获取实时网页结果，提供域名过滤、日期范围和结果数量配置选项，兼容LangChain等框架，简化实时信息检索集成。</p>
 <p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3">https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3</a></p>]]></description>
       <category>AI 产品</category>

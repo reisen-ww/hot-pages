@@ -1,6 +1,6 @@
-# NVIDIA 股价上涨加剧市场动荡 美股期货下跌
+# 英伟达股价下跌拖累股市，亚洲股市上涨
 
-> 原标题：US Stock Futures Fall as Nvidia Turmoil Deepens: Markets Wrap
+> 原标题：Nvidia Troubles Drag Stocks Lower, Oil Declines: Markets Wrap
 
 - 来源：Bloomberg Markets
 - 发布时间：2026-11-11T22:08:05.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-美股期货下跌，NVIDIA 股价上涨 2.9%，加剧市场动荡。亚洲股市预期上涨，纳斯达克 100 指数涨幅达 2.3%，科技股表现强劲。AI 计算供应商 CoreWeave 上涨 25%。
+亚洲股市预计上涨，跟随美国科技股反弹，纳斯达克100指数上涨2.3%，创五月以来最佳单周表现。AI计算供应商CoreWeave股价飙升25%，英伟达股价上涨2.9%。

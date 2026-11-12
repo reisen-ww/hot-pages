@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Darling开源项目发布Q4更新：引入AI辅助开发策略及ARM64架构支持]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu</link>
+      <description><![CDATA[<p>Darling项目维护者宣布Q4更新，包含AI辅助开发政策（要求提交者解释代码并禁止使用苹果受限源码）和ARM64架构初始支持。通过VibeDarling分支的持续开发，ARM64支持已具备可合并基础。未来计划整合各分支代码并增强AppKit支持，目标实现i386/x86-64/ARM64三架构协同。</p>
+<p>🔗 <a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu">https://reisen-ww.github.io/hot-pages/openhot/items/it6ny6x8i4a7e7p2sho2ohilu</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 12 Nov 2026 04:32:31 GMT</pubDate>
+      <guid isPermaLink="false">it6ny6x8i4a7e7p2sho2ohilu</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[PocketBase 社区版 v0.0.1 开源发布]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</link>
       <description><![CDATA[<p>PocketBase 社区版 v0.0.1 开源，提供更开放的贡献环境，包含核心扩展如多页应用、PITR 数据库恢复和 MCP 多租户支持，以及可选的容器化、集群管理等功能。仓库地址：https://github.com/pockethost/pocketbase</p>
@@ -545,17 +556,6 @@
       <category>安全与隐私</category>
       <pubDate>Thu, 05 Nov 2026 09:02:36 GMT</pubDate>
       <guid isPermaLink="false">q1xhgvru8ruyhqf3pwkpf56o0</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[某开发者开源 Rust 写的图库服务器 Frameleaf，支持百万级照片管理及本地AI标签生成]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/zes6zg4nnvczvxy06yxvl7y0b</link>
-      <description><![CDATA[<p>某开发者开源 Rust 写的图库服务器 Frameleaf，支持百万级照片管理及本地AI标签生成。项目基于PostgreSQL 19实现向量搜索，提供跨平台客户端（iOS/Android/Web）及免费本地服务，付费版增加云端备份和远程访问功能。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xobk8o/frameleaf_the_photo_server_you_always_dreamed_of/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/zes6zg4nnvczvxy06yxvl7y0b">https://reisen-ww.github.io/hot-pages/openhot/items/zes6zg4nnvczvxy06yxvl7y0b</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Thu, 05 Nov 2026 06:24:13 GMT</pubDate>
-      <guid isPermaLink="false">zes6zg4nnvczvxy06yxvl7y0b</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>

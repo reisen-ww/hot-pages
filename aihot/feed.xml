@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Google发布Gemini Decision 1决策模型API]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</link>
+      <description><![CDATA[<p>Google发布Gemini Decision 1决策模型API，支持文本/图像/音频/视频/PDF输入，单次请求最多处理1000个问题，上下文窗口256K，端到端延迟150-250ms。评测显示其5项基准测试得分优于Jev 1.14，成本为$0.10/1M tokens。</p>
+<p>🔗 <a href="https://latent.space/p/ainews-d-day-decision-models-day/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir">https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 05:26:54 GMT</pubDate>
+      <guid isPermaLink="false">jv01m5sdubxlugsc3afgns7ir</guid>
+      <author>noreply@reisen-ww.github.io (Latent Space)</author>
+    </item>
+    <item>
       <title><![CDATA[Amazon SageMaker HyperPod 静默数据损坏检测与恢复方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc</link>
       <description><![CDATA[<p>本文介绍了在Amazon SageMaker HyperPod中检测和恢复静默数据损坏的三种方法：1）梯度非有限值检查（捕获NaN/Inf异常）；2）环式回放审计（通过跨节点微批次复现验证计算路径错误）；3）权重指纹比较（检测更新后权重不一致）。</p>
@@ -20,9 +31,9 @@
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
     <item>
-      <title><![CDATA[AWS Bedrock AgentCore 推出Web Search API]]></title>
+      <title><![CDATA[AWS Bedrock AgentCore发布Web Search API]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3</link>
-      <description><![CDATA[<p>AWS推出Web Search API，开发者可通过API直接调用实时网页搜索功能，无需创建资源，支持多种集成场景。该API提供域名过滤、时间范围筛选（1-25结果/次），结果包含文本摘要、URL、发布时间等。</p>
+      <description><![CDATA[<p>AWS Bedrock AgentCore正式推出Web Search API，支持开发者通过单次API调用获取实时网页结果，提供域名过滤、日期范围和结果数量配置选项，兼容LangChain等框架，简化实时信息检索集成。</p>
 <p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3">https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3</a></p>]]></description>
       <category>AI 产品</category>
@@ -543,17 +554,6 @@
       <pubDate>Tue, 10 Nov 2026 13:37:16 GMT</pubDate>
       <guid isPermaLink="false">ksz1cgjmsbsiybaxrowmjitsa</guid>
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face高管警告开源AI平台面临网络安全威胁]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ckb5xdbeftqbn0y5sekzxp424</link>
-      <description><![CDATA[<p>Hugging Face和GitHub近期因网络攻击事件加强安全措施，包括动态令牌管理和更严格的网络控制。攻击案例包括OpenCode API密钥被盗及OpenAI智能体入侵事件，暴露了开放社区数据集中和权限开放带来的风险。安全措施可能影响独立研究者参与度，但GitHub工程师强调可通过技术手段而非限制功能实现安全升级。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ckb5xdbeftqbn0y5sekzxp424">https://reisen-ww.github.io/hot-pages/aihot/items/ckb5xdbeftqbn0y5sekzxp424</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ckb5xdbeftqbn0y5sekzxp424</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
   </channel>
 </rss>

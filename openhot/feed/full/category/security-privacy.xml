@@ -162,16 +162,5 @@
       <guid isPermaLink="false">q1xhgvru8ruyhqf3pwkpf56o0</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
-    <item>
-      <title><![CDATA[某团队自托管Plausible分析容器中发现未经授权的加密货币挖矿程序]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2</link>
-      <description><![CDATA[<p>某团队自托管Plausible分析容器中发现未经授权的加密货币挖矿程序，该程序利用CVE-2026-8467漏洞运行，最终通过/proc路径终止进程。修复措施包括升级至v3.2.1版本、删除linuxsys伪装进程、限制Docker socket访问权限，并建议设置定时更新检查和镜像追踪机制。完整分析见404privacy.com的详细技术文档。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2">https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Thu, 05 Nov 2026 02:33:36 GMT</pubDate>
-      <guid isPermaLink="false">o62d4g72xdmxc1xxfrsu0wvk2</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
   </channel>
 </rss>

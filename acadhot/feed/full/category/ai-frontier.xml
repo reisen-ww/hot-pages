@@ -163,6 +163,17 @@
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
+      <title><![CDATA[某团队在bioRxiv发表基于配对单元的上下文感知蛋白质设计优化方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rwmmjb78neypjxezh3z4wh0fn</link>
+      <description><![CDATA[<p>某团队在bioRxiv发表基于配对单元的上下文感知蛋白质设计优化方法，提出PULSE方法提升蛋白质溶解性、免疫原性和毒性优化效果。方法通过最大化正负样本的余弦相似性构建引导向量，并引入Local Directional Support（LDS）评估迭代编辑中的方向可靠性。研究显示PULSE在三项优化目标上均优于全局种群中心引导方法，且LDS可无监督筛选候选分子。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765362v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rwmmjb78neypjxezh3z4wh0fn">https://reisen-ww.github.io/hot-pages/acadhot/items/rwmmjb78neypjxezh3z4wh0fn</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rwmmjb78neypjxezh3z4wh0fn</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[某团队在 bioRxiv 发表 Biophysical Transformer 蛋白质大模型预训练方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rs3kvvr8f36d140of4vzla9v8</link>
       <description><![CDATA[<p>某团队提出蛋白质大模型 Biophysical Transformer，通过整合连续生物物理场（如静电势）作为第三信号源，在 FLIP 蛋白质稳定性基准测试中显著优于传统方法。研究显示该方法在人类与混合物种数据集上均保持性能优势，且未依赖预训练语料库中的重叠蛋白。</p>
@@ -196,6 +207,17 @@
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
+      <title><![CDATA[稀疏自编码器揭示ProteinMPNN的隐藏特征]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/hpb6s4tpi6xg6sf3x5y91wkvh</link>
+      <description><![CDATA[<p>某团队在预印本平台bioRxiv发表研究，提出稀疏自编码器（SAEs）可扩展ProteinMPNN的潜在空间，并验证其对Brolucizumab稳定性的提升效果。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765161v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/hpb6s4tpi6xg6sf3x5y91wkvh">https://reisen-ww.github.io/hot-pages/acadhot/items/hpb6s4tpi6xg6sf3x5y91wkvh</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">hpb6s4tpi6xg6sf3x5y91wkvh</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[某团队在bioRxiv发表炎症性关节炎中CCR2-PET/CT成像追踪早期单核细胞浸润研究]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/h5xr68uaka5ixwmev4km05ujt</link>
       <description><![CDATA[<p>某团队通过⁶⁸Ga-DOTA-ECL1i PET/CT成像在实验性关节炎小鼠中发现，炎症单核细胞和巨噬细胞浸润与关节⁶⁸Ga-DOTA-ECL1i摄取量显著相关，并验证了该方法与关节肿胀、疼痛及CCL2水平的相关性，为早期检测和疗效评估提供新工具。</p>
@@ -204,6 +226,17 @@
       <category>AI 前沿</category>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">h5xr68uaka5ixwmev4km05ujt</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队在bioRxiv发表RawMod：基于大模型的非特定修饰DNA碱基检测方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ghboe3aqxkucjxxoisvtgry2g</link>
+      <description><![CDATA[<p>某团队在bioRxiv发表RawMod，提出基于大模型的非特定修饰DNA碱基检测方法，在无对照情况下实现5种修饰的高效识别（均AUROC 0.964），优于现有控制组依赖模型（0.799）。该方法已开源，并提供完整复现脚本与数据集。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765445v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ghboe3aqxkucjxxoisvtgry2g">https://reisen-ww.github.io/hot-pages/acadhot/items/ghboe3aqxkucjxxoisvtgry2g</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ghboe3aqxkucjxxoisvtgry2g</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
@@ -260,28 +293,6 @@
       <pubDate>Tue, 10 Nov 2026 23:20:06 GMT</pubDate>
       <guid isPermaLink="false">deuiess317m9j8m0zluwq5kv7</guid>
       <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[Yazid Albadarin 的博士论文探讨生成式AI对调试思维的影响]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/thk5ltknn0pfe0rg1jcmy9hs2</link>
-      <description><![CDATA[<p>Yazid Albadarin 的博士论文发现，使用生成式AI的学生在调试任务中表现更优但长期学习效果更差。研究通过准实验设计（152名学生）和认知网络分析（132名学生），揭示AI影响思维技能连接方式，强调教育中AI应作为辅助工具而非直接答案提供者。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-qa-exploring-generative-ai-impact.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/thk5ltknn0pfe0rg1jcmy9hs2">https://reisen-ww.github.io/hot-pages/acadhot/items/thk5ltknn0pfe0rg1jcmy9hs2</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 10 Nov 2026 17:20:09 GMT</pubDate>
-      <guid isPermaLink="false">thk5ltknn0pfe0rg1jcmy9hs2</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[STAT News评论：AI医疗建议的准确性可能引发负面行为影响]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/yb929z8hiansq1aqyfuzkhg0m</link>
-      <description><![CDATA[<p>STAT News评论指出，AI医疗建议的准确性可能引发负面行为影响。文章以疫苗问题为例，说明ChatGPT等模型虽事实准确，但描述常见行为（如聚会）可能降低接种意愿。作者建议引入行为基准测试，评估AI建议对健康决策的长期影响，并呼吁建立行业标准。</p>
-<p>🔗 <a href="https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/yb929z8hiansq1aqyfuzkhg0m">https://reisen-ww.github.io/hot-pages/acadhot/items/yb929z8hiansq1aqyfuzkhg0m</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 10 Nov 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="false">yb929z8hiansq1aqyfuzkhg0m</guid>
-      <author>noreply@reisen-ww.github.io (STAT News)</author>
     </item>
     <item>
       <title><![CDATA[美国中期选举致得州AI热潮与能源政策转向面临政策风险]]></title>
