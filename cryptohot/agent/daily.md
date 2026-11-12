@@ -1,196 +1,203 @@
-# 金融与加密日报 · 2026-11-11
+# 金融与加密日报 · 2026-11-12
 
-- 期号：第 34 期
-- 发布：2026-11-11 08:03（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/daily/2026-11-11)
+- 期号：第 35 期
+- 发布：2026-11-12 08:00（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/daily/2026-11-12)
 
 ## 头条
 
-Anthropic拟以每股70至78美元发行8.25亿股股票上市
+MSCI公布最终名单 Strategy指数席位面临风险
 
 ## 加密货币
 
-1. [XRP Ledger 制定量子抗性账户路线图，2028 年完成全面升级](https://reisen-ww.github.io/hot-pages/cryptohot/items/w6c7k9hy5trhxn2386cef93l4)
-   来源：CoinDesk · 发布时间：2026-11-10 12:51（北京时间） · 一手
-   摘要：XRP Ledger 宣布将量子抗性账户纳入技术路线图，计划于 2028 年完成全面升级。该设计允许账户持有者添加量子抗性密钥并停用旧密钥，且无额外手续费。
-   原文：[打开原文](https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users)
+1. [Omni（Variational）主网上线，提前布局$VAR代币生成事件](https://reisen-ww.github.io/hot-pages/cryptohot/items/xzpqusmqnjnorz8qqji7gkv3m)
+   来源：Crypto Briefing · 发布时间：2026-11-11 23:41（北京时间） · 另有 2 家信源报道
+   摘要：Omni（Variational）主网上线，提前布局$VAR代币生成事件。该平台支持500+市场包括加密衍生品、大宗商品和Pre-IPO公司（如SpaceX、OpenAI），已处理数百亿累计交易量，单周万亿级交易量。用户可通过Points计划（每周15万点）参与代币分配。
+   相关：
+   - [Variational旗下Omni开放公共主网：未平仓合约超15亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/ijc3sxj4bdervk573qqrm8tfn) · 链捕手 ChainCatcher · 2026-11-11 23:30（北京时间）
+   - [Variational旗下衍生品交易平台Omni正式上线主网](https://reisen-ww.github.io/hot-pages/cryptohot/items/xku31p280ozgtfmtb8e8o3u1x) · PANews · 2026-11-12 00:00（北京时间）
+   原文：[打开原文](https://cryptobriefing.com/variational-mainnet-launch-var-token/)
 
-2. [Upbit与Bithumb同步上线HYPE代币 KRW/BTC/USDT交易对](https://reisen-ww.github.io/hot-pages/cryptohot/items/b2fqb24ihidlls91882etiu16)
-   来源：Crypto Briefing · 发布时间：2026-11-10 13:27（北京时间）
-   摘要：Upbit与Bithumb于2026年11月10日同步上线HYPE代币的KRW、BTC和USDT交易对。韩国交易所首次提供直接法币通道接入HYPE，技术路径通过HyperEVM实现以太坊兼容环境。需关注同日启动的Kinetiq Elysium L2主网表现及Hyperliquid Strategies美国期货牌照申请进展。
-   原文：[打开原文](https://cryptobriefing.com/upbit-lists-hyperliquid-hype-token/)
+2. [Hyperwave宣布于12月16日关闭协议，金库仅支持提取](https://reisen-ww.github.io/hot-pages/cryptohot/items/vbtn928dsqfgn61o0d3adv7d9)
+   来源：PANews · 发布时间：2026-11-11 18:49（北京时间） · 一手 · 另有 1 家信源报道
+   摘要：Hyperwave宣布将于12月16日关闭协议，用户需在此前完成金库提取，剩余资金将按比例返还，且协议关闭前金库收益的100%将用于HWAVE代币回购和销毁。
+   相关：
+   - [Hyperliquid收益协议Hyperwave将于12月16日正式关闭](https://www.chaincatcher.com/article/2303822) · 链捕手 ChainCatcher · 2026-11-11 18:45（北京时间）
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1ca39-f6ef-768c-b884-31c41cdacd70)
+
+3. [Pyth Network 将纽约证券交易所实时行情数据接入其数据市场](https://reisen-ww.github.io/hot-pages/cryptohot/items/nu888f2xxh39dqfprt9bheyb0)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-11 23:13（北京时间） · 一手 · 另有 1 家信源报道
+   摘要：Pyth Network 宣布将纽约证券交易所的实时行情数据接入其数据市场，覆盖该交易所集团旗下五家交易所。客户需先与纽交所完成数据授权才能获取相关数据。
+   相关：
+   - [Pyth Network上线NYSE股票及ETF实时数据服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/arj5opxdrx4c0cghq28n58ocd) · The Block · 2026-11-12 00:56（北京时间）
+   原文：[打开原文](https://www.chaincatcher.com/article/2303898)
 
 ## 政策与宏观
 
-1. [美联储12月加息概率维持100%：美国10月CPI数据超预期](https://www.panewslab.com/zh/articles/01a1c5ab-54c0-73cc-8908-64fc45fbe265)
-   来源：PANews · 发布时间：2026-11-10 21:35（北京时间） · 一手 · 另有 4 家信源报道
-   摘要：美国10月整体CPI环比上涨0.4%，核心CPI环比上涨0.3%，均高于市场预期的0.3%和0.2%。该数据进一步强化美联储12月加息预期，当前市场对加息概率维持100%。
+1. [MSCI公布最终名单 Strategy指数席位面临风险](https://www.panewslab.com/zh/articles/01a1c99c-c113-7738-8181-50e3e61d40e4)
+   来源：PANews · 发布时间：2026-11-11 15:57（北京时间） · 一手 · 另有 2 家信源报道
+   摘要：MSCI将于11月11日公布最终名单，Strategy公司因‘非运营公司’规则面临指数席位风险，变更于11月30日生效。摩根大通分析师此前预估若剔除，相关基金或抛售约28亿美元股票（基于较早提案数据）。
    相关：
-   - [美国10月CPI数据发布：核心CPI环比涨0.3%，整体涨幅超预期](https://www.panewslab.com/zh/articles/01a1c5a7-29ce-75d8-a9f5-79da55fc00e5) · PANews · 2026-11-10 21:30（北京时间）
-   - [美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温](https://reisen-ww.github.io/hot-pages/cryptohot/items/zgxsq0sopoc08p4sxyvmsqmgk) · 华尔街见闻 · 2026-11-10 21:30（北京时间）
-   - [市场押注美联储12月加息50个基点](https://reisen-ww.github.io/hot-pages/cryptohot/items/tfptxh6tnp65dxoy5p0pydz6c) · PANews · 2026-11-10 21:39（北京时间）
-   - [美联储12月加息50基点概率上升](https://seekingalpha.com/article/4965834-is-a-50-basis-point-hike-back-on-table?source=feed_all_articles) · Seeking Alpha · 2026-11-11 00:15（北京时间）
-   - [美联储加息押注推动美债收益率飙升](https://www.bloomberg.com/news/videos/2026-11-10/treasury-yields-jump-as-inflation-fuels-fed-wagers-video) · Bloomberg Markets · 2026-11-11 00:01（北京时间）
-   - [美国11月CPI同比上涨5.7% 美联储12月加息预期升温](https://seekingalpha.com/article/4965815-hotter-us-inflation-strengthens-case-december-fed-hike?source=feed_all_articles) · Seeking Alpha · 2026-11-11 00:17（北京时间）
-   - [美国通胀升温推高12月加息概率](https://reisen-ww.github.io/hot-pages/cryptohot/items/yk42u44a146j4o9pehp4h6nqb) · Cointelegraph · 2026-11-11 01:31（北京时间）
-   - [美国CPI数据引发美债收益率飙升及贵金属价格大跌](https://reisen-ww.github.io/hot-pages/cryptohot/items/d2fw63qus9r5lnvh81m77lieu) · 华尔街见闻 · 2026-11-11 02:15（北京时间）
-   - [10月CPI数据引发市场过度反应？作者分析美联储加息路径](https://reisen-ww.github.io/hot-pages/cryptohot/items/yfpnjn0kog7we4d6m85tab2rl) · Seeking Alpha · 2026-11-11 03:00（北京时间）
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c5ab-54c0-73cc-8908-64fc45fbe265)
+   - [MSCI周三将宣布是否剔除Strategy公司：比特币持仓与市场反应分析](https://reisen-ww.github.io/hot-pages/cryptohot/items/vwmf56uby1e4wjsg5c3kvq5lt) · Bitcoin Magazine · 2026-11-12 01:05（北京时间）
+   - [MSCI 将 Strategy 公司从全球指数中剔除](https://reisen-ww.github.io/hot-pages/cryptohot/items/cyb237dqmplmq83vhqvgydujr) · Crypto Briefing · 2026-11-12 06:27（北京时间）
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c99c-c113-7738-8181-50e3e61d40e4)
 
-2. [美联储Christopher Waller支持12月加息](https://reisen-ww.github.io/hot-pages/cryptohot/items/b70v0v07zgppjl1loaqvbu8af)
-   来源：Bloomberg Markets · 发布时间：2026-11-10 18:22（北京时间） · 一手 · 另有 4 家信源报道
-   摘要：美联储Christopher Waller表示支持12月加息，并警告若通胀持续加速将支持半个百分点加息，FOMC或需采取更 robust 行动。
+2. [摩根士丹利：全球对冲基金风险撤退规模达十年来最大](https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley)
+   来源：Bloomberg Markets · 发布时间：2026-11-11 10:17（北京时间） · 一手 · 另有 1 家信源报道
+   摘要：摩根士丹利报告显示全球对冲基金风险撤退规模达十年来最大，主要受人工智能股票暴跌影响。自6月底以来，长短期策略基金净市值下降10.7%，市场已进入系统性风险调整阶段。
    相关：
-   - [美联储Waller支持12月加息，开放更大幅度调整空间](https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move) · Bloomberg Markets · 2026-11-10 17:00（北京时间）
-   - [美联储理事沃勒预计12月加息25或50个基点](https://reisen-ww.github.io/hot-pages/cryptohot/items/xhndl4nommcwszoqipico5qdz) · PANews · 2026-11-10 17:03（北京时间）
-   - [比特币因美联储加息预期走低——Waller December 50基点加息路径解析](https://cryptobriefing.com/bitcoin-74k-fed-waller-december-rate-hike/) · Crypto Briefing · 2026-11-10 18:22（北京时间）
-   - [美联储官员Waller讨论12月加息半个百分点](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories) · MarketWatch Top Stories · 2026-11-10 17:45（北京时间）
-   - [美国10月CPI同比上涨0.4%超预期 加剧美联储通胀压力](https://reisen-ww.github.io/hot-pages/cryptohot/items/ud6ejmknxarejs2szxjxoh9yl) · CNBC Top News · 2026-11-10 21:45（北京时间）
-   - [美联储Christopher Waller言论助推市场对更大加息幅度的讨论](https://cryptobriefing.com/feds-waller-fuels-debate-on-larger-rate-hike-after-high-inflation-data/) · Crypto Briefing · 2026-11-11 00:11（北京时间）
-   - [美联储官员Waller支持在通胀数据发布前实施大型加息](https://reisen-ww.github.io/hot-pages/cryptohot/items/o2atvzvub1lakxl2gp7ayagae) · Bloomberg Markets · 2026-11-11 00:47（北京时间）
-   原文：[打开原文](https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video)
+   - [摩根士丹利：全球股票对冲基金上演十年罕见去风险](https://reisen-ww.github.io/hot-pages/cryptohot/items/vycbg73oww74h47ehw2a9btbu) · 链捕手 ChainCatcher · 2026-11-11 12:44（北京时间）
+   原文：[打开原文](https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley)
 
-3. [美联储理事沃勒鹰派讲话后市场定价12月加息25基点](https://reisen-ww.github.io/hot-pages/cryptohot/items/jybtp9dden89ytglgqwtd8jp5)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-10 17:12（北京时间） · 一手 · 另有 3 家信源报道
-   摘要：市场已完全计入美联储12月加息25基点预期。沃勒表示即使10月CPI环比改善，仍支持该加息路径；若10月核心CPI同比涨幅达0.3%或更高，12月可能需加息50基点。
+3. [沙特石油产量环比激增26%至战前最高水平](https://reisen-ww.github.io/hot-pages/cryptohot/items/d78640uy7rcaimgrzkqmcf2ld)
+   来源：Bloomberg Markets · 发布时间：2026-11-11 21:00（北京时间） · 一手 · 另有 4 家信源报道
+   摘要：沙特通知OPEC其10月原油日产量增至10.56万桶，环比增长26%，达到2019年战争爆发前最高水平，推动OPEC地区产量恢复并抑制油价上涨。该数据为观察OPEC政策调整与大宗商品价格关联提供关键依据。
    相关：
-   - [美联储理事沃勒：支持12月加息25基点 必要时50基点](https://reisen-ww.github.io/hot-pages/cryptohot/items/v72mb7iwl1e6mq32ypz07x01e) · 东方财富 · 2026-11-10 17:47（北京时间）
-   - [美联储12月加息25个基点预期被完全定价](https://www.panewslab.com/zh/articles/01a1c4b6-bd29-7397-b24f-a706492362f4) · PANews · 2026-11-10 17:07（北京时间）
-   - [比特币因美国CPI通胀数据疲软逼近11周低点](https://reisen-ww.github.io/hot-pages/cryptohot/items/vmllpd8jidcie16t0oicb2fmr) · Cointelegraph · 2026-11-11 00:25（北京时间）
-   原文：[打开原文](https://www.chaincatcher.com/article/2303305)
+   - [沙特石油日产量回升至接近战前水平](https://reisen-ww.github.io/hot-pages/cryptohot/items/bfwpp2kxkune2z27aj3sc53fd) · Crypto Briefing · 2026-11-11 22:05（北京时间）
+   - [沙特石油产量回升至战前水平](https://reisen-ww.github.io/hot-pages/cryptohot/items/e4qc0tp7otkvl4ilxkxqu5qun) · Financial Times · 2026-11-11 21:29（北京时间）
+   - [沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成](https://reisen-ww.github.io/hot-pages/cryptohot/items/lfkg2xvpuwbnd5jmxbiiq1o8x) · 华尔街见闻 · 2026-11-12 01:23（北京时间）
+   - [沙特10月原油日产量环比增26% 欧佩克+供应回升速度超预期](https://reisen-ww.github.io/hot-pages/cryptohot/items/oe5xk9q01j9xuy4uuywipj72v) · 东方财富 · 2026-11-12 00:00（北京时间）
+   原文：[打开原文](https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high)
 
-4. [Plume附属机构获SEC和Finra批准，允许链上交易合规资产](https://reisen-ww.github.io/hot-pages/cryptohot/items/nk70pbp8gz8gsehxmmqgq23su)
-   来源：CoinDesk · 发布时间：2026-11-10 23:51（北京时间） · 一手 · 另有 1 家信源报道
-   摘要：Plume旗下Kimber Digital Securities获SEC和Finra双重批准，允许将合规资产（如索赔、股息及收益产品）直接发送至自托管钱包和稳定币应用。该政策为链上金融资产合规流通提供新路径。
+4. [美联储高官Goolsbee称10月通胀数据‘令人不安’ 考虑进一步加息](https://reisen-ww.github.io/hot-pages/cryptohot/items/xcgi1qcqimj4gluk4w9iigd4l)
+   来源：CNBC Top News · 发布时间：2026-11-11 21:39（北京时间） · 一手
+   摘要：美联储芝加哥分行行长Goolsbee称10月CPI同比上涨0.4%超预期，数据‘接近令人不安’。其他官员Logan和Waller表示或需在12月加息0.25%-0.5%，市场预期加息概率达85%。
+   原文：[打开原文](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html)
+
+5. [美国核心CPI超预期上涨，或支撑美联储加息预期](https://cryptobriefing.com/us-core-cpi-rises-more-than-forecast-supporting-potential-fed-rate-hike/)
+   来源：Crypto Briefing · 发布时间：2026-11-10 21:35（北京时间） · 另有 8 家信源报道 · 跟进：2026-11-11 的日报报道过这件事，这里是新进展
+   摘要：美国10月核心CPI同比上涨3.7%，市场押注概率达94.5%，显示通胀预期转向。需关注劳工统计局官方CPI数据发布及美联储官员表态。
    相关：
-   - [Kimber Digital Securities获美国经纪资格，拟将美股等资产权益上链](https://www.panewslab.com/zh/articles/01a1c63d-3f28-7269-aad6-8d12ba60c994) · PANews · 2026-11-11 00:14（北京时间）
-   原文：[打开原文](https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain)
-
-5. [欧洲央行宣布数字欧元试点商户招募进展及法律框架筹备时间表](https://reisen-ww.github.io/hot-pages/cryptohot/items/gje3idzveewsxuwy81hsieyby)
-   来源：欧洲央行新闻 · 发布时间：2026-11-10 22:00（北京时间）
-   摘要：欧洲央行执行董事会成员Cipollone在议会讲话中宣布：数字欧元试点将于2027年下半年启动，已筛选36家支付服务商参与测试；法律框架需在2026年底前完成立法程序以保障2028年数字欧元发行。同时披露新欧元纸币设计将在2026年底公布，2020年代初期流通。讲话强调数字欧元与现金的协同发展，要求立法保障现金接受义务和流通基础设施韧性。
-   原文：[打开原文](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html)
+   - [美国国债收益率因CPI数据公布上涨9.03基点至4.952%](https://www.chaincatcher.com/article/2303400) · 链捕手 ChainCatcher · 2026-11-10 21:34（北京时间）
+   - [美国国债收益率因高通胀预期推动加息赌注而下跌](https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1) · Financial Times · 2026-11-10 21:52（北京时间）
+   - [美国10月CPI同比上涨3.6%，推动美联储加息预期升温](https://seekingalpha.com/article/4965827-october-cpi-a-bigger-rate-hike-is-back-on-the-table?source=feed_all_articles) · Seeking Alpha · 2026-11-10 23:55（北京时间）
+   - [美联储加息言论与通胀数据致美国国债市场暴跌](https://reisen-ww.github.io/hot-pages/cryptohot/items/mgckubfmdc78q0l6a3jzkbz3v) · Bloomberg Markets · 2026-11-11 05:30（北京时间）
+   - [美国10年期国债票面利率升至5% 创2006年以来新高 拍卖需求降温](https://wallstreetcn.com/articles/3785682) · 华尔街见闻 · 2026-11-11 06:48（北京时间）
+   - [黄金价格跌破4000美元 美联储加息预期升温推动市场反应](https://reisen-ww.github.io/hot-pages/cryptohot/items/cky6t4vhuw9oilme1xggrpooc) · Bloomberg Markets · 2026-11-11 07:33（北京时间）
+   - [美国国债遭遇抛售潮，通胀数据与美联储加息预期引发市场波动](https://www.panewslab.com/zh/articles/01a1c7f4-618c-77e5-86a7-d58ba425bca6) · PANews · 2026-11-11 08:14（北京时间）
+   - [美国10月CPI数据发布，南方基金司南投顾分析加息路径锁定效应](https://www.jiemian.com/article/15319206.html) · 界面新闻 · 2026-11-11 10:18（北京时间）
+   - [美债期货因市场预期美联储加息加速而持续走低](https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow) · Bloomberg Markets · 2026-11-11 17:52（北京时间）
+   - [美联储官员密集释放加息信号 德银预测12月及明年三连加息](https://reisen-ww.github.io/hot-pages/cryptohot/items/er7i74gojc5vld25qcpf9f63y) · 东方财富 · 2026-11-11 08:07（北京时间）
+   - [美10月CPI数据致金价短线承压 机构分歧下长期支撑逻辑显现](https://reisen-ww.github.io/hot-pages/cryptohot/items/sm3gfzurhm9ojx4kyxenfmdgt) · 东方财富 · 2026-11-12 06:45（北京时间）
+   - [费城联储主席Paulson支持渐进加息但警告通胀卡在目标上方](https://wallstreetcn.com/articles/3785690) · 华尔街见闻 · 2026-11-11 08:29（北京时间）
+   - [美联储12月加息预期升温 沃勒称或一次性加息50个基点](http://forex.eastmoney.com/news/1131,202611113928213161.html) · 东方财富 · 2026-11-11 09:47（北京时间）
+   原文：[打开原文](https://cryptobriefing.com/us-core-cpi-rises-more-than-forecast-supporting-potential-fed-rate-hike/)
 
 ## 股票市场
 
-1. [Anthropic拟以每股70至78美元发行8.25亿股股票上市](https://www.panewslab.com/zh/articles/01a1c50c-180d-7350-bbde-eb3ed1607319)
-   来源：PANews · 发布时间：2026-11-10 18:41（北京时间） · 一手 · 另有 4 家信源报道
-   摘要：Anthropic拟以每股70至78美元发行8.25亿股股票，AMD、微软、英伟达等基石投资者将认购260亿美元。此前其曾撤回定价文件。
+1. [CoreWeave季度财报：收入超预期并上调全年指引，缓解AI放缓担忧](https://reisen-ww.github.io/hot-pages/cryptohot/items/ksbq3l5q4m4f9t58ygf8bv304)
+   来源：CNBC Top News · 发布时间：2026-11-11 05:25（北京时间） · 一手 · 另有 4 家信源报道
+   摘要：CoreWeave 2026年第三季度财报显示收入达$3.66亿超预期，并上调全年调整后运营收入指引至$1.275亿-$1.375亿。尽管公司宣布首期亚洲数据中心和Forge AI模型评估服务，但股价近月下跌超40%，因市场担忧AI投资放缓及Nvidia供应链风险。财报同时披露公司债务达$470亿，且主要客户Anthropic计划下周纳斯达克上市（估值或达$1.4万亿）。
    相关：
-   - [Anthropic拟发行8.25亿股IPO 微软、英伟达及台积电现身基石投资者](http://finance.eastmoney.com/news/1354,202611103927437358.html) · 东方财富 · 2026-11-10 18:38（北京时间）
-   - [Anthropic计划在IPO中实现约1万亿美元估值](https://reisen-ww.github.io/hot-pages/cryptohot/items/ax5qerjfh5pf4dxr5ecynw50b) · PANews · 2026-11-10 19:39（北京时间）
-   - [Anthropic冲刺史上最大IPO](https://seekingalpha.com/article/4965673-in-pursuit-of-the-largest-ipo-in-history?source=feed_all_articles) · Seeking Alpha · 2026-11-10 20:30（北京时间）
-   - [Anthropic拟以1.4万亿美元估值启动IPO，基石投资者包括谷歌和英伟达](https://reisen-ww.github.io/hot-pages/cryptohot/items/masf30czzqr3pd6vfqd81tvn5) · Crypto Briefing · 2026-11-10 22:44（北京时间）
-   - [Anthropic提前IPO推出AI办公工具，直指微软谷歌市场](https://reisen-ww.github.io/hot-pages/cryptohot/items/jeu29el6h8rfu8n5g8rs4ne75) · Crypto Briefing · 2026-11-11 01:25（北京时间）
-   - [Anthropic在IPO中预留15-20%股份给美欧零售投资者](https://reisen-ww.github.io/hot-pages/cryptohot/items/u5omc955ts3fk1mbu5bhmwmtw) · Crypto Briefing · 2026-11-11 03:25（北京时间）
-   - [Anthropic在IPO路演期间推出多款AI办公工具挑战微软Office](https://reisen-ww.github.io/hot-pages/cryptohot/items/shqctszvc4nhq72qh4vhp1o4s) · 华尔街见闻 · 2026-11-11 05:11（北京时间）
-   - [台积电参与26亿美元Anthropic融资，为其纳斯达克IPO铺路](https://cryptobriefing.com/tsmc-approves-investment-in-anthropic/) · Crypto Briefing · 2026-11-10 19:57（北京时间）
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c50c-180d-7350-bbde-eb3ed1607319)
+   - [CoreWeave披露第三季度营收36.6亿美元债务达470亿美元及利息支出1亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/w9tpp9wg9jigctj8glxo26qgb) · Crypto Briefing · 2026-11-11 05:46（北京时间）
+   - [CoreWeave第三季度财报超预期并上调2026年预测](https://cryptobriefing.com/coreweave-beats-earnings-estimates-raises-2026-forecast-despite-capital-concerns/) · Crypto Briefing · 2026-11-11 05:44（北京时间）
+   - [CoreWeave Q3财报超预期致股价单日涨超24%创2025年4月以来最佳表现](https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html) · CNBC Top News · 2026-11-11 17:07（北京时间）
+   - [CoreWeave业绩提振市场信心 美联储加息预期受CPI数据推动](https://reisen-ww.github.io/hot-pages/cryptohot/items/x14ugf4p8he9pq4t5kjtxs5ih) · Bloomberg Markets · 2026-11-11 19:45（北京时间）
+   - [CoreWeave寻求4亿美元投资级贷款以增强财务稳定性](https://reisen-ww.github.io/hot-pages/cryptohot/items/ses4ugap9f1aby3f84pdoxkub) · Crypto Briefing · 2026-11-12 06:50（北京时间）
+   - [CoreWeave财报电话会：拒绝无担保发债，靠预付款与资产抵押推动资本支出，预计2028年盈利转正](https://reisen-ww.github.io/hot-pages/cryptohot/items/yngslr3ft0elebg08fhce5e0c) · 华尔街见闻 · 2026-11-11 08:35（北京时间）
+   - [CoreWeave财报超预期推动纳斯达克100指数单日反弹2.6%](https://reisen-ww.github.io/hot-pages/cryptohot/items/d9qcwbki0bm6rjshwl6vr7xdi) · 华尔街见闻 · 2026-11-12 05:10（北京时间）
+   - [Costco宣布发放30美元特殊股息及回购计划](https://reisen-ww.github.io/hot-pages/cryptohot/items/o6463fbyltoz2okc1ptpxaizv) · Seeking Alpha · 2026-11-11 18:45（北京时间）
+   原文：[打开原文](https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html)
 
-2. [纽约证券交易所计划在Avalanche上建立24/7代币化股票清算市场](https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208)
-   来源：The Block · 发布时间：2026-11-09 22:07（北京时间） · 一手 · 另有 2 家信源报道
-   摘要：NYSE宣布选择Avalanche区块链作为其代币化证券清算平台的核心账本技术，并计划建立全天候运营的清算市场。该技术方案旨在提升清算效率与可扩展性。
+2. [Anthropic IPO路演披露长期经营利润率目标为35%或以上](https://reisen-ww.github.io/hot-pages/cryptohot/items/ybuomci2thehtjunkk4btqs46)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-11 09:40（北京时间） · 一手
+   摘要：Anthropic 在 11 月 10 日公布的 IPO 路演视频中披露，公司计划通过提升算力效率、增加直接租赁芯片和数据中心比例、扩大推理业务占比，将长期调整后经营利润率目标提升至 35% 或以上。第三季度数据显示其经营利润率为 15%，计算与基础设施支出占比将从 58% 降至 45%-50%，销售及合作伙伴费用占比拟由 14% 降至 7%-10%，人员及其他运营费用占比同步优化。
+   原文：[打开原文](https://www.chaincatcher.com/article/2303577)
+
+3. [日产汽车二季度经营利润低于预估，下调全年全球销量预期](https://reisen-ww.github.io/hot-pages/cryptohot/items/efa5ao8ihtvosrynjaifouenn)
+   来源：界面新闻 · 发布时间：2026-11-11 14:41（北京时间） · 另有 1 家信源报道
+   摘要：日产汽车11月11日公布二季度经营利润21.2亿日元（低于预估492.7亿日元），净亏损434.7亿日元（低于预估收益20.8亿日元），销售净额3.11万亿日元（符合预估）。公司下调全年全球销量预期至297万至300万辆（原315万辆），但维持全年经营利润2000亿日元和净利润200亿日元的预测。
    相关：
-   - [NYSE选择Avalanche作为代币化股票结算底层](https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race) · CoinDesk · 2026-11-09 21:40（北京时间）
-   - [纽约证券交易所与Avalanche合作推出代币化股票结算平台](https://reisen-ww.github.io/hot-pages/cryptohot/items/icccpiy5om84zsnxlcnicz2p6) · Decrypt · 2026-11-09 23:49（北京时间）
-   原文：[打开原文](https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208)
+   - [日产汽车因中国市场需求疲软连续两次下调全球销售预测](https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html) · CNBC Top News · 2026-11-11 18:16（北京时间）
+   原文：[打开原文](https://www.jiemian.com/article/15320923.html)
 
-3. [Anthropic 计划IPO，获微软、英伟达、台积电等投资方支持](https://www.chaincatcher.com/article/2303354)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-10 19:34（北京时间） · 一手 · 另有 7 家信源报道 · 跟进：2026-11-04 的日报报道过这件事，这里是新进展
-   摘要：Anthropic 宣布计划通过IPO发行8.25亿股A类普通股，定价区间每股70至78美元，售股股东将额外抛售约2360万股。投资方包括微软、英伟达、台积电等科技巨头。
-   相关：
-   - [Anthropic 计划出售8.0135亿股股票并筹备AI领域IPO](https://cryptobriefing.com/anthropic-to-sell-80135m-shares-ahead-of-ai-focused-ipo/) · Crypto Briefing · 2026-11-10 19:47（北京时间）
-   - [Anthropic启动IPO路演定价区间为70-78美元/股](https://thedefiant.io/converge/tradfi-and-fintech/anthropic-launches-ipo-roadshow-at-70-78-a-share) · The Defiant · 2026-11-10 19:43（北京时间）
-   - [Anthropic宣布IPO下周三确定发行价并周四启动交易](https://www.panewslab.com/zh/articles/01a1c545-9560-7578-bbe3-4f2b227e1469) · PANews · 2026-11-10 19:43（北京时间）
-   - [Anthropic 计划IPO目标估值约1万亿美元](https://www.chaincatcher.com/article/2303358) · 链捕手 ChainCatcher · 2026-11-10 19:41（北京时间）
-   - [Reed Hastings捐赠建议基金计划认购Anthropic IPO股份上限3亿美元](https://cryptobriefing.com/reed-hastings-fund-anthropic-ipo-shares/) · Crypto Briefing · 2026-11-10 20:06（北京时间）
-   - [Anthropic确定IPO发行价区间70至78美元](https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html) · CNBC Top News · 2026-11-10 20:31（北京时间）
-   - [Anthropic确定IPO定价区间为70至78美元](https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion) · Decrypt · 2026-11-10 22:06（北京时间）
-   - [Anthropic提交S-1表格 设定长期调整后运营毛利率超35%目标](https://cryptobriefing.com/anthropic-long-term-operating-margin-35-percent/) · Crypto Briefing · 2026-11-10 22:33（北京时间）
-   - [Anthropic启动拟议首次公开募股路演](https://reisen-ww.github.io/hot-pages/cryptohot/items/m8w10fxo349bj0b4g06pirmdu) · 界面新闻 · 2026-11-10 23:05（北京时间）
-   - [Anthropic冲击美国科技IPO融资纪录：最高募资904亿美元估值达1.4万亿美元](https://wallstreetcn.com/articles/3785657) · 华尔街见闻 · 2026-11-10 19:53（北京时间）
-   - [Anthropic发布新一代AI模型并筹备IPO，Fable 5.2与Mythos 5.2性能提升30%](https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html) · CNBC Top News · 2026-11-10 03:00（北京时间）
-   - [Anthropic拟以超1400亿美元估值上市，零售投资者如何提前布局？](https://reisen-ww.github.io/hot-pages/cryptohot/items/gv9opq6qsrufdmfzu0mobe0m5) · CNBC Top News · 2026-11-11 00:30（北京时间）
-   原文：[打开原文](https://www.chaincatcher.com/article/2303354)
-
-4. [Anthropic宣布以Claude AI模型为焦点启动64.4亿美元IPO](https://reisen-ww.github.io/hot-pages/cryptohot/items/p2mubtewh4yf71u8x1mx3jj41)
-   来源：Crypto Briefing · 发布时间：2026-11-10 19:52（北京时间） · 另有 1 家信源报道
-   摘要：Anthropic宣布计划通过IPO筹集至多64.4亿美元，发行801.4万股 primary shares及23.6万股 shareholder shares，定价区间70-78美元。市场已通过预测市场调整其市值预期（当前最高预估达97.3%概率），后续需关注SEC反馈及最终定价。
-   相关：
-   - [Anthropic：IPO发行价定为74美元，预计净募资额达937亿美元](https://www.panewslab.com/zh/articles/01a1c548-358f-704e-8cc7-0260f669415d) · PANews · 2026-11-10 19:46（北京时间）
-   - [Anthropic 计划以1.4万亿美元估值启动IPO](https://cryptobriefing.com/anthropic-plans-to-seek-a-14-trillion-valuation-in-upcoming-ipo/) · Crypto Briefing · 2026-11-10 20:21（北京时间）
-   - [Anthropic首次公开募股获足额认购](https://www.panewslab.com/zh/articles/01a1c5f8-bcaf-779c-8fe4-4a8fb04a0cf7) · PANews · 2026-11-10 22:59（北京时间）
-   原文：[打开原文](https://cryptobriefing.com/anthropic-targets-64b-ipo-with-claude-ai-models-in-spotlight/)
-
-5. [Bridgepoint收购Kayne Anderson Real Estate拓展利率环境下的房地产投资版图](https://reisen-ww.github.io/hot-pages/cryptohot/items/tq6u04d1kgjhj1cwqnjmghm0r)
-   来源：CNBC Top News · 发布时间：2026-11-10 21:30（北京时间） · 一手
-   摘要：Bridgepoint集团宣布以$125亿资产规模收购Kayne Anderson Real Estate（$22亿资产），切入利率敏感型房地产领域。双方CEO指出，高利率将导致传统商业地产交易量萎缩和违约潮，但医疗办公空间（肿瘤/神经/心内科诊断需求年增47%）和小型工业地产（占GDP47%）存在结构性机会，建议关注资产资本结构优化标的。
-   原文：[打开原文](https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html)
+4. [Lyell Immunopharma 在 2026 Stifel 健康医疗会议上发布临床试验进展](https://reisen-ww.github.io/hot-pages/cryptohot/items/kq6zy907c9sc2gwjgt5yxkeps)
+   来源：Seeking Alpha · 发布时间：2026-11-12 02:39（北京时间）
+   摘要：Lyell Immunopharma 在 2026 Stifel 健康医疗会议上宣布其核心产品 ronde-cel 的两项关键临床试验进展：PiNACLE试验计划于明年提交BLA申请，另一项头对头随机对照试验将展示与YESCARTA、BREYANZI的疗效对比数据。
+   原文：[打开原文](https://seekingalpha.com/article/4966624-lyell-immunopharma-inc-lyel-presents-at-stifel-2026-healthcare-conference-2026-transcript?source=feed_all_articles)
 
 ## 快讯
 
-- [美联储洛根：至少再加息两次 每次25个基点](https://reisen-ww.github.io/hot-pages/cryptohot/items/b1ewwlpgbpeyau65i99dz6rnj)
-  来源：PANews · 发布时间：2026-11-10 23:54（北京时间） · 一手 · 另有 1 家信源报道
-  摘要：美联储洛根表示，至少需再加息两次，每次25个基点。目前政策利率比适度限制性水平低50个基点，逐步调整可降低经济活动恶化风险。
+- [Anthropic联合创始人拟IPO套现约17.5亿美元](https://www.panewslab.com/zh/articles/01a1c662-e0f0-7360-b622-79a7c9a08191)
+  来源：PANews · 发布时间：2026-11-11 00:55（北京时间） · 一手 · 另有 7 家信源报道 · 跟进：2026-11-11 的日报报道过这件事，这里是新进展
+  摘要：Anthropic联合创始人计划在IPO中合计套现约17.5亿美元，按中值IPO价格计算每人约2.5亿美元。招股说明书更新显示，IPO定价日期定于11月18日，交易将于次日启动。
   相关：
-  - [美联储洛根：冬季加息速度或加快，至少两次25基点调整](https://www.chaincatcher.com/article/2303460) · 链捕手 ChainCatcher · 2026-11-10 23:51（北京时间）
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c62a-b784-7206-8266-695c4f1ba917)
+  - [Anthropic启动IPO路演：拟发行8.25亿股股票，最高估值1.4万亿美元](http://finance.eastmoney.com/news/1354,202611103927650814.html) · 东方财富 · 2026-11-11 00:21（北京时间）
+  - [Anthropic在澳大利亚开放IPO零售参与](https://reisen-ww.github.io/hot-pages/cryptohot/items/jyfkh95xfnjp7qkub8x1uvvj6) · Bloomberg Markets · 2026-11-11 06:35（北京时间）
+  - [Anthropic Q3营收超OpenAI达17亿美元，推动市场对其IPO估值预期](https://cryptobriefing.com/anthropic-surpasses-openai-with-17-billion-q3-revenue/) · Crypto Briefing · 2026-11-11 09:01（北京时间）
+  - [Jim Cramer评述Anthropic史上最大IPO估值与增长逻辑](https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html) · CNBC Top News · 2026-11-11 07:46（北京时间）
+  - [Anthropic 递交招股书并计划登陆纳斯达克](https://www.chaincatcher.com/article/2303595) · 链捕手 ChainCatcher · 2026-11-11 10:29（北京时间）
+  - [Anthropic开启澳大利亚零售IPO，拟筹资904亿美元](https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html) · CNBC Top News · 2026-11-11 09:52（北京时间）
+  - [AnthropicIPO定价或上调至78美元区间：融资规模或突破1000亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/p0s3gwd08a1jvmlfzcd0xqqnn) · 东方财富 · 2026-11-11 13:48（北京时间）
+  - [Anthropic IPO估值1.3万亿美元 创始人人均身家达180亿美元](https://wallstreetcn.com/articles/3785717) · 华尔街见闻 · 2026-11-11 16:19（北京时间）
+  - [Anthropic IPO估值下调至$1.404万亿，Meta 2026年资本支出上调至$145亿区间](https://cryptobriefing.com/anthropic-ipo-valuation-meta-capex/) · Crypto Briefing · 2026-11-11 19:14（北京时间）
+  - [Anthropic启动IPO路演，OpenAI同期披露Q3营收100亿美元但亏损扩大至109亿美元](https://wallstreetcn.com/articles/3785687) · 华尔街见闻 · 2026-11-11 08:06（北京时间）
+  - [Anthropic $1.4万亿IPO对加密货币市场的影响分析](https://reisen-ww.github.io/hot-pages/cryptohot/items/jaf9u7e5s1ten2btvn3yl687c) · Decrypt · 2026-11-11 20:55（北京时间）
+  - [Anthropic启动IPO路演：收入一年翻12倍，设定长期35%利润率目标](https://wallstreetcn.com/articles/3785694) · 华尔街见闻 · 2026-11-11 10:24（北京时间）
+  - [Anthropic发布新一代旗舰模型Claude Fable 5.2和Claude Mythos 5.2](http://finance.eastmoney.com/news/1354,202611103926630547.html) · 东方财富 · 2026-11-10 04:17（北京时间）
+  - [Anthropic IPO认购需求超额数倍 拟融资904亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/yxkk4sy1g90a1og0ihtw1mveo) · 东方财富 · 2026-11-11 22:40（北京时间）
+  - [Anthropic上市前夕发布两款新模型 英伟达等七巨头拟投260亿美元](http://finance.eastmoney.com/news/1354,202611103927234437.html) · 东方财富 · 2026-11-10 13:49（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c662-e0f0-7360-b622-79a7c9a08191)
 
-- [eToro Q3财报收入下降74%并获准回购$250 million股票](https://cryptobriefing.com/etoro-q3-earnings-250m-buyback/)
-  来源：Crypto Briefing · 发布时间：2026-11-10 20:14（北京时间） · 另有 1 家信源报道
-  摘要：eToro Q3财报显示GAAP净利润下降74%至$15 million，获准实施$250 million股票回购计划。同时，公司推出AI驱动应用并收购阿根廷金融科技公司LB Finanzas，用户数同比增长18%至4.39 million，管理资产规模达$20.8 billion。
+- [美联储12月加息50基点概率升至15.3% CPI公布后最新预测](https://reisen-ww.github.io/hot-pages/cryptohot/items/zzhtcn2iyge3z5ca5uifywlwr)
+  来源：PANews · 发布时间：2026-11-10 21:59（北京时间） · 一手 · 另有 2 家信源报道
+  摘要：美联储12月加息50个基点的概率从1.1%升至15.3%，同时明年1月累计加息50基点的概率达48.8%。CME‘美联储观察’最新数据显示，10月CPI公布后加息路径调整，维持利率不变概率为0%，加息25个基点概率84.7%。
   相关：
-  - [eToro第三季度净利润同比降74%，宣布至多2.5亿美元回购](https://www.panewslab.com/zh/articles/01a1c58b-3a2d-7243-adbc-4982acca0c72) · PANews · 2026-11-10 20:59（北京时间）
-  - [eToro（ETOR）Q3净利润同比下滑74%至1500万美元](https://cryptobriefing.com/etoro-q3-profit-plunges-crypto-trading/) · Crypto Briefing · 2026-11-10 21:58（北京时间）
-  原文：[打开原文](https://cryptobriefing.com/etoro-q3-earnings-250m-buyback/)
+  - [美联储12月加息概率更新：25/50基点概率分别为88.5%/11.5%](https://reisen-ww.github.io/hot-pages/cryptohot/items/hfrcoa4uy5w07t3fwjzw3gtjf) · PANews · 2026-11-11 08:12（北京时间）
+  - [美联储12月加息25个基点概率达88.5%](https://reisen-ww.github.io/hot-pages/cryptohot/items/nnf90fzbp8yxtaagmsz3v2jc3) · 界面新闻 · 2026-11-11 08:14（北京时间）
+  - [美联储官员释放加息信号：10月CPI超预期及12月加息50基点可能性分析](https://reisen-ww.github.io/hot-pages/cryptohot/items/bmzskbs76i70pm51fp665ad1m) · 东方财富 · 2026-11-11 11:54（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c5c2-28c6-7302-95cc-4235cb4a361e)
 
-- [Canaan Q3营收暴跌90%至1450万美元 矿机销售仅480万美元](https://cryptobriefing.com/canaan-q3-revenue-drops-90-percent/)
-  来源：Crypto Briefing · 发布时间：2026-11-10 20:21（北京时间） · 另有 1 家信源报道
-  摘要：Canaan Q3营收暴跌90%至1450万美元，矿机销售仅480万美元。利润主要来自比特币持仓（现持有1875BTC）及金融衍生品，同时宣布获得得州1GW电力项目ERCOT认证。
+- [币安黑客转移近9亿美元资金，部分通过THORChain和Chainflip转移](https://reisen-ww.github.io/hot-pages/cryptohot/items/zv84iq3apprbg7twualroam28)
+  来源：链捕手 ChainCatcher · 发布时间：2026-11-10 22:17（北京时间） · 一手
+  摘要：币安黑客转移近9亿美元资金，部分通过THORChain和Chainflip转移，剩余28.5亿可操控，26亿被冻结。
+  原文：[打开原文](https://www.chaincatcher.com/article/2303428)
+
+- [Runes 交易平台 radFi 分阶段关停，2027 年 2 月正式下线](https://reisen-ww.github.io/hot-pages/cryptohot/items/c2tvy1ztbxjjbezofe0eli4dr)
+  来源：链捕手 ChainCatcher · 发布时间：2026-11-11 14:02（北京时间） · 一手
+  摘要：Runes 交易平台 radFi 宣布分阶段关停，2027 年 2 月 11 日正式下线应用。即日起流动性池提现限制为单笔 0.01 BTC、每日总流出 0.05 BTC，2027 年 1 月 11日后仅支持交易钱包提现 Runes 和 BTC，ndestrategy 独立网站将承接后续服务。
+  原文：[打开原文](https://www.chaincatcher.com/article/2303651)
+
+- [德意志银行推出支持 BTC、ETH 和 USDC 的数字资产托管服务](https://www.chaincatcher.com/article/2303786)
+  来源：链捕手 ChainCatcher · 发布时间：2026-11-11 16:09（北京时间） · 一手 · 另有 4 家信源报道
+  摘要：德意志银行面向德国机构客户推出数字资产托管服务，支持 BTC、ETH 及 USDC 等稳定币。该服务在 BaFin/MiCA 授权下上线，采用多层密钥控制机制，计划 2027 年扩展至亚洲并推出代币化服务，但初期不面向零售用户且无存款担保。
   相关：
-  - [Canaan Q3收入暴跌90%至145万美元，比特币挖矿硬件销售下滑拖累业绩](https://reisen-ww.github.io/hot-pages/cryptohot/items/q5xw0gpvfrm9z6ohgxvdb3hpp) · The Block · 2026-11-11 00:02（北京时间）
-  原文：[打开原文](https://cryptobriefing.com/canaan-q3-revenue-drops-90-percent/)
+  - [德意志银行上线数字资产托管服务并签署资产管理协议](https://reisen-ww.github.io/hot-pages/cryptohot/items/qwae8p282rtnjkjupewmf93kj) · The Block · 2026-11-11 19:46（北京时间）
+  - [德意志银行推出企业级加密资产托管服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/smmzjeglmmhiuc4etl6fsed2d) · Cointelegraph · 2026-11-11 22:02（北京时间）
+  - [德意志银行正式上线加密托管服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/rf7zib31ceh3gdaxdfiypgj7b) · Decrypt · 2026-11-12 03:06（北京时间）
+  - [德意志银行与DWS签署备忘录，拟探索代币化货币基金等产品](https://reisen-ww.github.io/hot-pages/cryptohot/items/bxnm9vx986y4e3q12j559924l) · PANews · 2026-11-12 00:05（北京时间）
+  原文：[打开原文](https://www.chaincatcher.com/article/2303786)
 
-- [14家上市公司2025年已出售10.8万枚比特币](https://www.chaincatcher.com/article/2303338)
-  来源：链捕手 ChainCatcher · 发布时间：2026-11-10 18:02（北京时间） · 一手 · 另有 2 家信源报道 · 跟进：2026-11-05 的日报报道过这件事，这里是新进展
-  摘要：14家上市公司2025年出售10.8万枚比特币，涉及金额约80.8亿美元。其中MARA以平均价74,446美元售出40,581枚，Riot Platforms以平均价73,231美元售出20,264枚。
+- [Sui生态硬件钱包项目Suiball宣布关闭并启动退款流程](https://reisen-ww.github.io/hot-pages/cryptohot/items/tw8dmo2ve7suyw3bm3qxzyb5h)
+  来源：PANews · 发布时间：2026-11-11 10:00（北京时间） · 一手
+  摘要：Sui生态硬件钱包项目Suiball宣布关闭并启动退款流程，链上预订用户将自动收到USDC退款，信用卡用户需提供钱包地址。退款涉及80%链上订单及信用卡用户，Sui基金会因行业硬件钱包攻击事件风险过高决定终止项目。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c855-8f04-737b-800f-653a129d0406)
+
+- [以色列贴现银行App内开放比特币和以太坊交易](https://reisen-ww.github.io/hot-pages/cryptohot/items/pqyi8ndo4ehu4iqkp4bvoa2mw)
+  来源：PANews · 发布时间：2026-11-12 02:07（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：以色列贴现银行宣布App内开放比特币和以太坊交易，仅限已开通证券账户且年满18岁的以色列居民，每笔交易手续费2%，前半年免托管费，之后每季度收0.25%。资产由Fireblocks提供托管基础设施。
   相关：
-  - [14家上市公司年内抛售10.8万枚比特币，MARA领跑](https://www.panewslab.com/zh/articles/01a1c4ec-3ac9-76ed-ab4a-b4a04e151811) · PANews · 2026-11-10 18:06（北京时间）
-  - [14家上市公司2026年共售出约10.8万枚比特币，价值达$8.08 billion](https://reisen-ww.github.io/hot-pages/cryptohot/items/qvay167osggfuluw304t6jmb9) · Crypto Briefing · 2026-11-10 18:39（北京时间）
-  原文：[打开原文](https://www.chaincatcher.com/article/2303338)
+  - [以色列第四大银行推出移动端比特币和以太坊交易服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/uwszgdhhb9kgir5sc0l402j2q) · Crypto Briefing · 2026-11-12 02:02（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1cbca-b414-73c1-a637-da158e36141b)
 
-- [特朗普媒体科技集团Q3首次实现盈利 净利润约4.1亿美元](https://www.panewslab.com/zh/articles/01a1c284-4f2c-72fe-8900-d0951a672d24)
-  来源：PANews · 发布时间：2026-11-10 06:53（北京时间） · 一手 · 另有 1 家信源报道
-  摘要：特朗普媒体科技集团（DJT）公布2026年Q3财报，净利润4.1亿美元，同比扭亏为盈，营收同比增长205%，并披露与TAE合并预计完成时间及股东特别大会定于12月14日召开。
+- [OpenAI第三季度营收约100亿美元，同比增长50%](https://reisen-ww.github.io/hot-pages/cryptohot/items/td5t408mnpe1vkzxos1xl6veq)
+  来源：PANews · 发布时间：2026-11-11 05:25（北京时间） · 一手 · 另有 2 家信源报道
+  摘要：OpenAI第三季度营收约100亿美元，同比增长50%，结束此前增长放缓期。增长主要源于客户对AI新模型及企业级产品需求的回升。
   相关：
-  - [比特币投资助力特朗普媒体Q3盈利，运营亏损2360万美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/nmr587o3dd069a5qehvw5czdy) · Unchained · 2026-11-10 18:00（北京时间）
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c284-4f2c-72fe-8900-d0951a672d24)
+  - [OpenAI Q3调整后运营利润率从-150%升至-109%](https://reisen-ww.github.io/hot-pages/cryptohot/items/zlfiv3vjsllgfhwcj52vytqvz) · Crypto Briefing · 2026-11-11 07:11（北京时间）
+  - [OpenAI Q3调整后运营亏损收窄至-109%](https://reisen-ww.github.io/hot-pages/cryptohot/items/svjatllfkloui821n9r92xydl) · Crypto Briefing · 2026-11-11 07:10（北京时间）
+  - [OpenAI第三季度营收据悉增长近50%达100亿美元](https://www.jiemian.com/article/15318323.html) · 界面新闻 · 2026-11-11 07:39（北京时间）
+  - [OpenAI Q3运营亏损达109亿美元 尽管收入增长50%](https://cryptobriefing.com/openais-q3-operating-loss-hits-11b-despite-50-revenue-rise-wsj/) · Crypto Briefing · 2026-11-11 07:20（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c75a-51cb-73f5-910d-2a7c9f1b6a26)
 
-- [Polymarket完成新一轮10亿美元融资 年化收入突破18亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/gua7dt42acf9b74xr1e755173)
-  来源：PANews · 发布时间：2026-11-10 21:04（北京时间） · 一手 · 另有 1 家信源报道
-  摘要：Polymarket宣布完成新一轮10亿美元融资，估值达210亿美元，年化经常性收入突破18亿美元（较6月的10亿美元增长80%）。收入增长主要来自5月上线美国交易所，该交易所10月名义交易量达145亿美元（6月为40亿美元），由世界杯和NFL新赛季推动。需注意美国商品期货交易委员会（CFTC）正调查其广告行为及是否违反和解协议。
+- [纽约州法院裁定允许州博彩法监管体育预测市场平台Novig](https://reisen-ww.github.io/hot-pages/cryptohot/items/ormrazrlrfsidd4r1ejr7826c)
+  来源：PANews · 发布时间：2026-11-11 09:14（北京时间） · 一手
+  摘要：纽约联邦法官驳回Novig体育预测市场初步禁令申请，允许州博彩法监管其业务。博彩律师Daniel Wallach在X平台表示，州监管机构可能很快从在联邦法院捍卫其执法权，转向在州法院积极行使该权力，这可能是体育预测市场诉讼的下一重要篇章。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c82b-5101-71c8-979a-4df4b2541dc8)
+
+- [Forward Industries SOL持仓增至约873万枚](https://reisen-ww.github.io/hot-pages/cryptohot/items/pbtg6w8yk9cbffam35p2mrx03)
+  来源：PANews · 发布时间：2026-11-11 05:28（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：Forward Industries宣布截至11月9日持有SOL及等价物约873万枚，占流通量1.5%，并获联邦特许银行提供5000万美元两年期信贷（利率SOFR+150基点），资金将用于推进SOL++策略及投资美国房价挂钩产品USHP。
   相关：
-  - [加密预测市场平台Polymarket年收入超18亿美元，启动10亿美元融资轮次](https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html) · CNBC Top News · 2026-11-10 21:00（北京时间）
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c58f-5fb6-767d-aa33-742034fc3eb1)
-
-- [IMF建议肯尼亚引入加密货币旅行规则](https://reisen-ww.github.io/hot-pages/cryptohot/items/b1rbl03ydgt413rukxmz32gg5)
-  来源：PANews · 发布时间：2026-11-10 18:35（北京时间） · 一手
-  摘要：国际货币基金组织（IMF）11月6日发布技术援助报告，建议肯尼亚要求加密平台收集汇款人及收款人身份信息。该建议针对肯尼亚《虚拟资产服务提供商法》2025年11月生效后的监管缺口，IMF要求将旅行规则义务纳入VASP法规或其他法律文件。
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c507-6a33-7775-930a-7dc081449ea6)
-
-- [Anthropic启动IPO定价：高盛预测2030年营收破6850亿美元，7位创始人套现17.5亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/sfbhco9r5zawkpmlkj6jhodlz)
-  来源：华尔街见闻 · 发布时间：2026-11-11 05:10（北京时间） · 一手
-  摘要：Anthropic宣布启动IPO路演，计划11月18日定价，高盛预测其2030年营收达6850亿美元，7位创始人合计套现17.5亿美元。需关注短期现金流压力与长期增长逻辑的平衡。
-  原文：[打开原文](https://wallstreetcn.com/articles/3785677)
-
-- [Helius在Solana主网上线隐私协议Privacy Rings](https://www.panewslab.com/zh/articles/01a1c5eb-8a1d-74f8-a974-cca53d541411)
-  来源：PANews · 发布时间：2026-11-10 22:45（北京时间） · 一手 · 另有 1 家信源报道
-  摘要：Helius在Solana主网上线隐私协议Privacy Rings，支持SOL、SPL代币及Token-2022，ZK证明耗时数百毫秒。其核心程序已通过Certora、OtterSec和ZK Security审计，并计划推出机构许可制Custom Rings，支持KYC白名单和制裁筛查等功能。Decrypt、Ore等已接入，Backpack、DFlow等团队正在集成。
-  相关：
-  - [Decrypt Money Account上线与Helius合作的隐私转账功能](https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius) · Decrypt · 2026-11-10 22:32（北京时间）
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c5eb-8a1d-74f8-a974-cca53d541411)
-
-- [Anthropic员工规模两年内从940人激增至5,300人](https://reisen-ww.github.io/hot-pages/cryptohot/items/zyjukz2a8cw6kkexv02xuh09x)
-  来源：Crypto Briefing · 发布时间：2026-11-10 20:49（北京时间）
-  摘要：Anthropic员工规模两年内从940激增至5,300，营收同比增1200%，S-1文件披露其AI模型Claude贡献了90%以上的代码开发，同时仍有大量职位空缺。
-  原文：[打开原文](https://cryptobriefing.com/anthropic-workforce-940-to-5300-employees/)
+  - [Forward Industries 将 SOL 储备增至 870 万，代币价格触及近三月低点](https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330) · The Block · 2026-11-11 05:51（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1c75d-1dec-7276-9688-a0e3f0ea2268)

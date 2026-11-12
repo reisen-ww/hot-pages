@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS发布23个可重用资产加速生成式AI交付]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xyvokmcqey8oysculfp2gc9af</link>
+      <description><![CDATA[<p>AWS发布23个可重用资产，帮助客户将生成式AI开发时间从数月缩短至数周。案例显示DoorDash通过Contact Center GenAI Agent实现日处理10万+语音请求，Ricoh利用GenAIDP资产将文档处理吞吐量提升7倍。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xyvokmcqey8oysculfp2gc9af">https://reisen-ww.github.io/hot-pages/aihot/items/xyvokmcqey8oysculfp2gc9af</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Wed, 11 Nov 2026 19:19:21 GMT</pubDate>
+      <guid isPermaLink="false">xyvokmcqey8oysculfp2gc9af</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS Quick 推出AI驱动的产品开发全周期管理框架（AI-PDLC）]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/irfertyfoiwmo6ixtwx8o0qh5</link>
+      <description><![CDATA[<p>AWS推出AI驱动的产品开发全周期管理框架（AI-PDLC），整合企业数据并利用智能体加速开发流程。该框架包含Discover（需求发现）、Decide（优先级决策）、Design（规格生成）、Prototype（原型设计）四个阶段，通过六个专用智能体实现从分散信号到可执行规格的闭环管理，每个阶段均需人类审批确认决策依据。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/irfertyfoiwmo6ixtwx8o0qh5">https://reisen-ww.github.io/hot-pages/aihot/items/irfertyfoiwmo6ixtwx8o0qh5</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Wed, 11 Nov 2026 16:05:33 GMT</pubDate>
+      <guid isPermaLink="false">irfertyfoiwmo6ixtwx8o0qh5</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS发布Bedrock AgentCore评估工具及多维度评估方法论]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/mabd3ryeggddzea44lb4nq9b5</link>
       <description><![CDATA[<p>AWS发布Bedrock AgentCore评估工具，支持内置、DeepEval和AutoEval三种评估模式，提供从开发测试到生产健康监控的全流程方案。</p>
@@ -50,17 +72,6 @@
       <category>教程</category>
       <pubDate>Fri, 06 Nov 2026 16:45:58 GMT</pubDate>
       <guid isPermaLink="false">pbnvlbgelsmnkgqze8ns95ucq</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Deep Insight 如何应用四层次上下文工程优化AI代理]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xprw3rthlyn26nnnpvbzholx4</link>
-      <description><![CDATA[<p>Deep Insight 通过架构隔离、提示控制、文件存储和验证机制四层次方法优化AI代理的上下文管理。具体实现包括：1. 多智能体架构隔离上下文；2. 提示限制输出token数；3. 将代码和结果存储到文件系统；4. 验证器独立复算验证。参考代码开源在GitHub，工具链基于Strands Agents SDK和Amazon Bedrock AgentCore。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xprw3rthlyn26nnnpvbzholx4">https://reisen-ww.github.io/hot-pages/aihot/items/xprw3rthlyn26nnnpvbzholx4</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Wed, 04 Nov 2026 16:30:40 GMT</pubDate>
-      <guid isPermaLink="false">xprw3rthlyn26nnnpvbzholx4</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>

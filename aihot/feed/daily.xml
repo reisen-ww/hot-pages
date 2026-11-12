@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[MyHOT 日报 · 2026-11-12 — AWS发布UAEF框架：支持多框架AI代理闭环评估的开源系统]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-12</link>
+      <description><![CDATA[<p>AWS推出开源评估框架UAEF，支持LangGraph、LangChain等框架的AI代理进行多维度指标（工具调用、响应质量、推理能力等）评估。系统通过适配器统一处理不同框架的执行轨迹，存储结果至DynamoDB/S3，生成对比报告和LLM辅助分析。案例显示企业客户通过该框架检测退化、优化提示词和模型，实现闭环迭代。</p>
+<p><strong>模型发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm">DeepMind发布AlphaGenome 2模型：解析细胞读取DNA机制以增进疾病理解</a></li></ul>
+<p><strong>产品发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9">Google 发布 Gemini Decision 1 决策 API</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/teb9htf41ab5b3bgrk3znurb4">AWS Bedrock发布Kimi K3.1 Pro Highspeed智能体</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/a66rrswlvnedf3xr8w45ihhk7">Gemini 4 Carbon宣布价格调整并开放给更广泛用户</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ytr16cta7tqam6vxjl5ko0890">AWS发布官方本地测试工具aws-emulator</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/bthsmafmicxeqe7evxfk94kzd">xAI旗下Grok构建应用泄露患者数据及内部销售信息</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/gb2p8bzjvm9280vpinoffk2gg">AI模型评测与行业动态：Gemini Carbon、Claude Fable 5.2与Qwen 3.8对比</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/gs4mnf5hczvnui1w6tzcs5gbh">Nvidia因CEO丑闻面临证券欺诈集体诉讼</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/fn9ifc2ks3c049342h52cq013">OpenAI单季度收入首次突破10亿美元</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/lp6jzin22hrhuqo0gptnfvsxl">NVIDIA生态初创公司应用AI技术提升混合废物回收效率</a></li></ul>
+<p><strong>论文研究</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0">AWS发布UAEF框架：支持多框架AI代理闭环评估的开源系统</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/pcyak5qzcd3ms9tocpk7c842b">Hugging Face发布多向量嵌入模型压缩训练方法</a></li></ul>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-12">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-12</a></p>]]></description>
+      <pubDate>Thu, 12 Nov 2026 00:00:33 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-12</guid>
+      <author>noreply@reisen-ww.github.io (MyHOT)</author>
+    </item>
+    <item>
       <title><![CDATA[MyHOT 日报 · 2026-11-11 — Microsoft研究人员发现Lazarus攻击：通过激活AI模型休眠神经元可在触发条件下执行恶意命令]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-11</link>
       <description><![CDATA[<p>Microsoft研究人员发现Lazarus攻击：通过激活AI模型休眠神经元可在触发条件下执行恶意命令。该攻击无需模型微调，仅修改权重即可绕过标准安全评估。防御建议包括模型来源验证、容器扫描和AI驱动的权重检测，强调需将模型视为潜在内部威胁并限制其权限。</p>
@@ -445,21 +462,6 @@
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-09">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-09</a></p>]]></description>
       <pubDate>Fri, 09 Oct 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-09</guid>
-      <author>noreply@reisen-ww.github.io (MyHOT)</author>
-    </item>
-    <item>
-      <title><![CDATA[MyHOT 日报 · 2026-10-08 — OpenAI 面向所有用户发布 GPT-6 并推出 Intelligent UI]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-08</link>
-      <description><![CDATA[<p>OpenAI 宣布 GPT-6 面向全球 ChatGPT 用户开放，并同时推出 Intelligent UI。官方称新版本响应更快，提供可视化内容和可直接探索使用的交互体验。</p>
-<p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://openai.com/index/gpt-6-for-everyone">OpenAI 面向所有用户发布 GPT-6 并推出 Intelligent UI</a></li><li><a href="https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/">Anthropic 发布 Claude Haiku 5.5，价格最多下降 90%</a></li></ul>
-<p><strong>产品发布/更新</strong></p>
-<ul><li><a href="https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/">Microsoft Research 开源 Agent Lightning v1.0：约 3500 行的轻量级智能体 RL 框架</a></li><li><a href="https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/">NVIDIA 与 Microsoft 发布 RTX Spark 笔记本和 Windows 智能体运行时 MXC</a></li></ul>
-<p><strong>论文研究</strong></p>
-<ul><li><a href="https://openai.com/index/sharing-ai-progress-in-mathematics">OpenAI 公布内部前沿模型在数学开放问题上的进展</a></li></ul>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-08">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-08</a></p>]]></description>
-      <pubDate>Thu, 08 Oct 2026 00:00:28 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-08</guid>
       <author>noreply@reisen-ww.github.io (MyHOT)</author>
     </item>
   </channel>

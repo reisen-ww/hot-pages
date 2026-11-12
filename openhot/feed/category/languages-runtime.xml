@@ -20,9 +20,9 @@
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[微软发布 .NET 11，集成C# 15新特性与AI开发工具]]></title>
+      <title><![CDATA[微软发布 .NET 11，包含C# 15、ASP.NET Core 3.2及AI工具集成]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy</link>
-      <description><![CDATA[<p>微软于2026年11月10日发布 .NET 11，包含C# 15的联合类型和封闭层次结构，性能优化提升开发效率，并集成AI工具支持。</p>
+      <description><![CDATA[<p>微软在GitHub宣布.NET 11正式发布，包含C# 15的联合类型和封闭继承体系、ASP.NET Core 3.2的异步验证与OpenAPI 3.2支持、.NET MAUI默认使用CoreCLR运行时，以及集成MCP服务器模板和Microsoft Agent Framework的AI开发工具。</p>
 <p>🔗 <a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/">阅读原文</a></p>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy">https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy</a></p>]]></description>
       <category>编程语言与运行时</category>

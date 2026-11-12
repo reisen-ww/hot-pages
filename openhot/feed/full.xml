@@ -9,6 +9,116 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[PocketBase 社区版 v0.0.1 开源发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</link>
+      <description><![CDATA[<p>PocketBase 社区版 v0.0.1 开源，提供更开放的贡献环境，包含核心扩展如多页应用、PITR 数据库恢复和 MCP 多租户支持，以及可选的容器化、集群管理等功能。仓库地址：https://github.com/pockethost/pocketbase</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtxrhi/pocketbase_community_edition_v001/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1">https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 23:58:14 GMT</pubDate>
+      <guid isPermaLink="false">atwhho99o0a2mgnhupzle7ot1</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[C++26标准因社区争议投票失败，暴露开源治理流程问题]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</link>
+      <description><![CDATA[<p>C++26标准因社区争议投票失败，核心争议围绕Contracts新特性。多国反馈的安全机制与标准库强耦合问题未获采纳，最终投票未达通过门槛。事件反映C++标准制定流程的分裂与协调失效，引发对开源治理模式的讨论。</p>
+<p>🔗 <a href="https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar">https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 18:49:35 GMT</pubDate>
+      <guid isPermaLink="false">jjkg7losfy4z6qnhwar4sljar</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[GitHub Actions 新增锁文件机制防范供应链攻击]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</link>
+      <description><![CDATA[<p>GitHub Actions 在 2026 年 11 月正式支持工作流锁文件，通过锁定依赖库的版本号（如 v7.0.1、v3.1.0）避免恶意代码替换。作者演示了使用 `gh actions-lock` 工具生成锁文件（actions.lock）的配置方法，并建议通过 `zizmor` 工具验证锁文件有效性。</p>
+<p>🔗 <a href="https://hugovk.dev/blog/2026/lock-github-actions/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o">https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 18:16:01 GMT</pubDate>
+      <guid isPermaLink="false">cc92w3d9y8vpvwqtxlwymi71o</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[MattiaPARRINELLO 开源自托管个人助手，支持多账户加密与模块化扩展]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</link>
+      <description><![CDATA[<p>MattiaPARRINELLO 在 GitHub 开源自托管个人助手项目，支持多用户独立加密存储与模块化部署。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtomhw/im_making_my_selfhosted_personal_assistant/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z">https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 17:54:52 GMT</pubDate>
+      <guid isPermaLink="false">dc8y2yl0gkf7eupoc6jjenu6z</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Rust项目公布2026年Google Summer of Code 13个成功项目成果]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</link>
+      <description><![CDATA[<p>Rust项目在GitHub发布2026年GSoC成果，13个项目全部通过终评。涉及Wild linker支持Linux内核模块链接（性能比BFD快2-4倍）、rust-analyzer迁移至SyntaxEditor减少内存占用、libc解决32/64位兼容性问题等。</p>
+<p>🔗 <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3">https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 15:03:06 GMT</pubDate>
+      <guid isPermaLink="false">vx4mmrg94x1bh1fy6kygncwz3</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[PipesHub开源自托管向量数据库在EnterpriseRAG-Bench评测中排名第一]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2</link>
+      <description><![CDATA[<p>PipesHub开源自托管向量数据库在EnterpriseRAG-Bench评测中排名第一，综合得分93.24，正确率95%。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xti468/self_hosted_glean_alternative_just_ranked_1_on/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2">https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 13:45:19 GMT</pubDate>
+      <guid isPermaLink="false">kiaqgykiiafhg0464j08jngb2</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[EventSourcingDB 1.3.0发布：新API与性能提升]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd</link>
+      <description><![CDATA[<p>EventSourcingDB 1.3.0正式发布，引入与请求响应直接绑定的v2 API，并优化了写入、查询和恢复速度，同时提供详细的升级指南以降低迁移风险。</p>
+<p>🔗 <a href="https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd">https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd</a></p>]]></description>
+      <category>数据与数据库</category>
+      <pubDate>Wed, 11 Nov 2026 13:19:45 GMT</pubDate>
+      <guid isPermaLink="false">rdc3tphgrg6sfckulougqhqgd</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Mozilla Firefox 145版本发布：通过指纹识别研究显著提升用户隐私保护]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</link>
+      <description><![CDATA[<p>Mozilla Firefox 145版本发布，通过指纹识别研究显著提升用户隐私保护。基于近2500万Firefox用户的数据分析，研究团队在CCS 2026国际安全会议发表论文，并开放测试网站和工具。</p>
+<p>🔗 <a href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst">https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
+      <guid isPermaLink="false">valupcxo1s024tghy4cldjcst</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[基于线性规划的模型权重优化：Astra循环问题修正方法对比分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</link>
+      <description><![CDATA[<p>MIT CSAIL的Astra模型通过线性规划优化权重，在MATH-500测试中准确率从7.9%提升至48.1%。作者对比了两种方法：Astra的原始方法修改130,188个权重参数，而线性规划版本仅修改16,291个（减少87%）。</p>
+<p>🔗 <a href="https://nathan.rs/posts/weight-space-lp/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi">https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Wed, 11 Nov 2026 12:30:17 GMT</pubDate>
+      <guid isPermaLink="false">mdvy36e21p5oej46adfpmpbgi</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google SWE团队通过AI分析NASA激光雷达数据，72小时内发现未记录玛雅金字塔遗址]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt</link>
+      <description><![CDATA[<p>Google SWE团队通过AI分析NASA激光雷达数据，72小时内发现未记录玛雅金字塔遗址。作者使用Gemini、ChatGPT等48个AI代理分析1.2万平方公里丛林数据，发现包含金字塔、广场等结构的遗址。</p>
+<p>🔗 <a href="https://pietromiotti.com/latest/maya-site/?maya">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt">https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 12:05:22 GMT</pubDate>
+      <guid isPermaLink="false">n8gnxujcsec9cpa6as9cryntt</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Glimmer与Datastar实现服务器端渲染批量处理，性能提升显著]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk</link>
       <description><![CDATA[<p>Glimmer通过ratom原子状态管理和Datastar的批次渲染机制，在Newsroom应用中将渲染时间从21.7ms降至7.0ms。采用差分更新技术仅传输变更部分，结合滑动缓冲区限制并发流（100个流）的帧数。</p>
@@ -75,9 +185,9 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[微软发布 .NET 11，集成C# 15新特性与AI开发工具]]></title>
+      <title><![CDATA[微软发布 .NET 11，包含C# 15、ASP.NET Core 3.2及AI工具集成]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy</link>
-      <description><![CDATA[<p>微软于2026年11月10日发布 .NET 11，包含C# 15的联合类型和封闭层次结构，性能优化提升开发效率，并集成AI工具支持。</p>
+      <description><![CDATA[<p>微软在GitHub宣布.NET 11正式发布，包含C# 15的联合类型和封闭继承体系、ASP.NET Core 3.2的异步验证与OpenAPI 3.2支持、.NET MAUI默认使用CoreCLR运行时，以及集成MCP服务器模板和Microsoft Agent Framework的AI开发工具。</p>
 <p>🔗 <a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/">阅读原文</a></p>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy">https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy</a></p>]]></description>
       <category>编程语言与运行时</category>
@@ -183,6 +293,28 @@
       <pubDate>Mon, 09 Nov 2026 15:01:02 GMT</pubDate>
       <guid isPermaLink="false">lzqrnxv1qyab6ywdftt7qh8em</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Lucas Barrena 开源支持浏览器与 Node.js 的 P2P WebRTC 连接库]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln</link>
+      <description><![CDATA[<p>Lucas Barrena 在 GitHub 公开该连接库仓库，支持浏览器、Node.js 和 React Native 的 P2P WebRTC 连接，内置信令服务器和节点发现功能。</p>
+<p>🔗 <a href="https://github.com/lukks/like-webrtc">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln">https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Sun, 08 Nov 2026 20:10:06 GMT</pubDate>
+      <guid isPermaLink="false">fku7chpqjurbxvpvtubj8ppln</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Git 优化参考删除性能，Rust 版本提升 18%，纳入 v3.0 计划]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ls7w3euks7681n32pvk9th3xp</link>
+      <description><![CDATA[<p>Git 团队通过 Rust 重构参考存储，在删除百万级引用时性能提升 18%。测试显示 Rust 版本删除时间比 C 版本快 17.7%（v2.56.0），补丁已合并至 master (fc70f528)，计划在 v2.98 后的 v3.0 中正式启用。优化通过直接写入数据避免格式化开销，适用于 GitLab 等拥有数百万引用的大仓库。</p>
+<p>🔗 <a href="https://nayak.im/posts/optimizing-reference-deletion/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ls7w3euks7681n32pvk9th3xp">https://reisen-ww.github.io/hot-pages/openhot/items/ls7w3euks7681n32pvk9th3xp</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Sun, 08 Nov 2026 19:37:42 GMT</pubDate>
+      <guid isPermaLink="false">ls7w3euks7681n32pvk9th3xp</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
       <title><![CDATA[某团队开源Rust写的轻量级WhatsApp客户端，单机内存占用仅200MB]]></title>
@@ -425,138 +557,6 @@
       <pubDate>Thu, 05 Nov 2026 06:24:13 GMT</pubDate>
       <guid isPermaLink="false">zes6zg4nnvczvxy06yxvl7y0b</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队自托管Plausible分析容器中发现未经授权的加密货币挖矿程序]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2</link>
-      <description><![CDATA[<p>某团队自托管Plausible分析容器中发现未经授权的加密货币挖矿程序，该程序利用CVE-2026-8467漏洞运行，最终通过/proc路径终止进程。修复措施包括升级至v3.2.1版本、删除linuxsys伪装进程、限制Docker socket访问权限，并建议设置定时更新检查和镜像追踪机制。完整分析见404privacy.com的详细技术文档。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2">https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Thu, 05 Nov 2026 02:33:36 GMT</pubDate>
-      <guid isPermaLink="false">o62d4g72xdmxc1xxfrsu0wvk2</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[声明式拖拽交互库 Dragology 开源，支持数学可视化与编程界面优化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/t5a9izy0prcp39alw9ch0ykzb</link>
-      <description><![CDATA[<p>GitHub 仓库 Declarative Dragging 开源，提供声明式拖拽交互框架 Dragology。该库通过指定元素拖拽后的状态模型，自动合成平滑交互，减少开发者对几何、反馈和动画的底层编写。</p>
-<p>🔗 <a href="https://declarative-dragging.github.io/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/t5a9izy0prcp39alw9ch0ykzb">https://reisen-ww.github.io/hot-pages/openhot/items/t5a9izy0prcp39alw9ch0ykzb</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Thu, 05 Nov 2026 00:35:09 GMT</pubDate>
-      <guid isPermaLink="false">t5a9izy0prcp39alw9ch0ykzb</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Xbox 360 Hypervisor漏洞利用三阶段改进：USB触发与性能优化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/sp77t3g6neopecloa4933bbb1</link>
-      <description><![CDATA[<p>作者在GitHub开源了Xbox 360 Hypervisor漏洞利用的改进方案，通过优化内存加密哈希表（1024种白化值组合）、多线程调度（利用PowerPC指令重排）和动态检测机制（新增15次内存变更计数器），将攻击时间从20分钟缩短至几秒，成功率接近100%，并实现通过USB存储文件直接触发攻击。改进方案包含缓存压力测试线程、内存加密哈希表构建和动态检测逻辑，完整代码已开源。</p>
-<p>🔗 <a href="https://icode4.coffee/?p=1746">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/sp77t3g6neopecloa4933bbb1">https://reisen-ww.github.io/hot-pages/openhot/items/sp77t3g6neopecloa4933bbb1</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Wed, 04 Nov 2026 22:01:49 GMT</pubDate>
-      <guid isPermaLink="false">sp77t3g6neopecloa4933bbb1</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Go团队发布新JSON库v2，解决长期兼容与性能问题]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/d3mgvd9x8ho3ta7e14bdcmli2</link>
-      <description><![CDATA[<p>Go团队在v1.27版本中发布encoding/json/v2，修复了无效UTF-8静默损坏、重复键名兼容性等15年遗留问题，并优化性能使部分场景提升10倍。新增MarshalWrite/UnmarshalRead等流式API，支持自定义序列化逻辑。附详细迁移指南与性能对比数据</p>
-<p>🔗 <a href="https://go.dev/blog/jsonv2">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/d3mgvd9x8ho3ta7e14bdcmli2">https://reisen-ww.github.io/hot-pages/openhot/items/d3mgvd9x8ho3ta7e14bdcmli2</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Wed, 04 Nov 2026 17:52:11 GMT</pubDate>
-      <guid isPermaLink="false">d3mgvd9x8ho3ta7e14bdcmli2</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 开源 Rust 写的证明大语言模型推理系统，单H100每秒110 tokens生成可验证证明]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fi1wx2bu8v7vr6x5fbzzv38vn</link>
-      <description><![CDATA[<p>Anthropic 在 GitHub 开源 FlashProve 系统，支持 Llama 4 Maverick 等400B参数模型。单H100 GPU每秒生成110 tokens证明，验证时间约17秒（24核CPU）。系统包含 Lean 形式验证证明、C++ 执行代码及技术文档，按Apache 2.0协议发布。</p>
-<p>🔗 <a href="https://www.anthropic.com/research/provable-inference">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fi1wx2bu8v7vr6x5fbzzv38vn">https://reisen-ww.github.io/hot-pages/openhot/items/fi1wx2bu8v7vr6x5fbzzv38vn</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Wed, 04 Nov 2026 17:17:46 GMT</pubDate>
-      <guid isPermaLink="false">fi1wx2bu8v7vr6x5fbzzv38vn</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Linum 开源 Apache 2.0 授权的 Rust 写文本到图像模型，训练成本约2万美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vvz12bukcdpqfm4a5op98dak6</link>
-      <description><![CDATA[<p>Linum团队在GitHub开源基于Rust的文本到图像模型，训练成本约2万美元。该模型采用Pyramid-JiT架构，通过像素空间模型压缩注意力上下文窗口4倍，在512x512分辨率下训练610M样本，并新增1024x1024分辨率训练阶段。</p>
-<p>🔗 <a href="https://www.linum.ai/field-notes/pjit-21k">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vvz12bukcdpqfm4a5op98dak6">https://reisen-ww.github.io/hot-pages/openhot/items/vvz12bukcdpqfm4a5op98dak6</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Wed, 04 Nov 2026 16:45:11 GMT</pubDate>
-      <guid isPermaLink="false">vvz12bukcdpqfm4a5op98dak6</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Stream Vessel 修复 MCP 开放重定向漏洞：用户自主管理信任地址列表]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9</link>
-      <description><![CDATA[<p>Stream Vessel 团队通过用户自定义信任地址机制，修复了 MCP 服务器因开放重定向导致的账户接管漏洞。攻击链演示：匿名注册恶意客户端→伪造可信重定向域名→用户点击Approve→授权码泄露。</p>
-<p>🔗 <a href="https://streamvessel.com/blog/mcp-trusted-redirect-uris">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9">https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 04 Nov 2026 15:30:57 GMT</pubDate>
-      <guid isPermaLink="false">dmi1f2ki2iss4r576o2zdn7n9</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Restate TypeScript SDK 新增持久化协程功能，单机可处理千万级并发请求]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/d2y75131qmeonxy0vlqnu7f1g</link>
-      <description><![CDATA[<p>Restate 在 GitHub 发布 TypeScript 持久化协程库，通过 generator 函数实现确定性调度，单机可处理 &gt;10,000 毫秒级并发请求，P50=2.5ms / P99=9ms。示例代码展示如何用 spawn() 启动并行工具调用，select() 实现竞态组合，并支持失败恢复的持久化执行模型。</p>
-<p>🔗 <a href="https://restate.dev/blog/durable_coroutines">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/d2y75131qmeonxy0vlqnu7f1g">https://reisen-ww.github.io/hot-pages/openhot/items/d2y75131qmeonxy0vlqnu7f1g</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Wed, 04 Nov 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="false">d2y75131qmeonxy0vlqnu7f1g</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rust编译器团队通过16项优化措施降低内存与计算开销]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xg5xkphuhn7e0jkitw9ugeim8</link>
-      <description><![CDATA[<p>Rust编译器团队在2026年11月发布16项优化措施，包括压缩跨度数据（存储减少20-40%）、优化字面量处理（deep-vector测试减少8-12%指令数）、新增编译元数据缓存（内存峰值降低7%）等。测试数据显示平均墙时间减少2.85%，最大内存占用降低4.46%。其中PR#163857通过新压缩方案使增量编译的元数据存储减少80%，PR#164484的稀疏编码使编译过程内存占用降低37%。</p>
-<p>🔗 <a href="https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xg5xkphuhn7e0jkitw9ugeim8">https://reisen-ww.github.io/hot-pages/openhot/items/xg5xkphuhn7e0jkitw9ugeim8</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Wed, 04 Nov 2026 14:05:16 GMT</pubDate>
-      <guid isPermaLink="false">xg5xkphuhn7e0jkitw9ugeim8</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nvidia RTX Spark笔记本电脑因加密固件在Linux下推理速度骤降至35%]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/aycgmsa2098h4xv9p75re78sl</link>
-      <description><![CDATA[<p>Nvidia RTX Spark笔记本电脑在Linux环境下因加密固件导致GPU性能骤降，推理速度仅为Windows的21%。实测显示：Windows达65.4 tokens/s，WSL为65.1 tokens/s，DGX Spark桌面版61 tokens/s，而原生Linux仅13.9 tokens/s。</p>
-<p>🔗 <a href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/aycgmsa2098h4xv9p75re78sl">https://reisen-ww.github.io/hot-pages/openhot/items/aycgmsa2098h4xv9p75re78sl</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Wed, 04 Nov 2026 08:46:29 GMT</pubDate>
-      <guid isPermaLink="false">aycgmsa2098h4xv9p75re78sl</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[某开发者开源自托管 Odoo 面板，支持一键部署与全流程管理]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/uywr5wt0blfkhmkqvhc7qcggn</link>
-      <description><![CDATA[<p>某开发者开源自托管 Odoo 面板（GitHub: incubacloud），提供服务器部署、版本回滚、AI辅助运维等功能，支持免费使用并开放社区反馈。托管版（www.incubacloud.io）提供免费计划且无需信用卡。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xnj9q8/i_built_a_selfhosted_panel_to_deploy_and_manage/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/uywr5wt0blfkhmkqvhc7qcggn">https://reisen-ww.github.io/hot-pages/openhot/items/uywr5wt0blfkhmkqvhc7qcggn</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Wed, 04 Nov 2026 08:46:05 GMT</pubDate>
-      <guid isPermaLink="false">uywr5wt0blfkhmkqvhc7qcggn</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Puppet服务器存在远程代码执行漏洞及主机身份伪造漏洞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw</link>
-      <description><![CDATA[<p>某团队发现Puppet的两个安全漏洞：1. Puppet服务器通过事件反序列化实现远程代码执行（CVSS 9.1）；2. 主机身份伪造漏洞允许未经授权的认证。漏洞影响企业环境中的配置管理，供应商已于2026年11月3日发布修复补丁，并公开安全公告（GHSA-ffr6-rwpm-p5wq和GHSA-q4hm-33rc-572g）。</p>
-<p>🔗 <a href="https://neodyme.io/en/blog/puppet_rce">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw">https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 04 Nov 2026 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">s8psmpi667xx7u2313rd5s5kw</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

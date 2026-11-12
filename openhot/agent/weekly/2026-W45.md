@@ -42,7 +42,7 @@ Go团队发布encoding/json/v2解决15年遗留问题并优化性能，Claude Op
    摘要：LLVM Vulkan 1.1 正式发布，提供基于Vulkan的GPU加速编译插件，支持Clang集成。性能测试显示在特定工作负载下，RTX 5090较CPU提升3.04倍至2.28倍，但小规模任务CPU仍占优。项目已验证与LLVM 21兼容，提供Windows/Linux预编译包及在线基准测试仪表盘。
    原文：[打开原文](https://www.reddit.com/r/programming/comments/1xn802v/llvm_vulkan_11_dropin_compiler_passes_gvn_cse_cfg/)
 
-7. [某团队开源V100 SXM2模块载体板设计参考套件，含连接器映射与NVLink连接指南](https://reisen-ww.github.io/hot-pages/openhot/items/jx959wjmx53hu6woozwp54j1j)
+7. [某团队开源V100 SXM2模块载体板设计参考套件，含连接器映射与NVLink连接指南](https://github.com/pigeon-labs-stack/v100-sxm2-reference)
    来源：Hacker News 热榜 · 发布时间：2026-11-03 06:30（北京时间）
    摘要：某团队在GitHub开源V100 SXM2模块载体板设计参考套件，提供800个连接器映射、NVLink双/四卡连接方案及可编辑KiCad项目模板。文档包含电源控制、时钟配置等硬件设计要点，明确标注CERN-OHL-W-2.0与CC BY-SA 4.0双许可。
    原文：[打开原文](https://github.com/pigeon-labs-stack/v100-sxm2-reference)

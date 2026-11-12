@@ -9,6 +9,83 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS Bedrock AgentCore 推出Web Search API]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3</link>
+      <description><![CDATA[<p>AWS推出Web Search API，开发者可通过API直接调用实时网页搜索功能，无需创建资源，支持多种集成场景。该API提供域名过滤、时间范围筛选（1-25结果/次），结果包含文本摘要、URL、发布时间等。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3">https://reisen-ww.github.io/hot-pages/aihot/items/ypeb1f0v8rmp877nn7q1fe4f3</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 11 Nov 2026 23:13:16 GMT</pubDate>
+      <guid isPermaLink="false">ypeb1f0v8rmp877nn7q1fe4f3</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS发布Bedrock AgentCore及多款AI模型更新]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/b18pmb6vgyeyiyiy1cmujshnn</link>
+      <description><![CDATA[<p>AWS在2026年10月推出Bedrock AgentCore及多款AI模型，包括Claude Haiku 5.5（成本降低75%）、GPT-6.1 Terra（速度提升三倍，价格降低50%）和GLM 5.3等。新工具支持多模型调用、成本优化及本地安全运行，并新增结构化输出和语音交互功能。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/b18pmb6vgyeyiyiy1cmujshnn">https://reisen-ww.github.io/hot-pages/aihot/items/b18pmb6vgyeyiyiy1cmujshnn</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 11 Nov 2026 22:26:40 GMT</pubDate>
+      <guid isPermaLink="false">b18pmb6vgyeyiyiy1cmujshnn</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS发布官方本地测试工具aws-emulator]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ytr16cta7tqam6vxjl5ko0890</link>
+      <description><![CDATA[<p>AWS发布官方本地测试工具aws-emulator，无需付费API密钥即可模拟其多款服务。该工具由Rust编写，首月获29,684次代码贡献，但当前仅支持Docker运行于macOS或Windows平台。</p>
+<p>🔗 <a href="https://simonwillison.net/2026/Nov/11/aws-emulator/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ytr16cta7tqam6vxjl5ko0890">https://reisen-ww.github.io/hot-pages/aihot/items/ytr16cta7tqam6vxjl5ko0890</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 11 Nov 2026 21:18:30 GMT</pubDate>
+      <guid isPermaLink="false">ytr16cta7tqam6vxjl5ko0890</guid>
+      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google 发布 Gemini Decision 1 决策 API]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9</link>
+      <description><![CDATA[<p>Google Deepmind 推出 Gemini Decision 1 决策 API，单次处理 1000 个跨模态问题（文本/图像/音频/视频/PDF）。</p>
+<p>🔗 <a href="https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9">https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 11 Nov 2026 20:12:46 GMT</pubDate>
+      <guid isPermaLink="false">gcx8d0d4bglnlr8u0hazs3oa9</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Databricks发布升级版AI代理Genie：CEO亲测管理效率提升]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/hto6940pgkk7sl20qxpwg7vbc</link>
+      <description><![CDATA[<p>Databricks发布升级版AI代理Genie，支持无监督多步骤任务处理。通过整合客户数据本体论，Genie已应用于CEO Ali Ghodsi的员工满意度调查分析、销售失败案例总结及播客采访准备，展示了AI代理在企业管理中的决策辅助价值。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/hto6940pgkk7sl20qxpwg7vbc">https://reisen-ww.github.io/hot-pages/aihot/items/hto6940pgkk7sl20qxpwg7vbc</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">hto6940pgkk7sl20qxpwg7vbc</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[DeepL 推出实时翻译新模型 Aure，支持捕捉说话者的语气、情感和语速]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/wp4jw5tozghwvwuenxvh2ov8b</link>
+      <description><![CDATA[<p>DeepL 推出实时翻译新模型 Aure，支持捕捉说话者的语气、情感和语速。该模型通过分离语音身份、语调旋律和内容进行独立翻译，并利用强化学习避免输出口音。目前支持英语、德语、西班牙语等8种语言，已应用于 DeepL Voice for Online Meetings 等场景。DeepL 此前收购音频流媒体团队 Mixhalo 以强化实时语音翻译能力。</p>
+<p>🔗 <a href="https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/wp4jw5tozghwvwuenxvh2ov8b">https://reisen-ww.github.io/hot-pages/aihot/items/wp4jw5tozghwvwuenxvh2ov8b</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 11 Nov 2026 13:50:30 GMT</pubDate>
+      <guid isPermaLink="false">wp4jw5tozghwvwuenxvh2ov8b</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Tether AI Research 发布 BotPsy 开源模型：支持本地部署的亚亿参数智能体助手]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/mgxqrbkjzcpkruyb5icbvka45</link>
+      <description><![CDATA[<p>Tether AI Research 发布 BotPsy 开源模型，支持本地部署的亚亿参数智能体助手。该模型在 BFCL v4（44.0）、ACEBench（58.7）、τ-bench（51.5）等六项工具调用基准中均超越基线模型及更大参数量竞品（如 Qwen3.5-2B-Think）。</p>
+<p>🔗 <a href="https://huggingface.co/blog/qvac/botpsy">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mgxqrbkjzcpkruyb5icbvka45">https://reisen-ww.github.io/hot-pages/aihot/items/mgxqrbkjzcpkruyb5icbvka45</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 GMT</pubDate>
+      <guid isPermaLink="false">mgxqrbkjzcpkruyb5icbvka45</guid>
+      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS Bedrock发布Kimi K3.1 Pro Highspeed智能体]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/teb9htf41ab5b3bgrk3znurb4</link>
       <description><![CDATA[<p>AWS发布Kimi K3.1 Pro Highspeed智能体，性能提升2-3倍并支持工具调用和流式输出。该产品通过Amazon Bedrock平台提供API调用示例，包含使用OpenCode集成开发环境、成本优化策略（Flex层级）、显式提示缓存技术（需256+稳定前缀），同时保持数据隔离（不共享给Moonshot AI且零数据留存）。</p>
@@ -31,9 +108,9 @@
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
     <item>
-      <title><![CDATA[Google Gemini 4 Carbon 0.36 发布：价格调整及跨模态应用测试]]></title>
+      <title><![CDATA[Gemini 4 Carbon宣布价格调整并开放给更广泛用户]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/a66rrswlvnedf3xr8w45ihhk7</link>
-      <description><![CDATA[<p>Google发布Gemini 4 Carbon 0.36版本，宣布12月1日起价格翻倍至$4/$20（原价$2/$10）。测试显示该模型支持Three.js动画生成（如用&apos;立起大机械人&apos;指令制作曼哈顿场景动画）和跨模态应用（通过Antigravity IDE的/swarm功能构建3D游戏），并附有HTML文件和视频演示链接。</p>
+      <description><![CDATA[<p>Gemini 4 Carbon宣布对价格进行调整（$2/million输入→$4/million输入，$10/million输出→$20/million输出）并开放给更广泛用户。</p>
 <p>🔗 <a href="https://simonwillison.net/2026/Nov/10/llm-gemini/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/a66rrswlvnedf3xr8w45ihhk7">https://reisen-ww.github.io/hot-pages/aihot/items/a66rrswlvnedf3xr8w45ihhk7</a></p>]]></description>
       <category>AI 产品</category>
@@ -139,6 +216,17 @@
       <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
       <guid isPermaLink="false">r1d5l19l774uwtn9n60sb5lfc</guid>
       <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[新加坡航空使用 OpenAI 技术提升旅行与工作效率]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/n1p2gdn6ny2gs70wba87yzdxt</link>
+      <description><![CDATA[<p>新加坡航空使用 OpenAI 技术提升客户支持、旅行发现及员工生产力，其客户满意度（CSAT）翻倍。该方案通过 OpenAI API 实现智能客服和行程规划功能，使人工客服需求降低 30%，员工处理效率提升 25%。</p>
+<p>🔗 <a href="https://openai.com/index/singapore-airlines-travel-work">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/n1p2gdn6ny2gs70wba87yzdxt">https://reisen-ww.github.io/hot-pages/aihot/items/n1p2gdn6ny2gs70wba87yzdxt</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">n1p2gdn6ny2gs70wba87yzdxt</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
     <item>
       <title><![CDATA[Anthropic发布Claude Fable 5.2与Mythos 5.2：评测与成本分析]]></title>
@@ -392,39 +480,6 @@
       <pubDate>Thu, 05 Nov 2026 12:00:14 GMT</pubDate>
       <guid isPermaLink="false">d4vbqz71j8q9mncepjops9wdg</guid>
       <author>noreply@reisen-ww.github.io (Mistral AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 发布支持文本与照片生成动画GIF的 Images 2.6 模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/uvs1tn1s3b62hlve4z7ei781t</link>
-      <description><![CDATA[<p>OpenAI 推出 Images 2.6 模型，支持文本与照片生成动画GIF，并开放 Flare（高效）和 Sunburst（高质量）API 模型。用户通过 ChatGPT 和 API 每周生成图像量超40亿，较九月增长1亿。</p>
-<p>🔗 <a href="https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/uvs1tn1s3b62hlve4z7ei781t">https://reisen-ww.github.io/hot-pages/aihot/items/uvs1tn1s3b62hlve4z7ei781t</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Wed, 04 Nov 2026 19:44:20 GMT</pubDate>
-      <guid isPermaLink="false">uvs1tn1s3b62hlve4z7ei781t</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT 新增动画 GIF 生成功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/jsr54leknocd97tb0zzqoj7rm</link>
-      <description><![CDATA[<p>OpenAI 在 ChatGPT 和 API 中推出图像生成升级，周均生成量超40亿张（较9月增长）。新增GIF制作功能，支持调整动画速度、编辑单帧及分享，并推出GPT-Image-2.6 Flare和Sunburst API以提升生成速度和质量。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/jsr54leknocd97tb0zzqoj7rm">https://reisen-ww.github.io/hot-pages/aihot/items/jsr54leknocd97tb0zzqoj7rm</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Wed, 04 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">jsr54leknocd97tb0zzqoj7rm</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[U Mobile基于Amazon Bedrock AgentCore构建智能电信运营平台]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xwy1u37grq7pbj5t1qfpzla42</link>
-      <description><![CDATA[<p>U Mobile通过Amazon Bedrock AgentCore构建的AI客服系统AiDaH，使关键工单量下降至84.5%。系统采用六层架构，集成多领域专家代理与统一工具接口，并经过安全审计。一年内覆盖150+场景，成为正式L2支持流程。安全措施包括AWS Security Hub验证、Cognito OAuth授权、DynamoDB权限控制及KMS加密。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xwy1u37grq7pbj5t1qfpzla42">https://reisen-ww.github.io/hot-pages/aihot/items/xwy1u37grq7pbj5t1qfpzla42</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Wed, 04 Nov 2026 16:23:33 GMT</pubDate>
-      <guid isPermaLink="false">xwy1u37grq7pbj5t1qfpzla42</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>
 </rss>

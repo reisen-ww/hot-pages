@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[DeepMind发布AlphaGenome 2模型：解析细胞读取DNA机制以增进疾病理解]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm</link>
+      <description><![CDATA[<p>DeepMind发布AlphaGenome 2模型，通过单细胞生物学与人类遗传学结合，显著提升特定细胞类型基因表达预测精度（较前代因果变体识别率提高30%至16%，方向性基因效应识别率提升23%至43%）。该模型支持未见过的新细胞状态推断（如COVID-19 mRNA疫苗激活的T细胞），并首次整合DNA甲基化预测功能。现提供非商业API访问和商业预览，已包含107百万个体细胞数据训练。</p>
+<p>🔗 <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm">https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Wed, 11 Nov 2026 15:00:15 GMT</pubDate>
+      <guid isPermaLink="false">lgk58pak7v504xjvk5iprvffm</guid>
+      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
+    </item>
+    <item>
+      <title><![CDATA[DeepMind发布AlphaGenome 2：精准解析细胞级疾病根源]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/orlugphkp6ti32tu7o4jj7lrm</link>
+      <description><![CDATA[<p>DeepMind发布AlphaGenome 2模型，通过训练1.08亿个细胞profile（覆盖68种组织），可识别近两倍于前代的基因变体对细胞的影响。该模型能预测未训练的新细胞状态，并协助科学家定位实验研究方向。长期目标包括构建虚拟细胞系统。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/orlugphkp6ti32tu7o4jj7lrm">https://reisen-ww.github.io/hot-pages/aihot/items/orlugphkp6ti32tu7o4jj7lrm</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">orlugphkp6ti32tu7o4jj7lrm</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
       <title><![CDATA[NaiveAI发布Naive-N0.5-Flash模型：超高速推理与复杂应用测试]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/dc3q76bpl3hujn1ajt1wr2tq6</link>
       <description><![CDATA[<p>NaiveAI发布Naive-N0.5-Flash模型，在中等及以下任务中响应速度显著快于GLM 5.3 Flash和DeepSeek V4.1 Flash 1017。</p>
@@ -117,17 +139,6 @@
       <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="false">b92wxe7nrmxaifrkx5xpjeyax</guid>
       <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Dharma Field Extractor 发布文档结构化提取器]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ar9ub8bzzbxf0w58st9lhdruv</link>
-      <description><![CDATA[<p>Dharma Field Extractor 实现文档结构化提取，在性能和成本上优于 GPT-5.6 Luna 等前沿模型。该模型基于 DharmaOCR-LITE v1.1 微调，通过 LoRA 适配器在 43,384 个标注数据上训练，支持开放模式（无 schema）和结构化模式（指定 JSON schema）。</p>
-<p>🔗 <a href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ar9ub8bzzbxf0w58st9lhdruv">https://reisen-ww.github.io/hot-pages/aihot/items/ar9ub8bzzbxf0w58st9lhdruv</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Wed, 04 Nov 2026 17:50:10 GMT</pubDate>
-      <guid isPermaLink="false">ar9ub8bzzbxf0w58st9lhdruv</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
     </item>
   </channel>
 </rss>

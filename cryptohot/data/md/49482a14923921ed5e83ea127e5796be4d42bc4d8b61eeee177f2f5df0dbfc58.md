@@ -1,0 +1,16 @@
+# Hyperwave宣布于12月16日关闭协议，金库仅支持提取
+
+> 原标题：Hyperwave将于12月16日关闭协议，所有金库已转为仅允许提取
+
+- 来源：PANews
+- 发布时间：2026-11-11T10:49:18.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/vbtn928dsqfgn61o0d3adv7d9
+- 原文：https://www.panewslab.com/zh/articles/01a1ca39-f6ef-768c-b884-31c41cdacd70
+
+## 摘要
+
+Hyperwave宣布将于12月16日关闭协议，用户需在此前完成金库提取，剩余资金将按比例返还，且协议关闭前金库收益的100%将用于HWAVE代币回购和销毁。
+
+## 推荐理由
+
+用户需在12月16日前完成金库提取，剩余资金将按比例返还，且协议关闭前金库收益的100%将用于HWAVE代币回购和销毁，影响代币持有者资产处理方式。

@@ -63,16 +63,5 @@
       <guid isPermaLink="false">g9375qehlya5nkvngxsnsa53d</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[Nvidia RTX Spark笔记本电脑因加密固件在Linux下推理速度骤降至35%]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/aycgmsa2098h4xv9p75re78sl</link>
-      <description><![CDATA[<p>Nvidia RTX Spark笔记本电脑在Linux环境下因加密固件导致GPU性能骤降，推理速度仅为Windows的21%。实测显示：Windows达65.4 tokens/s，WSL为65.1 tokens/s，DGX Spark桌面版61 tokens/s，而原生Linux仅13.9 tokens/s。</p>
-<p>🔗 <a href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/aycgmsa2098h4xv9p75re78sl">https://reisen-ww.github.io/hot-pages/openhot/items/aycgmsa2098h4xv9p75re78sl</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Wed, 04 Nov 2026 08:46:29 GMT</pubDate>
-      <guid isPermaLink="false">aycgmsa2098h4xv9p75re78sl</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
   </channel>
 </rss>

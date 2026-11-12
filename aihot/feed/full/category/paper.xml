@@ -9,6 +9,50 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Amazon SageMaker HyperPod 静默数据损坏检测与恢复方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc</link>
+      <description><![CDATA[<p>本文介绍了在Amazon SageMaker HyperPod中检测和恢复静默数据损坏的三种方法：1）梯度非有限值检查（捕获NaN/Inf异常）；2）环式回放审计（通过跨节点微批次复现验证计算路径错误）；3）权重指纹比较（检测更新后权重不一致）。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc">https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Wed, 11 Nov 2026 23:30:03 GMT</pubDate>
+      <guid isPermaLink="false">veryldoyvs8e4iaxuf62k4hrc</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google DeepMind发布AlphaProof Code工具，四周完成Signal加密协议验证]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/dt3urf5lbe93e756rbg2xvyv2</link>
+      <description><![CDATA[<p>Google DeepMind发布AlphaProof Code工具，四周完成Signal加密协议验证，并实现自动化漏洞检测。该工具通过AI agents编写验证代码，覆盖六百万行代码，标记约1%需人工审查，并成功识别预植测试漏洞。</p>
+<p>🔗 <a href="https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/dt3urf5lbe93e756rbg2xvyv2">https://reisen-ww.github.io/hot-pages/aihot/items/dt3urf5lbe93e756rbg2xvyv2</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Wed, 11 Nov 2026 18:18:25 GMT</pubDate>
+      <guid isPermaLink="false">dt3urf5lbe93e756rbg2xvyv2</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS发布UAEF框架：支持多框架AI代理闭环评估的开源系统]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0</link>
+      <description><![CDATA[<p>AWS推出开源评估框架UAEF，支持LangGraph、LangChain等框架的AI代理进行多维度指标（工具调用、响应质量、推理能力等）评估。系统通过适配器统一处理不同框架的执行轨迹，存储结果至DynamoDB/S3，生成对比报告和LLM辅助分析。案例显示企业客户通过该框架检测退化、优化提示词和模型，实现闭环迭代。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0">https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Wed, 11 Nov 2026 15:50:55 GMT</pubDate>
+      <guid isPermaLink="false">h8p3jjqnri7gxeo113jxngsz0</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Hugging Face发布多向量嵌入模型压缩训练方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/pcyak5qzcd3ms9tocpk7c842b</link>
+      <description><![CDATA[<p>Hugging Face发布token pooling-aware训练方法，通过Ward层次聚类将平均文档向量数压缩至原值的25%（pool_factor=4），在NanoBEIR@13测试集上nDCG@10从49.03提升至51.23（+2.20），同时保持检索质量。</p>
+<p>🔗 <a href="https://huggingface.co/blog/token-pooling">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/pcyak5qzcd3ms9tocpk7c842b">https://reisen-ww.github.io/hot-pages/aihot/items/pcyak5qzcd3ms9tocpk7c842b</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">pcyak5qzcd3ms9tocpk7c842b</guid>
+      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Google DeepMind发布AlphaProof Code：首个AI形式验证保护Signal加密协议]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/r66k97dfagns4nehp2wbvjlwh</link>
       <description><![CDATA[<p>Google DeepMind发布AlphaProof Code，首次通过AI自动形式验证确保Signal加密协议的安全性，将传统需数年完成的工作压缩至四周。该框架由Gemini Carbon模型驱动，验证覆盖编译代码层面，并引入真实漏洞测试。</p>
@@ -106,39 +150,6 @@
       <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
       <guid isPermaLink="false">nzixetzsj6d3uvb37ozyp4nq1</guid>
       <author>noreply@reisen-ww.github.io (Microsoft Research)</author>
-    </item>
-    <item>
-      <title><![CDATA[Agile Deliberation框架：AI如何协助人类界定主观概念灰色区域]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/iktf40rxnga3r2r6vsffkdb54</link>
-      <description><![CDATA[<p>Google Research提出协作式AI框架Agile Deliberation，通过迭代对话帮助用户定义主观概念边界，实验显示模型准确率提升25%。该框架包含概念界定（概念scoping）和概念迭代（概念iteration）两阶段，在健康食品和付费内容审核等复杂场景中验证了用户认知疲劳降低和边界定义精准度提升效果。</p>
-<p>🔗 <a href="https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/iktf40rxnga3r2r6vsffkdb54">https://reisen-ww.github.io/hot-pages/aihot/items/iktf40rxnga3r2r6vsffkdb54</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Wed, 04 Nov 2026 18:07:05 GMT</pubDate>
-      <guid isPermaLink="false">iktf40rxnga3r2r6vsffkdb54</guid>
-      <author>noreply@reisen-ww.github.io (Google Research)</author>
-    </item>
-    <item>
-      <title><![CDATA[CloudOpsBench开源评测揭示AI云运维最大瓶颈是推理能力]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gt1gczoss9nsvhtnrokkm722y</link>
-      <description><![CDATA[<p>CloudOpsBench开源评测显示，AI在云运维任务中约80%的失败源于推理不足（包括任务范围误判和未检查相关服务），20%为错误操作（部分导致基础设施不可逆损失）。测试基于AWS的45个真实运维任务，Claude Fable 5.1通过率60%，GPT-6 Astra 53%。项目已开源（Apache 2.0），GitHub提供详细失败分析。</p>
-<p>🔗 <a href="https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gt1gczoss9nsvhtnrokkm722y">https://reisen-ww.github.io/hot-pages/aihot/items/gt1gczoss9nsvhtnrokkm722y</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Wed, 04 Nov 2026 16:42:52 GMT</pubDate>
-      <guid isPermaLink="false">gt1gczoss9nsvhtnrokkm722y</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 发布自主漏洞修复管道，发现 Linux 内核 948 个特权升级漏洞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/t9refbbkjoa3cluhg4r3a6b82</link>
-      <description><![CDATA[<p>OpenAI 发布自主漏洞修复管道，发现并验证 Linux 内核 948 个本地特权升级漏洞，并生成相应补丁。</p>
-<p>🔗 <a href="https://openai.com/index/a-thousand-fewer-paths-to-root">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/t9refbbkjoa3cluhg4r3a6b82">https://reisen-ww.github.io/hot-pages/aihot/items/t9refbbkjoa3cluhg4r3a6b82</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">t9refbbkjoa3cluhg4r3a6b82</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
   </channel>
 </rss>

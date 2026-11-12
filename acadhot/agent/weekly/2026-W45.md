@@ -59,7 +59,7 @@
    摘要：某团队在B16黑色素瘤小鼠模型中测试BNCT，发现其显著抑制肿瘤生长（TGI ~88.9%, p&lt;0.001）并延长生存，同时诱导免疫原性细胞死亡（ICD）和Th1型免疫反应（IFN-gamma/TNF-alpha升高，IL-10降低），但未观察到局部CD8+ T细胞浸润和granzyme B表达增加。
    原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.04.764456v1?rss=1)
 
-9. [表皮朗格汉斯细胞通过神经免疫调节作用调控痛觉与瘙痒（bioRxiv:10.64898/2026.11.06.756111v1）](https://reisen-ww.github.io/hot-pages/acadhot/items/luresrkssz2kc3kc5mx82mwcj)
+9. [表皮朗格汉斯细胞通过神经免疫调节作用调控痛觉与瘙痒（bioRxiv:10.64898/2026.11.06.756111v1）](https://www.biorxiv.org/content/10.64898/2026.11.06.756111v1?rss=1)
    来源：bioRxiv · 发布时间：2026-11-07 08:00（北京时间） · 一手
    摘要：本研究发现表皮朗格汉斯细胞通过分泌semaphorin 7A增强瘙痒信号传导。转录组分析显示LCs与非肽能感觉神经元存在特异性关联，LCs激活可增强热、机械和瘙痒刺激引发的神经元反应及行为学表现。
    原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.06.756111v1?rss=1)

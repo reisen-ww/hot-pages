@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[C++26标准因社区争议投票失败，暴露开源治理流程问题]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</link>
+      <description><![CDATA[<p>C++26标准因社区争议投票失败，核心争议围绕Contracts新特性。多国反馈的安全机制与标准库强耦合问题未获采纳，最终投票未达通过门槛。事件反映C++标准制定流程的分裂与协调失效，引发对开源治理模式的讨论。</p>
+<p>🔗 <a href="https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar">https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 18:49:35 GMT</pubDate>
+      <guid isPermaLink="false">jjkg7losfy4z6qnhwar4sljar</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[GitHub Actions 新增锁文件机制防范供应链攻击]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</link>
+      <description><![CDATA[<p>GitHub Actions 在 2026 年 11 月正式支持工作流锁文件，通过锁定依赖库的版本号（如 v7.0.1、v3.1.0）避免恶意代码替换。作者演示了使用 `gh actions-lock` 工具生成锁文件（actions.lock）的配置方法，并建议通过 `zizmor` 工具验证锁文件有效性。</p>
+<p>🔗 <a href="https://hugovk.dev/blog/2026/lock-github-actions/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o">https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 18:16:01 GMT</pubDate>
+      <guid isPermaLink="false">cc92w3d9y8vpvwqtxlwymi71o</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Mozilla Firefox 145版本发布：通过指纹识别研究显著提升用户隐私保护]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</link>
+      <description><![CDATA[<p>Mozilla Firefox 145版本发布，通过指纹识别研究显著提升用户隐私保护。基于近2500万Firefox用户的数据分析，研究团队在CCS 2026国际安全会议发表论文，并开放测试网站和工具。</p>
+<p>🔗 <a href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst">https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
+      <guid isPermaLink="false">valupcxo1s024tghy4cldjcst</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[PDG-Global 开源 Rust 写的端到端加密 VPN rVPN]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/o4qkmmpnrvm7opyoxv6nxgmf7</link>
       <description><![CDATA[<p>PDG-Global 开源了基于 Rust 的端到端加密 VPN rVPN，支持 iOS/Android/macOS/Linux/FreeBSD 多平台，提供可验证构建流程（GitHub 仓库地址：https://github.com/PDG-Global/rVPN-core），AGPLv3 许可证确保代码永久开放</p>
@@ -139,28 +172,6 @@
       <pubDate>Thu, 05 Nov 2026 02:33:36 GMT</pubDate>
       <guid isPermaLink="false">o62d4g72xdmxc1xxfrsu0wvk2</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Stream Vessel 修复 MCP 开放重定向漏洞：用户自主管理信任地址列表]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9</link>
-      <description><![CDATA[<p>Stream Vessel 团队通过用户自定义信任地址机制，修复了 MCP 服务器因开放重定向导致的账户接管漏洞。攻击链演示：匿名注册恶意客户端→伪造可信重定向域名→用户点击Approve→授权码泄露。</p>
-<p>🔗 <a href="https://streamvessel.com/blog/mcp-trusted-redirect-uris">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9">https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 04 Nov 2026 15:30:57 GMT</pubDate>
-      <guid isPermaLink="false">dmi1f2ki2iss4r576o2zdn7n9</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Puppet服务器存在远程代码执行漏洞及主机身份伪造漏洞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw</link>
-      <description><![CDATA[<p>某团队发现Puppet的两个安全漏洞：1. Puppet服务器通过事件反序列化实现远程代码执行（CVSS 9.1）；2. 主机身份伪造漏洞允许未经授权的认证。漏洞影响企业环境中的配置管理，供应商已于2026年11月3日发布修复补丁，并公开安全公告（GHSA-ffr6-rwpm-p5wq和GHSA-q4hm-33rc-572g）。</p>
-<p>🔗 <a href="https://neodyme.io/en/blog/puppet_rce">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw">https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 04 Nov 2026 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">s8psmpi667xx7u2313rd5s5kw</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

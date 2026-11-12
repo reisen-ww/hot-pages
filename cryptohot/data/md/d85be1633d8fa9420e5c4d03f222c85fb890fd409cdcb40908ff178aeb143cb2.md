@@ -1,0 +1,16 @@
+# 多州禁止体育博彩合约，Robinhood与Coinbase面临合规调整
+
+> 原标题：Sports Betting Built the Prediction Market Boom. Is It Headed for a Ban?
+
+- 来源：Unchained
+- 发布时间：2026-11-11T15:30:13.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/m98tk1hcldu47yg34qw9pl7e1
+- 原文：https://unchainedcrypto.com/sports-betting-built-the-prediction-market-boom-is-it-headed-for-a-ban/
+
+## 摘要
+
+美国多州禁止体育博彩合约，Robinhood与Coinbase已停止相关业务。Robinhood Q3 2026事件合约收入达1.73亿美元（同比增6倍），Coinbase通过Kalshi平台年化营收超20亿美元，但面临CFTC新规（生效11月14日）与多州诉讼压力。CFTC要求交易所不得因州法拒绝服务，但已有6个州强制禁令，涉及最高50万美元/日的罚款。
+
+## 推荐理由
+
+原文提供了Robinhood和Coinbase在体育博彩合约上的营收变化及CFTC新解释，读者可据此评估监管风险对两家公司的影响。

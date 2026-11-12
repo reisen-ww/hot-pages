@@ -1,127 +1,129 @@
-# 学术日报 · 2026-11-11
+# 学术日报 · 2026-11-12
 
-- 期号：第 32 期
-- 发布：2026-11-11 08:02（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/acadhot/daily/2026-11-11)
+- 期号：第 33 期
+- 发布：2026-11-12 08:00（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/acadhot/daily/2026-11-12)
 
 ## 头条
 
-某团队在 bioRxiv 发表关于 WDR5 识别 lncRNA UMLILO 的 RNA 结构机制研究
+某团队通过干涉测量独立确认M87\*黑洞阴影及质量
 
 ## AI 与计算
 
-1. [Texas A&amp;M 大学团队在《Journal of Biomedical Optics》发表突破性显微技术：分辨率提升五倍且深度保持](https://reisen-ww.github.io/hot-pages/acadhot/items/deuiess317m9j8m0zluwq5kv7)
-   来源：Phys.org · 发布时间：2026-11-11 07:20（北京时间）
-   摘要：Texas A&amp;M 大学团队开发出一种新型显微技术（2PE-ISM-SOFI），在活体组织深层成像的同时将分辨率提升至75纳米（传统方法的五倍）。该技术通过结合双光子激发成像扫描与超分辨光学波动成像，解决了深度与细节的矛盾问题。
-   原文：[打开原文](https://phys.org/news/2026-11-microscopy-sharpens-images-fivefold-sacrificing.html)
+1. [Sarkar 等在 medRxiv 提出生成式AI增强脑卒中EEG信号分类的新方法](https://www.medrxiv.org/content/10.64898/2026.11.09.26367632v1?rss=1)
+   来源：medRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
+   摘要：Sarkar 等在 medRxiv 发表研究，提出一种结合特征选择与生成式AI（WGAN-GP）的混合方法，用于小样本脑卒中EEG信号分类。在50名患者数据上，该方法实现72%的分类准确率，优于传统SMOTE和ADASYN方法。研究验证了生成式数据增强在有限临床数据中的有效性，并提供了可复用的技术框架。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.09.26367632v1?rss=1)
 
 ## 生命与医学
 
-1. [某团队在 bioRxiv 发表关于 WDR5 识别 lncRNA UMLILO 的 RNA 结构机制研究](https://reisen-ww.github.io/hot-pages/acadhot/items/kq9zkuxrewqgyz1ehsekblg5a)
-   来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-   摘要：某团队在 bioRxiv 发表关于 WDR5 识别 lncRNA UMLILO 的 RNA 结构机制研究，揭示了两者通过保守RNA茎环结构的多价相互作用机制。通过化学 probing 和 NMR 结合分析，发现 UMLILO 通过多个茎环结构结合 WDR5 表面，并证实完整 UMLILO 可促进 WDR5 在体外凝聚体中的招募。
-   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765059v1?rss=1)
+1. [He等人揭示BAF复合体与lineage-限制性转录因子协同建立细胞特异性调控程序](https://reisen-ww.github.io/hot-pages/acadhot/items/ziia5al69rydlz6ggz7n7tejo)
+   来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+   摘要：该研究通过患者来源的ATRT类器官和原代肿瘤组织的多组学整合分析，发现SMARCB1的重新构建使lineage-限制性转录因子RFX4能够结合调控元件并激活神经元分化程序，部分将ATRT-MYC亚型转化为ATRT-SHH亚型。基因组-wide结合与转录组分析显示，SMARCB1的恢复使RFX4参与调控细胞特异性程序，揭示了BAF复合体功能受转录因子配列约束的机制。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.08.764927v1?rss=1)
 
-2. [某研究团队在 bioRxiv 发表关于EWSR1::ATF1超激活与CCS代谢重排的论文](https://reisen-ww.github.io/hot-pages/acadhot/items/ttsmhrw9ngbo8yal72h1azxzw)
-   来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-   摘要：某研究团队在 bioRxiv 发表论文，发现TRIM11通过调控EWSR1::ATF1融合蛋白的降解影响CCS细胞代谢，并揭示PCK1作为关键介质与患者预后相关。研究通过CRISPR/Cas9筛选、质谱分析、代谢组学等技术验证机制，并发现PCK1高表达与CCS转移和生存期缩短相关。
-   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.06.764260v1?rss=1)
+2. [Barri 等人在 bioRxiv 发布闭环电路中吸引子稳定性的几何决定因素与时间序列学习比较](https://reisen-ww.github.io/hot-pages/acadhot/items/zf4i6wzqh2ogpwj9kb69lbqjk)
+   来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+   摘要：Barri 等人在 bioRxiv 发布闭环电路中吸引子稳定性的几何决定因素与时间序列学习比较。研究发现，在闭环配置中，循环神经网络（RNN）结合前馈层（FFL）能学习周期性目标信号，而单独RNN无法形成吸引子状态。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765266v1?rss=1)
 
-3. [Nature Medicine：新一代 KRAS G12C 抑制剂在非小细胞肺癌中延长生存期](https://reisen-ww.github.io/hot-pages/acadhot/items/w0le3e2uqhuf77bdkd580cidi)
-   来源：Nature Medicine · 发布时间：2026-11-10 08:00（北京时间） · 一手
-   摘要：III期临床试验显示新一代 KRAS G12C 抑制剂 divarasib 在非小细胞肺癌患者中较 sotorasib 和 adagrasib 显著延长无进展生存期。
-   原文：[打开原文](https://www.nature.com/articles/d41591-026-00057-9)
+3. [Osnabrück大学等团队在《Nature Chemical Biology》首次解析叶绿素合成酶结构](https://reisen-ww.github.io/hot-pages/acadhot/items/e8g3j3zjo6cngompy34hrkbro)
+   来源：Phys.org · 发布时间：2026-11-12 04:00（北京时间）
+   摘要：Dmitry Shvarev团队通过冷冻电镜、生化及建模技术，首次解析叶绿素合成酶的分子结构，明确其催化环与尾链连接位点。研究揭示该酶在镁离子环形成后，通过特定氨基酸残基将疏水尾链锚定，为光合作用色素组装机制提供了新证据。论文DOI为10.1038/s41589-026-02357-0，发表于2026年11月11日。
+   原文：[打开原文](https://phys.org/news/2026-11-biologists-reveal-chlorophyll-enzyme-mechanism.html)
 
-4. [PSYNOVIUM 研究首次提出银屑病关节炎滑膜亚型分类框架](https://reisen-ww.github.io/hot-pages/acadhot/items/lf2w9ndxdpz54d23gymxkki7t)
-   来源：medRxiv · 发布时间：2026-11-09 08:00（北京时间） · 一手
-   摘要：某研究团队在 medRxiv 发表首个基于机器学习的银屑病关节炎滑膜亚型分类框架，定义 Dense Myeloid（巨噬细胞驱动）、Fibro-Stromal（纤维化与低免疫）、Angio-Lymphoid（高血管与浆细胞浸润）三种亚型，并开发四标记诊断决策树（CD31、CD68、CD138、picrosirius red），为精准医学提供新工具。
-   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.06.26367442v1?rss=1)
+4. [宾夕法尼亚大学研究：Bennu小行星氨基酸同位素分析揭示太阳系不同区域形成之谜](https://reisen-ww.github.io/hot-pages/acadhot/items/ahbbm6nibiqge6tedjw2j04o3)
+   来源：Phys.org · 发布时间：2026-11-11 22:20（北京时间）
+   摘要：宾夕法尼亚大学团队通过新型同位素分析技术，发现Bennu小行星与默奇森陨石中的β-氨基酸同位素分布存在显著差异，暗示其可能在太阳系不同区域形成。研究采用仅存在于宾夕法尼亚大学的pico-CSIA仪器和改良GC-Orbitrap，首次在β-氨基酸分子内检测到碳同位素异常分布，证实原始太阳系化学环境多样性。
+   原文：[打开原文](https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html)
 
-5. [血清BD-tau区分急性脑损伤与脊髓损伤](https://reisen-ww.github.io/hot-pages/acadhot/items/hyd6yqdxdu7mp8b6fm41w662m)
+5. [门诊危机服务与青少年自杀急诊 revisit 率关联性研究](https://www.medrxiv.org/content/10.64898/2026.11.09.26367462v1?rss=1)
    来源：medRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-   摘要：某研究团队在medRxiv发表预印本，发现血清BD-tau可区分创伤性脑损伤与脊髓损伤（AUC=0.91），优于神经丝轻链等传统生物标志物（AUC=0.82）。纵向数据显示BD-tau在144小时内持续区分两类损伤，且血清检测优于脑脊液检测（AUC=0.95 vs 0.80）。研究由美国匹兹堡大学伦理委员会批准，资助方包括美国国立卫生研究院（NIH）等机构。
-   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.08.26365143v1?rss=1)
+   摘要：某研究显示，青少年自杀干预中门诊危机服务可将90天和180天的急诊 revisit 率分别降低至0.67和0.68倍（调整后比数比，95%置信区间0.56-0.81和0.59-0.80）。该研究针对3,125名在2023年10月至2025年8月期间因自杀意念或行为就诊的青少年，通过倾向得分匹配平衡了人口学、临床和既往治疗特征。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.09.26367462v1?rss=1)
 
-6. [Vir Biotechnology III期基因疗法治疗丙型肝炎达主要终点](https://reisen-ww.github.io/hot-pages/acadhot/items/rzy1gpphhd3fjvzjbd6l4um0t)
-   来源：STAT News · 发布时间：2026-11-09 22:36（北京时间）
-   摘要：Vir Biotechnology宣布其III期临床试验显示，每月注射两种实验药物使44%的受试者丙型肝炎病毒检测不到（对照组无改善）。Zura Bio中期试验显示抗体tibulizumab未改善脓疱性痤疮症状。
-   原文：[打开原文](https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss)
-
-7. [诺华终止实验性心脏病药物研发，BIO起诉特朗普医保定价计划](https://reisen-ww.github.io/hot-pages/acadhot/items/y8l9tkb7pwpnffdaia25dr00u)
-   来源：STAT News · 发布时间：2026-11-09 22:28（北京时间）
-   摘要：诺华宣布终止实验性心脏病药物研发，因临床试验显示未能降低心血管死亡风险。生物技术创新组织（BIO）联合加州生物技术团体起诉特朗普政府医保定价计划，要求阻止该模型。该计划因豁免多数企业而预期影响有限，但诺华实验性药物（NCT05243224）的失败结果可能影响其他Lp(a)靶向药物研发公司（如Amgen、Eli Lilly）的研发策略。
-   原文：[打开原文](https://www.statnews.com/pharmalot/2026/11/09/novartis-abandons-heart-drug-bio-fighting-trump-program/?utm_campaign=rss)
-
-8. [Nature Medicine 发表 Tu-Stroma 非编码RNA 可作为卵巢癌早期及癌前病变筛查的新型生物标志物](https://reisen-ww.github.io/hot-pages/acadhot/items/fmj8msdtwh286uc1l4vt7b98i)
-   来源：Nature Medicine · 发布时间：2026-11-10 08:00（北京时间） · 一手
-   摘要：Nature Medicine 发表 Tu-Stroma 非编码RNA 可作为卵巢癌早期及癌前病变筛查的新型生物标志物。研究显示 Tu-Stroma 在血液中的浓度变化与卵巢癌进展阶段显著相关，其检测方法（如 qPCR）在临床前模型中达到 95% 的特异性。该成果弥补了现有筛查手段对早期癌变的敏感性不足问题，DOI:10.1038/s41591-026-04755-2
-   原文：[打开原文](https://www.nature.com/articles/s41591-026-04755-2)
-
-9. [MD Anderson 癌症中心团队在 PNAS 发表研究：空腹与特定肠道菌群协同激活肠道修复机制](https://reisen-ww.github.io/hot-pages/acadhot/items/qg1egkhajuti4w7dktzftzzq9)
-   来源：ScienceDaily 健康医学 · 发布时间：2026-11-08 19:06（北京时间）
-   摘要：MD Anderson 癌症中心团队在 PNAS 发表研究，发现24小时空腹使肠道益生菌Akkermansia数量增加，其代谢产物丙酸通过表观遗传修饰增强肠道细胞修复能力。实验显示选择性去除Akkermansia后空腹不再产生修复效果，证实该菌的关键作用。研究提出通过菌群干预或代谢产物补充替代空腹，或可减少癌症放疗患者肠道损伤。
-   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261104084024.htm)
-
-10. [北京大学 Wang 等在《自然城市》揭示全球十大沉降严重城市及地下水影响](https://reisen-ww.github.io/hot-pages/acadhot/items/ir6gkrcqg1un51w3ex68p1ne3)
-    来源：奇客 Solidot · 发布时间：2026-11-09 21:08（北京时间）
-    摘要：北京大学 Wang 等在《自然城市》发表全球主要城市地面沉降研究，揭示地下水开采是主因。数据显示10座最严重城市包括墨西哥托雷翁、墨西哥城、巴西弗洛里亚诺波利斯等，北京通过停止地下水开采并使用长江水，使部分区域沉降停止。加州伯克利专家 Roland Bürgmann 指出未均匀沉降的潜在风险。
-    原文：[打开原文](https://www.solidot.org/story?sid=85840)
+6. [玉溪师范学院与云南农业大学联合研究发现：对羟基苯甲酸通过刺激尖孢镰刀菌促进三七根腐病发生](https://reisen-ww.github.io/hot-pages/acadhot/items/d574ig9nbwc9md862sr2a5mtp)
+   来源：科学网博客 · 发布时间：2026-11-11 11:04（北京时间）
+   摘要：玉溪师范学院与云南农业大学联合研究发现：对羟基苯甲酸通过刺激尖孢镰刀菌促进三七根腐病发生。研究通过GC-MS/HPLC鉴定土壤酚酸组成，结合平板毒力试验和根际微生物测序，发现连作3年后土壤p-HBA浓度下降至2.22 mmol·L⁻¹，同时F. oxysporum占比升至18.1%，根腐病发病率达16.7%。
+   原文：[打开原文](http://blog.sciencenet.cn/home.php?mod=space&uid=3289971&do=blog&id=1560701)
 
 ## 物质与量子
 
-1. [日本东北大学与台北科技大学在《Inorganic Chemistry》发表水分子介导铜离子反铁磁配对的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/s6pxucx755nl81d4baio5bhpl)
-   来源：Phys.org · 发布时间：2026-11-11 07:10（北京时间）
-   摘要：日本东北大学与台北科技大学在《Inorganic Chemistry》发表研究，发现水分子通过氢键在氟化配位铜化合物中诱导形成反铁磁对。研究团队通过单晶X射线衍射和核磁共振实验，证实低于260K时水分子有序排列导致氢键网络重构，进而形成反铁磁相互作用。该成果为设计新型磁性材料提供了无需强化学键直接耦合磁离子的新途径。
-   原文：[打开原文](https://phys.org/news/2026-11-molecules-secret-messengers-magnetism.html)
+1. [某团队通过干涉测量独立确认M87*黑洞阴影及质量](https://reisen-ww.github.io/hot-pages/acadhot/items/uh5i4v67jbl798tf6q9483r7a)
+   来源：Nature · 发布时间：2026-11-11 08:00（北京时间） · 一手
+   摘要：某团队通过干涉测量算法独立确认M87\*黑洞存在环状阴影及质量。研究基于超长基线射电干涉数据集，采用闭合不变形式与扩散重建方法，绕过传统校准假设。论文发表于 Nature 2026 年 11 月 11 日（DOI:10.1038/s41586-026-11241-9）。
+   原文：[打开原文](https://www.nature.com/articles/s41586-026-11241-9)
+
+2. [Nature: 单晶金红石二氧化钛绝缘体实现低功耗二维 CFETs](https://reisen-ww.github.io/hot-pages/acadhot/items/us3pxmhy9zp3x17n7xlr629za)
+   来源：Nature · 发布时间：2026-11-11 08:00（北京时间） · 一手
+   摘要：该研究成功开发出基于单晶金红石二氧化钛绝缘体的低功耗二维 CFETs，其开关特性接近理想状态，且具有超低功耗特性。实验表明，该绝缘体与二维半导体结合后，晶体管开关损耗降低至传统材料的1/5，同时漏电流减少98%，为新型电子器件提供了可行方案。
+   原文：[打开原文](https://www.nature.com/articles/s41586-026-11272-2)
+
+3. [渥太华大学团队提出新宇宙学模型：宇宙年龄或为当前认知的两倍](https://reisen-ww.github.io/hot-pages/acadhot/items/hf7roll816kue02zjonapxb9l)
+   来源：ScienceDaily 综合 · 发布时间：2026-11-11 14:46（北京时间）
+   摘要：渥太华大学 Gupta 教授与 Samaras 博士提出新宇宙学模型 CCC+TL，无需暗物质即可解释星系旋转曲线及早期星系观测现象。模型通过修改爱因斯坦方程成功预测了宇宙年龄（26.7 亿年 vs 标准模型 13.8 亿年），并解释了詹姆斯·韦伯望远镜观测到的超成熟早期星系。研究已通过多项关键测试包括宇宙微波背景匹配和子弹星系团引力效应验证，但需更多观测数据支持。
+   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261108233040.htm)
+
+4. [中南大学刘建团队在 Aerospace 发表混合燃料电池飞机液冷热管理系统的参数化研究](https://reisen-ww.github.io/hot-pages/acadhot/items/lokwa81i1xb6fifzsdmdh7ovb)
+   来源：科学网博客 · 发布时间：2026-11-11 13:08（北京时间）
+   摘要：中南大学刘建团队在 Aerospace 期刊发表研究，揭示降低巡航速度至156节可使混合动力飞机每千克有效载荷碳排放减少49%，但需权衡飞行时间延长与氢气消耗增加。
+   原文：[打开原文](http://blog.sciencenet.cn/home.php?mod=space&uid=3516770&do=blog&id=1560733)
+
+5. [CERN LHCb实验团队宣布发现B d粒子衰变为mu子对的强证据（3.2σ）](https://reisen-ww.github.io/hot-pages/acadhot/items/t6h1c9rm0gonu59iiaz7brj4u)
+   来源：ScienceDaily 综合 · 发布时间：2026-11-10 08:42（北京时间）
+   摘要：CERN LHCb实验团队宣布发现B d粒子衰变为mu子对的强证据（3.2σ），该结果首次由单一实验提供足够证据支持这一罕见衰变过程。研究通过升级探测器（2024年数据采集率提升5倍）和机器学习技术，将统计显著性从3.0σ提升至3.2σ，同时精确测定了相关B s衰变的参数。未来LHCb升级计划（2030年后）有望将数据采集率再提升10倍，为探测超出LHC直接产出的粒子提供新途径。
+   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261108233047.htm)
 
 ## 快讯
 
-- [Open-BEATBox 开源自主操作箱助力小鼠复杂行为的高通量数据采集](https://reisen-ww.github.io/hot-pages/acadhot/items/cfw2079t7alaluojk7rtlk0ov)
+- [果蝇胚胎发育中机械报告器的全球机械景观解码与预测框架](https://reisen-ww.github.io/hot-pages/acadhot/items/ie9qrvie55l44zh7owqoctwax)
+  来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+  摘要：果蝇胚胎发育研究揭示机械报告器动态可解码全球机械景观变化。通过光遗传学与基因操作，发现头裂迁移（CF）位移反映组织力学性质与外力共同作用。基于条件特异性机械景观的连续最小响应模型，构建了量化预测报告器动态的框架，并成功解码突变体中机械景观变化。该框架为解析生物发育中的复杂机械环境提供新方法。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.08.765212v1?rss=1)
+
+- [Liu 等在 bioRxiv 发布穿戴式 EEG/眼动追踪同步研究](https://reisen-ww.github.io/hot-pages/acadhot/items/xq6zrjc2o1is523x0dvkfer44)
   来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：某研究团队在bioRxiv发表Open-BEATBox开源自主操作箱，该平台通过连续自主测试方式，在小鼠视觉反转学习任务中收集约十倍于传统方法的完整试验数据，同时减少实验者干预，并证实对动物福利无显著负面影响。该平台支持多种认知任务扩展，为长期行为评估提供新工具。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765109v1?rss=1)
+  摘要：Liu 等使用穿戴式 EEG/眼动追踪设备在自然环境中捕捉到瞳孔与脑电的频率依赖耦合。通过交叉相关、互信息及格兰杰因果分析，发现低频（2-12Hz）EEG领先瞳孔动态约764ms，高频率耦合范围不同，EEG主导因果方向，类似发现出现在内感受注意测试中。该研究为脑机接口在自然场景中的应用提供可迁移技术路径。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.08.765166v1?rss=1)
 
-- [某研究团队在bioRxiv发表常见比目鱼性别决定主基因候选研究](https://reisen-ww.github.io/hot-pages/acadhot/items/q77kuxsuypz20aztluvjintuc)
-  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：某研究团队通过 pooled whole-genome sequencing 和 PacBio HiFi 测序，在冰岛和挪威的常见比目鱼样本中发现 Y 染色体携带的 gsdf 基因拷贝（gsdfY）。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.04.764161v1?rss=1)
+- [某团队在bioRxiv发表AAV载体从头设计研究，首现18%序列差异的免疫逃逸型](https://www.biorxiv.org/content/10.64898/2026.11.06.764881v1?rss=1)
+  来源：bioRxiv · 发布时间：2026-11-09 08:00（北京时间） · 一手
+  摘要：某团队通过生成模型设计出新型AAV载体，其中一种衣壳蛋白序列与自然序列差异达18%，在人类血清中完全避免中和抗体。实验合成并测试了255种设计，在两次实验中，7种设计在人类细胞中转导效率超过50%，其中4种在所有相关血清中均无中和抗体反应。该成果为突破AAV载体免疫原性提供新方法。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.06.764881v1?rss=1)
 
-- [褐藻中LOV域蛋白HELM介导光趋性的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/vixkzwkwj2h609m975264j5dl)
-  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：Duchene团队通过功能遗传学、细胞生物学和进化分析，发现褐藻Ectocarpus的HELM蛋白定位于鞭毛后端，负责其特有的黄素关联荧光，并证实HELM缺失导致光趋性丧失但保留基础运动能力。该研究首次解析褐藻光感知分子机制，并揭示LOV域蛋白在藻类进化中的重复模块化特征。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765074v1?rss=1)
+- [Broehl等在bioRxiv发表工作记忆多项目维持的时序动态研究](https://reisen-ww.github.io/hot-pages/acadhot/items/etwukmk8ye4pmkpztlwhpoyb7)
+  来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+  摘要：研究通过眼动追踪和EEG记录，发现工作记忆中多项目维持的眼动模式稳定且不交替。实验显示EEG编码仅短暂存在，而眼动模式在整个工作记忆延迟期间均反映所有项目的负荷和序列位置效应，与额叶θ活动无关。该成果验证了眼动追踪与EEG在解析工作记忆时序动态中的互补性。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.09.765261v1?rss=1)
 
-- [某团队在 bioRxiv 发表 KCNH2 变体功能评估中的表达系统偏差研究](https://reisen-ww.github.io/hot-pages/acadhot/items/yq2k1kne8jk10emh0h6nu0l8o)
-  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：某团队在 bioRxiv 发表研究，指出常用双表达构建体（IRES、P2A、dCMV）无法可靠复现 KCNH2 变体的平衡表达，其中 IRES 构建体表现最大偏差，P2A 构建体因引入 N 端脯氨酸改变通道特性。共电转染独立质粒的方法被证明能有效控制 WT 与 T74R 变体的表达比例，为多聚离子通道基因（如 hERG）的功能评估提供了新范式。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.04.764433v1?rss=1)
+- [Nature：核孔屏障蛋白以液体形式动态移动](https://reisen-ww.github.io/hot-pages/acadhot/items/ptkx577gf08t5ohqigrn5gzn1)
+  来源：Nature · 发布时间：2026-11-11 08:00（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：Nature 发表研究揭示核孔屏障蛋白具有液态动态特性，通过活细胞测量与分子动力学模拟发现其柔性蛋白链高度可移动，并指出糖基修饰与进口素β蛋白共同维持这一动态状态。
+  相关：
+  - [JGU与MPI-BP联合团队在《Nature》发表核孔内流体状屏障动态研究](https://reisen-ww.github.io/hot-pages/acadhot/items/jtpyyt328vab37fquggh3x2jv) · Phys.org · 2026-11-12 07:20（北京时间）
+  原文：[打开原文](https://www.nature.com/articles/d41586-026-03428-x)
 
-- [某研究团队在 medRxiv 发布新冠病毒感染对人类胚胎发育的影响](https://reisen-ww.github.io/hot-pages/acadhot/items/p41mm1k1pd1yj3rvimn6hvlhn)
-  来源：medRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：某研究团队在体外培养胚胎中发现，完整透明带可阻止新冠病毒感染，而激光辅助孵化使90.5%胚胎感染。感染后胚胎24小时内表面面积、总细胞数和NANOG+细胞数显著减少（p&lt;0.01），且存在病毒持续复制导致的胚胎解体死亡。
-  原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.08.26367551v1?rss=1)
+- [灵长类与啮齿类动物基底神经节多巴胺释放能力生命周期轨迹研究](https://reisen-ww.github.io/hot-pages/acadhot/items/j8fsdpk78vh6cpyqdvkkdmyod)
+  来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+  摘要：本研究首次在灵长类和啮齿类动物中系统测量了基底神经节多巴胺可及性的生命周期轨迹，发现其成年期峰值出现延迟且受GABA和乙酰胆碱调节存在物种差异。主要数据包括：恒河猴（Macaca fascicularis）多巴胺释放量在32-36月龄达到峰值，而小鼠（Mus musculus）在6-8月龄出现峰值。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765699v1?rss=1)
 
-- [某研究团队发现IL13是Stat5激活CD4 T细胞抗肿瘤活性的关键因子](https://reisen-ww.github.io/hot-pages/acadhot/items/boikpr2n077v36fhs0gf5koxg)
-  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：某研究团队发现IL13是Stat5激活CD4 T细胞抗肿瘤活性的关键因子。实验通过Hi-C和CUT&amp;Tag技术证实C5-CD4细胞存在Th2型细胞因子特征性表观基因组重塑，中和小鼠IL13后显著削弱治疗效果。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.09.765236v1?rss=1)
+- [某研究团队在 bioRxiv 发表先天性中性粒细胞减少症向白血病转化的关键突变序列](https://reisen-ww.github.io/hot-pages/acadhot/items/x3plrohr90eb5nlkjc72sz1hd)
+  来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+  摘要：该研究揭示先天性中性粒细胞减少症（CN）和Shwachman-Diamond综合征（SDS）患者中白血病转化并非随机事件，而是存在明确的突变序列。研究分析了658份样本（309例患者）的克隆造血动态，发现CN患者以CSF3R突变为主，ASXL1突变常与CSF3R共现；SDS患者TP53突变最常见。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765578v1?rss=1)
 
-- [某团队在 bioRxiv 发表皮质微电路发育自组装的计算机模型](https://reisen-ww.github.io/hot-pages/acadhot/items/eaypu6lllgaszqmz21s0u2wfl)
-  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：某团队在 bioRxiv 发表皮质微电路发育自组装的计算机模型，通过 BioDynaMo 模拟 1,200 个前体神经元在三维空间中的迁移、轴突生长和突触形成，验证了 64 种连接类型的实验测量数据（平均绝对误差 0.0062）。模型显示迁移程序反转可产生类似 reeler 小鼠的异常柱状结构，并揭示局部发育规则与皮质功能稳定性的关联机制。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.09.762492v1?rss=1)
+- [Nature：全球变暖致993种仙人掌因干旱丧失80%以上适宜栖息地](https://reisen-ww.github.io/hot-pages/acadhot/items/i6mfb1y02zwzvs1ioxgbebsfy)
+  来源：Nature · 发布时间：2026-11-11 08:00（北京时间） · 一手
+  摘要：该研究预测，到2100年全球变暖将导致超过25%的993种仙人掌因干旱失去至少80%的适宜栖息地。研究指出传统气候模型常忽略极端干旱事件，而纳入严重干旱情景后，物种栖息地损失量显著增加。
+  原文：[打开原文](https://www.nature.com/articles/d41586-026-03496-z)
 
-- [葡萄牙基金会与瑞士国家科学基金会合作研究揭示壳鱼性鱼类脑转录组特征](https://reisen-ww.github.io/hot-pages/acadhot/items/kcjr3w2yjodzzwueqikz5i6tp)
-  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：某研究团队在 bioRxiv 发表论文，比较两种可社会性鱼类（Plecodus altivelis 和 Pelmatochromis ocellatus）与独居近亲（Tilap属物种）的边缘系统（边缘脑和下丘脑）转录组特征。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.07.765067v1?rss=1)
+- [Hartmann 等在 bioRxiv 发表神经嵴细胞中 NEDD4 调控透明质酸合成对心脏瓣膜发育的影响](https://reisen-ww.github.io/hot-pages/acadhot/items/gopqs0yoomlccpr84lzkd215j)
+  来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+  摘要：Hartmann 等在小鼠中发现神经嵴来源的 NEDD4 缺失导致心脏流出道瓣膜发育异常，并揭示透明质酸（HA）合成减少是关键机制。研究显示神经嵴来源瓣膜间质中HA含量显著下降，而其他细胞外基质成分如纤连蛋白和versican不受影响。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.08.764443v1?rss=1)
 
-- [HUS1与RAD9功能差异驱动利什曼原虫基因组可塑性](https://reisen-ww.github.io/hot-pages/acadhot/items/z9po6s02gcdqob3luw5h42nq8)
-  来源：bioRxiv · 发布时间：2026-11-10 08:00（北京时间） · 一手
-  摘要：HUS1和RAD9在利什曼原虫基因组可塑性中发挥非等效作用，导致不同的复制压力响应和基因组重排模式。HUS1缺失限制DHFR-TS扩增并偏好线性扩增，RAD9缺失则伴随广泛环状扩增。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.08.765153v1?rss=1)
-
-- [东华大学团队在 Gondwana Research 发表99万年前的羽毛揭示飞行适应性进化关键阶段](https://reisen-ww.github.io/hot-pages/acadhot/items/ljg1o7oq97iva780gfe2juuor)
-  来源：Phys.org · 发布时间：2026-11-11 01:30（北京时间）
-  摘要：东华大学团队在 Gondwana Research 发表99万年前的羽毛揭示飞行适应性进化关键阶段。
-  原文：[打开原文](https://phys.org/news/2026-11-million-year-feather-evolution-flight.html)
+- [某团队在bioRxiv发表NNRTIs通过靶向激活细胞杀伤化合物影响HIV-1病毒颗粒组装的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/l9vy6hpshvlasklfd40mo8hsw)
+  来源：bioRxiv · 发布时间：2026-11-11 08:00（北京时间） · 一手
+  摘要：某团队发现Pyr01治疗显著减少HIV-1病毒颗粒中Env包膜蛋白的整合（Env cytoplasmic tail-independent manner），并导致病毒酶大量流失。研究证实病毒颗粒膜有序性下降与蛋白酶提前激活破坏Gag晶格结构直接相关。该成果为TACK化合物（如Pyr01）在HIV治疗中的应用提供了分子机制依据，同时揭示了病毒膜蛋白组装的关键调控条件。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765689v1?rss=1)

@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[基于线性规划的模型权重优化：Astra循环问题修正方法对比分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</link>
+      <description><![CDATA[<p>MIT CSAIL的Astra模型通过线性规划优化权重，在MATH-500测试中准确率从7.9%提升至48.1%。作者对比了两种方法：Astra的原始方法修改130,188个权重参数，而线性规划版本仅修改16,291个（减少87%）。</p>
+<p>🔗 <a href="https://nathan.rs/posts/weight-space-lp/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi">https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Wed, 11 Nov 2026 12:30:17 GMT</pubDate>
+      <guid isPermaLink="false">mdvy36e21p5oej46adfpmpbgi</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[亚马逊通过替换 Sonnet 4.6 为 Strands Decider 节省数百万美元]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/dlvsvy1n7mon1015e2w6ubpns</link>
       <description><![CDATA[<p>亚马逊将内部票务系统使用的 Claude Sonnet 4.6 模型替换为自研的 Strands Decider E4B，节省 98% 的 token 成本。测试显示 E4B 在响应时间（640 ms）和单票成本（$0.0005）上显著优于 Sonnet，且通过调整提示词和标签描述优化了模型效率。技术实现基于 AWS SageMaker、Lambda 和 SQS，并通过三阶段配置验证效果。</p>
@@ -50,28 +61,6 @@
       <category>模型与数据集</category>
       <pubDate>Thu, 05 Nov 2026 16:16:59 GMT</pubDate>
       <guid isPermaLink="false">x9ai08i8c6sahfqpe0z8kdlek</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 开源 Rust 写的证明大语言模型推理系统，单H100每秒110 tokens生成可验证证明]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fi1wx2bu8v7vr6x5fbzzv38vn</link>
-      <description><![CDATA[<p>Anthropic 在 GitHub 开源 FlashProve 系统，支持 Llama 4 Maverick 等400B参数模型。单H100 GPU每秒生成110 tokens证明，验证时间约17秒（24核CPU）。系统包含 Lean 形式验证证明、C++ 执行代码及技术文档，按Apache 2.0协议发布。</p>
-<p>🔗 <a href="https://www.anthropic.com/research/provable-inference">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fi1wx2bu8v7vr6x5fbzzv38vn">https://reisen-ww.github.io/hot-pages/openhot/items/fi1wx2bu8v7vr6x5fbzzv38vn</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Wed, 04 Nov 2026 17:17:46 GMT</pubDate>
-      <guid isPermaLink="false">fi1wx2bu8v7vr6x5fbzzv38vn</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Linum 开源 Apache 2.0 授权的 Rust 写文本到图像模型，训练成本约2万美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vvz12bukcdpqfm4a5op98dak6</link>
-      <description><![CDATA[<p>Linum团队在GitHub开源基于Rust的文本到图像模型，训练成本约2万美元。该模型采用Pyramid-JiT架构，通过像素空间模型压缩注意力上下文窗口4倍，在512x512分辨率下训练610M样本，并新增1024x1024分辨率训练阶段。</p>
-<p>🔗 <a href="https://www.linum.ai/field-notes/pjit-21k">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vvz12bukcdpqfm4a5op98dak6">https://reisen-ww.github.io/hot-pages/openhot/items/vvz12bukcdpqfm4a5op98dak6</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Wed, 04 Nov 2026 16:45:11 GMT</pubDate>
-      <guid isPermaLink="false">vvz12bukcdpqfm4a5op98dak6</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>

@@ -9,546 +9,549 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
-      <title><![CDATA[某团队分享如何为 Nginx 启用后量子 TLS 的配置指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/evu16t2bulabe23rsb9ut1e64</link>
-      <description><![CDATA[<p>某团队在 Reddit 分享了为 Nginx 启用后量子 TLS 的配置方法与常见问题排查。核心步骤包括检查 OpenSSL 版本（需 3.5+）、修正旧加固配置（如删除 ssl_ecdh_curve X25519:prime256v1），并对比 Caddy 2.10+ 默认启用与 Cloudflare 边缘自动支持的情况。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xt5zdk/how_to_check_if_your_server_uses_postquantum_tls/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/evu16t2bulabe23rsb9ut1e64">https://reisen-ww.github.io/hot-pages/openhot/items/evu16t2bulabe23rsb9ut1e64</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Wed, 11 Nov 2026 02:25:15 GMT</pubDate>
-      <guid isPermaLink="false">evu16t2bulabe23rsb9ut1e64</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[自托管 Discord 音乐机器人 Spot-Bomb 开源，支持本地播放与歌词同步]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/r43h6kokp8iwpjidu901owmbu</link>
-      <description><![CDATA[<p>Spot-Bomb 是一个免费自托管 Discord 音乐机器人，支持本地运行、歌词逐行同步、24/7模式以及多种音效滤镜（如夜核、蒸汽波）。技术实现基于 Node.js 和 Lavalink 4，通过 yt-dlp 获取 YouTube 音频，播放列表需公开且最多支持 100 首歌曲。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xt2zg3/spotbomb_a_free_selfhosted_discord_music_bot_with/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/r43h6kokp8iwpjidu901owmbu">https://reisen-ww.github.io/hot-pages/openhot/items/r43h6kokp8iwpjidu901owmbu</a></p>]]></description>
+      <title><![CDATA[社区团队发布 PocketBase CE v0.0.1 开源版本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wsqug8dmcemt28sfz6c5afv13</link>
+      <description><![CDATA[<p>社区团队在 GitHub 开源 PocketBase CE v0.0.1，通过核心扩展集成 multipage apps、PITR（Litestream）、MCP、Auto TLS 等功能，同时提供可选扩展支持容器化集群（hundreds of instances）和多租户管理。贡献者可通过讨论区 PR 提交修改建议。</p>
+<p>🔗 <a href="https://www.reddit.com/r/opensource/comments/1xtxuu6/pocketbase_community_edition_v001/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wsqug8dmcemt28sfz6c5afv13">https://reisen-ww.github.io/hot-pages/openhot/items/wsqug8dmcemt28sfz6c5afv13</a></p>]]></description>
       <category>社区新奇仓库</category>
-      <pubDate>Wed, 11 Nov 2026 00:05:33 GMT</pubDate>
-      <guid isPermaLink="false">r43h6kokp8iwpjidu901owmbu</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[30 年前的互联网传输工具 curl]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ltw0rd9k20hldd0oyuhkb0yb1</link>
-      <description><![CDATA[<p>1996 年 11 月 11 日，巴西学生 Rafael Sagula 发布了 httpget 0.1，一个仅 100 多行 C 代码的简易 HTTP 下载工具。curl 的维护者在发现该代码后，改进了错误处理和添加了域名解析功能。1996 年，瑞典的平均互联网连接速度仅为 30 kbps，而今天已达到 200 Mbps。</p>
-<p>🔗 <a href="https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ltw0rd9k20hldd0oyuhkb0yb1">https://reisen-ww.github.io/hot-pages/openhot/items/ltw0rd9k20hldd0oyuhkb0yb1</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 23:42:39 GMT</pubDate>
-      <guid isPermaLink="false">ltw0rd9k20hldd0oyuhkb0yb1</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[开发者/u/NoConsideration1777 发布自托管音频播放器 Mär，支持 Audiobookshelf/Jellyfin/Navidrome]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qmpl43cb3jcxncgrrfcevdbgi</link>
-      <description><![CDATA[<p>开发者/u/NoConsideration1777 在 Reddit 发布自托管音频播放器 Mär，支持 Audiobookshelf、Jellyfin 和 Navidrome 等平台，提供本地同步服务 Mär Sync（可选），GPL 许可证。应用已在 App Store上架（ID:6799687154），支持 iPhone/iPad，包含 CarPlay 集成、离线下载、跨设备同步等功能。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xt2eyz/m%C3%A4r_one_free_open_source_ios_player_for_your/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qmpl43cb3jcxncgrrfcevdbgi">https://reisen-ww.github.io/hot-pages/openhot/items/qmpl43cb3jcxncgrrfcevdbgi</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 23:41:41 GMT</pubDate>
-      <guid isPermaLink="false">qmpl43cb3jcxncgrrfcevdbgi</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[DDR3+ 接口必须在启动时调谐的原因]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ppusrdij8qk69hxtei41y4geu</link>
-      <description><![CDATA[<p>DDR3+ 接口在启动时需要调谐以确保数据传输的准确性和效率。文章解释了 DRAM 接口的信号、时钟、延迟校准和数据掩码等细节，并详细描述了 LiteDRAM 如何实现这些机制。写入校准和 DQ-DQS 训练确保数据在写入时正确对齐，而读取延迟校准则进一步优化读取性能。</p>
-<p>🔗 <a href="https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ppusrdij8qk69hxtei41y4geu">https://reisen-ww.github.io/hot-pages/openhot/items/ppusrdij8qk69hxtei41y4geu</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 10 Nov 2026 23:41:41 GMT</pubDate>
-      <guid isPermaLink="false">ppusrdij8qk69hxtei41y4geu</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[YouTube 替代方案讨论]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/s6knjsbkl3yingr2uph7kl2hm</link>
-      <description><![CDATA[<p>有人寻求类似 Radarr/Sonarr 的工具，但适用于 YouTube。用户希望该工具能作为索引器，将搜索请求同时指向 YouTube，以便通过 Seerr 等应用搜索短片时也能包含 YouTube 内容。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xt26yn/alternative_to_radarrsonarr_for_youtube/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/s6knjsbkl3yingr2uph7kl2hm">https://reisen-ww.github.io/hot-pages/openhot/items/s6knjsbkl3yingr2uph7kl2hm</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 23:31:47 GMT</pubDate>
-      <guid isPermaLink="false">s6knjsbkl3yingr2uph7kl2hm</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[SSHBorg Android/iOS SSH/SFTP 客户端新增 mosh 协议支持]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/uh47zbqu75qk97nyqfzd1g1sf</link>
-      <description><![CDATA[<p>SSHBorg Android/iOS SSH/SFTP 客户端新增 mosh 协议支持，实现断网续传功能。该客户端采用 GPL-3.0 许可证，无账户、无云端数据、无监控，支持通过 JSON 文件备份密钥，适用于移动设备场景。GitHub 仓库：https://github.com/payne1982/sshborg</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xt240p/sshborg_sshsftp_client_for_android_and_ios_and/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/uh47zbqu75qk97nyqfzd1g1sf">https://reisen-ww.github.io/hot-pages/openhot/items/uh47zbqu75qk97nyqfzd1g1sf</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 23:28:14 GMT</pubDate>
-      <guid isPermaLink="false">uh47zbqu75qk97nyqfzd1g1sf</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Glimmer与Datastar实现服务器端渲染批量处理，性能提升显著]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk</link>
-      <description><![CDATA[<p>Glimmer通过ratom原子状态管理和Datastar的批次渲染机制，在Newsroom应用中将渲染时间从21.7ms降至7.0ms。采用差分更新技术仅传输变更部分，结合滑动缓冲区限制并发流（100个流）的帧数。</p>
-<p>🔗 <a href="https://yogthos.net/posts/2026-11-10-glimmer-datastar.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk">https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Tue, 10 Nov 2026 22:54:17 GMT</pubDate>
-      <guid isPermaLink="false">ugdjwbkivkjuwxjxjdqugdauk</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Go 1.27发布：性能优化与安全增强推动17周年里程碑]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nh48ctzocyhsm0k4ezwuen4t6</link>
-      <description><![CDATA[<p>Go 1.27发布，包含generics优化、JSON/v2升级（10倍速解析）、内存分配改进（小对象分配提速30%）及安全增强（应对eMudhra证书事件）。新goroutine漏检器与SIMD包提升硬件利用率，工具链集成pkg.go.dev API与gopls交互式重构功能，支持AI辅助开发。</p>
-<p>🔗 <a href="https://go.dev/blog/17years">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nh48ctzocyhsm0k4ezwuen4t6">https://reisen-ww.github.io/hot-pages/openhot/items/nh48ctzocyhsm0k4ezwuen4t6</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Tue, 10 Nov 2026 22:47:26 GMT</pubDate>
-      <guid isPermaLink="false">nh48ctzocyhsm0k4ezwuen4t6</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[可以在新系统中直接使用旧硬盘吗？]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rhpz644zgu8luzk2q92qq4fur</link>
-      <description><![CDATA[<p>作者计划用新迷你PC替换当前的老笔记本，并安装 zima。提问是否可以直接将带有 3TB 内容的两块硬盘连接到新系统，还是需要格式化。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xt0wyb/can_i_plug_and_play_a_drive_with_files_on_it_in_a/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rhpz644zgu8luzk2q92qq4fur">https://reisen-ww.github.io/hot-pages/openhot/items/rhpz644zgu8luzk2q92qq4fur</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 22:36:33 GMT</pubDate>
-      <guid isPermaLink="false">rhpz644zgu8luzk2q92qq4fur</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[我在社区活跃超过 4 年，因小错误被封贴，请求解封]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/oh1gsdy5jlyjubwycml6kf6wz</link>
-      <description><![CDATA[<p>作者在社区活跃多年，因回复中出现小错误被封贴，请求管理员解封。帖子更新并修复后仍未恢复。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xt0ga6/ive_been_active_here_for_more_than_4_years_and_my/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/oh1gsdy5jlyjubwycml6kf6wz">https://reisen-ww.github.io/hot-pages/openhot/items/oh1gsdy5jlyjubwycml6kf6wz</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 22:17:05 GMT</pubDate>
-      <guid isPermaLink="false">oh1gsdy5jlyjubwycml6kf6wz</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[发现《星球大战：第一部：幽灵的威胁》赛车游戏中的远程代码执行漏洞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/sbbca021lm5q1qb0f06wxqx5v</link>
-      <description><![CDATA[<p>某研究团队在 GitHub 公开该数据库仓库，给出查询延迟、内存占用与依赖要求，并说明当前支持的平台与许可证。</p>
-<p>🔗 <a href="https://synacktiv.com/en/publications/star-wars-episode-i-racer">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/sbbca021lm5q1qb0f06wxqx5v">https://reisen-ww.github.io/hot-pages/openhot/items/sbbca021lm5q1qb0f06wxqx5v</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 21:58:18 GMT</pubDate>
-      <guid isPermaLink="false">sbbca021lm5q1qb0f06wxqx5v</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[我的 Nextcloud 图片和视频 Android TV 应用已上线 Google Play]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/pajuw3jbb1jl7wzbo06s4mqw1</link>
-      <description><![CDATA[<p>NcTV Media 是一个专为电视遥控器设计的 Nextcloud 浏览应用，支持通过扫描二维码登录，并直接播放 Nextcloud 中的视频。该应用已在 Google Play 上架，欢迎反馈使用体验。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xszx3u/my_android_tv_google_tv_app_for_nextcloud_photos/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/pajuw3jbb1jl7wzbo06s4mqw1">https://reisen-ww.github.io/hot-pages/openhot/items/pajuw3jbb1jl7wzbo06s4mqw1</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 21:55:02 GMT</pubDate>
-      <guid isPermaLink="false">pajuw3jbb1jl7wzbo06s4mqw1</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[PDG-Global 开源 Rust 写的端到端加密 VPN rVPN]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/o4qkmmpnrvm7opyoxv6nxgmf7</link>
-      <description><![CDATA[<p>PDG-Global 开源了基于 Rust 的端到端加密 VPN rVPN，支持 iOS/Android/macOS/Linux/FreeBSD 多平台，提供可验证构建流程（GitHub 仓库地址：https://github.com/PDG-Global/rVPN-core），AGPLv3 许可证确保代码永久开放</p>
-<p>🔗 <a href="https://rvpn.org/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/o4qkmmpnrvm7opyoxv6nxgmf7">https://reisen-ww.github.io/hot-pages/openhot/items/o4qkmmpnrvm7opyoxv6nxgmf7</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 21:42:50 GMT</pubDate>
-      <guid isPermaLink="false">o4qkmmpnrvm7opyoxv6nxgmf7</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Diderot：一个原生 iOS/iPad 应用程序，用于自托管 Docmost]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e1n9lk9af95f9pog3zivyyrl8</link>
-      <description><![CDATA[<p>Diderot 是一个原生的 iOS 和 iPad 应用程序，用于自托管 Docmost。它支持本地阅读和编辑页面，具有实时同步功能，可在离线时保存编辑内容。用户可使用密码、LDAP、SSO 和 MFA 登录，并支持多个服务器。当前版本不支持编辑数据库属性和创建模板。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsy6km/i_built_a_native_iosipad_app_for_docmost_looking/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e1n9lk9af95f9pog3zivyyrl8">https://reisen-ww.github.io/hot-pages/openhot/items/e1n9lk9af95f9pog3zivyyrl8</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 20:46:01 GMT</pubDate>
-      <guid isPermaLink="false">e1n9lk9af95f9pog3zivyyrl8</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Mär：一款免费开源的 iOS 音频播放器，支持自托管音频资源]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bduzn8kwie2rixmnvf4j5dipa</link>
-      <description><![CDATA[<p>Mär 是一个免费开源的 iOS 播放器，支持从自托管服务器播放有声书、音乐、播客和广播。它提供跨所有音频类型的继续播放、下载功能，并支持 CarPlay 和小部件。该播放器遵循 GPL 许可证，源代码已公开。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsy5gu/m%C3%A4r_one_free_open_source_ios_player_for_your/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bduzn8kwie2rixmnvf4j5dipa">https://reisen-ww.github.io/hot-pages/openhot/items/bduzn8kwie2rixmnvf4j5dipa</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 20:44:47 GMT</pubDate>
-      <guid isPermaLink="false">bduzn8kwie2rixmnvf4j5dipa</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[开发者开源本地计算YouTube客户端Lumtub（GPL-3.0）]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mhwn87rf4xrc229twdky58e8g</link>
-      <description><![CDATA[<p>开发者通过 https://github.com/0x696c757a696f/lumtub 公开 Lumtub 仓库，实现无账户登录、本地存储订阅历史、完全离线运行的 YouTube 客户端（GPL-3.0）。推荐算法在用户设备完成计算，不上传任何数据。原生使用 libmpv 播放引擎，支持系统代理、加密 DNS 等隐私增强功能。</p>
-<p>🔗 <a href="https://www.reddit.com/r/opensource/comments/1xsxtkb/lumtub_a_gpl_youtube_client_where_recommendations/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mhwn87rf4xrc229twdky58e8g">https://reisen-ww.github.io/hot-pages/openhot/items/mhwn87rf4xrc229twdky58e8g</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 20:31:49 GMT</pubDate>
-      <guid isPermaLink="false">mhwn87rf4xrc229twdky58e8g</guid>
+      <pubDate>Thu, 12 Nov 2026 00:01:22 GMT</pubDate>
+      <guid isPermaLink="false">wsqug8dmcemt28sfz6c5afv13</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/opensource)</author>
     </item>
     <item>
-      <title><![CDATA[/u/Jou_See 开源 GitWriter：基于自托管Git的端到端加密笔记应用]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/u3yfg03yh9gvayaul9h8ab1zf</link>
-      <description><![CDATA[<p>/u/Jou_See 在 Reddit 发布自研笔记应用 GitWriter，支持 Windows/macOS/Linux/Android/iOS 跨平台，通过设备端加密后推送到用户自托管 Git 仓库（如 Gitea/Forgejo），无需云服务或账号。仓库地址：https://github.com/jotalac/git-writer</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsxq3a/gitwriter_gitbackend_notetaking_app_with_endtoend/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/u3yfg03yh9gvayaul9h8ab1zf">https://reisen-ww.github.io/hot-pages/openhot/items/u3yfg03yh9gvayaul9h8ab1zf</a></p>]]></description>
+      <title><![CDATA[PocketBase 社区版 v0.0.1 开源发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</link>
+      <description><![CDATA[<p>PocketBase 社区版 v0.0.1 开源，提供更开放的贡献环境，包含核心扩展如多页应用、PITR 数据库恢复和 MCP 多租户支持，以及可选的容器化、集群管理等功能。仓库地址：https://github.com/pockethost/pocketbase</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtxrhi/pocketbase_community_edition_v001/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1">https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</a></p>]]></description>
       <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 20:27:57 GMT</pubDate>
-      <guid isPermaLink="false">u3yfg03yh9gvayaul9h8ab1zf</guid>
+      <pubDate>Wed, 11 Nov 2026 23:58:14 GMT</pubDate>
+      <guid isPermaLink="false">atwhho99o0a2mgnhupzle7ot1</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
     <item>
-      <title><![CDATA[寻找关于内存模型的教学材料]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/eee1huf5o7j1xmhsqs5ld20lh</link>
-      <description><![CDATA[<p>作者正在为大学操作系统课程开发补充材料，涉及学生开发针对 Raspberry Pi 3B+ 的操作系统。他正在寻找关于强弱内存模型的优秀文章或博客，特别是针对 ARM 处理器的数据/指令缓冲同步问题。</p>
-<p>🔗 <a href="https://lobste.rs/s/odnnzh">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/eee1huf5o7j1xmhsqs5ld20lh">https://reisen-ww.github.io/hot-pages/openhot/items/eee1huf5o7j1xmhsqs5ld20lh</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 19:51:19 GMT</pubDate>
-      <guid isPermaLink="false">eee1huf5o7j1xmhsqs5ld20lh</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[BookBridge 无法自动识别通过 CWA 下载到 KOReader 的书籍]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ptnq8aaouf4l0tbwi9tq4v581</link>
-      <description><![CDATA[<p>用户在使用 BookBridge 与 Calibre-Web Automated (CWA) 和 KOReader 配合时发现，通过 OPDS 下载到 KOReader 的书籍无法自动被 BookBridge 识别。尽管手动添加书籍后 BookBridge 能正常工作，但自动识别功能似乎存在问题。用户怀疑是 CWA 4.0.8 版本未存储嵌入元数据后的 OPDS 下载书籍的校验和。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xswoh1/bookbridge_does_not_automatically_recognize_books/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ptnq8aaouf4l0tbwi9tq4v581">https://reisen-ww.github.io/hot-pages/openhot/items/ptnq8aaouf4l0tbwi9tq4v581</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 19:47:18 GMT</pubDate>
-      <guid isPermaLink="false">ptnq8aaouf4l0tbwi9tq4v581</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rust标准库内存安全漏洞及修复建议]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gg707bxwor3yj09a7kr0ww87b</link>
-      <description><![CDATA[<p>微软FORGE实验室发现Rust标准库存在三个模式的安全漏洞：1）信任非 panic 安全的代码调用（如MapWindows::clone），2）信任用户实现（如str::replace自定义Pattern），3）依赖操作系统状态（如process::exit与信号栈交互）。</p>
-<p>🔗 <a href="https://forge-blog.github.io/posts/rust-std-memory-safety/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gg707bxwor3yj09a7kr0ww87b">https://reisen-ww.github.io/hot-pages/openhot/items/gg707bxwor3yj09a7kr0ww87b</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 19:44:50 GMT</pubDate>
-      <guid isPermaLink="false">gg707bxwor3yj09a7kr0ww87b</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[自托管邮件服务器面临挑战]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/x4c4p9y5aywyxgyenrjy05sll</link>
-      <description><![CDATA[<p>许多Reddit用户认为自托管邮件服务器非常困难，除非使用完全内部网络，否则主要邮件服务商如Google和Microsoft会设法阻止外部邮件的发送与接收。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xswfaz/what_cannot_be_selfhosted/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/x4c4p9y5aywyxgyenrjy05sll">https://reisen-ww.github.io/hot-pages/openhot/items/x4c4p9y5aywyxgyenrjy05sll</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 19:37:35 GMT</pubDate>
-      <guid isPermaLink="false">x4c4p9y5aywyxgyenrjy05sll</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Mozilla Firefox 143发布浏览器指纹防护，识别率降46%]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rcb4nwugi5czhd7h4o71jgej0</link>
-      <description><![CDATA[<p>Mozilla基于2500万Firefox用户数据，发布浏览器指纹防护方案，将唯一识别用户比例从75%降至46%，同时保持网页兼容性。研究显示浏览器指纹的独特性主要由屏幕分辨率、字体列表等8-9项核心指标决定，防护方案通过标准化和随机化技术实现。用户可通过交互测试验证自身浏览器指纹风险，数据集已开源但删除原始记录以防止追踪。</p>
-<p>🔗 <a href="https://fingerprinting.study/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rcb4nwugi5czhd7h4o71jgej0">https://reisen-ww.github.io/hot-pages/openhot/items/rcb4nwugi5czhd7h4o71jgej0</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 19:14:08 GMT</pubDate>
-      <guid isPermaLink="false">rcb4nwugi5czhd7h4o71jgej0</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Linkwarden 2.17发布：支持自定义排序与性能优化，GitHub星标突破20万]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wr5z6o5jgqnvlal1bcp440vwj</link>
-      <description><![CDATA[<p>Linkwarden 2.17发布，新增链接自定义排序、滚动性能优化及邮箱验证改进，GitHub星标达20万。安全修复包括多起中等严重漏洞，移动端改进支持AI标签自定义，浏览器扩展新增地址栏搜索功能，导入流程修复保留原始顺序。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsuicw/announcing_linkwarden_217_opensource/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wr5z6o5jgqnvlal1bcp440vwj">https://reisen-ww.github.io/hot-pages/openhot/items/wr5z6o5jgqnvlal1bcp440vwj</a></p>]]></description>
+      <title><![CDATA[通用 Apple Silicon 层支持 x86-64 电脑启动]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qthtlp75b61h44s4uk6jmrgm5</link>
+      <description><![CDATA[<p>Stela 是一个通用 Apple Silicon 层，支持 x86-64 电脑启动，包含 arm64-to-x86-64 翻译器和 NVIDIA GPU 驱动，但目前速度较慢且仍在开发中。安装需要 x86-64-v2 CPU、UEFI、8GB 内存和 NVIDIA GTX 16 或 RTX 20 系列 GPU。</p>
+<p>🔗 <a href="https://github.com/tylertms/Stela">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qthtlp75b61h44s4uk6jmrgm5">https://reisen-ww.github.io/hot-pages/openhot/items/qthtlp75b61h44s4uk6jmrgm5</a></p>]]></description>
       <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 18:24:55 GMT</pubDate>
-      <guid isPermaLink="false">wr5z6o5jgqnvlal1bcp440vwj</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[一个统一的 TUI 管理 systemd 服务、Docker 容器和 Compose 项目]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e9jldcw4fl4lg1errib2eczef</link>
-      <description><![CDATA[<p>开发者 /u/ishakg 创建了一个 C++ 编写的 TUI 工具，支持管理 systemd 服务、Docker 容器和 Compose 项目，提供启动/停止/重启、实时日志和 CPU/内存图表等功能，体积小（约 1MB），MIT 许可证。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsueqp/one_tui_for_systemd_services_docker_containers/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e9jldcw4fl4lg1errib2eczef">https://reisen-ww.github.io/hot-pages/openhot/items/e9jldcw4fl4lg1errib2eczef</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 18:21:29 GMT</pubDate>
-      <guid isPermaLink="false">e9jldcw4fl4lg1errib2eczef</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[GoogleChrome发布Modern Web Guidance工具包，助力AI生成现代Web代码]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/lu72rgv280ilr29ws4ygqktvc</link>
-      <description><![CDATA[<p>GoogleChrome团队发布Modern Web Guidance工具包，旨在帮助AI模型生成符合现代Web标准的代码。该工具包涵盖CSS布局优化、性能提升、安全设计等250项现代Web特性，并提供详细的评估数据，显示使用后AI生成代码的正确率平均提升超过30%。安装命令为npx modern-web-guidance@latest install，支持GitHub仓库集成。</p>
-<p>🔗 <a href="https://github.com/GoogleChrome/modern-web-guidance">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/lu72rgv280ilr29ws4ygqktvc">https://reisen-ww.github.io/hot-pages/openhot/items/lu72rgv280ilr29ws4ygqktvc</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 10 Nov 2026 18:01:15 GMT</pubDate>
-      <guid isPermaLink="false">lu72rgv280ilr29ws4ygqktvc</guid>
+      <pubDate>Wed, 11 Nov 2026 23:02:38 GMT</pubDate>
+      <guid isPermaLink="false">qthtlp75b61h44s4uk6jmrgm5</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[Upbound开源模型推理工程指南：自托管与成本优化实践]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/iocd0mafi93qoz5kkum2go8cf</link>
-      <description><![CDATA[<p>某团队在GitHub发布自托管AI模型全栈指南，覆盖推理引擎选择（vLLM/SGLang/TensorRT-LLM）、GPU资源调度（Kubernetes+CUDA）、成本优化（单机成本降低80%）及安全实践（safetensors格式、TLS认证）。</p>
-<p>🔗 <a href="https://docs.modelplane.ai/guides/inference-guide">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/iocd0mafi93qoz5kkum2go8cf">https://reisen-ww.github.io/hot-pages/openhot/items/iocd0mafi93qoz5kkum2go8cf</a></p>]]></description>
+      <title><![CDATA[Surmai 仓库发布 v0.6.2 安全更新：修复运行时漏洞及自身安全漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bu404b12084hbxvotkxtfru0r</link>
+      <description><![CDATA[<p>Surmai 仓库发布 v0.6.2 安全更新，修复运行时漏洞及自身安全漏洞，建议自托管用户尽快升级 Docker 镜像。文档链接：https://surmai.app/documentation/ 演示链接：https://demo.surmai.app</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtwe0l/psa_please_update_surmai_to_v062/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bu404b12084hbxvotkxtfru0r">https://reisen-ww.github.io/hot-pages/openhot/items/bu404b12084hbxvotkxtfru0r</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 22:57:16 GMT</pubDate>
+      <guid isPermaLink="false">bu404b12084hbxvotkxtfru0r</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[LightnerX：一个轻量级的 C++ 网络库，专为多人游戏设计]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mr04r7gsuwplf8fyuhyjurgj2</link>
+      <description><![CDATA[<p>LightnerX 是一个基于 Valve 的 GameNetworkingSockets 开发的轻量级 C++ 网络库，采用 INER 消息通信模型简化客户端-服务器交互。项目仍在早期开发阶段，正进行技术审核以提高代码质量和可靠性。</p>
+<p>🔗 <a href="https://www.reddit.com/r/opensource/comments/1xtw3z8/lightnerx_a_lightweight_c_networking_library_for/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mr04r7gsuwplf8fyuhyjurgj2">https://reisen-ww.github.io/hot-pages/openhot/items/mr04r7gsuwplf8fyuhyjurgj2</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 22:45:17 GMT</pubDate>
+      <guid isPermaLink="false">mr04r7gsuwplf8fyuhyjurgj2</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/opensource)</author>
+    </item>
+    <item>
+      <title><![CDATA[我妻子终于感兴趣的自托管仪表板]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fuxfn897v7y8rx7p1ecacj92j</link>
+      <description><![CDATA[<p>作者将家中的 Home Assistant 设置与一些实用的家庭服务器组件结合，创建了一个集成了服务器任务（更新容器、查看摄像头、查看日志等）的仪表板，旨在简化管理和监控。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtvo3p/a_dashboard_my_wife_is_finally_interested_in/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fuxfn897v7y8rx7p1ecacj92j">https://reisen-ww.github.io/hot-pages/openhot/items/fuxfn897v7y8rx7p1ecacj92j</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 22:26:44 GMT</pubDate>
+      <guid isPermaLink="false">fuxfn897v7y8rx7p1ecacj92j</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[TinyGPT Visualizer：探索大型语言模型内部的新工具]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qcsxlptbqsrqus44w8y8z6ybc</link>
+      <description><![CDATA[<p>TinyGPT Visualizer 是一个开源项目，旨在帮助用户探索大型语言模型（LLMs）的内部机制。该项目由开发者 Oshea00 开发，提供代码、安装指南和文档。尽管目前尚未发现具体的情感表达，但该工具为哲学和宗教研究提供了新的视角。</p>
+<p>🔗 <a href="https://oshea00.github.io/posts/tinygpt-visualizer/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qcsxlptbqsrqus44w8y8z6ybc">https://reisen-ww.github.io/hot-pages/openhot/items/qcsxlptbqsrqus44w8y8z6ybc</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 20:45:50 GMT</pubDate>
+      <guid isPermaLink="false">qcsxlptbqsrqus44w8y8z6ybc</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Pi-Dock-Wifi：基于Raspberry Pi 5的双Wi-Fi卡路由器项目开源]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nuenhp0hj5pflgwx2jnbjx32o</link>
+      <description><![CDATA[<p>作者发布了一个基于Raspberry Pi 5的双Wi-Fi卡路由器项目Pi-Dock-Wifi，包含hostapd、dnsmasq、防火墙规则和Web界面。该项目使用Docker Compose管理，开源许可证为GPL-3.0，支持英语和意大利语。作者提供了详细的Dockerfile、脚本和硬件文档。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtsr4b/pidockwifi_a_raspberry_pi_5_router_with_two_wifi/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nuenhp0hj5pflgwx2jnbjx32o">https://reisen-ww.github.io/hot-pages/openhot/items/nuenhp0hj5pflgwx2jnbjx32o</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 20:30:05 GMT</pubDate>
+      <guid isPermaLink="false">nuenhp0hj5pflgwx2jnbjx32o</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Paul Ford 开发浏览器办公套件，Battle Drones 等案例展示 Web 平台潜力]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fyei4q984hto1z9jwd4a7r64w</link>
+      <description><![CDATA[<p>Paul Ford 在 GitHub 发布浏览器办公套件 tinylittleoffice.com，支持 Creole、Yiddish 等纽约常见语言，成本仅 CloudFlare 免费计划费用。提及 Battle Drones 等浏览器原生开发案例，分析 WebAssembly 等技术降低开发门槛，可能冲击应用商店经济。</p>
+<p>🔗 <a href="https://ftrain.com/aboard-the-web-is-more-than-enough">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fyei4q984hto1z9jwd4a7r64w">https://reisen-ww.github.io/hot-pages/openhot/items/fyei4q984hto1z9jwd4a7r64w</a></p>]]></description>
       <category>Web 与前端</category>
-      <pubDate>Tue, 10 Nov 2026 17:55:07 GMT</pubDate>
-      <guid isPermaLink="false">iocd0mafi93qoz5kkum2go8cf</guid>
+      <pubDate>Wed, 11 Nov 2026 20:21:19 GMT</pubDate>
+      <guid isPermaLink="false">fyei4q984hto1z9jwd4a7r64w</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Andrew Kensler 的 permute() 函数：无状态常数时间伪随机数组遍历]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/eldpmgsli9kf2wvavobns35rw</link>
+      <description><![CDATA[<p>Andrew Kensler 的 permute() 函数通过不可逆哈希与循环行走优化，实现O(k)时间复杂度和O(1)内存占用，适用于大规模数组随机抽样，如离线渲染中的并行计算场景。</p>
+<p>🔗 <a href="https://andrew-helmer.github.io/permute/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/eldpmgsli9kf2wvavobns35rw">https://reisen-ww.github.io/hot-pages/openhot/items/eldpmgsli9kf2wvavobns35rw</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 20:08:45 GMT</pubDate>
+      <guid isPermaLink="false">eldpmgsli9kf2wvavobns35rw</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[用自建 NAS 复制 UGreen DH2300 功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/k15vfj76ln91gdizykezq4ap1</link>
+      <description><![CDATA[<p>作者计划用自建的 N100 ITX NAS 复制 UGreen DH2300 的功能，包括备份和移动设备播放视频。他寻求推荐合适的操作系统、应用程序和用户界面。作者已使用 OMV 和 SMB 进行文件存储和备份。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtrsgi/replicate_ugos/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/k15vfj76ln91gdizykezq4ap1">https://reisen-ww.github.io/hot-pages/openhot/items/k15vfj76ln91gdizykezq4ap1</a></p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 19:53:02 GMT</pubDate>
+      <guid isPermaLink="false">k15vfj76ln91gdizykezq4ap1</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[《尤他茶壶》的历史版本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e1yagbqumnpueba3fzx6ozc97</link>
+      <description><![CDATA[<p>《尤他茶壶》是计算机图形学的标志性模型，最初由 Martin Newell 在 1975 年创建。该模型经过多次修改，包括 Jim Blinn 在 1976 年的缩放版本和 Frank Crow 在 1987 年增加圆底的版本。最新版本由 Cem Yuksel 在 2026 年改进，使其内部形状更加完善，并增加了连接把手和壶嘴的倒角，实现了反射连续性。</p>
+<p>🔗 <a href="https://graphics.cs.utah.edu/teapot/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e1yagbqumnpueba3fzx6ozc97">https://reisen-ww.github.io/hot-pages/openhot/items/e1yagbqumnpueba3fzx6ozc97</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 19:45:10 GMT</pubDate>
+      <guid isPermaLink="false">e1yagbqumnpueba3fzx6ozc97</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[使用 Asrock B850M Steel Legend 制作低功耗 Steam 机和 NAS]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/w5xizdy6gi9x9gl161ub9hg8j</link>
-      <description><![CDATA[<p>作者计划使用 Asrock B850M Steel Legend 主板制作低功耗 Steam 机和 NAS，打算采用 R5 8600G 处理器。他计划使用 4 块 WD Purple 硬盘组建 RAID 5，并考虑运行 Bazzite Deck、ProxMox 或其他虚拟化软件。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xstb6o/low_power_steam_machine_and_nas_with_asrock_b850m/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/w5xizdy6gi9x9gl161ub9hg8j">https://reisen-ww.github.io/hot-pages/openhot/items/w5xizdy6gi9x9gl161ub9hg8j</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 17:40:53 GMT</pubDate>
-      <guid isPermaLink="false">w5xizdy6gi9x9gl161ub9hg8j</guid>
+      <title><![CDATA[Reddit 用户讨论家庭服务器操作系统选择]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gvn6sv0cda4q9a2midlrp3s77</link>
+      <description><![CDATA[<p>Reddit 用户使用 TrueNAS Community Edition 运行 5-10 用户的生产环境，但考虑 IX 系统转向企业化可能影响其应用商店的开放性，正权衡是否切换至纯 Debian/Ubuntu 服务器 + Docker 或保持混合方案。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtrd8t/os_choice/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gvn6sv0cda4q9a2midlrp3s77">https://reisen-ww.github.io/hot-pages/openhot/items/gvn6sv0cda4q9a2midlrp3s77</a></p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 19:36:46 GMT</pubDate>
+      <guid isPermaLink="false">gvn6sv0cda4q9a2midlrp3s77</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
     <item>
-      <title><![CDATA[一款无需网络配置即可远程访问终端与代码代理的单机应用]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nn7tsvgotp420mwmlqkzymlyh</link>
-      <description><![CDATA[<p>开发者正在构建一个无需设置网络即可远程访问终端和代码代理的单机应用，计划一个月后开源。用户可通过手机、桌面应用或终端界面访问和共享会话，支持只读查看和运行访问。目前处于Alpha阶段，欢迎试用并反馈。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xst7mi/im_building_a_single_app_for_all_your_machines/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nn7tsvgotp420mwmlqkzymlyh">https://reisen-ww.github.io/hot-pages/openhot/items/nn7tsvgotp420mwmlqkzymlyh</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 17:37:03 GMT</pubDate>
-      <guid isPermaLink="false">nn7tsvgotp420mwmlqkzymlyh</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Famlin - 一个家庭自托管社交分享平台]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bn7kezh2m6g9buujj9xa65ysc</link>
-      <description><![CDATA[<p>Famlin 是一个家庭自托管的私有社交分享平台，旨在替代 Facebook、Instagram 等大厂社交应用，支持分享家庭照片及故事（如里程碑、旅行等）。该项目已开源并获得初步贡献，但作者提醒用户数据存在丢失风险。软件已完全容器化，并提供 iOS/Android 移动应用支持 OIDC/SSO。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xst7f4/famlin_a_selfhosted_private_social_feed_for/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bn7kezh2m6g9buujj9xa65ysc">https://reisen-ww.github.io/hot-pages/openhot/items/bn7kezh2m6g9buujj9xa65ysc</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 17:36:49 GMT</pubDate>
-      <guid isPermaLink="false">bn7kezh2m6g9buujj9xa65ysc</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[奇怪的开源许可证与新的开源趋势]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/lr0im4xv71oikpjzlea4xr4bf</link>
-      <description><![CDATA[<p>文章讨论了奇怪的开源许可证，如《肮脏的人手许可证》和《50人以上企业不得使用的许可证》，这些许可证试图在自由软件和商业利益之间寻找平衡。尽管自由软件在技术上取得了成功，但大多数公司并未回馈社区，反而通过云服务等手段获利。文章指出，自由软件维护者正面临大量低质量的代码提交和无用的bug报告，而Copyleft许可证虽能部分缓解这一问题，但仍存在规避手段。</p>
-<p>🔗 <a href="https://dustri.org/b/weird-licenses-and-the-new-open-source.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/lr0im4xv71oikpjzlea4xr4bf">https://reisen-ww.github.io/hot-pages/openhot/items/lr0im4xv71oikpjzlea4xr4bf</a></p>]]></description>
+      <title><![CDATA[C++26标准因社区争议投票失败，暴露开源治理流程问题]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</link>
+      <description><![CDATA[<p>C++26标准因社区争议投票失败，核心争议围绕Contracts新特性。多国反馈的安全机制与标准库强耦合问题未获采纳，最终投票未达通过门槛。事件反映C++标准制定流程的分裂与协调失效，引发对开源治理模式的讨论。</p>
+<p>🔗 <a href="https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar">https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</a></p>]]></description>
       <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 16:49:51 GMT</pubDate>
-      <guid isPermaLink="false">lr0im4xv71oikpjzlea4xr4bf</guid>
+      <pubDate>Wed, 11 Nov 2026 18:49:35 GMT</pubDate>
+      <guid isPermaLink="false">jjkg7losfy4z6qnhwar4sljar</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[Blender 5.3正式发布：新增高斯溅射支持与性能优化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/h2fvksxj68w2xeccfd71uj20v</link>
-      <description><![CDATA[<p>Blender 5.3发布，原生支持高斯溅射渲染技术，可导入PLY/SPZ/glTF文件并优化Geometry Nodes处理流程。新增DLSS 4.5降噪引擎，提升渲染效率；EEVEE支持全景相机渲染，Python API扩展开放。项目管理功能整合自定义变量、资产库共享及界面优化，提升协作效率。</p>
-<p>🔗 <a href="https://www.blender.org/download/releases/5-3/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/h2fvksxj68w2xeccfd71uj20v">https://reisen-ww.github.io/hot-pages/openhot/items/h2fvksxj68w2xeccfd71uj20v</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 10 Nov 2026 16:15:43 GMT</pubDate>
-      <guid isPermaLink="false">h2fvksxj68w2xeccfd71uj20v</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[微软发布 .NET 11，集成C# 15新特性与AI开发工具]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy</link>
-      <description><![CDATA[<p>微软于2026年11月10日发布 .NET 11，包含C# 15的联合类型和封闭层次结构，性能优化提升开发效率，并集成AI工具支持。</p>
-<p>🔗 <a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy">https://reisen-ww.github.io/hot-pages/openhot/items/cxxf6lw8hu3t457s0hr7ukzgy</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Tue, 10 Nov 2026 16:01:27 GMT</pubDate>
-      <guid isPermaLink="false">cxxf6lw8hu3t457s0hr7ukzgy</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[开源项目是否需要伦理地辅助开发？]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bhaoj81obk3zkhjrkn07vteht</link>
-      <description><![CDATA[<p>许多开源项目正限制生成式工具的使用，以确保代码开发的伦理。讨论中提出，是否有非生成式的工具能帮助开发者通过自然语言描述来设计修复和新功能，并辅助导航长代码块和解析大量错误日志。</p>
-<p>🔗 <a href="https://www.reddit.com/r/opensource/comments/1xsqgrm/ethical_nongenerative_tool_assisted_development/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bhaoj81obk3zkhjrkn07vteht">https://reisen-ww.github.io/hot-pages/openhot/items/bhaoj81obk3zkhjrkn07vteht</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 10 Nov 2026 15:54:22 GMT</pubDate>
-      <guid isPermaLink="false">bhaoj81obk3zkhjrkn07vteht</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/opensource)</author>
-    </item>
-    <item>
-      <title><![CDATA[Container Onion Service：无需端口转发的Tor隐藏服务容器]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/uey8x6urwf0baxhvepays4kzz</link>
-      <description><![CDATA[<p>该容器作为单个sidecar容器，可将您的网站或应用暴露为Tor网络上的隐藏服务，无需端口转发或额外配置。Freedom of the Press Foundation已将其用于生产环境中的公共网站。该项目简化了部署过程，支持Kubernetes/Docker Secrets，并且轻量级，镜像大小不到100MB。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsqg8g/container_onion_service_a_rootless_container_that/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/uey8x6urwf0baxhvepays4kzz">https://reisen-ww.github.io/hot-pages/openhot/items/uey8x6urwf0baxhvepays4kzz</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 15:53:52 GMT</pubDate>
-      <guid isPermaLink="false">uey8x6urwf0baxhvepays4kzz</guid>
+      <title><![CDATA[自托管 ARR 栈是否值得设置]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/so3d24ywg4ymo8s4a3de51sid</link>
+      <description><![CDATA[<p>对于每天仅观看一两部 1080p 电影且已有流媒体订阅的用户，使用 Docker 运行 Sonarr、Radarr 等自托管媒体服务器是否值得投入时间和资源尚存争议。在低配置家庭服务器上运行这些工具可能较为吃力。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtpu80/is_setting_up_an_arr_stack_worth_it_for_my_usage/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/so3d24ywg4ymo8s4a3de51sid">https://reisen-ww.github.io/hot-pages/openhot/items/so3d24ywg4ymo8s4a3de51sid</a></p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 18:39:57 GMT</pubDate>
+      <guid isPermaLink="false">so3d24ywg4ymo8s4a3de51sid</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
     <item>
-      <title><![CDATA[TinkeringDao 开源离线语音笔记应用 Satori，支持本地语音转文本与智能摘要]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/f18ze527f8v61vtn5o0wy0vsr</link>
-      <description><![CDATA[<p>TinkeringDao 开源离线语音笔记应用 Satori，支持本地语音转文本与智能摘要。应用基于 sherpa-onnx 实现离线语音转文本，并利用 llama.cpp 运行本地语言模型生成摘要和主题关联，无需云端服务，首次安装需下载约1.5-2GB模型权重。</p>
-<p>🔗 <a href="https://www.reddit.com/r/opensource/comments/1xsqfvu/satori_offline_android_voice_notes_app_with/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/f18ze527f8v61vtn5o0wy0vsr">https://reisen-ww.github.io/hot-pages/openhot/items/f18ze527f8v61vtn5o0wy0vsr</a></p>]]></description>
+      <title><![CDATA[13 岁少年开发 Ollama 界面让家人使用本地 AI]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dphii58erwwr59v822maazcvr</link>
+      <description><![CDATA[<p>一名 13 岁少年开发了一个简易界面，使家人能在不使用终端的情况下访问本地 AI。该界面支持聊天记录保存、个性化设置和模型下载等功能，完全本地化运行。作者询问是否有人会使用这种简易界面，以及还有哪些功能可以增加。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtpn2o/i_made_a_ui_for_ollama_so_my_family_can_use_local/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dphii58erwwr59v822maazcvr">https://reisen-ww.github.io/hot-pages/openhot/items/dphii58erwwr59v822maazcvr</a></p>]]></description>
       <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 15:53:31 GMT</pubDate>
-      <guid isPermaLink="false">f18ze527f8v61vtn5o0wy0vsr</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/opensource)</author>
-    </item>
-    <item>
-      <title><![CDATA[智能家居设备应无需联网即可工作]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xoqnzmtpjpzit17rin72v60j8</link>
-      <description><![CDATA[<p>如果家中的开关需要依赖服务器才能工作，这类设备将被排除在外。作者提出了十项智能家居规则，强调核心功能应能在断网时正常运行，避免同时移除旧系统引入新系统。这些规则包括硬件应独立运行、逻辑应部署在自有设备上、配置信息集中管理等，确保家居自动化系统在断网时仍能正常运作。</p>
-<p>🔗 <a href="https://docodethatmatters.com/home-automation-overnight-success/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xoqnzmtpjpzit17rin72v60j8">https://reisen-ww.github.io/hot-pages/openhot/items/xoqnzmtpjpzit17rin72v60j8</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 15:25:20 GMT</pubDate>
-      <guid isPermaLink="false">xoqnzmtpjpzit17rin72v60j8</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[家庭照片从手机和iCloud迁移至开源解决方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bw6i5jcr7t4kidy1a8qf32onm</link>
-      <description><![CDATA[<p>作者正在寻找开源工具将家庭照片从手机和iCloud迁出，并计划使用icloudpd下载整个iCloud库到NAS，同时考虑使用immich作为照片库，支持端到端加密。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xspo33/trying_to_get_our_family_photos_off_the_phones/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bw6i5jcr7t4kidy1a8qf32onm">https://reisen-ww.github.io/hot-pages/openhot/items/bw6i5jcr7t4kidy1a8qf32onm</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 15:23:42 GMT</pubDate>
-      <guid isPermaLink="false">bw6i5jcr7t4kidy1a8qf32onm</guid>
+      <pubDate>Wed, 11 Nov 2026 18:32:34 GMT</pubDate>
+      <guid isPermaLink="false">dphii58erwwr59v822maazcvr</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
     <item>
-      <title><![CDATA[IBM i 程序验证值（PVV）机制解析与绕过测试]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/r0hhlb2deubof4r1vivhw50p6</link>
-      <description><![CDATA[<p>作者通过自行开发的 pvv-ibmi 工具，解析了 IBM i 系统中 PVV 的计算流程（含 32 字节描述符生成、HMAC-SHA-256 计算、四值比对机制）。</p>
-<p>🔗 <a href="https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/r0hhlb2deubof4r1vivhw50p6">https://reisen-ww.github.io/hot-pages/openhot/items/r0hhlb2deubof4r1vivhw50p6</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 14:48:26 GMT</pubDate>
-      <guid isPermaLink="false">r0hhlb2deubof4r1vivhw50p6</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[某开发者发布更快的复活节日期计算算法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/sfbn6g3d8pshwoxf39df2tf9b</link>
-      <description><![CDATA[<p>某开发者发布更快的复活节日期计算算法，覆盖范围达±10百万年。通过汇编优化和常数折叠等技术，其函数速度是传统方法的2-3倍，并对比ChatGPT生成的算法在多平台（Apple M4 Pro/AMD Ryzen 9950X3D）的测试数据，显示性能提升15-20%。测试代码仓库提供基准数据验证。</p>
-<p>🔗 <a href="https://www.benjoffe.com/fast-easter">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/sfbn6g3d8pshwoxf39df2tf9b">https://reisen-ww.github.io/hot-pages/openhot/items/sfbn6g3d8pshwoxf39df2tf9b</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 14:36:45 GMT</pubDate>
-      <guid isPermaLink="false">sfbn6g3d8pshwoxf39df2tf9b</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Immich 数据恢复演练简要检查清单]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/u7viqyqa3po4hev1hduqef1ek</link>
-      <description><![CDATA[<p>Immich 使用 Postgres 存储路径和元数据，完整恢复需备份 library、upload、profile、thumbs、encoded-video 和 backups 文件夹。先停止 immich-server 容器或先备份数据库再备份文件，确保数据库指向已备份的照片。验证恢复后，检查照片数量和功能。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsntxt/i_finally_did_an_immich_restore_drill_heres_the/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/u7viqyqa3po4hev1hduqef1ek">https://reisen-ww.github.io/hot-pages/openhot/items/u7viqyqa3po4hev1hduqef1ek</a></p>]]></description>
+      <title><![CDATA[AWS Emulator 发布：AI代理如何重构工程师的编码与测试工作]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ceizhansttvqxs6aqfi3qme3d</link>
+      <description><![CDATA[<p>AWS宣布发布Emulator工具，由AI代理自主完成开发与测试流程。该工具通过模拟真实AWS环境，利用400+API模型覆盖200+服务，实现分布式系统测试自动化。工程师角色转变为制定测试规范、安全审查和部署流程，并监督AI代理的输出质量。项目代码已开源至GitHub，包含详细的测试用例和问题追踪。</p>
+<p>🔗 <a href="https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ceizhansttvqxs6aqfi3qme3d">https://reisen-ww.github.io/hot-pages/openhot/items/ceizhansttvqxs6aqfi3qme3d</a></p>]]></description>
       <category>基础设施</category>
-      <pubDate>Tue, 10 Nov 2026 14:09:19 GMT</pubDate>
-      <guid isPermaLink="false">u7viqyqa3po4hev1hduqef1ek</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Homelab-Nexus 项目开源]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/h7m8v1gqojme0kfuvrc5cm3ag</link>
-      <description><![CDATA[<p>作者将用于监控家庭实验室的个人项目 Homelab-Nexus 开源，整合了服务器指标、服务状态、消息和警报等功能，支持实时更新和自定义设置。该项目包含 Docker 镜像，适用于 amd64 和 arm64 平台，现已发布在作者的博客上。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsnotf/homelabnexus/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/h7m8v1gqojme0kfuvrc5cm3ag">https://reisen-ww.github.io/hot-pages/openhot/items/h7m8v1gqojme0kfuvrc5cm3ag</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 14:03:04 GMT</pubDate>
-      <guid isPermaLink="false">h7m8v1gqojme0kfuvrc5cm3ag</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[NeuraCryption开源SPECTRA架构：4GB内存笔记本实现82.53 tok/s实时生成]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/je92e7eox7daaq4vized3843x</link>
-      <description><![CDATA[<p>NeuraCryption开源的SPECTRA架构在4GB内存笔记本上实现82.53 tok/s实时生成，接近192 GB/s内存带宽极限。</p>
-<p>🔗 <a href="https://neuracryption.com/research">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/je92e7eox7daaq4vized3843x">https://reisen-ww.github.io/hot-pages/openhot/items/je92e7eox7daaq4vized3843x</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Tue, 10 Nov 2026 13:51:51 GMT</pubDate>
-      <guid isPermaLink="false">je92e7eox7daaq4vized3843x</guid>
+      <pubDate>Wed, 11 Nov 2026 18:28:31 GMT</pubDate>
+      <guid isPermaLink="false">ceizhansttvqxs6aqfi3qme3d</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[haampie/tar-minefield 测试套件揭示主流工具处理复杂tar包的兼容性差异]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/q0wwztatt1oii2o234xpna5do</link>
-      <description><![CDATA[<p>该测试套件包含134个复杂tar包案例，对比了GNU tar、Python、Go、Rust等工具在解压时的不同表现，并提供了详细分析。测试套件仓库位于https://stoppels.ch/tar-minefield。</p>
-<p>🔗 <a href="https://stoppels.ch/2026/11/07/the-hardest-tarball.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/q0wwztatt1oii2o234xpna5do">https://reisen-ww.github.io/hot-pages/openhot/items/q0wwztatt1oii2o234xpna5do</a></p>]]></description>
+      <title><![CDATA[AWS Emulator：本地测试AWS API的免费替代方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ymwqyvbisz2geo9wbrntsbxgw</link>
+      <description><![CDATA[<p>AWS Emulator 是一个本地运行的 AWS API 模拟器，无需 AWS 账户即可测试软件。它通过环境变量或嵌入模式与 AWS SDK 集成，支持 Linux、Windows 和 macOS。该项目无需额外服务费用，支持多核处理器，构建产物大小约为 100 GB。</p>
+<p>🔗 <a href="https://github.com/aws/aws-emulator">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ymwqyvbisz2geo9wbrntsbxgw">https://reisen-ww.github.io/hot-pages/openhot/items/ymwqyvbisz2geo9wbrntsbxgw</a></p>]]></description>
       <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 13:47:03 GMT</pubDate>
-      <guid isPermaLink="false">q0wwztatt1oii2o234xpna5do</guid>
+      <pubDate>Wed, 11 Nov 2026 18:21:38 GMT</pubDate>
+      <guid isPermaLink="false">ymwqyvbisz2geo9wbrntsbxgw</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[GitHub Actions 新增锁文件机制防范供应链攻击]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</link>
+      <description><![CDATA[<p>GitHub Actions 在 2026 年 11 月正式支持工作流锁文件，通过锁定依赖库的版本号（如 v7.0.1、v3.1.0）避免恶意代码替换。作者演示了使用 `gh actions-lock` 工具生成锁文件（actions.lock）的配置方法，并建议通过 `zizmor` 工具验证锁文件有效性。</p>
+<p>🔗 <a href="https://hugovk.dev/blog/2026/lock-github-actions/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o">https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 18:16:01 GMT</pubDate>
+      <guid isPermaLink="false">cc92w3d9y8vpvwqtxlwymi71o</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[PhotoPrism 如何将手机照片上传到 NAS]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/os0mmom2cviq73xqjt9joirb1</link>
-      <description><![CDATA[<p>作者正在尝试将手机照片上传到 NAS 中的 SMB 共享，但遇到多种工具如 icloudpd、Syncthing 和 FolderSync 的问题。希望找到一种方法，使新照片按日期文件夹存储，HEIC 和 Live Photos 能保留，且不会在重新安装时产生重复文件。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsn3ki/photoprism_how_to_getting_phone_photos_onto_the/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/os0mmom2cviq73xqjt9joirb1">https://reisen-ww.github.io/hot-pages/openhot/items/os0mmom2cviq73xqjt9joirb1</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 13:37:26 GMT</pubDate>
-      <guid isPermaLink="false">os0mmom2cviq73xqjt9joirb1</guid>
+      <title><![CDATA[从爱因斯坦火车实验到CRDTs：分布式编辑中的并发冲突与解决方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/pfu9yf8h0j805mq7g5w45yvrq</link>
+      <description><![CDATA[<p>本文通过爱因斯坦的火车实验和Lamport论文，解析CRDTs如何解决分布式编辑中的并发冲突，并关联Yjs实际案例。详细说明CRDTs的三个核心机制（唯一ID、邻居关系、墓碑标记），对比Dynamo风格和Last Write Wins方案，最后以Yjs协作编辑库为例展示应用场景。</p>
+<p>🔗 <a href="https://www.itworkslocally.dev/posts/no-effect-before-its-cause">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/pfu9yf8h0j805mq7g5w45yvrq">https://reisen-ww.github.io/hot-pages/openhot/items/pfu9yf8h0j805mq7g5w45yvrq</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 18:05:08 GMT</pubDate>
+      <guid isPermaLink="false">pfu9yf8h0j805mq7g5w45yvrq</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[零初始化优化中的 GCC 异常行为]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n5c8uza4u59ovt7hcy94x4xki</link>
+      <description><![CDATA[<p>GCC 在处理零初始化时表现出异常行为，如多次调用 `memset` 和不必要的内存复制。例如，GCC 14 版本会两次调用 `memset`，而 GCC 15 及更高版本则仅调用一次，但某些边缘情况仍未解决。这些异常优化行为反映了编译器在处理特定初始化模式时的复杂性。</p>
+<p>🔗 <a href="https://napcakes.nekoweb.org/posts/zero-init/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n5c8uza4u59ovt7hcy94x4xki">https://reisen-ww.github.io/hot-pages/openhot/items/n5c8uza4u59ovt7hcy94x4xki</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 18:04:27 GMT</pubDate>
+      <guid isPermaLink="false">n5c8uza4u59ovt7hcy94x4xki</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[MattiaPARRINELLO 开源自托管个人助手，支持多账户加密与模块化扩展]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</link>
+      <description><![CDATA[<p>MattiaPARRINELLO 在 GitHub 开源自托管个人助手项目，支持多用户独立加密存储与模块化部署。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtomhw/im_making_my_selfhosted_personal_assistant/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z">https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 17:54:52 GMT</pubDate>
+      <guid isPermaLink="false">dc8y2yl0gkf7eupoc6jjenu6z</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
     <item>
-      <title><![CDATA[Let Over Lambda — 50 年 Lisp 编程精华]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mucwcdpwrl5q7jb8nyjdlzxty</link>
-      <description><![CDATA[<p>Let Over Lambda（ISBN 978-1-4357-1275-1）是一本深入探讨 Lisp 语言高级特性和宏技术的书籍，旨在展示编程中的先进理念。该书于2008年出版，以纪念 Lisp 语言诞生50周年。2026年更新后，全书免费在线阅读。</p>
-<p>🔗 <a href="https://letoverlambda.com/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mucwcdpwrl5q7jb8nyjdlzxty">https://reisen-ww.github.io/hot-pages/openhot/items/mucwcdpwrl5q7jb8nyjdlzxty</a></p>]]></description>
+      <title><![CDATA[Patrick 开源 Spectacled 跨平台 CalDAV 应用，招募测试者]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dfmtolsci2deb1rm5zlmbluk6</link>
+      <description><![CDATA[<p>Patrick 开源 Spectacled 跨平台应用，支持 Android/iOS/Windows/macOS/Linux，通过 CalDAV 同步数据。项目采用 Apache 2.0 许可证，当前招募测试者需使用新集合避免数据混淆，并需注意部分 CalDAV 服务器（如 Nextcloud）兼容性更好。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtn7e7/ive_spent_the_last_months_building_a_caldav_app/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dfmtolsci2deb1rm5zlmbluk6">https://reisen-ww.github.io/hot-pages/openhot/items/dfmtolsci2deb1rm5zlmbluk6</a></p>]]></description>
       <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 12:35:27 GMT</pubDate>
-      <guid isPermaLink="false">mucwcdpwrl5q7jb8nyjdlzxty</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Flare：一个基于 Docker 的自托管 OpenTelemetry 平台]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ijz3h3wi89gbb4i388pl2335n</link>
-      <description><![CDATA[<p>Flare 是一个自托管的可观测性平台，集成了日志、跟踪、指标和警报功能，无需安装代理，只需运行 Flare、ClickHouse 和 Redis。该平台支持多种语言和框架发送 OpenTelemetry 数据，并提供日志搜索、分布式跟踪、指标监控和警报等功能。项目基于 MIT 许可证，欢迎试用并反馈使用体验。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xslldi/flare_selfhosted_opentelemetry_logstracesmetrics/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ijz3h3wi89gbb4i388pl2335n">https://reisen-ww.github.io/hot-pages/openhot/items/ijz3h3wi89gbb4i388pl2335n</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 12:25:59 GMT</pubDate>
-      <guid isPermaLink="false">ijz3h3wi89gbb4i388pl2335n</guid>
+      <pubDate>Wed, 11 Nov 2026 17:03:39 GMT</pubDate>
+      <guid isPermaLink="false">dfmtolsci2deb1rm5zlmbluk6</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
     <item>
-      <title><![CDATA[微软发布 .NET 11 运行时重大更新]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/o771325cyqcm624qz3dfpoo1v</link>
-      <description><![CDATA[<p>微软发布 .NET 11 运行时，硬件要求从 x86-64-v1 升级至 x86-64-v3（新增 AVX、BMI 等指令集支持），并引入 Runtime Async V2（减少13帧到5帧的调试堆栈）。新增支持超过1024核处理器，优化了 WebAssembly 调试和 SIMD 控制能力。</p>
-<p>🔗 <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/o771325cyqcm624qz3dfpoo1v">https://reisen-ww.github.io/hot-pages/openhot/items/o771325cyqcm624qz3dfpoo1v</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Tue, 10 Nov 2026 12:20:07 GMT</pubDate>
-      <guid isPermaLink="false">o771325cyqcm624qz3dfpoo1v</guid>
+      <title><![CDATA[Zed 1.28.1 发布：新增调试器配置与 Agent 协议兼容性优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wobr0aeb9jpgkwtlhs5uwimi7</link>
+      <description><![CDATA[<p>Zed 1.28.1 版本发布，优化调试器默认宽高配置（debugger.default_width/height）和 Agent 客户端协议兼容性（处理缺失会话、计划更新等），新增 Git 自动拉取当前分支上游（git.auto_fetch.enabled）和拖拽文件到终端/编辑器功能。</p>
+<p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.28.1">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wobr0aeb9jpgkwtlhs5uwimi7">https://reisen-ww.github.io/hot-pages/openhot/items/wobr0aeb9jpgkwtlhs5uwimi7</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 16:34:27 GMT</pubDate>
+      <guid isPermaLink="false">wobr0aeb9jpgkwtlhs5uwimi7</guid>
+      <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[Zed 发布 v1.29.1-pre 版本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e67h4xzlwtpc1yxdej5174i1j</link>
+      <description><![CDATA[<p>Zed 新增了 Git 分支模式以列出自基分支的所有变更文件，并改进了多个功能和修复了多项 Bug。新版本还支持 Anthropic Claude Fable 5.2 和 Mythos 5.2，并优化了 Git 状态刷新性能。</p>
+<p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.29.1-pre">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e67h4xzlwtpc1yxdej5174i1j">https://reisen-ww.github.io/hot-pages/openhot/items/e67h4xzlwtpc1yxdej5174i1j</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 16:34:18 GMT</pubDate>
+      <guid isPermaLink="false">e67h4xzlwtpc1yxdej5174i1j</guid>
+      <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[ODC Explorer：一个本地浏览的IPFS目录浏览器]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/v75b92hozhpzvdtiaruvowdxc</link>
+      <description><![CDATA[<p>ODC Explorer 是一个本地运行的IPFS目录浏览器，无需搜索引擎或中间人服务器，提供高度隐私保护。它直接从IPFS读取目录，不记录查询日志，不发送任何数据到第三方，确保内容完整性和不可篡改。项目已支持Linux，使用Python 3.9+和Flask运行，目前仍在开发中。</p>
+<p>🔗 <a href="https://www.reddit.com/r/opensource/comments/1xtm8xg/introducing_odc_explorer/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/v75b92hozhpzvdtiaruvowdxc">https://reisen-ww.github.io/hot-pages/openhot/items/v75b92hozhpzvdtiaruvowdxc</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 16:28:58 GMT</pubDate>
+      <guid isPermaLink="false">v75b92hozhpzvdtiaruvowdxc</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/opensource)</author>
+    </item>
+    <item>
+      <title><![CDATA[Jane Street NYC数据中心因烟雾警报险被高温淹没，技术团队紧急断电化解危机]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/uxlzk9ixdgvreonr7muonkt33</link>
+      <description><![CDATA[<p>Jane Street NYC数据中心因烟雾警报误触发导致冷却系统关闭，技术团队紧急断电化解危机。作者作为系统工程师亲历事件，使用OCaml编写实时监控工具，每分钟采集各服务器温度并触发警报。事件暴露自托管数据中心需人工干预与自动化监控结合的解决方案，为类似场景提供技术复盘参考。</p>
+<p>🔗 <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/uxlzk9ixdgvreonr7muonkt33">https://reisen-ww.github.io/hot-pages/openhot/items/uxlzk9ixdgvreonr7muonkt33</a></p>]]></description>
+      <category>基础设施</category>
+      <pubDate>Wed, 11 Nov 2026 16:27:51 GMT</pubDate>
+      <guid isPermaLink="false">uxlzk9ixdgvreonr7muonkt33</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Klad，你的编码代理可以驱动的绘画应用（源代码可用）]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/l5cy5wyb862nzbjtdqhzjzfit</link>
+      <description><![CDATA[<p>Klad 是一个 2D 绘画和动画应用，你和编码代理可以共享使用。你可以在编辑器中绘画，代理则通过命令行在相同的画布上绘画，双方可以即时看到对方的笔触。Klad 保留每一笔和填充的数据，支持编辑和动画制作。该应用源代码可用，适用于年收入低于 50 万欧元的公司。</p>
+<p>🔗 <a href="https://github.com/klad-app/klad">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/l5cy5wyb862nzbjtdqhzjzfit">https://reisen-ww.github.io/hot-pages/openhot/items/l5cy5wyb862nzbjtdqhzjzfit</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 16:00:50 GMT</pubDate>
+      <guid isPermaLink="false">l5cy5wyb862nzbjtdqhzjzfit</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[Google DeepMind 开源 Rust 写的 Signal 协议形式验证框架]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru</link>
-      <description><![CDATA[<p>Google DeepMind 开源 Rust 写的 Signal 协议形式验证框架，AI 代理验证代码效率提升 90%。研究团队使用多LLM框架，人类专家与AI协作制定数学规范，AI生成六百万行 Lean 代码进行验证，仅1%代码需人工复核，四周完成传统需数年的工作，工具已开源。</p>
-<p>🔗 <a href="https://deepmind.google/blog/introducing-alphaproof-code/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru">https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru</a></p>]]></description>
+      <title><![CDATA[计算机图形学知识宝典：从起源到现代]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/plx4ev2f36hsj05nv8gl91eei</link>
+      <description><![CDATA[<p>计算机图形学（CG）起源于20世纪50年代，最初作为政府和企业研究机构的可视化工具。早期突破性进展发生在麻省理工学院等学术中心，并在Xerox PARC等研究机构继续发展。1940年代，帕里·蒙恩和多米纳·埃伯勒·斯宾塞教授在MIT使用数学模型计算光照，创造出第一张辐射图像。该图像首次在50多年后以印刷形式呈现。</p>
+<p>🔗 <a href="https://www.cs.cmu.edu/~ph/nyit/masson/history.htm">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/plx4ev2f36hsj05nv8gl91eei">https://reisen-ww.github.io/hot-pages/openhot/items/plx4ev2f36hsj05nv8gl91eei</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Wed, 11 Nov 2026 15:50:02 GMT</pubDate>
+      <guid isPermaLink="false">plx4ev2f36hsj05nv8gl91eei</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Yogurt – 免费、私密且开源的 Granola 替代方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jvf8y74j4w9eo01ra2873lynk</link>
+      <description><![CDATA[<p>Yogurt 是一个免费、私密且开源的工具，用于记录会议通话，无需在会议中添加机器人。该项目已发布 Mac、Windows 和 Linux 版本，采用 MIT 许可证，目前有 16 个 star。</p>
+<p>🔗 <a href="https://github.com/FrigadeHQ/yogurt">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jvf8y74j4w9eo01ra2873lynk">https://reisen-ww.github.io/hot-pages/openhot/items/jvf8y74j4w9eo01ra2873lynk</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 15:33:06 GMT</pubDate>
+      <guid isPermaLink="false">jvf8y74j4w9eo01ra2873lynk</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[亟需推荐适合自托管的开源操作系统]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xi7osyo0if5clex5b4ejs33c9</link>
+      <description><![CDATA[<p>作者计划升级存储以实现RAID配置，并希望找到一个支持RAID、免费且有图形界面的操作系统，适合托管Jellyfish、NAS、Navidrome和Minecraft服务器。目前考虑了Unraid和Proxmox，但Unraid为付费软件，Proxmox虽免费但无图形界面。作者的硬件包括Ryzen 3 3200G、RTX 2060和多块硬盘，计划购买6块6TB WD Red Pro NAS硬盘。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtkr5f/need_os_recommendations/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xi7osyo0if5clex5b4ejs33c9">https://reisen-ww.github.io/hot-pages/openhot/items/xi7osyo0if5clex5b4ejs33c9</a></p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 15:32:31 GMT</pubDate>
+      <guid isPermaLink="false">xi7osyo0if5clex5b4ejs33c9</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Rust v1.28.0 正式发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cbci7knjlg0203nk3x6qm1dqv</link>
+      <description><![CDATA[<p>Rust 1.28.0 正式发布，该版本在 GitHub 上进行了验证并签名。此版本包含多个改进和修复，详情可查看相关 issue 和 PR。</p>
+<p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.28.0">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cbci7knjlg0203nk3x6qm1dqv">https://reisen-ww.github.io/hot-pages/openhot/items/cbci7knjlg0203nk3x6qm1dqv</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 15:20:26 GMT</pubDate>
+      <guid isPermaLink="false">cbci7knjlg0203nk3x6qm1dqv</guid>
+      <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[Rust v1.29.0-pre 发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gnwdgyh27og2sloya4kuxau76</link>
+      <description><![CDATA[<p>Rust v1.29.0-pre 版本已发布，该版本通过 GitHub 验证签名。</p>
+<p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.29.0-pre">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gnwdgyh27og2sloya4kuxau76">https://reisen-ww.github.io/hot-pages/openhot/items/gnwdgyh27og2sloya4kuxau76</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 15:20:04 GMT</pubDate>
+      <guid isPermaLink="false">gnwdgyh27og2sloya4kuxau76</guid>
+      <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[Rust项目公布2026年Google Summer of Code 13个成功项目成果]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</link>
+      <description><![CDATA[<p>Rust项目在GitHub发布2026年GSoC成果，13个项目全部通过终评。涉及Wild linker支持Linux内核模块链接（性能比BFD快2-4倍）、rust-analyzer迁移至SyntaxEditor减少内存占用、libc解决32/64位兼容性问题等。</p>
+<p>🔗 <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3">https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 15:03:06 GMT</pubDate>
+      <guid isPermaLink="false">vx4mmrg94x1bh1fy6kygncwz3</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[goHardDrive 售后服务获好评]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/h39pgsodqah2en10g6au1q2hu</link>
+      <description><![CDATA[<p>用户在 2024 年 1 月购买了 5 块 Western Digital 硬盘，使用两年多后因硬盘出现问题联系 goHDD 售后，客服迅速响应并安排换货，整个过程顺利无争议。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtj3k7/praise_for_goharddrive_warranty_service/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/h39pgsodqah2en10g6au1q2hu">https://reisen-ww.github.io/hot-pages/openhot/items/h39pgsodqah2en10g6au1q2hu</a></p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 14:26:34 GMT</pubDate>
+      <guid isPermaLink="false">h39pgsodqah2en10g6au1q2hu</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Budibase 4.0 正式发布：支持多操作与跨平台自动化工具集成]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gwhdp9unzr1hhcxj0xhbvr87h</link>
+      <description><![CDATA[<p>Budibase 4.0 版本发布，包含 Agents 正式版（支持多操作指令与权限分级）及自动化工具集成功能。用户可通过 Slack 和 Teams 直接与 Agents 交互处理审批与升级，官网提供详细文档。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtiw5v/budibase_40_build_agents_apps_automations_on_your/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gwhdp9unzr1hhcxj0xhbvr87h">https://reisen-ww.github.io/hot-pages/openhot/items/gwhdp9unzr1hhcxj0xhbvr87h</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 14:18:02 GMT</pubDate>
+      <guid isPermaLink="false">gwhdp9unzr1hhcxj0xhbvr87h</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Jellify 更新：支持 Google Cast 和 Android Auto，提升播放稳定性]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mlm416viwm274geefmf3y9nbb</link>
+      <description><![CDATA[<p>Jellify 是一个免费开源的 Jellyfin 音乐客户端，现已支持 Google Cast 和 Android Auto，可整队播放并控制播放。1.4 版本还修复了多项播放和稳定性问题，提升用户体验。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtia4n/updates_to_jellify_a_foss_music_player_for/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mlm416viwm274geefmf3y9nbb">https://reisen-ww.github.io/hot-pages/openhot/items/mlm416viwm274geefmf3y9nbb</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 13:52:45 GMT</pubDate>
+      <guid isPermaLink="false">mlm416viwm274geefmf3y9nbb</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[PipesHub开源自托管向量数据库在EnterpriseRAG-Bench评测中排名第一]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2</link>
+      <description><![CDATA[<p>PipesHub开源自托管向量数据库在EnterpriseRAG-Bench评测中排名第一，综合得分93.24，正确率95%。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xti468/self_hosted_glean_alternative_just_ranked_1_on/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2">https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 13:45:19 GMT</pubDate>
+      <guid isPermaLink="false">kiaqgykiiafhg0464j08jngb2</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[某开发者开源 Rust/C/C++ 汇编调试插件，集成 Neovim 浮动窗口]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/h2dlgss0k57tkkjiurc6d93e2</link>
+      <description><![CDATA[<p>某开发者通过 GitHub 仓库公开了支持 C/C++/Rust 代码汇编调试的 Neovim 插件，用户可通过安装配置快速使用，需编译环境支持并推荐使用 compile_commands.json 文件。</p>
+<p>🔗 <a href="https://github.com/0xdeadf1sh/AssemblyForNeovim">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/h2dlgss0k57tkkjiurc6d93e2">https://reisen-ww.github.io/hot-pages/openhot/items/h2dlgss0k57tkkjiurc6d93e2</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 13:34:24 GMT</pubDate>
+      <guid isPermaLink="false">h2dlgss0k57tkkjiurc6d93e2</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[EventSourcingDB 1.3.0发布：新API与性能提升]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd</link>
+      <description><![CDATA[<p>EventSourcingDB 1.3.0正式发布，引入与请求响应直接绑定的v2 API，并优化了写入、查询和恢复速度，同时提供详细的升级指南以降低迁移风险。</p>
+<p>🔗 <a href="https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd">https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd</a></p>]]></description>
+      <category>数据与数据库</category>
+      <pubDate>Wed, 11 Nov 2026 13:19:45 GMT</pubDate>
+      <guid isPermaLink="false">rdc3tphgrg6sfckulougqhqgd</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[自建24/7监控服务器状态的轻量级Telegram机器人]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/i49x5w4ecpsgu2a8kvzpwhalt</link>
+      <description><![CDATA[<p>作者开发了一个轻量级Telegram机器人，可实时监控服务器状态并在服务器故障或出现5xx错误时立即发送警报。用户只需将URL发送到聊天中，机器人将自动循环检测并在出现问题时发送详细原因。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtgux4/built_a_lightweight_telegram_bot_that_pings_my/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/i49x5w4ecpsgu2a8kvzpwhalt">https://reisen-ww.github.io/hot-pages/openhot/items/i49x5w4ecpsgu2a8kvzpwhalt</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 12:46:51 GMT</pubDate>
+      <guid isPermaLink="false">i49x5w4ecpsgu2a8kvzpwhalt</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Mozilla Firefox 145版本发布：通过指纹识别研究显著提升用户隐私保护]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</link>
+      <description><![CDATA[<p>Mozilla Firefox 145版本发布，通过指纹识别研究显著提升用户隐私保护。基于近2500万Firefox用户的数据分析，研究团队在CCS 2026国际安全会议发表论文，并开放测试网站和工具。</p>
+<p>🔗 <a href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst">https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</a></p>]]></description>
       <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 12:11:12 GMT</pubDate>
-      <guid isPermaLink="false">tdhmmbc4vi6r88pje71mfdpru</guid>
+      <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
+      <guid isPermaLink="false">valupcxo1s024tghy4cldjcst</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[某团队开源 15MB 自托管媒体聚合应用 HolyArrs]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wo8ljfads1tingbv64atw5okq</link>
-      <description><![CDATA[<p>某团队在 GitHub 公开该媒体聚合仓库，整合 Sonarr、Radarr、Lidarr 等六款应用，体积仅15MB（传统方案合计718.2MB）。支持 AMD64/ARM64 架构，通过 Docker 容器部署，提供电影/剧集日历、智能选集规则、字幕本地化存储等功能。文档详细说明从其他应用迁移步骤，强调无需API密钥且与现有下载器兼容。</p>
-<p>🔗 <a href="https://github.com/HolyArrs/HolyArrs">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wo8ljfads1tingbv64atw5okq">https://reisen-ww.github.io/hot-pages/openhot/items/wo8ljfads1tingbv64atw5okq</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 11:51:19 GMT</pubDate>
-      <guid isPermaLink="false">wo8ljfads1tingbv64atw5okq</guid>
+      <title><![CDATA[基于线性规划的模型权重优化：Astra循环问题修正方法对比分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</link>
+      <description><![CDATA[<p>MIT CSAIL的Astra模型通过线性规划优化权重，在MATH-500测试中准确率从7.9%提升至48.1%。作者对比了两种方法：Astra的原始方法修改130,188个权重参数，而线性规划版本仅修改16,291个（减少87%）。</p>
+<p>🔗 <a href="https://nathan.rs/posts/weight-space-lp/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi">https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Wed, 11 Nov 2026 12:30:17 GMT</pubDate>
+      <guid isPermaLink="false">mdvy36e21p5oej46adfpmpbgi</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google SWE团队通过AI分析NASA激光雷达数据，72小时内发现未记录玛雅金字塔遗址]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt</link>
+      <description><![CDATA[<p>Google SWE团队通过AI分析NASA激光雷达数据，72小时内发现未记录玛雅金字塔遗址。作者使用Gemini、ChatGPT等48个AI代理分析1.2万平方公里丛林数据，发现包含金字塔、广场等结构的遗址。</p>
+<p>🔗 <a href="https://pietromiotti.com/latest/maya-site/?maya">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt">https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 12:05:22 GMT</pubDate>
+      <guid isPermaLink="false">n8gnxujcsec9cpa6as9cryntt</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[如何安全地自我托管？]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dx8h9a29hptq84b68dklzcb68</link>
+      <description><![CDATA[<p>作者希望使用 Raspberry Pi 自主托管静态网站，并寻求使用开源工具的安全方法，避免使用第三方服务。</p>
+<p>🔗 <a href="https://lobste.rs/s/m43bas">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dx8h9a29hptq84b68dklzcb68">https://reisen-ww.github.io/hot-pages/openhot/items/dx8h9a29hptq84b68dklzcb68</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 11 Nov 2026 12:01:19 GMT</pubDate>
+      <guid isPermaLink="false">dx8h9a29hptq84b68dklzcb68</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[为关心发声辩护]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qzm42w7q5amwrwgh0tgo5al9q</link>
+      <description><![CDATA[<p>作者在独立游戏节（IGF）评审中发现，关于游戏使用AI的争议十分激烈，特别是Big Walk案例引发了大量讨论。作者认为IGF需要制定AI内容政策，并讨论了是否应禁止AI内容的问题。虽然有人认为AI代码已成为常态不应被禁止，但作者强调制定规则的重要性在于传达社区价值观并提供明确的执行依据。</p>
+<p>🔗 <a href="https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qzm42w7q5amwrwgh0tgo5al9q">https://reisen-ww.github.io/hot-pages/openhot/items/qzm42w7q5amwrwgh0tgo5al9q</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 12:00:45 GMT</pubDate>
+      <guid isPermaLink="false">qzm42w7q5amwrwgh0tgo5al9q</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Edgely Console 允许 Claude 安全访问家庭实验室而无需提供密码]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ax5m2j05mhwmhtwbstpcpbvqu</link>
+      <description><![CDATA[<p>Edgely Console 是一个用于 SSH、SFTP、RDP 和 VNC 的桌面应用，新增了 MCP 服务器功能，允许 Claude 等工具查询磁盘使用情况和容器日志，但仅限读取操作，除非用户明确开启写入模式。写入模式下，Claude 可以运行任意命令和上传文件，但每次删除操作都需要用户确认。密码和密钥保存在本地，不会泄露。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtfujd/let_claude_poke_around_my_homelab_without_giving/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ax5m2j05mhwmhtwbstpcpbvqu">https://reisen-ww.github.io/hot-pages/openhot/items/ax5m2j05mhwmhtwbstpcpbvqu</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 11 Nov 2026 11:54:35 GMT</pubDate>
+      <guid isPermaLink="false">ax5m2j05mhwmhtwbstpcpbvqu</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Senlo v0.1.0发布：支持SMTP服务器与加密凭证的自托管编辑器]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ezonsh30tjnx1li5g694k0kdc</link>
+      <description><![CDATA[<p>Senlo v0.1.0正式发布，新增可视化自动化工作流功能（支持触发、发送邮件、等待、调用API、分支逻辑），兼容SES、Mailgun、Postfix等SMTP服务器，并实现加密存储凭证及API密钥。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtfsos/senlo_v010_the_lifecycle_editor_i_promised_last/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ezonsh30tjnx1li5g694k0kdc">https://reisen-ww.github.io/hot-pages/openhot/items/ezonsh30tjnx1li5g694k0kdc</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 11:51:32 GMT</pubDate>
+      <guid isPermaLink="false">ezonsh30tjnx1li5g694k0kdc</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[Mike Karliner 开源 Node-RED 风格的微控制器可视化编程工具 ThingStudio]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/erssmf7ou2fpglwslsut9dekh</link>
+      <description><![CDATA[<p>Mike Karliner 在 GitHub 开源 ThingStudio，支持 ESP32、RP2040 等微控制器，提供无需云服务的可视化编程环境。用户可通过安装编辑器、烧录 MicroPython 到硬件，快速实现 LED 点亮等基础功能。项目采用 Apache 2.0 许可证，目前处于 beta 测试阶段，招募硬件开发者参与优化。</p>
+<p>🔗 <a href="https://thingstudio.net/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/erssmf7ou2fpglwslsut9dekh">https://reisen-ww.github.io/hot-pages/openhot/items/erssmf7ou2fpglwslsut9dekh</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 11:39:15 GMT</pubDate>
+      <guid isPermaLink="false">erssmf7ou2fpglwslsut9dekh</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Rewindarr开源自托管Spotify年度回顾项目，支持Plex与Jellyfin平台]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fq7mastc4hnm90wariy879s1n</link>
+      <description><![CDATA[<p>开发者/u/Deagaroth开源Rewindarr项目，提供Plex和Jellyfin的自托管Spotify年度回顾功能，包含观看历史分析、用户互动统计及无数据追踪设计。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtfi4f/rewindarr_a_selfhosted_spotify_wrapped_style/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fq7mastc4hnm90wariy879s1n">https://reisen-ww.github.io/hot-pages/openhot/items/fq7mastc4hnm90wariy879s1n</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 11 Nov 2026 11:34:41 GMT</pubDate>
+      <guid isPermaLink="false">fq7mastc4hnm90wariy879s1n</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>
 </rss>
