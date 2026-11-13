@@ -1,0 +1,12 @@
+# 路易斯安那州起诉Coinbase、Robinhood等多家预测市场平台
+
+> 原标题：路易斯安那州起诉Kalshi、Polymarket、Coinbase等预测市场平台
+
+- 来源：PANews
+- 发布时间：2026-11-12T21:32:42.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/u3frr40bz6eserc3f5ufscxz4
+- 原文：https://www.panewslab.com/zh/articles/01a1d1ad-5fe2-75e9-9f7c-b80d4ab3fcc1
+
+## 摘要
+
+路易斯安那州总检察长Liz Murrill在X平台宣布，已向州法院起诉Kalshi、Polymarket及Robinhood、Coinbase等平台，指控其通过事件合约违反当地赌博法律，并申请立即禁令。此前Kalshi与Polymarket已在联邦法院起诉该州官员。

@@ -9,6 +9,61 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Amplitude 如何与 OpenAI 合作实现 1-2 天内快速迭代产品功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</link>
+      <description><![CDATA[<p>Amplitude 通过集成 OpenAI 模型，利用智能体 Wave 实现了 1-2 天内快速迭代产品功能，并引入了代码智能体辅助开发流程。该方案包含需求识别、开发执行和效果测量三个环节，展示了 AI 智能体在 SaaS 产品迭代中的落地应用。</p>
+<p>🔗 <a href="https://openai.com/index/amplitude">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx">https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bgjccsz52d0x5gr14wqhlr4sx</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google发布Gemini 4 Hydrogen，正式取代3.8 Flash模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk</link>
+      <description><![CDATA[<p>Google发布Gemini 4 Hydrogen模型，取代原有3.8 Flash版本。该模型在高速运行（比3.8 Flash快2.5倍）、代码生成能力（Terminal-Bench得分翻倍）和访问权限（开放即用）方面均有显著提升，甚至与Argon模型竞争。</p>
+<p>🔗 <a href="https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk">https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 19:23:03 GMT</pubDate>
+      <guid isPermaLink="false">lc1x2nnj60qfhsnwyz73egbxk</guid>
+      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nectar 推出智能体 Creator Agent 实现品牌创作者发现与触达自动化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy</link>
+      <description><![CDATA[<p>Nectar 推出 Creator Agent 智能体，实现品牌创作者发现与触达自动化。该工具可分析视频内容、跨平台集成（通过 Model Context Protocol 支持 Claude/ChatGPT/Gemini 等工具）、检查创作者历史合作并生成符合品牌声量的个性化消息，同时与 Anthropic 合作。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy">https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 19:11:00 GMT</pubDate>
+      <guid isPermaLink="false">yvnjaqlbentp1eynsmuc70rwy</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Granite 4.1 发布支持 LLMON 标记语言的预览模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2</link>
+      <description><![CDATA[<p>Hugging Face 发布 granite-4.1-3b-LLMON-preview 和 granite-4.1-8b-LLMON-preview 两个实验预览模型，通过 LLMON 标记语言实现指令/数据/约束的显式结构分离。</p>
+<p>🔗 <a href="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2">https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 19:07:35 GMT</pubDate>
+      <guid isPermaLink="false">ccq7ilb7xw2k8lr9n90hullv2</guid>
+      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[ElevenLabs 发布 Scribe v3 和 v3 Live 语音识别模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f</link>
+      <description><![CDATA[<p>ElevenLabs 发布 Scribe v3（预录音频）和 v3 Live（实时对话）语音识别模型，支持多语言上下文分析，说话人分离准确率提升，但速度较慢且价格较高。对比显示其准确率优于 Microsoft、Mistral、xAI 等竞品，但速度和成本方面落后。</p>
+<p>🔗 <a href="https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f">https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 13:48:19 GMT</pubDate>
+      <guid isPermaLink="false">k96d9drvdiimwnpooaxz8bp5f</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
       <title><![CDATA[Google发布Gemini Decision 1决策模型API]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</link>
       <description><![CDATA[<p>Google发布Gemini Decision 1决策模型API，支持文本/图像/音频/视频/PDF输入，单次请求最多处理1000个问题，上下文窗口256K，端到端延迟150-250ms。评测显示其5项基准测试得分优于Jev 1.14，成本为$0.10/1M tokens。</p>
@@ -240,6 +295,17 @@
       <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
     <item>
+      <title><![CDATA[Google DeepMind 开放 PARDIG 和 SatWeave 数据集助力气候建模]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/uqx26axccxeyh6y42kqojx7qa</link>
+      <description><![CDATA[<p>Google DeepMind 开放 PARDIG 和 SatWeave 数据集，前者为 AI 驱动的全球降水数据集，后者为每小时更新的卫星图像数据集，后者较现有模型提升极端降水检测准确率超30%。两个数据集已通过 Google Cloud Storage 和 Earth Engine 开放，支持洪水、滑坡等灾害预警及太阳能等气候应用开发。</p>
+<p>🔗 <a href="https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/uqx26axccxeyh6y42kqojx7qa">https://reisen-ww.github.io/hot-pages/aihot/items/uqx26axccxeyh6y42kqojx7qa</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 10 Nov 2026 11:13:04 GMT</pubDate>
+      <guid isPermaLink="false">uqx26axccxeyh6y42kqojx7qa</guid>
+      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
+    </item>
+    <item>
       <title><![CDATA[新加坡航空使用 OpenAI 技术提升旅行与工作效率]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/n1p2gdn6ny2gs70wba87yzdxt</link>
       <description><![CDATA[<p>新加坡航空使用 OpenAI 技术提升客户支持、旅行发现及员工生产力，其客户满意度（CSAT）翻倍。该方案通过 OpenAI API 实现智能客服和行程规划功能，使人工客服需求降低 30%，员工处理效率提升 25%。</p>
@@ -392,105 +458,6 @@
       <pubDate>Fri, 06 Nov 2026 16:49:42 GMT</pubDate>
       <guid isPermaLink="false">aqf4fk6y4zqvlvya3ncqrmqom</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 为 Claude 新增个人财务管理功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ljjv5vz0j7yo62iwloxb9pzbm</link>
-      <description><![CDATA[<p>Anthropic 为 Claude 添加银行账户访问功能，用户可通过 Plaid 连接账户查看消费分类、检查待付账单，并验证收支平衡。Claude 仅限读权限且不存储密码，该功能现面向美国 Pro/Max/Ultra 用户进行测试。公司表示相关对话不会用于模型训练，长期计划接入持牌财务顾问和合规机构。</p>
-<p>🔗 <a href="https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ljjv5vz0j7yo62iwloxb9pzbm">https://reisen-ww.github.io/hot-pages/aihot/items/ljjv5vz0j7yo62iwloxb9pzbm</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Fri, 06 Nov 2026 11:33:13 GMT</pubDate>
-      <guid isPermaLink="false">ljjv5vz0j7yo62iwloxb9pzbm</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Tinker Inkling 2 Small发布：17A-594B模型仅用68小时训练，多模态性能超越Muse Spark]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/kl14yy62y9xr51j4vfbh6jpr3</link>
-      <description><![CDATA[<p>Tinker Inkling 2 Small发布，该模型以17A-594B参数量在68小时内完成训练，多模态性能超越Muse Spark，成本仅为后者1/8。测试显示其在自动化编程、推理和视觉生成任务中表现优异，但输出token数量较高可能影响长任务效率。</p>
-<p>🔗 <a href="https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/kl14yy62y9xr51j4vfbh6jpr3">https://reisen-ww.github.io/hot-pages/aihot/items/kl14yy62y9xr51j4vfbh6jpr3</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Fri, 06 Nov 2026 10:35:21 GMT</pubDate>
-      <guid isPermaLink="false">kl14yy62y9xr51j4vfbh6jpr3</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS发布Web Answer：Bedrock AgentCore智能体快速获取带引用的实时答案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qloeln1fz7m1p13bqgepbycjo</link>
-      <description><![CDATA[<p>AWS宣布在Bedrock AgentCore中推出Web Answer工具，可让智能体快速生成带引用的实时答案。该工具整合搜索、验证、合成和引用流程，支持自定义域过滤、日期范围和地区本地化，与Web Search工具形成互补（前者提供完整答案，后者返回原始搜索结果）。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qloeln1fz7m1p13bqgepbycjo">https://reisen-ww.github.io/hot-pages/aihot/items/qloeln1fz7m1p13bqgepbycjo</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 05 Nov 2026 21:04:24 GMT</pubDate>
-      <guid isPermaLink="false">qloeln1fz7m1p13bqgepbycjo</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Meta宣布美国用户可使用Muse AI语音视频聊天功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/x11m8mnl1qh4rr4ecrwei9b5k</link>
-      <description><![CDATA[<p>Meta宣布美国用户即日起可通过Muse AI进行实时语音视频聊天，该功能采用Muse Realtime Avatar和Voice技术，并计划在年底推出配套硬件设备。演示显示，用户可与拟人化AI助手（如白犬形象）进行互动，AI能根据对话语气调整表情和动作。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/x11m8mnl1qh4rr4ecrwei9b5k">https://reisen-ww.github.io/hot-pages/aihot/items/x11m8mnl1qh4rr4ecrwei9b5k</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 05 Nov 2026 19:48:28 GMT</pubDate>
-      <guid isPermaLink="false">x11m8mnl1qh4rr4ecrwei9b5k</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA Cosmos 3 发布四个开源交互世界模拟模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/t8mopt6owd0xmgkvbmlny7j9w</link>
-      <description><![CDATA[<p>NVIDIA发布四个基于Cosmos 3的开源模型，用于生成多传感器同步的交互式世界模拟数据（含天气/光照/时间变化）。</p>
-<p>🔗 <a href="https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/t8mopt6owd0xmgkvbmlny7j9w">https://reisen-ww.github.io/hot-pages/aihot/items/t8mopt6owd0xmgkvbmlny7j9w</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 05 Nov 2026 19:35:16 GMT</pubDate>
-      <guid isPermaLink="false">t8mopt6owd0xmgkvbmlny7j9w</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Gemini Omni 1.2 Flash 发布：15秒视频生成与30%价格下调]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ojhlctg9v0tsfgt1iy1mca0ft</link>
-      <description><![CDATA[<p>Google 发布 Gemini Omni 1.2 Flash 视频生成模型，支持15秒长视频、30%价格下调及对话式编辑功能。该模型通过逐步调整背景、光照和画面比例实现局部编辑，支持从360p/720p到1080p/4K的阶梯式处理，并承诺更稳定的视觉一致性。输入可包含人物照片、产品图、3秒动态片段及音频提示，输出视频能保持服装剪裁、品牌标识等细节跨镜头一致性。</p>
-<p>🔗 <a href="https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ojhlctg9v0tsfgt1iy1mca0ft">https://reisen-ww.github.io/hot-pages/aihot/items/ojhlctg9v0tsfgt1iy1mca0ft</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 05 Nov 2026 19:05:31 GMT</pubDate>
-      <guid isPermaLink="false">ojhlctg9v0tsfgt1iy1mca0ft</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 推出 Claude 个人财务管理功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/d1t69fapsndkfpla8qwlmoefo</link>
-      <description><![CDATA[<p>Anthropic宣布Claude新增个人财务管理功能，通过Plaid银行桥接平台实现账户读权限访问（不存储密码），可查询近两年交易记录、分析月度支出类别（房租/购物/食品等），并回答账单剩余天数、大额消费可行性等财务问题。该功能现面向美国Pro/Ultra/Max用户开放测试。此前OpenAI已在五月推出类似ChatGPT银行账户接入功能。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/d1t69fapsndkfpla8qwlmoefo">https://reisen-ww.github.io/hot-pages/aihot/items/d1t69fapsndkfpla8qwlmoefo</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 05 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d1t69fapsndkfpla8qwlmoefo</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google DeepMind发布Gemini Omni 1.2 Flash：原生15秒视频生成与多轮对话编辑能力升级]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ocnntc4b03t3u6b4tup8wfu6p</link>
-      <description><![CDATA[<p>Google DeepMind发布Gemini Omni 1.2 Flash，原生支持15秒视频生成，并提升多轮对话编辑的一致性及成本效益。价格从1.1版降低30%至$0.07/秒，支持3-15秒精确时长设定，可生成完整产品说明视频或社交媒体广告片段。</p>
-<p>🔗 <a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ocnntc4b03t3u6b4tup8wfu6p">https://reisen-ww.github.io/hot-pages/aihot/items/ocnntc4b03t3u6b4tup8wfu6p</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 05 Nov 2026 17:05:16 GMT</pubDate>
-      <guid isPermaLink="false">ocnntc4b03t3u6b4tup8wfu6p</guid>
-      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
-    </item>
-    <item>
-      <title><![CDATA[Box发布基于Nvidia Nemotron的新内容检索系统]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yx5uxid5iuu4fa0gmn3xzh5nk</link>
-      <description><![CDATA[<p>Box发布基于Nvidia Nemotron的新内容检索系统，通过嵌入向量技术提升企业级查询速度、准确性和成本效益。Nemotron在RTEB基准测试中表现突出，支持法律等专业场景的条款检索。系统依赖Box现有元数据与权限控制，需整合多技术实现。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yx5uxid5iuu4fa0gmn3xzh5nk">https://reisen-ww.github.io/hot-pages/aihot/items/yx5uxid5iuu4fa0gmn3xzh5nk</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">yx5uxid5iuu4fa0gmn3xzh5nk</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
   </channel>
 </rss>

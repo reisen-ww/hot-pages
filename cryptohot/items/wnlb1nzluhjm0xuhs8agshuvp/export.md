@@ -1,0 +1,12 @@
+# 美国国税局（IRS）宣布2027年401(k)缴存限额调整
+
+> 原标题：IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money
+
+- 来源：CNBC Top News
+- 发布时间：2026-11-12T17:23:14.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/wnlb1nzluhjm0xuhs8agshuvp
+- 原文：https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html
+
+## 摘要
+
+美国国税局（IRS）宣布2027年401(k)员工缴存限额上调至25,500美元（较2026年+1,000美元），50岁以上者catch-up贡献额增至8,500美元（较2026年+500美元）。数据显示2025年仅14%参与者达到全额缴存，且19%员工未获得公司全额匹配。专家建议每年至少提升1%储蓄率，目前约27%的401(k)计划已启用自动递增功能。

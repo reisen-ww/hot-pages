@@ -9,59 +9,125 @@
     <ttl>30</ttl>
     <generator>金融热点 (https://reisen-ww.github.io/hot-pages/cryptohot/agent)</generator>
     <item>
-      <title><![CDATA[Ethlabs撤回Hготá快速槽提案，转向2027量子安全路线图]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/stkd3yaktvybj534vbchiny9y</link>
-      <description><![CDATA[<p>Ethlabs宣布撤回Hготá升级中的快速槽提案，将资源转向2027年量子安全准备计划pqai27。该路线图明确以防范量子计算和AI威胁为核心目标，并要求Glamsterdam升级按原计划推进，但需重新评估FOCIL censorship-resistance功能与Frame Transactions账户认证功能的优先级。</p>
-<p>🔗 <a href="https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/stkd3yaktvybj534vbchiny9y">https://reisen-ww.github.io/hot-pages/cryptohot/items/stkd3yaktvybj534vbchiny9y</a></p>]]></description>
+      <title><![CDATA[Nvidia收购Hugging Face期间CEO重申开放源代码承诺]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/m3otiajmjd0qdhl1neja7f3hy</link>
+      <description><![CDATA[<p>Nvidia宣布以129.3亿美元收购Hugging Face，交易预计2027年第一季度完成。Hugging Face CEO Clément Delangue在Nvidia CEO Jensen Huang辞职后公开表示将坚持开放源代码AI使命，强调平台独立性不受影响。需关注收购进程及领导层变动对AI生态的影响。</p>
+<p>🔗 <a href="https://cryptobriefing.com/hugging-face-ceo-open-source-huang-exit/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/m3otiajmjd0qdhl1neja7f3hy">https://reisen-ww.github.io/hot-pages/cryptohot/items/m3otiajmjd0qdhl1neja7f3hy</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Thu, 12 Nov 2026 10:30:29 GMT</pubDate>
-      <guid isPermaLink="false">stkd3yaktvybj534vbchiny9y</guid>
+      <pubDate>Thu, 12 Nov 2026 17:41:15 GMT</pubDate>
+      <guid isPermaLink="false">m3otiajmjd0qdhl1neja7f3hy</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[Visa将西联汇款稳定币USDPT纳入VisaNet结算资产]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/x4wfgx0a5iqoleytf3ts8jft5</link>
+      <description><![CDATA[<p>Visa将西联汇款稳定币USDPT纳入VisaNet结算资产。USDPT由Anchorage Digital Bank发行并托管，于今年5月在Solana链上推出，合作方将建立框架评估更多稳定币接入VisaNet的可能性。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1d0a0-9f8b-769f-bbce-9a7cdcaebaac">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/x4wfgx0a5iqoleytf3ts8jft5">https://reisen-ww.github.io/hot-pages/cryptohot/items/x4wfgx0a5iqoleytf3ts8jft5</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 16:39:09 GMT</pubDate>
+      <guid isPermaLink="false">x4wfgx0a5iqoleytf3ts8jft5</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[Trezor Safe 5硬件植入事件调查更新：3台设备被篡改，未造成用户资金损失]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/u4631endx1vhqoj1bu78vtrhm</link>
+      <description><![CDATA[<p>Trezor确认2026年8月至9月期间通过CryptoBilis经销商购买的3台Safe 5设备存在硬件植入，未造成资金损失。已发布2.13.1固件修复屏幕内容捕获漏洞，建议受影响用户转移资金并联系Trezor免费更换设备。调查仍在进行中。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1d070-df61-7107-967b-810d03d49655">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/u4631endx1vhqoj1bu78vtrhm">https://reisen-ww.github.io/hot-pages/cryptohot/items/u4631endx1vhqoj1bu78vtrhm</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="false">u4631endx1vhqoj1bu78vtrhm</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[Mercado Bitcoin遭攻击损失4900万美元后恢复只读账户访问]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/k94cj120b08znvlztkao4tb1u</link>
+      <description><![CDATA[<p>巴西交易所 Mercado Bitcoin 遭网络攻击损失约4900万美元后恢复只读账户访问。用户可查看截至攻击当日余额，但暂时无法提款，交易所未公布恢复提款时间。攻击后仅支持通过 Pix 支付系统提款，用户需重新验证身份信息并确保账户归属本人。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304266">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/k94cj120b08znvlztkao4tb1u">https://reisen-ww.github.io/hot-pages/cryptohot/items/k94cj120b08znvlztkao4tb1u</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 15:31:49 GMT</pubDate>
+      <guid isPermaLink="false">k94cj120b08znvlztkao4tb1u</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[Fireworks AI遭二次数据泄露 暴露Notion客户账单信息]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/rqxyacwrjhcn09zvydl7k6xyi</link>
+      <description><![CDATA[<p>Fireworks AI在10天内遭遇两次数据泄露，首次泄露内部凭证和机密，第二次通过云服务提供商入侵导致客户账单信息和部分数据集外泄。Notion已切断合作、删除数据并停用相关功能，Cursor和Harvey也受影响需重新验证凭证。</p>
+<p>🔗 <a href="https://cryptobriefing.com/fireworks-ai-second-data-breach-notion/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/rqxyacwrjhcn09zvydl7k6xyi">https://reisen-ww.github.io/hot-pages/cryptohot/items/rqxyacwrjhcn09zvydl7k6xyi</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 15:17:33 GMT</pubDate>
+      <guid isPermaLink="false">rqxyacwrjhcn09zvydl7k6xyi</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[Ode 探索基于绩效的定价模式以提升 Anthropic 收入]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/x670npn87rx36d158g5sqgvlx</link>
+      <description><![CDATA[<p>Ode 探索基于绩效的定价模式以提升 Anthropic 收入，目前不到10%的客户采用该模式。公司计划扩大该比例，市场参与者关注其实施效果及对 Anthropic 财务表现的影响。</p>
+<p>🔗 <a href="https://cryptobriefing.com/ode-explores-performance-based-pricing-to-boost-anthropic-revenue/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/x670npn87rx36d158g5sqgvlx">https://reisen-ww.github.io/hot-pages/cryptohot/items/x670npn87rx36d158g5sqgvlx</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 14:32:56 GMT</pubDate>
+      <guid isPermaLink="false">x670npn87rx36d158g5sqgvlx</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[SoFi USD稳定币上线Polygon，成为其第三个区块链]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/bf429holeb09w38gy1ylrmtru</link>
+      <description><![CDATA[<p>SoFi USD稳定币正式上线Polygon区块链，成为其第三个支持该稳定币的链。该稳定币无需手动桥接，支持SoFi成员在应用内直接使用，兑换比例为1:1美元，并整合至Polygon Open Money Stack支付层。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/sofis-bank-issued-stablecoin-sofiusd-goes-live-on-polygon-its-third-blockchain/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/bf429holeb09w38gy1ylrmtru">https://reisen-ww.github.io/hot-pages/cryptohot/items/bf429holeb09w38gy1ylrmtru</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bf429holeb09w38gy1ylrmtru</guid>
+      <author>noreply@reisen-ww.github.io (Unchained)</author>
+    </item>
+    <item>
+      <title><![CDATA[DTCC 计划于2027下半年将代币化服务连接到 Solana 网络]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/homecexrvmfqwa6qqovx9ifqe</link>
+      <description><![CDATA[<p>DTCC 计划于2027下半年将代币化服务连接到 Solana 网络，首批支持34只证券。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1cff5-dc77-759d-9276-a877809e2b97">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/homecexrvmfqwa6qqovx9ifqe">https://reisen-ww.github.io/hot-pages/cryptohot/items/homecexrvmfqwa6qqovx9ifqe</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 13:32:38 GMT</pubDate>
+      <guid isPermaLink="false">homecexrvmfqwa6qqovx9ifqe</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[以太坊Layer2生态扩张：Zilliqa等小型公链因成本与安全转向EVM兼容]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/vnsu2jwfddfoedrsv3razvn6w</link>
+      <description><![CDATA[<p>Zilliqa、Gnosis等区块链项目宣布转向以太坊Layer2架构，因独立Layer1运营成本高、安全需求大。Bitwise分析师指出，前十大公链年手续费超千万美元，而第11名后普遍亏损。</p>
+<p>🔗 <a href="https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/vnsu2jwfddfoedrsv3razvn6w">https://reisen-ww.github.io/hot-pages/cryptohot/items/vnsu2jwfddfoedrsv3razvn6w</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Thu, 12 Nov 2026 13:30:00 GMT</pubDate>
+      <guid isPermaLink="false">vnsu2jwfddfoedrsv3razvn6w</guid>
       <author>noreply@reisen-ww.github.io (Cointelegraph)</author>
     </item>
     <item>
-      <title><![CDATA[Chainstack 因数据泄露建议用户更换节点凭据]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/lgtuqq084gbq9hizn5gen72gi</link>
-      <description><![CDATA[<p>Chainstack 宣布因数据泄露事件要求用户更换节点凭据并更新应用。服务保持在线但客户必须采取安全措施，原文未披露泄露数据量及具体影响范围。</p>
-<p>🔗 <a href="https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/lgtuqq084gbq9hizn5gen72gi">https://reisen-ww.github.io/hot-pages/cryptohot/items/lgtuqq084gbq9hizn5gen72gi</a></p>]]></description>
+      <title><![CDATA[美国存管信托与结算公司（DTCC）代币化服务将接入 Solana 区块链]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/x0493pxs7yi941vzo72k0ph3m</link>
+      <description><![CDATA[<p>美国存管信托与结算公司（DTCC）宣布计划将其代币化服务接入 Solana 区块链，预计于 2027 年下半年上线。该服务（DTS）于 10 月 28 日正式推出，此次接入是 DTCC &apos;多链战略&apos;的延伸。接入后 DTC 代币化资产将保留投资者保护、所有权权利与监管保障，同时提升流动性、抵押品流动性和资本效率。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304202">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/x0493pxs7yi941vzo72k0ph3m">https://reisen-ww.github.io/hot-pages/cryptohot/items/x0493pxs7yi941vzo72k0ph3m</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Thu, 12 Nov 2026 08:50:00 GMT</pubDate>
-      <guid isPermaLink="false">lgtuqq084gbq9hizn5gen72gi</guid>
-      <author>noreply@reisen-ww.github.io (The Defiant)</author>
+      <pubDate>Thu, 12 Nov 2026 13:04:43 GMT</pubDate>
+      <guid isPermaLink="false">x0493pxs7yi941vzo72k0ph3m</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
     </item>
     <item>
-      <title><![CDATA[比特币核心披露中危漏洞：Tor连接错误授予白名单权限]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/a5h28rb1fag4834hxkz36yiyk</link>
-      <description><![CDATA[<p>比特币核心于2026年11月10日披露CVE-2025-62860中危漏洞，影响使用28.3、29.2和30.0之前版本的节点，修复已包含在对应版本中。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1ce3e-bd57-77bc-bfeb-c39928583ae3">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/a5h28rb1fag4834hxkz36yiyk">https://reisen-ww.github.io/hot-pages/cryptohot/items/a5h28rb1fag4834hxkz36yiyk</a></p>]]></description>
+      <title><![CDATA[AVA基金会与Travala推出AVA 3.0版本强化代币在旅游场景的效用]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/md0wla1brf06pa80svvfpbjpn</link>
+      <description><![CDATA[<p>AVA基金会与Travala宣布推出AVA 3.0版本，旨在强化代币在旅游预订平台的应用。已累计回购5,604,414枚AVA，其中779,691.92枚永久锁定于Travala的‘AVA战略储备库’。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1cfae-c9b8-7423-b514-4f235acd067f">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/md0wla1brf06pa80svvfpbjpn">https://reisen-ww.github.io/hot-pages/cryptohot/items/md0wla1brf06pa80svvfpbjpn</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Thu, 12 Nov 2026 05:33:00 GMT</pubDate>
-      <guid isPermaLink="false">a5h28rb1fag4834hxkz36yiyk</guid>
+      <pubDate>Thu, 12 Nov 2026 12:15:01 GMT</pubDate>
+      <guid isPermaLink="false">md0wla1brf06pa80svvfpbjpn</guid>
       <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[Ripple设计的XRP Ledger借贷系统距激活启动仅差7票]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/n2ftofo3hs8djn4x4l0nhv94q</link>
-      <description><![CDATA[<p>Ripple设计的XRP Ledger借贷系统距离激活启动还差7票，目前累计22票支持（含LendingProtocol和SingleAssetVault修正案）。系统要求存款人存入XRP或其他代币至金库，由贷款经纪人以固定期限贷出且无需抵押品，依赖链下风险管理。开发者仍在推进代码合并，11月4日新增第三个借贷修正案。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1ce37-59c4-7385-928a-a79b7eb47a3f">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/n2ftofo3hs8djn4x4l0nhv94q">https://reisen-ww.github.io/hot-pages/cryptohot/items/n2ftofo3hs8djn4x4l0nhv94q</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Thu, 12 Nov 2026 05:24:56 GMT</pubDate>
-      <guid isPermaLink="false">n2ftofo3hs8djn4x4l0nhv94q</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[比特币核心漏洞致数千节点误信 Tor 用户]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ck0b0i8oxu17ljwicjbamw1sc</link>
-      <description><![CDATA[<p>比特币核心周二披露一个2025年10月修复但未及时公开的漏洞，导致数千节点在Tor网络中误信陌生用户。同时，另一个高严重性漏洞可能阻止矿工生成区块，需重启系统。</p>
-<p>🔗 <a href="https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ck0b0i8oxu17ljwicjbamw1sc">https://reisen-ww.github.io/hot-pages/cryptohot/items/ck0b0i8oxu17ljwicjbamw1sc</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Thu, 12 Nov 2026 05:22:31 GMT</pubDate>
-      <guid isPermaLink="false">ck0b0i8oxu17ljwicjbamw1sc</guid>
-      <author>noreply@reisen-ww.github.io (CoinDesk)</author>
     </item>
     <item>
       <title><![CDATA[Across跨链桥遭社交工程攻击后恢复运营]]></title>
@@ -205,50 +271,6 @@
       <pubDate>Sat, 07 Nov 2026 03:16:55 GMT</pubDate>
       <guid isPermaLink="false">sihk4sa6u907i83lqgkvgj2wu</guid>
       <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
-    </item>
-    <item>
-      <title><![CDATA[Zcash完成NU7主网升级，出块时间缩短至25秒]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/eyb9wqcn72k0hsltoj42g0phm</link>
-      <description><![CDATA[<p>Zcash宣布NU7主网升级于区块3543405激活，将目标出块时间从75秒缩短至25秒，并减少每区块补贴至三分之一。升级还引入网络可持续发展机制，将60%交易费存入储备，矿工保留40%。四年减半计划和2100万枚供应上限保持不变。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1af02-dcf3-776f-9058-531b5a1a0b78">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/eyb9wqcn72k0hsltoj42g0phm">https://reisen-ww.github.io/hot-pages/cryptohot/items/eyb9wqcn72k0hsltoj42g0phm</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Fri, 06 Nov 2026 03:59:22 GMT</pubDate>
-      <guid isPermaLink="false">eyb9wqcn72k0hsltoj42g0phm</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[以太坊准备通过Partitioned Binary Tree升级重组底层数据结构]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ilf00komj78dizt4z646x854z</link>
-      <description><![CDATA[<p>以太坊通过EIP-8297主网影子fork测试，计划2026年第四季度部署Partitioned Binary Tree升级。该升级旨在减少状态证明体积，支持未来状态过期机制，同时消除RLP编码带来的证明痛点。测试显示节点可在约2小时41分钟内完成状态重建，但主网具体激活日期尚未公布。</p>
-<p>🔗 <a href="https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ilf00komj78dizt4z646x854z">https://reisen-ww.github.io/hot-pages/cryptohot/items/ilf00komj78dizt4z646x854z</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Fri, 06 Nov 2026 01:09:42 GMT</pubDate>
-      <guid isPermaLink="false">ilf00komj78dizt4z646x854z</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Circle CCTP V2发布：跨链交易量突破3000亿美元大关]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/p47hp4o9ld955yewtm7cdsknf</link>
-      <description><![CDATA[<p>Circle的CCTP V2标准发布，跨链交易量突破3000亿美元，并计划于2026年12月1日淘汰V1版本。近30天（10月下旬至11月初）日均处理约15.45-16.96亿美元，占同期全市场跨链交易量的1/3。</p>
-<p>🔗 <a href="https://cryptobriefing.com/circle-cctp-surpasses-300-billion-volume/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/p47hp4o9ld955yewtm7cdsknf">https://reisen-ww.github.io/hot-pages/cryptohot/items/p47hp4o9ld955yewtm7cdsknf</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Thu, 05 Nov 2026 21:34:08 GMT</pubDate>
-      <guid isPermaLink="false">p47hp4o9ld955yewtm7cdsknf</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Base主网升级Denim，将区块时间缩短至200毫秒并替换Flashblocks]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/y5pyr6p4i8ebmjdfcbd7u39xt</link>
-      <description><![CDATA[<p>Base主网升级Denim，将区块时间缩短至200毫秒并替换Flashblocks，频率提升至五块每秒。</p>
-<p>🔗 <a href="https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/y5pyr6p4i8ebmjdfcbd7u39xt">https://reisen-ww.github.io/hot-pages/cryptohot/items/y5pyr6p4i8ebmjdfcbd7u39xt</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Thu, 05 Nov 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">y5pyr6p4i8ebmjdfcbd7u39xt</guid>
-      <author>noreply@reisen-ww.github.io (The Block)</author>
     </item>
   </channel>
 </rss>

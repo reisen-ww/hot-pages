@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[uv 0.13.8 发布：更新 Python 依赖与性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wm36tw4s87fln941pe7amezmq</link>
+      <description><![CDATA[<p>uv 0.13.8 发布，更新 Python 依赖到 3.16.0a2 并优化性能（避免重复环境构建）。修复 macOS 上的 CPU 检测问题，新增对 Google TPUs 和更多 Linux 架构的支持。安装指南包含 shell 和 PowerShell 脚本，提供各平台预构建二进制文件及验证方法。</p>
+<p>🔗 <a href="https://github.com/astral-sh/uv/releases/tag/0.13.8">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wm36tw4s87fln941pe7amezmq">https://reisen-ww.github.io/hot-pages/openhot/items/wm36tw4s87fln941pe7amezmq</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 12 Nov 2026 17:03:07 GMT</pubDate>
+      <guid isPermaLink="false">wm36tw4s87fln941pe7amezmq</guid>
+      <author>noreply@reisen-ww.github.io (uv 版本发布)</author>
+    </item>
+    <item>
       <title><![CDATA[将CPython适配到yk框架并进行性能优化]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/qjrumt439kgpxront066oopkk</link>
       <description><![CDATA[<p>某团队将yk JIT编译器应用于CPython，在多个基准测试中实现性能提升，但指出当前版本尚未完善，未来需进一步优化。</p>

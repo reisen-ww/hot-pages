@@ -9,6 +9,25 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[开源热点 日报 · 2026-11-13 — PostgreSQL 发布安全更新修复52个漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-13</link>
+      <description><![CDATA[<p>PostgreSQL Global Development Group于2026-11-12发布安全更新，修复18.7、17.12等支持版本中的52个安全漏洞（含CVE-2026-6460至CVE-2026-120154），涉及执行任意代码、SQL注入、内存泄露等高危问题。</p>
+<p><strong>工具与项目</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/b6pq3oxqw947aorxfxkjgyju6">某团队开源 Rust 写的向量数据库，单机可处理千万级向量</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/wm36tw4s87fln941pe7amezmq">uv 0.13.8 发布：更新 Python 依赖与性能优化</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm">Securo维护者公布8个月成果：新增贷款管理、分类 splits、PWA安装等功能</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1">PocketBase 社区版 v0.0.1 开源发布</a></li></ul>
+<p><strong>应用与安全</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft">GCC字符串分块优化影响路径检测：包管理器如何应对</a></li></ul>
+<p><strong>基础设施</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/h98a2atur2d18rasc7gvftj2v">PostgreSQL 发布安全更新修复52个漏洞</a></li></ul>
+<p><strong>语言与底层</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/wmgrjsgwfzq7rt75uxv59z81p">Rust 1.100.0正式发布：稳定化Never类型与DropGuard API</a></li></ul>
+<p><strong>模型与数据</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/j0012r36201grgyebfdmh122m">Unity土耳其字母导致多款游戏崩溃问题已修复</a></li></ul>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-13">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-13</a></p>]]></description>
+      <pubDate>Fri, 13 Nov 2026 13:41:01 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-13</guid>
+      <author>noreply@reisen-ww.github.io (开源热点)</author>
+    </item>
+    <item>
       <title><![CDATA[开源热点 日报 · 2026-11-12 — 基于线性规划的模型权重优化：Astra循环问题修正方法对比分析]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-12</link>
       <description><![CDATA[<p>MIT CSAIL的Astra模型通过线性规划优化权重，在MATH-500测试中准确率从7.9%提升至48.1%。作者对比了两种方法：Astra的原始方法修改130,188个权重参数，而线性规划版本仅修改16,291个（减少87%）。</p>
@@ -86,9 +105,9 @@
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-05</link>
       <description><![CDATA[<p>Stream Vessel 团队通过用户自定义信任地址机制，修复了 MCP 服务器因开放重定向导致的账户接管漏洞。攻击链演示：匿名注册恶意客户端→伪造可信重定向域名→用户点击Approve→授权码泄露。</p>
 <p><strong>工具与项目</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/uywr5wt0blfkhmkqvhc7qcggn">某开发者开源自托管 Odoo 面板，支持一键部署与全流程管理</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/xg5xkphuhn7e0jkitw9ugeim8">Rust编译器团队通过16项优化措施降低内存与计算开销</a></li><li><a href="https://github.com/astral-sh/uv/releases/tag/0.13.7">uv 工具链发布 0.13.7 版本</a></li></ul>
+<ul><li><a href="https://www.reddit.com/r/selfhosted/comments/1xnj9q8/i_built_a_selfhosted_panel_to_deploy_and_manage/">某开发者开源自托管 Odoo 面板，支持一键部署与全流程管理</a></li><li><a href="https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html">Rust编译器团队通过16项优化措施降低内存与计算开销</a></li><li><a href="https://github.com/astral-sh/uv/releases/tag/0.13.7">uv 工具链发布 0.13.7 版本</a></li></ul>
 <p><strong>应用与安全</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9">Stream Vessel 修复 MCP 开放重定向漏洞：用户自主管理信任地址列表</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw">Puppet服务器存在远程代码执行漏洞及主机身份伪造漏洞</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/aycgmsa2098h4xv9p75re78sl">Nvidia RTX Spark笔记本电脑因加密固件在Linux下推理速度骤降至35%</a></li></ul>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/dmi1f2ki2iss4r576o2zdn7n9">Stream Vessel 修复 MCP 开放重定向漏洞：用户自主管理信任地址列表</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/s8psmpi667xx7u2313rd5s5kw">Puppet服务器存在远程代码执行漏洞及主机身份伪造漏洞</a></li><li><a href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop">Nvidia RTX Spark笔记本电脑因加密固件在Linux下推理速度骤降至35%</a></li></ul>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-05">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-05</a></p>]]></description>
       <pubDate>Thu, 05 Nov 2026 01:47:57 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-11-05</guid>

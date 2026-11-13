@@ -9,6 +9,25 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[MyHOT 日报 · 2026-11-13 — Google DeepMind发布Gemini 4 Hydrogen]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-13</link>
+      <description><![CDATA[<p>Google DeepMind发布Gemini 4 Hydrogen，提升多模型工作流程效率与安全性。该模型在速度上比3.8 Flash快2.5倍，在Terminal-Bench 4.1得分从18.2%跃升至57%，同时通过Orchestrator动态切换Carbon/Hydrogen模型，降低24%配额消耗。</p>
+<p><strong>模型发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q">Google DeepMind发布Gemini 4 Hydrogen</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9">Google Gemini 4 Hydrogen四周内超越Argon：性能与成本优势解析</a></li></ul>
+<p><strong>产品发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f">ElevenLabs 发布 Scribe v3 和 v3 Live 语音识别模型</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir">Google发布Gemini Decision 1决策模型API</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy">Nectar 推出智能体 Creator Agent 实现品牌创作者发现与触达自动化</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/h1h4d753450i0n176rr641x5y">三大AI购物助手被曝推荐虚假网站 Podqi测试显示Perplexity错误率最高达15%</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/hhvzxmw7gf1xetuf19mttr75w">美国联合航空禁止AI代理预订机票，称存在网络安全风险</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/p60w5quik9ty2vxlliup6rvtl">OpenAI 捐赠 200 万美元支持儿童安全 AI 研究</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/jka3u7fujvms73g6eo4ci3y4w">黄仁勋丑闻持续发酵：英伟达CEO涉嫌多起事件及芯片走私指控</a></li></ul>
+<p><strong>论文研究</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc">Amazon SageMaker HyperPod 静默数据损坏检测与恢复方法</a></li></ul>
+<p><strong>技巧与观点</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/wsyantprlfkh6vtnr4mnpqocr">Hugging Face发布TRELLIS.2 3D模型LoRA微调完整指南</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/tcwe1y96v60r429ws72i5mc8e">AWS发布Agent DLC：工程化AI代理的完整生命周期框架</a></li></ul>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-13">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-13</a></p>]]></description>
+      <pubDate>Fri, 13 Nov 2026 13:40:58 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-13</guid>
+      <author>noreply@reisen-ww.github.io (MyHOT)</author>
+    </item>
+    <item>
       <title><![CDATA[MyHOT 日报 · 2026-11-12 — AWS发布UAEF框架：支持多框架AI代理闭环评估的开源系统]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-12</link>
       <description><![CDATA[<p>AWS推出开源评估框架UAEF，支持LangGraph、LangChain等框架的AI代理进行多维度指标（工具调用、响应质量、推理能力等）评估。系统通过适配器统一处理不同框架的执行轨迹，存储结果至DynamoDB/S3，生成对比报告和LLM辅助分析。案例显示企业客户通过该框架检测退化、优化提示词和模型，实现闭环迭代。</p>
@@ -306,7 +325,7 @@
 <p><strong>产品发布/更新</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/d7gxd9qhlly5rypq95t8wrarn">DeepSeek 开源 DeepInfer 推理框架并披露 155T tokens/day 生产数据</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/wo0yhbsgchdgay3gnbhrq9tjp">Google Cloud 与 NVIDIA 宣布 Vera Rubin A5X 实例全面可用</a></li></ul>
 <p><strong>行业动态</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/yvn0qtfexpp543zkixxwbqxs5">NVIDIA GTC Berlin 2026 主题演讲发布 DSX POD、OpenShell 智能体安全架构等新品</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/vx7lfb6y9acsi9b8lnp9y70xr">OpenAI 收购 Orchestra Bio</a></li></ul>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/yvn0qtfexpp543zkixxwbqxs5">NVIDIA GTC Berlin 2026 主题演讲发布 DSX POD、OpenShell 智能体安全架构等新品</a></li><li><a href="https://openai.com/index/openai-to-acquire-orchestra-bio">OpenAI 收购 Orchestra Bio</a></li></ul>
 <p><strong>论文研究</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/l2rdys1efxgubs44d4wp1s3zo">Microsoft Research 宣布证明 31 年悬案 KLS 猜想</a></li></ul>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-22">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-22</a></p>]]></description>
@@ -319,11 +338,11 @@
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-21</link>
       <description><![CDATA[<p>Mistral 发布 Voxtral 3，包含语音转文本、文本到语音模型与基于 LiveKit 的语音智能体 SDK，把听、推理、工具调用和说话整合进一条实时流式管线，每轮对话在一秒内完成。</p>
 <p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/xapfkdabujdh1wntvtkwg46o9">Mistral 发布 Voxtral 3 语音模型家族与语音智能体 SDK</a></li></ul>
+<ul><li><a href="https://mistral.ai/news/voxtral-3/">Mistral 发布 Voxtral 3 语音模型家族与语音智能体 SDK</a></li></ul>
 <p><strong>产品发布/更新</strong></p>
-<ul><li><a href="https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/">Amazon Bedrock 为 Anthropic Claude 模型上线结构化输出</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/rlsg6j8poy0pz0uarxkefmg0u">Hugging Face 推出 TorchTPU，让 TPU 成为 PyTorch 原生设备</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/vnwdbfau3ylf7vn1ayray6t24">PyTorch 2.15 为 Mac 的 MPS 后端带来 FP8 与更快的 LLM 解码</a></li></ul>
+<ul><li><a href="https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/">Amazon Bedrock 为 Anthropic Claude 模型上线结构化输出</a></li><li><a href="https://huggingface.co/blog/hf-torchtpu">Hugging Face 推出 TorchTPU，让 TPU 成为 PyTorch 原生设备</a></li><li><a href="https://huggingface.co/blog/mps-pytorch-2-15">PyTorch 2.15 为 Mac 的 MPS 后端带来 FP8 与更快的 LLM 解码</a></li></ul>
 <p><strong>行业动态</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/m0hxb35d3ntwt2m8uiquzr89l">美国下令联邦机构移除中国 DeepSeek 的 AI 产品</a></li></ul>
+<ul><li><a href="https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/">美国下令联邦机构移除中国 DeepSeek 的 AI 产品</a></li></ul>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-21">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-21</a></p>]]></description>
       <pubDate>Wed, 21 Oct 2026 00:00:18 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-21</guid>
@@ -445,23 +464,6 @@
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-10">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-10</a></p>]]></description>
       <pubDate>Sat, 10 Oct 2026 00:00:41 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-10</guid>
-      <author>noreply@reisen-ww.github.io (MyHOT)</author>
-    </item>
-    <item>
-      <title><![CDATA[MyHOT 日报 · 2026-10-09 — Hugging Face ML-intern 用提示词构建原本不存在的小型模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-09</link>
-      <description><![CDATA[<p>ML-intern 让用户通过提示词规划并执行模型训练、评估和发布，从而构建原本不存在的小型模型。文章展示了六个项目，总计算成本约 USD 103，涵盖 Qwen3.5-2B 微调、LoRA、模型蒸馏和 CPU 部署。示例提示词要求先做基线和 smoke test，并设置预算上限，七份完整提示词已发布在 GitHub：yvrjsharma/ml-intern-prompts。</p>
-<p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/">Anthropic 发布 Claude Haiku 5.5，100,000 tokens 内定价 $0.10/$0.50</a></li><li><a href="https://www.latent.space/p/ainews-claude-haiku-55-better-than">Anthropic 发布 Claude Haiku 5.5，与 GPT-6 Luna 同价</a></li></ul>
-<p><strong>产品发布/更新</strong></p>
-<ul><li><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">Google 为 Gemini 推出统一智能体，先面向企业</a></li><li><a href="https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/">GitHub发布ModernBERT分类器，扩展Secret Protection的推送保护</a></li></ul>
-<p><strong>行业动态</strong></p>
-<ul><li><a href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">Zenity发现单条提示词可接管同一AWS账户区域内的AgentCore智能体</a></li><li><a href="https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/">AI 黑客工具 ARTEX 致多家韩国银行遭入侵</a></li><li><a href="https://openai.com/index/disrupting-ai-enabled-false-front-operations">OpenAI 阻断两起利用 AI 的“虚假前台”影响行动</a></li></ul>
-<p><strong>技巧与观点</strong></p>
-<ul><li><a href="https://huggingface.co/blog/building-with-ml-intern">Hugging Face ML-intern 用提示词构建原本不存在的小型模型</a></li><li><a href="https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/">Amazon Bedrock AgentCore payments 如何实现 AI 智能体按次支付推理</a></li><li><a href="https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free">Meta Muse 与 OpenAI Dots：你能信任 AI 智能体管理生活吗？</a></li></ul>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-09">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-09</a></p>]]></description>
-      <pubDate>Fri, 09 Oct 2026 00:00:39 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-09</guid>
       <author>noreply@reisen-ww.github.io (MyHOT)</author>
     </item>
   </channel>

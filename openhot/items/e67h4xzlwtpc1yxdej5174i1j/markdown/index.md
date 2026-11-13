@@ -1,4 +1,4 @@
-# Zed 发布 v1.29.1-pre 版本
+# Zed 编辑器 v1.29.1-pre 发布，新增 Git 分支模式与 Claude 大模型支持
 
 > 原标题：v1.29.1-pre
 
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-Zed 新增了 Git 分支模式以列出自基分支的所有变更文件，并改进了多个功能和修复了多项 Bug。新版本还支持 Anthropic Claude Fable 5.2 和 Mythos 5.2，并优化了 Git 状态刷新性能。
+Zed 1.29.1-pre 版本发布，新增 Git 分支模式、可配置日期格式及对 Claude Fable 5.2/Mythos 5.2 的支持，修复 20 余项问题。

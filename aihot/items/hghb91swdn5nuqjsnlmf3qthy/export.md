@@ -1,6 +1,6 @@
-# Nvidia CEO Jensen Huang 因间谍指控遭公司内部调查
+# Nvidia CEO 詹森·黄辞职事件及后续影响
 
-> 原标题：Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang
+> 原标题：Nvidia CEO Jensen Huang has resigned. What happens next?
 
 - 来源：The Verge · AI
 - 发布时间：2026-11-09T23:07:59.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-Nvidia CEO Jensen Huang 因被指控与中国国家安全部官员 Alice Huang 保持婚外情，引发公司内部调查及中美AI硬件合作动态变化。调查涉及 US 情报机构自2022年起对 Alice Huang 的间谍身份认定，以及 Nvidia 在特朗普政府 AI 推动中的关键角色。目前公司声明称未发现国家安全或商业机密泄露，但调查仍在继续。
+Nvidia CEO 詹森·黄因丑闻辞职，公司启动内部调查并任命临时CEO。事件涉及中国间谍指控及中美AI硬件合作谈判背景，目前美国国会正要求其继续作证。

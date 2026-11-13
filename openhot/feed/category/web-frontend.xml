@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[某团队开源解决四块GPU内存分配冲突的Linux PCIe桥接方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e4t7m0fsus2ovhvk7hqnn54oy</link>
+      <description><![CDATA[<p>某团队在GitHub开源了调整Linux PCIe桥接窗口的模块，测试了内核补丁修复效果并解释了资源分配问题原因。该方案通过initramfs在驱动加载前调整BAR对齐，使四块R9700显卡获得32GB BAR，同时保持两块RTX3090的512MB分配。</p>
+<p>🔗 <a href="https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e4t7m0fsus2ovhvk7hqnn54oy">https://reisen-ww.github.io/hot-pages/openhot/items/e4t7m0fsus2ovhvk7hqnn54oy</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Thu, 12 Nov 2026 15:14:52 GMT</pubDate>
+      <guid isPermaLink="false">e4t7m0fsus2ovhvk7hqnn54oy</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Glimmer与Datastar实现服务器端渲染批量处理，性能提升显著]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk</link>
       <description><![CDATA[<p>Glimmer通过ratom原子状态管理和Datastar的批次渲染机制，在Newsroom应用中将渲染时间从21.7ms降至7.0ms。采用差分更新技术仅传输变更部分，结合滑动缓冲区限制并发流（100个流）的帧数。</p>
@@ -40,17 +51,6 @@
       <pubDate>Fri, 06 Nov 2026 15:05:05 GMT</pubDate>
       <guid isPermaLink="false">w7s14xftekwetxgrozuwgvk98</guid>
       <author>noreply@reisen-ww.github.io (Tailwind CSS 版本发布)</author>
-    </item>
-    <item>
-      <title><![CDATA[Kagi 推出无账户搜索功能，首 50 次免费且无需注册]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kwv42whjm76sdngvpq8zkftgk</link>
-      <description><![CDATA[<p>Kagi 在 2026-11-05 发布无账户搜索功能，用户无需注册即可进行前 50 次搜索（注册后可获 100 次额外额度）。该功能通过社交媒体和社区运营维持，并同步开放了 Kagi 搜索 API 的预览接入。</p>
-<p>🔗 <a href="https://kagi.com/changelog">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kwv42whjm76sdngvpq8zkftgk">https://reisen-ww.github.io/hot-pages/openhot/items/kwv42whjm76sdngvpq8zkftgk</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Thu, 05 Nov 2026 20:03:34 GMT</pubDate>
-      <guid isPermaLink="false">kwv42whjm76sdngvpq8zkftgk</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>
 </rss>

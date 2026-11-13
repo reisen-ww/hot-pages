@@ -9,6 +9,50 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Google发布Gemini 4 Hydrogen模型，提升复杂问题理解能力]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qsadfum3ylesqz3yasbh0q108</link>
+      <description><![CDATA[<p>Google发布Gemini 4 Hydrogen模型，显著提升复杂问题处理能力，支持多语言交互并增强可视化输出（含图像/表格/地图）。该模型在速度和智能上超越前代Gemini Flash 3.8，与Claude Sonnet 5.5、GPT-6.1 Terra相比表现更优。目前已在搜索、Gemini应用、AI Studio全版本及API中上线，并新增xhigh推理模式</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qsadfum3ylesqz3yasbh0q108">https://reisen-ww.github.io/hot-pages/aihot/items/qsadfum3ylesqz3yasbh0q108</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Thu, 12 Nov 2026 21:55:32 GMT</pubDate>
+      <guid isPermaLink="false">qsadfum3ylesqz3yasbh0q108</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google Gemini 4 Hydrogen四周内超越Argon：性能与成本优势解析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9</link>
+      <description><![CDATA[<p>Google Gemini 4 Hydrogen在AA Index测试中xhigh模式得分54，接近Claude Sonnet 5.5和GPT-6.1 Sol的55分；终端任务测试得分50，略低于Argon的51分。</p>
+<p>🔗 <a href="https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9">https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Thu, 12 Nov 2026 19:58:43 GMT</pubDate>
+      <guid isPermaLink="false">fu1bnp3zvk19e8wquxo2t0dm9</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google Search 升级发布 Gemini 4 Hydrogen 模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7</link>
+      <description><![CDATA[<p>Google Search 升级发布 Gemini 4 Hydrogen 模型，该模型在速度（比前代快2.5倍）、多步骤任务处理（Agent Arena第5名）和纠错能力上实现突破，支持自然语言查询、跨语言响应及工具调用。部署范围包括AI Studio、Gemini API、App及付费订阅服务。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7">https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Thu, 12 Nov 2026 19:27:45 GMT</pubDate>
+      <guid isPermaLink="false">s16bhdwh4lh2pbp5ylcgfnul7</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google DeepMind发布Gemini 4 Hydrogen]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q</link>
+      <description><![CDATA[<p>Google DeepMind发布Gemini 4 Hydrogen，提升多模型工作流程效率与安全性。该模型在速度上比3.8 Flash快2.5倍，在Terminal-Bench 4.1得分从18.2%跃升至57%，同时通过Orchestrator动态切换Carbon/Hydrogen模型，降低24%配额消耗。</p>
+<p>🔗 <a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q">https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Thu, 12 Nov 2026 18:00:50 GMT</pubDate>
+      <guid isPermaLink="false">k58hgl2fg6w3tw7df5ecwzd3q</guid>
+      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
+    </item>
+    <item>
       <title><![CDATA[Google Deepmind推出AlphaGenome 2单细胞基因组分析模型]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i</link>
       <description><![CDATA[<p>Google Deepmind发布AlphaGenome 2单细胞基因组分析模型，在疾病基因和疫苗响应预测上精度提升30%，并支持AI药物研发。该模型基于1070万个体细胞数据训练，可预测DNA物理包装和甲基化标记，在TenK10K基准测试中识别出约30%的致病基因变体，优于前代模型16%的准确率。系统支持通过少量细胞数据推断新细胞状态，已在COVID-19疫苗研究中验证其区分激活T细胞的能力。</p>
@@ -95,50 +139,6 @@
       <pubDate>Fri, 06 Nov 2026 19:47:04 GMT</pubDate>
       <guid isPermaLink="false">xi3toj6yjtamhl8awj947c1gg</guid>
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Thinking Machines Inkling 2 Small 在西方开源重量模型中占据榜首]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/twchsz0btj9whb9i1n4za59df</link>
-      <description><![CDATA[<p>Inkling 2 Small 模型在多个基准测试中表现优异，超越前代并接近Gemini 3.8 Flash。其17亿活跃参数下成本$1.18/任务，训练数据量（12万亿令牌）显著少于竞品，视觉理解得分64.7%领先开源模型。但存在响应率下降（53%）、音频不支持等局限，目前通过Tinker平台提供，计划以Apache 2.0开源。</p>
-<p>🔗 <a href="https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/twchsz0btj9whb9i1n4za59df">https://reisen-ww.github.io/hot-pages/aihot/items/twchsz0btj9whb9i1n4za59df</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Fri, 06 Nov 2026 13:25:09 GMT</pubDate>
-      <guid isPermaLink="false">twchsz0btj9whb9i1n4za59df</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发布GPT-6 Cyber安全漏洞检测模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/d0dmhpavkunqrx95pgv8807o7</link>
-      <description><![CDATA[<p>OpenAI发布GPT-6 Cyber安全漏洞检测模型，ExploitGym测试得分48.5%，较前代提升16.4个百分点。该模型已发现Firefox和Linux内核中81个未知高危漏洞，其中部分已获厂商确认并修复，同时支持自动化安全检查和访问控制机制。</p>
-<p>🔗 <a href="https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/d0dmhpavkunqrx95pgv8807o7">https://reisen-ww.github.io/hot-pages/aihot/items/d0dmhpavkunqrx95pgv8807o7</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 05 Nov 2026 20:36:25 GMT</pubDate>
-      <guid isPermaLink="false">d0dmhpavkunqrx95pgv8807o7</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[百度发布 ERNIE 5.5-Flash-Base 开源基础模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/i1lxmdhf7wsssj6f9bqajyz54</link>
-      <description><![CDATA[<p>百度发布 ERNIE 5.5-Flash-Base 开源基础模型，参数量达280亿。该模型采用混合专家架构，训练数据量33.5万亿token，支持百万token上下文。基准测试覆盖推理、代码、长上下文等任务，权重已开源至Hugging Face。</p>
-<p>🔗 <a href="https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/i1lxmdhf7wsssj6f9bqajyz54">https://reisen-ww.github.io/hot-pages/aihot/items/i1lxmdhf7wsssj6f9bqajyz54</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 05 Nov 2026 17:56:41 GMT</pubDate>
-      <guid isPermaLink="false">i1lxmdhf7wsssj6f9bqajyz54</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 发布 GPT-6 Cyber 网络安全模型，显著降低越界攻击风险]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/dv88sc6s9mn5tyn6jikwnz1ud</link>
-      <description><![CDATA[<p>OpenAI 发布 GPT-6 Cyber 网络安全模型，ExploitGym 评测显示其漏洞检测得分（48.5%）较 GPT-5.6 Cyber（32.1%）提升 16 个百分点，越界攻击率降至 1% 以下。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/dv88sc6s9mn5tyn6jikwnz1ud">https://reisen-ww.github.io/hot-pages/aihot/items/dv88sc6s9mn5tyn6jikwnz1ud</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">dv88sc6s9mn5tyn6jikwnz1ud</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
     </item>
   </channel>
 </rss>

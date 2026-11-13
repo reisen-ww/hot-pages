@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Rust 1.100.0正式发布：稳定化Never类型与DropGuard API]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wmgrjsgwfzq7rt75uxv59z81p</link>
+      <description><![CDATA[<p>Rust团队发布1.100.0版本，主要包含Never类型稳定化、DropGuard API引入及Cargo构建优化。新增的DropGuard类型简化了资源管理，Never类型支持更灵活的类型标注。Cargo新增依赖冷却机制，避免误用新版本包，并优化构建缓存减少重复编译。</p>
+<p>🔗 <a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wmgrjsgwfzq7rt75uxv59z81p">https://reisen-ww.github.io/hot-pages/openhot/items/wmgrjsgwfzq7rt75uxv59z81p</a></p>]]></description>
+      <category>编程语言与运行时</category>
+      <pubDate>Thu, 12 Nov 2026 18:43:41 GMT</pubDate>
+      <guid isPermaLink="false">wmgrjsgwfzq7rt75uxv59z81p</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Rust 1.100.0 发布：标准库与构建系统多项重大更新]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/o9tu0du26uvo9p3rnne4ilgap</link>
+      <description><![CDATA[<p>Rust 1.100.0 版本发布，包含标准库内存分配器改进、Cargo构建缓存布局变更及ARMv7-A目标修复，开发者需关注兼容性调整。更新涉及安全修复、依赖管理优化及多平台支持调整，完整变更日志见 GitHub 仓库。</p>
+<p>🔗 <a href="https://github.com/rust-lang/rust/releases/tag/1.100.0">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/o9tu0du26uvo9p3rnne4ilgap">https://reisen-ww.github.io/hot-pages/openhot/items/o9tu0du26uvo9p3rnne4ilgap</a></p>]]></description>
+      <category>编程语言与运行时</category>
+      <pubDate>Thu, 12 Nov 2026 18:24:06 GMT</pubDate>
+      <guid isPermaLink="false">o9tu0du26uvo9p3rnne4ilgap</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Go 1.27发布：性能优化与安全增强推动17周年里程碑]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/nh48ctzocyhsm0k4ezwuen4t6</link>
       <description><![CDATA[<p>Go 1.27发布，包含generics优化、JSON/v2升级（10倍速解析）、内存分配改进（小对象分配提速30%）及安全增强（应对eMudhra证书事件）。新goroutine漏检器与SIMD包提升硬件利用率，工具链集成pkg.go.dev API与gopls交互式重构功能，支持AI辅助开发。</p>

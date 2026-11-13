@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[GCC字符串分块优化影响路径检测：包管理器如何应对]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft</link>
+      <description><![CDATA[<p>GCC在编译时将长字符串拆分为16字节块以优化性能，导致包管理器的路径检测机制失效。作者对比了GCC与Clang的优化差异，指出Debian通过记录构建信息增强移植性，并建议开发者通过-mstore-max参数控制优化强度。</p>
+<p>🔗 <a href="https://stoppels.ch/2026/11/12/paths-in-pieces.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft">https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Thu, 12 Nov 2026 14:49:26 GMT</pubDate>
+      <guid isPermaLink="false">rjk2rgntfr00banarhoa82bft</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[C++26标准因社区争议投票失败，暴露开源治理流程问题]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</link>
       <description><![CDATA[<p>C++26标准因社区争议投票失败，核心争议围绕Contracts新特性。多国反馈的安全机制与标准库强耦合问题未获采纳，最终投票未达通过门槛。事件反映C++标准制定流程的分裂与协调失效，引发对开源治理模式的讨论。</p>
@@ -127,17 +138,6 @@
       <category>安全与隐私</category>
       <pubDate>Fri, 06 Nov 2026 19:33:38 GMT</pubDate>
       <guid isPermaLink="false">bgg4zo1cgfoj4jptua9z79wus</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Meta开源Rust实现的NTS协议，提供经过认证的时间服务]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fx67eouq9ky8jof7mpoaglguv</link>
-      <description><![CDATA[<p>Meta宣布开源Rust实现的NTS协议，提供经过认证的时间服务，解决了传统NTP协议无法防止中间人篡改时间的问题。代码托管于GitHub，支持Android和iOS设备的时间服务升级，并呼吁移动操作系统厂商集成该协议。</p>
-<p>🔗 <a href="https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fx67eouq9ky8jof7mpoaglguv">https://reisen-ww.github.io/hot-pages/openhot/items/fx67eouq9ky8jof7mpoaglguv</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Thu, 05 Nov 2026 18:24:28 GMT</pubDate>
-      <guid isPermaLink="false">fx67eouq9ky8jof7mpoaglguv</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>

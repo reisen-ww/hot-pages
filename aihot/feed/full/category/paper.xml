@@ -118,38 +118,5 @@
       <guid isPermaLink="false">yicdief5mp8ngmwuo6x7ow9yo</guid>
       <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
     </item>
-    <item>
-      <title><![CDATA[AWS SageMaker AI发布A+内容质量评估方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/c98qb680bze87cicnum8cb4sk</link>
-      <description><![CDATA[<p>AWS SageMaker AI发布A+内容质量评估方法，通过渲染完整页面截图、融合VLM多模态分析和OCR文本可读性检测，结合SHAP解释模型决策，帮助卖家提升内容质量。实验显示融合模型准确率0.94（基线0.80），F1分数0.95（基线0.84），且通过SHAP分析可生成具体改进建议。系统支持在SageMaker上实现从内容渲染到模型调优的全流程部署。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/c98qb680bze87cicnum8cb4sk">https://reisen-ww.github.io/hot-pages/aihot/items/c98qb680bze87cicnum8cb4sk</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Thu, 05 Nov 2026 18:06:43 GMT</pubDate>
-      <guid isPermaLink="false">c98qb680bze87cicnum8cb4sk</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Axiom Math 正式验证数学文献Stacks填补代数几何空白]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xbzv23pb1nmto2jwtt2lj5sqm</link>
-      <description><![CDATA[<p>Axiom Math 正式验证数学文献Stacks填补代数几何空白，通过Lean语言和形式化验证技术确保数学结构一致性，为AI代码生成提供可靠基础。公司CEO Carina Hong表示将挑战其他编码公司采用形式化验证，技术团队通过并行处理16万行Lean代码实现验证，目前该成果已应用于数学验证和工程安全领域</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xbzv23pb1nmto2jwtt2lj5sqm">https://reisen-ww.github.io/hot-pages/aihot/items/xbzv23pb1nmto2jwtt2lj5sqm</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Thu, 05 Nov 2026 16:16:45 GMT</pubDate>
-      <guid isPermaLink="false">xbzv23pb1nmto2jwtt2lj5sqm</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[微软发布PDD Kit工具：形式化验证AI生成的全栈Web应用登录逻辑]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nzixetzsj6d3uvb37ozyp4nq1</link>
-      <description><![CDATA[<p>微软研究团队发布PDD Kit工具，通过Verus语言形式化验证Rust编写的Pet Store登录逻辑。工具将用户意图转化为形式化规格，自动生成覆盖所有输入的数学证明（如密码验证必须关联账户），并针对无法证明的部分（如数据库查询）生成测试用例。</p>
-<p>🔗 <a href="https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nzixetzsj6d3uvb37ozyp4nq1">https://reisen-ww.github.io/hot-pages/aihot/items/nzixetzsj6d3uvb37ozyp4nq1</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">nzixetzsj6d3uvb37ozyp4nq1</guid>
-      <author>noreply@reisen-ww.github.io (Microsoft Research)</author>
-    </item>
   </channel>
 </rss>

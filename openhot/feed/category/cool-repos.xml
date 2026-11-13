@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Securo维护者公布8个月成果：新增贷款管理、分类 splits、PWA安装等功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm</link>
+      <description><![CDATA[<p>Securo维护者TassioNoronha在Reddit宣布，项目已获4275星、37.9万次下载，并新增贷款管理、分类 splits、预算 rollover、PWA安装及内置MCP服务器等功能，目前由129名贡献者维护，每周发布2-3次更新。</p>
+<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xunhqd/securo_maintainer_here_8_months_of_work_and_the/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm">https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Thu, 12 Nov 2026 20:17:40 GMT</pubDate>
+      <guid isPermaLink="false">kd653ceycr2m1bm0xx7koj5rm</guid>
+      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
+    </item>
+    <item>
+      <title><![CDATA[ExcalidrawZ：macOS/iOS原生绘图工具，首次支持本地文件管理与AI协作]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/pz7jy3srdqvtkiwsdqpr142ae</link>
+      <description><![CDATA[<p>团队开源ExcalidrawZ，实现macOS/iOS原生绘图工具，支持本地文件管理与iCloud同步，并集成AI辅助功能。提供开发配置指南，包含SwiftUI集成、MCP服务配置及加密文件保护方案。支持导出.png/.svg/PDF格式，兼容Excalidraw标准文件。</p>
+<p>🔗 <a href="https://github.com/chocoford/ExcalidrawZ">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/pz7jy3srdqvtkiwsdqpr142ae">https://reisen-ww.github.io/hot-pages/openhot/items/pz7jy3srdqvtkiwsdqpr142ae</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Thu, 12 Nov 2026 15:25:52 GMT</pubDate>
+      <guid isPermaLink="false">pz7jy3srdqvtkiwsdqpr142ae</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队开源 Rust 写的向量数据库，单机可处理千万级向量]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/b6pq3oxqw947aorxfxkjgyju6</link>
+      <description><![CDATA[<p>某团队在 GitHub 公开该数据库仓库，给出查询延迟、内存占用与依赖要求，并说明当前支持的平台与许可证。</p>
+<p>🔗 <a href="https://github.com/hyperionaidev/smolmaxxing/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/b6pq3oxqw947aorxfxkjgyju6">https://reisen-ww.github.io/hot-pages/openhot/items/b6pq3oxqw947aorxfxkjgyju6</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Thu, 12 Nov 2026 15:23:10 GMT</pubDate>
+      <guid isPermaLink="false">b6pq3oxqw947aorxfxkjgyju6</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[PocketBase 社区版 v0.0.1 开源发布]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</link>
       <description><![CDATA[<p>PocketBase 社区版 v0.0.1 开源，提供更开放的贡献环境，包含核心扩展如多页应用、PITR 数据库恢复和 MCP 多租户支持，以及可选的容器化、集群管理等功能。仓库地址：https://github.com/pockethost/pocketbase</p>
@@ -128,17 +161,6 @@
       <pubDate>Sat, 07 Nov 2026 09:21:55 GMT</pubDate>
       <guid isPermaLink="false">kchsblmyurhq85xape3sydd83</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队开源离线生存助手工具，支持本地AI与 Kiwix 知识库]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/djb87lpxn6o19qngyud3ciaoo</link>
-      <description><![CDATA[<p>某团队在GitHub发布离线生存助手工具，集成本地运行的自然语言问答AI（基于Python标准库）与Kiwix离线图书馆（含WHO、 wikiHow等资源），支持Windows/Linux/macOS全平台通过USB部署。工具包含水火急救等12类实用指南，AI可引用本地文档和离线知识源作答，无需联网。</p>
-<p>🔗 <a href="https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/djb87lpxn6o19qngyud3ciaoo">https://reisen-ww.github.io/hot-pages/openhot/items/djb87lpxn6o19qngyud3ciaoo</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Thu, 05 Nov 2026 15:25:36 GMT</pubDate>
-      <guid isPermaLink="false">djb87lpxn6o19qngyud3ciaoo</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>
 </rss>

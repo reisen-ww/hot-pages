@@ -22,7 +22,7 @@ Go团队发布encoding/json/v2解决15年遗留问题并优化性能，Claude Op
    摘要：Meridian是一款基于Rust和GPUI的实验性浏览器，支持无JavaScript或布局复杂度低的网页浏览，并提供了Nix运行方式。其技术架构采用Servo管理网页状态，GPUI渲染界面，通过gpui-servo库实现两者交互。主要功能包括地址栏联想、垂直水平标签页、书签历史管理、分页缩放、音视频播放和阅读模式。项目在Tangled平台开发，欢迎贡献者查看开放问题列表
    原文：[打开原文](https://op.tngl.io/meridian/)
 
-3. [某开发者开源自托管 Odoo 面板，支持一键部署与全流程管理](https://reisen-ww.github.io/hot-pages/openhot/items/uywr5wt0blfkhmkqvhc7qcggn)
+3. [某开发者开源自托管 Odoo 面板，支持一键部署与全流程管理](https://www.reddit.com/r/selfhosted/comments/1xnj9q8/i_built_a_selfhosted_panel_to_deploy_and_manage/)
    来源：Reddit r/selfhosted · 发布时间：2026-11-04 16:46（北京时间）
    摘要：某开发者开源自托管 Odoo 面板（GitHub: incubacloud），提供服务器部署、版本回滚、AI辅助运维等功能，支持免费使用并开放社区反馈。托管版（www.incubacloud.io）提供免费计划且无需信用卡。
    原文：[打开原文](https://www.reddit.com/r/selfhosted/comments/1xnj9q8/i_built_a_selfhosted_panel_to_deploy_and_manage/)

@@ -1,6 +1,6 @@
-# NVIDIA捐赠OpenShell运行时并发布AI工厂平台新组件
+# NVIDIA 开源贡献与 AI 基础设施更新：OpenShell 和 Agent Substrate 加入 CNCF
 
-> 原标题：NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure
+> 原标题：NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure
 
 - 来源：NVIDIA Blog
 - 发布时间：2026-11-10T16:00:03.000Z
@@ -9,8 +9,8 @@
 
 ## 摘要
 
-NVIDIA向CNCF捐赠OpenShell运行时及Agent Substrate框架，并发布DSX平台新组件NVKE、NVKR和Snapshot。NVKE/NVKR提供自动化集群管理和签名镜像，支持GPU基础设施的Kubernetes服务交付。Snapshot模块可在秒级恢复推理副本，减少模型加载时间（如Crusoe Cloud将GLM-5.3推理准备时间从8分钟降至31秒）。
+NVIDIA 在 KubeCon + CloudNativeCon 上贡献 OpenShell 和 Agent Substrate 到 CNCF 开源社区，并发布 DSX 平台的新组件以提升 Kubernetes 上的 GPU 基础设施管理效率。
 
 ## 推荐理由
 
-NVIDIA通过开源安全运行时OpenShell和Agent Substrate框架，提供可扩展的Kubernetes工具链和快速推理恢复方案
+原文给出了能力变化和开放入口，读者可以据此判断它会怎样改变现有工作流。
