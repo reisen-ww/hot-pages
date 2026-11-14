@@ -9,91 +9,102 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
-      <title><![CDATA[某研究团队在 medRxiv 发表萎缩性胃炎与胃癌的遗传关联分析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ysowmkfujinwx255amam1neqa</link>
-      <description><![CDATA[<p>某研究团队在 medRxiv 发表萎缩性胃炎与胃癌的遗传关联分析，发现17个基因组区域显著关联（包括 PSCA、MUC1/MTX1 等），支持两者共享遗传基础。血清学阳性/阴性亚组分别与上皮调节、免疫相关通路关联，并揭示 HLA-DRB1*15:01 等与阴性亚组相关。研究整合了日本队列（21.4万人）与外部数据（FinnGen、UK Biobank 等），通过多组学分析验证了遗传异质性。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.10.26367681v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ysowmkfujinwx255amam1neqa">https://reisen-ww.github.io/hot-pages/acadhot/items/ysowmkfujinwx255amam1neqa</a></p>]]></description>
+      <title><![CDATA[东京大学团队在《Nature Communications》发表'planimal'细胞研究：哺乳动物细胞成功保留近全藻类基因组]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/s8nwxe9wi8js8j0rnzc3p79ws</link>
+      <description><![CDATA[<p>东京大学团队在《Nature Communications》发表研究，证实哺乳动物细胞可通过细胞融合稳定整合近全藻类基因组。实验显示，约16.3百万碱基对的藻类基因组（含完整20条染色体序列）在仓鼠细胞中持续遗传155代，且DNA甲基化等表观调控机制帮助筛选并抑制大部分转入基因，为未来激活特定藻类基因提供参考。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/s8nwxe9wi8js8j0rnzc3p79ws">https://reisen-ww.github.io/hot-pages/acadhot/items/s8nwxe9wi8js8j0rnzc3p79ws</a></p>]]></description>
       <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ysowmkfujinwx255amam1neqa</guid>
+      <pubDate>Fri, 13 Nov 2026 22:20:01 GMT</pubDate>
+      <guid isPermaLink="false">s8nwxe9wi8js8j0rnzc3p79ws</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
+      <title><![CDATA[某研究团队在 medRxiv 发表心血管疾病基因-表型关联图谱]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/uh6n8hi5b5rezw377n3irrtjj</link>
+      <description><![CDATA[<p>某研究团队基于 UK Biobank 数据分析，发现86个基因与心血管表型显著关联（40已知+46新发现），包括 EHMT2-房颤、P2RX1-心律失常等。经 cardiometabolic 特征校正后，新增 CDH11、PARVA 等与动脉粥样硬化表型关联。数据开放于 Zenodo，代码开源于 GitHub。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.11.26367883v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/uh6n8hi5b5rezw377n3irrtjj">https://reisen-ww.github.io/hot-pages/acadhot/items/uh6n8hi5b5rezw377n3irrtjj</a></p>]]></description>
+      <category>基因与细胞</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">uh6n8hi5b5rezw377n3irrtjj</guid>
       <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[某团队在bioRxiv预印本平台发表高保真CRISPR-Cas13d系统在疟原虫中的应用]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/wqrpvkhxj9ts8f5nl5gic6ub2</link>
-      <description><![CDATA[<p>某团队开发出高保真CRISPR-Cas13d系统，在疟原虫中实现70%性转换率抑制，并成功在atp4、ap2-exp、ap2-g三个基因位点实现41%-76%的mRNA降解率。该系统通过pfs47非必需位点递送，不干扰疟原虫无性繁殖生长。研究为疟疾药物靶点识别提供了可扩展的基因编辑工具。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765308v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/wqrpvkhxj9ts8f5nl5gic6ub2">https://reisen-ww.github.io/hot-pages/acadhot/items/wqrpvkhxj9ts8f5nl5gic6ub2</a></p>]]></description>
+      <title><![CDATA[分散基因位点协同表达扩展双肽细菌素功能库]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/s07yqa5vf2p7yu1ettrfuggz8</link>
+      <description><![CDATA[<p>Lanca 等团队在 bioRxiv 发表预印本，发现分散基因位点编码的双肽细菌素可通过非同源配对增强抗菌活性。通过体外合成47种肽对并测试组合活性，发现54种有效配对（其中跨位点组合占比更高）。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.766112v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/s07yqa5vf2p7yu1ettrfuggz8">https://reisen-ww.github.io/hot-pages/acadhot/items/s07yqa5vf2p7yu1ettrfuggz8</a></p>]]></description>
       <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">wqrpvkhxj9ts8f5nl5gic6ub2</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">s07yqa5vf2p7yu1ettrfuggz8</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[Academia Sinica 团队发现 HSFB1 通过 bHLH 模块化调控协调植物陆地适应]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/qshekz5gts7ey5ezc92dh1g6p</link>
-      <description><![CDATA[<p>某团队在 bioRxiv 发表研究，揭示 HSFB1 通过 bHLH 模块化调控协调植物陆地适应。实验采用单细胞RNA测序和基因调控网络分析，发现 MpHSFB1 通过调控细胞类型特异性程序（如 MpbHLH21/40 驱动发育形态形成，MpbHLH51 介导长期热胁迫耐受），实现单一调控因子管理不同生理需求。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.765476v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/qshekz5gts7ey5ezc92dh1g6p">https://reisen-ww.github.io/hot-pages/acadhot/items/qshekz5gts7ey5ezc92dh1g6p</a></p>]]></description>
+      <title><![CDATA[基于肝脏免疫的疫苗抗原捕获平台 L-VAC 在小鼠中的验证]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/puku1arc86s6f34lvfmid8tax</link>
+      <description><![CDATA[<p>某研究团队在 bioRxiv 发表预印本，提出基于肝脏的疫苗抗原捕获平台 L-VAC。该平台通过抗体筛选和体内可视化技术，在小鼠中鉴定出多个人体血液细菌的穿透性蛋白抗原（如 Streptococcus pneumoniae），多价制剂可诱导广谱血清型保护。空间分析表明，只有位于胶囊表面附近的蛋白才能有效被肝脏窦状隙捕获。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.765860v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/puku1arc86s6f34lvfmid8tax">https://reisen-ww.github.io/hot-pages/acadhot/items/puku1arc86s6f34lvfmid8tax</a></p>]]></description>
       <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">qshekz5gts7ey5ezc92dh1g6p</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">puku1arc86s6f34lvfmid8tax</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[Sylvanus Toikumo 在 Nature Neuroscience 发表超过120万人的多维疼痛基因关联研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/pzdfp0k5z1mfm5viteredkrk3</link>
-      <description><![CDATA[<p>该研究通过全基因组关联分析（GWAS），在超过120万欧洲血统人群中发现了343个独立疼痛相关基因位点，并揭示了多维度疼痛的遗传异质性。研究首次整合了性别分层分析与其他多组学数据，扩展了疼痛遗传学的知识。</p>
-<p>🔗 <a href="https://www.nature.com/articles/s41593-026-02455-1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/pzdfp0k5z1mfm5viteredkrk3">https://reisen-ww.github.io/hot-pages/acadhot/items/pzdfp0k5z1mfm5viteredkrk3</a></p>]]></description>
+      <title><![CDATA[某团队在bioRxiv发表AAV9载体修复LRPPRC基因的首次体内证据]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ppr07cwq9s7lzseekvijgejn4</link>
+      <description><![CDATA[<p>某团队通过AAV9载体在小鼠模型中成功修复LRPPRC基因，恢复氧化磷酸化（OXPHOS）功能并预防心肌病，样本量为5只 knockout小鼠。该疗法突破传统AAV载体容量限制，为线粒体疾病治疗提供新策略。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.762002v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ppr07cwq9s7lzseekvijgejn4">https://reisen-ww.github.io/hot-pages/acadhot/items/ppr07cwq9s7lzseekvijgejn4</a></p>]]></description>
       <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">pzdfp0k5z1mfm5viteredkrk3</guid>
-      <author>noreply@reisen-ww.github.io (Nature Neuroscience)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 bioRxiv 发表脑内皮细胞生成新方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/j70e10rlgatdw9xdcfura8fut</link>
-      <description><![CDATA[<p>某团队通过过表达 SOX7 和 ERG 基因，将人胚胎干细胞来源的屏障形成上皮细胞转化为具有前脑区域偏向性的真实脑内皮细胞。该模型在转录组和蛋白组层面更接近真实脑内皮细胞，并在体外与星形胶质细胞共培养及微流控装置中验证了成熟血脑屏障特征。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.09.764683v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/j70e10rlgatdw9xdcfura8fut">https://reisen-ww.github.io/hot-pages/acadhot/items/j70e10rlgatdw9xdcfura8fut</a></p>]]></description>
-      <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">j70e10rlgatdw9xdcfura8fut</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ppr07cwq9s7lzseekvijgejn4</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[向日葵科植物光合作用过渡的基因组架构阈值依赖性研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/j6gycf08kkxnv4mkfcys9h2qv</link>
-      <description><![CDATA[<p>本研究通过比较基因组学，揭示WGD-2事件对向日葵科植物光合作用机制的影响及阈值依赖性基因组架构的调控作用。检测到451个功能MapMan BINs与CO2补偿点差异显著相关，其中303个BINs包含＞10% WGD-2衍生基因，表明光合相关功能模块存在基因组倍增阈值效应。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.05.764543v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/j6gycf08kkxnv4mkfcys9h2qv">https://reisen-ww.github.io/hot-pages/acadhot/items/j6gycf08kkxnv4mkfcys9h2qv</a></p>]]></description>
+      <title><![CDATA[RAC1P29S 和 MERTK 驱动黑色素瘤吞噬 T 细胞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/fn8k7w7mj8vco3vceo9zz076b</link>
+      <description><![CDATA[<p>研究显示携带 RAC1P29S 突变的黑色素瘤细胞能更高效吞噬 Jurkat T 细胞，且吞噬依赖 MERTK 受体。实时成像观察到 RAC1P29S 细胞通过伪足动态包裹 T 细胞，抑制剂筛选证实 RAC1 抑制剂可阻断吞噬行为。研究提出 &apos;grip and gulp&apos; 模型解释肿瘤细胞吞噬机制：MERTK 提供抓取功能，Arp2/3 驱动的分支 actin 实现吞噬。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.11.766025v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/fn8k7w7mj8vco3vceo9zz076b">https://reisen-ww.github.io/hot-pages/acadhot/items/fn8k7w7mj8vco3vceo9zz076b</a></p>]]></description>
       <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">j6gycf08kkxnv4mkfcys9h2qv</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fn8k7w7mj8vco3vceo9zz076b</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[利用单核细胞增生李斯特菌无人机递送环形RNA编程原代施万细胞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/g03e2xhqnmk527xszmazth2bv</link>
-      <description><![CDATA[<p>某团队首次在原代施万细胞中应用单核细胞增生李斯特菌（Lm）无人机递送环形RNA（circRNA）技术，MOI 10-20时转染效率达94%且无显著细胞死亡。工程菌通过诱导性自我裂解释放circRNA至宿主细胞质，经IRES调控实现报告蛋白NLuc的持续表达超过5天，证实该平台在原代细胞中的安全性。研究提出可将NLuc替换为多种治疗载荷，为周围神经和脊髓损伤的时序可控细胞治疗提供新策略。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765776v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/g03e2xhqnmk527xszmazth2bv">https://reisen-ww.github.io/hot-pages/acadhot/items/g03e2xhqnmk527xszmazth2bv</a></p>]]></description>
+      <title><![CDATA[Sun等在bioRxiv发表适应性实验室进化基因互作统计框架]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/fle7ejffbjn1hwi53v2g7ts0b</link>
+      <description><![CDATA[<p>Sun等开发了计算框架，用于从适应性实验室进化数据中识别候选基因互作对。应用该方法分析141个大肠杆菌实验数据，通过Fisher精确检验和DISCOVER互补筛选，发现74对显著互作（36共现，38互斥），其中5对在两种方法中均显著。研究强调需结合菌株背景和突变来源解读结果，并指出Fisher检验需至少70独立终点以维持效力。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.766281v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/fle7ejffbjn1hwi53v2g7ts0b">https://reisen-ww.github.io/hot-pages/acadhot/items/fle7ejffbjn1hwi53v2g7ts0b</a></p>]]></description>
       <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">g03e2xhqnmk527xszmazth2bv</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fle7ejffbjn1hwi53v2g7ts0b</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[Human Pangenome Reference Consortium (HPRC) 发布神经发育障碍泛基因组分析新发现]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/cvt1l4yuh4pdzxoppzfqv807l</link>
-      <description><![CDATA[<p>某研究团队在神经发育障碍患者及亲属中发现致病性变异和大量新型序列。具体而言，分析了211例NDD病例和107名无病亲属，整合生成1204个单倍型，在HPRC_r2和Arab Pangenome Reference数据集中发现38.9%的病例存在致病或很可能致病的变异，另有3.8%病例检测到致病重复扩张，4.7%病例存在超过300MBb的共同同源区。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.07.765034v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/cvt1l4yuh4pdzxoppzfqv807l">https://reisen-ww.github.io/hot-pages/acadhot/items/cvt1l4yuh4pdzxoppzfqv807l</a></p>]]></description>
+      <title><![CDATA[某团队在 bioRxiv 发表单AAV递送碱基编辑改善心肌肥厚的体内研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/cq1hjje3w9tbx6r8hq5xde3mu</link>
+      <description><![CDATA[<p>某团队在 bioRxiv 发表针对 Dutch founder 突变（MYBPC3 c.2827C&gt;T）的体内研究，通过筛选高效启动子6C2实现心肌细胞特异性碱基编辑，剂量仅为双AAV方法的20分之一，并验证了递送系统在工程人类心肌组织中的有效性。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.765297v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/cq1hjje3w9tbx6r8hq5xde3mu">https://reisen-ww.github.io/hot-pages/acadhot/items/cq1hjje3w9tbx6r8hq5xde3mu</a></p>]]></description>
       <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">cvt1l4yuh4pdzxoppzfqv807l</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cq1hjje3w9tbx6r8hq5xde3mu</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某研究团队在 bioRxiv 发表单等位 MUTYH 携带者正常组织中的氧化突变表型研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/b4wi6rj96zko7kqp3uomdv2f2</link>
+      <description><![CDATA[<p>某研究团队基于 SMaHT 网络的 25 名捐赠者多组织测序数据，发现 3 例单等位 MUTYH p.Gly396Asp 变异携带者存在 SBS18 突变表型，该表型在调整组织差异后仍保持显著，且未检测到体细胞突变或表观遗传修饰。该发现支持通过检测健康组织中的氧化突变来分层癌症风险。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.766009v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/b4wi6rj96zko7kqp3uomdv2f2">https://reisen-ww.github.io/hot-pages/acadhot/items/b4wi6rj96zko7kqp3uomdv2f2</a></p>]]></description>
+      <category>基因与细胞</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">b4wi6rj96zko7kqp3uomdv2f2</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>

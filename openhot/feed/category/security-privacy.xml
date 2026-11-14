@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Home Assistant 密码变更无效且令牌密钥明文存储漏洞披露]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/p18sp3k2wv16xh13ijb6kvel1</link>
+      <description><![CDATA[<p>Home Assistant 存在密码变更无效且令牌密钥明文存储的安全漏洞。测试版本 home-assistant/core 2026.11.0 发现：1. 用户令牌秘密和JWT签名密钥以明文形式存储在 config/.storage/auth 文件中；2. 长期有效令牌未设置过期时间；3. 密码变更未撤销相关令牌。建议用户立即更新配置并检查备份文件。</p>
+<p>🔗 <a href="https://seclists.org/fulldisclosure/2026/Nov/34">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/p18sp3k2wv16xh13ijb6kvel1">https://reisen-ww.github.io/hot-pages/openhot/items/p18sp3k2wv16xh13ijb6kvel1</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Fri, 13 Nov 2026 22:30:10 GMT</pubDate>
+      <guid isPermaLink="false">p18sp3k2wv16xh13ijb6kvel1</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[GCC字符串分块优化影响路径检测：包管理器如何应对]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft</link>
       <description><![CDATA[<p>GCC在编译时将长字符串拆分为16字节块以优化性能，导致包管理器的路径检测机制失效。作者对比了GCC与Clang的优化差异，指出Debian通过记录构建信息增强移植性，并建议开发者通过-mstore-max参数控制优化强度。</p>
@@ -117,28 +128,6 @@
       <pubDate>Sat, 07 Nov 2026 18:41:33 GMT</pubDate>
       <guid isPermaLink="false">zvnw0j3dnbr5wkcf8khane86o</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Meta Ray-Ban 智能眼镜固件漏洞利用与绕过签名验证的技术分析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/lkatn248r7h965iu8izm1s60g</link>
-      <description><![CDATA[<p>某安全研究者通过逆向工程发现 Meta Ray-Ban 智能眼镜存在固件漏洞，可绕过签名验证实现任意代码执行。</p>
-<p>🔗 <a href="https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/lkatn248r7h965iu8izm1s60g">https://reisen-ww.github.io/hot-pages/openhot/items/lkatn248r7h965iu8izm1s60g</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Fri, 06 Nov 2026 20:50:24 GMT</pubDate>
-      <guid isPermaLink="false">lkatn248r7h965iu8izm1s60g</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Firecracker 虚拟机逃逸漏洞利用方法及验证]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bgg4zo1cgfoj4jptua9z79wus</link>
-      <description><![CDATA[<p>某团队在Firecracker v1.16.1中发现虚拟机逃逸漏洞，通过修改寄存器框架和触发写操作实现root权限代码执行。验证显示攻击成功后，Firecracker进程仍可正常运行，SSH服务保持响应，且临时修改的栈内容被成功恢复。</p>
-<p>🔗 <a href="https://pwn.ai/blog/firecracker-escape">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bgg4zo1cgfoj4jptua9z79wus">https://reisen-ww.github.io/hot-pages/openhot/items/bgg4zo1cgfoj4jptua9z79wus</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Fri, 06 Nov 2026 19:33:38 GMT</pubDate>
-      <guid isPermaLink="false">bgg4zo1cgfoj4jptua9z79wus</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>
 </rss>

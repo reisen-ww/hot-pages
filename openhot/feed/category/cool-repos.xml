@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Antithesis 开源 Rust 工具链，AI 5分钟通关 NetHack]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hv86jnxgvxxqrwz46m4mtg5p2</link>
+      <description><![CDATA[<p>Antithesis 团队基于 Rust 开发的新工具链，通过多宇宙调试器定位 NetHack 游戏漏洞，利用概率编程语言特性实现动态策略优化。系统在 5 分钟内完成 NetHack 通关，关键突破包括：1) 多态变形机制（polymorphitis）的自动化利用；2) 基于逆向工程的动态状态管理；3) 资源约束下的价值函数迭代优化。该工具链已开源，支持自主系统在复杂状态空间中的探索与决策优化。</p>
+<p>🔗 <a href="https://antithesis.com/blog/2026/nethack/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hv86jnxgvxxqrwz46m4mtg5p2">https://reisen-ww.github.io/hot-pages/openhot/items/hv86jnxgvxxqrwz46m4mtg5p2</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Fri, 13 Nov 2026 14:34:57 GMT</pubDate>
+      <guid isPermaLink="false">hv86jnxgvxxqrwz46m4mtg5p2</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Securo维护者公布8个月成果：新增贷款管理、分类 splits、PWA安装等功能]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm</link>
       <description><![CDATA[<p>Securo维护者TassioNoronha在Reddit宣布，项目已获4275星、37.9万次下载，并新增贷款管理、分类 splits、预算 rollover、PWA安装及内置MCP服务器等功能，目前由129名贡献者维护，每周发布2-3次更新。</p>
@@ -139,28 +150,6 @@
       <pubDate>Sun, 08 Nov 2026 02:02:27 GMT</pubDate>
       <guid isPermaLink="false">tvtvems9d77vil064fo1hvz5v</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[mr-andreas2 开源自托管图像存储方案 Replycant，支持 Git 多节点复制与端到端加密]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jrfg73epq75kzo3gubses2mgw</link>
-      <description><![CDATA[<p>mr-andreas2 开源自托管图像存储方案 Replycant，支持 Git 多节点复制与端到端加密。项目包含 iOS 应用、Docker 服务器、Electron 桌面应用及 CLI 工具，性能测试在 Raspberry Pi 5 上表现优异，当前无 Android 版本但正在开发中，项目使用 AI 工具 cursor 实现但架构由作者设计，许可证为 GPL2。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xq4uhp/replycant_selfhosted_image_storage/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jrfg73epq75kzo3gubses2mgw">https://reisen-ww.github.io/hot-pages/openhot/items/jrfg73epq75kzo3gubses2mgw</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Sat, 07 Nov 2026 12:06:52 GMT</pubDate>
-      <guid isPermaLink="false">jrfg73epq75kzo3gubses2mgw</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Meridian——基于Rust和GPUI的实验性浏览器发布]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kchsblmyurhq85xape3sydd83</link>
-      <description><![CDATA[<p>Meridian是一款基于Rust和GPUI的实验性浏览器，支持无JavaScript或布局复杂度低的网页浏览，并提供了Nix运行方式。其技术架构采用Servo管理网页状态，GPUI渲染界面，通过gpui-servo库实现两者交互。主要功能包括地址栏联想、垂直水平标签页、书签历史管理、分页缩放、音视频播放和阅读模式。项目在Tangled平台开发，欢迎贡献者查看开放问题列表</p>
-<p>🔗 <a href="https://op.tngl.io/meridian/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kchsblmyurhq85xape3sydd83">https://reisen-ww.github.io/hot-pages/openhot/items/kchsblmyurhq85xape3sydd83</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Sat, 07 Nov 2026 09:21:55 GMT</pubDate>
-      <guid isPermaLink="false">kchsblmyurhq85xape3sydd83</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

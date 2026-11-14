@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS EC2 Spot 实例优化 AssemblyAI 语音转文本推理成本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh</link>
+      <description><![CDATA[<p>通过混合EC2 Spot实例与队列重试机制，实现70%成本节约并保持服务可用性。具体架构采用Amazon ECS集群管理GPU实例（g4dn/g5/g6），结合SQS队列实现中断自动恢复，并在欧洲AWS区域部署独立架构满足数据合规要求。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh">https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 19:35:35 GMT</pubDate>
+      <guid isPermaLink="false">ivg5vvprclkacqf1e96o0k0bh</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[ElevenLabs 发布集成会议记录与语音转写的实验性应用 ElevenAI]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/cwfe6bj1v3z9u9olahenerxqd</link>
+      <description><![CDATA[<p>ElevenLabs 发布实验性应用 ElevenAI，整合会议记录、语音转写及智能体集成功能，支持企业团队协作。该应用具备跨会议数据查询、实时对话辅助、多语言语音转写（覆盖90+语言）及定制化企业级智能体集成能力，定位为团队协作知识中枢而非个人生产力工具。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/cwfe6bj1v3z9u9olahenerxqd">https://reisen-ww.github.io/hot-pages/aihot/items/cwfe6bj1v3z9u9olahenerxqd</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 14:44:48 GMT</pubDate>
+      <guid isPermaLink="false">cwfe6bj1v3z9u9olahenerxqd</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amplitude 如何用 OpenAI 模型在1-2天内完成产品迭代]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</link>
+      <description><![CDATA[<p>Amplitude 通过 OpenAI 模型在1-2天内完成产品迭代，其智能体 Wave 负责识别开发方向、协调代码生成，并量化改进效果。该案例展示了企业级 AI 智能体在敏捷开发中的实际应用</p>
+<p>🔗 <a href="https://openai.com/business/customer-stories/amplitude">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp">https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gitdqwbzd1409kmzhl20r88bp</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
+    </item>
+    <item>
       <title><![CDATA[Amplitude 如何与 OpenAI 合作实现 1-2 天内快速迭代产品功能]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</link>
       <description><![CDATA[<p>Amplitude 通过集成 OpenAI 模型，利用智能体 Wave 实现了 1-2 天内快速迭代产品功能，并引入了代码智能体辅助开发流程。该方案包含需求识别、开发执行和效果测量三个环节，展示了 AI 智能体在 SaaS 产品迭代中的落地应用。</p>
@@ -51,6 +84,17 @@
       <pubDate>Thu, 12 Nov 2026 19:07:35 GMT</pubDate>
       <guid isPermaLink="false">ccq7ilb7xw2k8lr9n90hullv2</guid>
       <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS发布新一代AgentCore运行时：性能提升与安全增强]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx</link>
+      <description><![CDATA[<p>AWS发布新一代AgentCore运行时，核心改进包括：1）启动速度提升15倍，支持8vCPU/32GB内存环境；2）运行效率提升68%，支持10GB容器镜像；3）数据隔离扩展至存储层，可动态挂载S3桶。客户实测显示推理请求冷启动速度提升35%，健康检查启动快77%，内存成本降低17%。该版本通过硬件隔离Firecracker微虚拟机（MicroVM）实现安全执行，并支持按需弹性扩展。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx">https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 17:59:59 GMT</pubDate>
+      <guid isPermaLink="false">ub5ixhvlcsnztadutvqou2wnx</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
     <item>
       <title><![CDATA[ElevenLabs 发布 Scribe v3 和 v3 Live 语音识别模型]]></title>
@@ -339,6 +383,17 @@
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
     <item>
+      <title><![CDATA[AWS发布Claude Fable 5.2技术模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/pmffa0dzbiuhpvzlb5cyxqvty</link>
+      <description><![CDATA[<p>AWS宣布推出Claude Fable 5.2技术模型，提升多代码库开发、长期任务协调和科学研究的效率。该模型支持自动错误检测与优化，并可通过claude-api技能实现与旧版本的无缝迁移。安全方面采用EFS机制，企业用户可通过AWS Bedrock使用零数据保留模式（至2027年6月）。技术细节包括上下文窗口、API调用示例及GitHub迁移教程。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/pmffa0dzbiuhpvzlb5cyxqvty">https://reisen-ww.github.io/hot-pages/aihot/items/pmffa0dzbiuhpvzlb5cyxqvty</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 09 Nov 2026 20:04:37 GMT</pubDate>
+      <guid isPermaLink="false">pmffa0dzbiuhpvzlb5cyxqvty</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[NVIDIA Nemotron 3.5 Super VL 已上线 Amazon SageMaker JumpStart]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/sbs3k0trw2tcon19u3ujm2ar6</link>
       <description><![CDATA[<p>AWS JumpStart 上线 NVIDIA Nemotron 3.5 Super VL 多模态模型，提供 NVFP4（优化推理）和 BF16（全精度）两种变体，支持图像、视频及文本输入，并附详细部署步骤与性能对比数据。</p>
@@ -405,6 +460,17 @@
       <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
     <item>
+      <title><![CDATA[韩国 AI 生态系统通过 NVIDIA 提升智能体安全性]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/dwotj3ja03lnws1gqoq4xba6j</link>
+      <description><![CDATA[<p>Hyundai Motor Group 和 AIM Intelligence 等公司正在使用 NVIDIA 的 OpenShell 运行时和 Nemotron 数据集，提升智能体的安全性和企业流程。NVIDIA 的 Open Agent Safety Platform 提供了安全的运行时环境和策略控制。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/korea-secure-agentic-ai/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/dwotj3ja03lnws1gqoq4xba6j">https://reisen-ww.github.io/hot-pages/aihot/items/dwotj3ja03lnws1gqoq4xba6j</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 09 Nov 2026 05:00:39 GMT</pubDate>
+      <guid isPermaLink="false">dwotj3ja03lnws1gqoq4xba6j</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[NVIDIA Dynamo发布韩国领先开源模型生产部署优化方案]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/nvlflcmbk0z884nxi9y1b6vdd</link>
       <description><![CDATA[<p>NVIDIA发布Dynamo优化部署方案，支持SK Telecom A.X K2、LG AI Research K-EXAONE 2.0、Upstage Solar Open 2等韩国开源模型。该方案针对NVIDIA B200 GPU优化，可提升基准性能2倍，帮助开发者加速将开源模型部署到多节点生产环境。</p>
@@ -414,50 +480,6 @@
       <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
       <guid isPermaLink="false">nvlflcmbk0z884nxi9y1b6vdd</guid>
       <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Meta Muse AI 发布定制化应用界面功能 spaces]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/edlmdqjxcr7ko5xkugypyao1d</link>
-      <description><![CDATA[<p>Meta Muse AI 新增 spaces 功能，允许用户通过描述创建定制化应用界面（如购物中心、学校仪表盘等），并与外部工具（如 Gmail、Google Calendar）实时同步数据。同时引入 Active Memory 和 Active Focus 能力，提升上下文理解与目标导向能力。该功能已面向所有 Muse 用户开放，未来计划支持空间共享与协作。</p>
-<p>🔗 <a href="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/edlmdqjxcr7ko5xkugypyao1d">https://reisen-ww.github.io/hot-pages/aihot/items/edlmdqjxcr7ko5xkugypyao1d</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Fri, 06 Nov 2026 18:10:10 GMT</pubDate>
-      <guid isPermaLink="false">edlmdqjxcr7ko5xkugypyao1d</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS无服务器MCP服务器架构：AI智能体数据湖访问解决方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rbopao61zwqs4sccqyz4ip1jq</link>
-      <description><![CDATA[<p>AWS构建无服务器MCP服务器，实现AI智能体与数据湖的自动化集成。系统通过JSON元数据文件配置，无需重复开发SQL接口，支持多租户环境下的权限集中管控和弹性扩展。架构包含认证层、MCP服务器层、工具层和数据更新层，利用Amazon Bedrock和Athena服务，确保15-20秒内完成从自然语言查询到结构化数据返回的全流程。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rbopao61zwqs4sccqyz4ip1jq">https://reisen-ww.github.io/hot-pages/aihot/items/rbopao61zwqs4sccqyz4ip1jq</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Fri, 06 Nov 2026 17:13:13 GMT</pubDate>
-      <guid isPermaLink="false">rbopao61zwqs4sccqyz4ip1jq</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Greenlight Financial 构建基于 AWS Bedrock AgentCore 的自主 SOC 解决方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/awr86jk4n06059t0mjvacyhhz</link>
-      <description><![CDATA[<p>Greenlight Financial 通过 AWS Bedrock AgentCore 构建自主安全运营中心（SOC），实现90%以上安全风险自动化处理。系统采用分层架构：一级代理处理常规预警（秒级响应），二级代理通过多源数据链式推理处理复杂案例。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/awr86jk4n06059t0mjvacyhhz">https://reisen-ww.github.io/hot-pages/aihot/items/awr86jk4n06059t0mjvacyhhz</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Fri, 06 Nov 2026 16:55:05 GMT</pubDate>
-      <guid isPermaLink="false">awr86jk4n06059t0mjvacyhhz</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS旗下税务合规平台Taxbit发布基于Bedrock AgentCore的AI助手]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/aqf4fk6y4zqvlvya3ncqrmqom</link>
-      <description><![CDATA[<p>AWS旗下税务合规平台Taxbit发布基于Bedrock AgentCore的AI助手，实现权限感知与合规安全。系统架构包含知识库检索（Cohere Embed English v3语义分块+AWS S3向量存储）、模型推理与权限校验三阶段。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/aqf4fk6y4zqvlvya3ncqrmqom">https://reisen-ww.github.io/hot-pages/aihot/items/aqf4fk6y4zqvlvya3ncqrmqom</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Fri, 06 Nov 2026 16:49:42 GMT</pubDate>
-      <guid isPermaLink="false">aqf4fk6y4zqvlvya3ncqrmqom</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>
 </rss>

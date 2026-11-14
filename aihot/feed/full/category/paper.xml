@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Antigravity发布/teamwork与Gemini 4协作工具，解决多项数学与工程难题]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s</link>
+      <description><![CDATA[<p>Antigravity发布新的多智能体协作工具/teamwork和(boost)，与Gemini 4模型合作解决了数学证明（如解决2013年Courtade–Kumar猜想）、量子计算、系统优化等领域多项长期未解问题，并已应用于Google生产基础设施优化。工具通过并行探索与专用验证器（如Lean 4证明器、未修改软件测试套件）自动验证解决方案，同时通过上下文分区防止多日任务中信息丢失。</p>
+<p>🔗 <a href="https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s">https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Fri, 13 Nov 2026 20:47:18 GMT</pubDate>
+      <guid isPermaLink="false">xntund3bmho9l8hdst87i1s9s</guid>
+      <author>noreply@reisen-ww.github.io (Google Research)</author>
+    </item>
+    <item>
       <title><![CDATA[Amazon SageMaker HyperPod 静默数据损坏检测与恢复方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc</link>
       <description><![CDATA[<p>本文介绍了在Amazon SageMaker HyperPod中检测和恢复静默数据损坏的三种方法：1）梯度非有限值检查（捕获NaN/Inf异常）；2）环式回放审计（通过跨节点微批次复现验证计算路径错误）；3）权重指纹比较（检测更新后权重不一致）。</p>
@@ -86,36 +97,14 @@
       <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
     </item>
     <item>
-      <title><![CDATA[DeepSeek与OpenAI模型在网络安全测试中的表现对比]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fgsxpq7lt5o8r8rb4bl7cnoby</link>
-      <description><![CDATA[<p>OpenAI的GPT-6 Sol Daybreak在网络安全测试中表现最佳，Nova测试达成80.8%目标，Lighthouse测试完成27/31项任务。DeepSeek V4.1 Flash以72.8%的Nova测试成绩接近，单次运行成本仅$3（OpenAI Opus 4.5为$85）。</p>
-<p>🔗 <a href="https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fgsxpq7lt5o8r8rb4bl7cnoby">https://reisen-ww.github.io/hot-pages/aihot/items/fgsxpq7lt5o8r8rb4bl7cnoby</a></p>]]></description>
+      <title><![CDATA[Hugging Face 发布 HOPE 方法：基于专家交互的第二代剪枝技术]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/sjbvbu54gyoysznwzeq3hdz6c</link>
+      <description><![CDATA[<p>Hugging Face 发布 HOPE 方法，在50%剪枝率下模型性能最佳，平均排名提升至1.58，显著优于REAP等第一代方法。该方法通过二次规划优化专家间交互，适用于Qwen3.5-122B、Qwen3.5-35B-A3B等MoE架构模型，提供完整代码实现流程（校准、求解、剪枝）。</p>
+<p>🔗 <a href="https://huggingface.co/blog/amazon/higher-order-pruning-experts">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sjbvbu54gyoysznwzeq3hdz6c">https://reisen-ww.github.io/hot-pages/aihot/items/sjbvbu54gyoysznwzeq3hdz6c</a></p>]]></description>
       <category>论文</category>
-      <pubDate>Sat, 07 Nov 2026 15:35:50 GMT</pubDate>
-      <guid isPermaLink="false">fgsxpq7lt5o8r8rb4bl7cnoby</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Research AI 通过普通智能手表无袖带检测高血压]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/d3ctjw6910uhxr9r7s6dbuki2</link>
-      <description><![CDATA[<p>Google Research AI 通过智能手表的脉率和运动传感器数据，无袖带检测出高血压患者约65.8%。该成果已整合至Google Health应用，但未替代专业诊断。研究基于近50万小时传感器数据，通过无监督学习识别个体脉搏模式。对比传统诊室测量法（55.3%准确率），该技术检测效果相当。</p>
-<p>🔗 <a href="https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/d3ctjw6910uhxr9r7s6dbuki2">https://reisen-ww.github.io/hot-pages/aihot/items/d3ctjw6910uhxr9r7s6dbuki2</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Sat, 07 Nov 2026 09:54:09 GMT</pubDate>
-      <guid isPermaLink="false">d3ctjw6910uhxr9r7s6dbuki2</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face发布开源机器人学习框架ToyBlocks]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yicdief5mp8ngmwuo6x7ow9yo</link>
-      <description><![CDATA[<p>Hugging Face发布开源机器人学习框架ToyBlocks，支持自动生成任务、长程规划验证及物理机器人迁移实验。框架包含受控模拟环境、技能生成与评估指标，可测试模型在推拉翻转等基础操作上的泛化能力。</p>
-<p>🔗 <a href="https://huggingface.co/blog/allenai/toyblocks">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yicdief5mp8ngmwuo6x7ow9yo">https://reisen-ww.github.io/hot-pages/aihot/items/yicdief5mp8ngmwuo6x7ow9yo</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
-      <guid isPermaLink="false">yicdief5mp8ngmwuo6x7ow9yo</guid>
+      <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
+      <guid isPermaLink="false">sjbvbu54gyoysznwzeq3hdz6c</guid>
       <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
     </item>
   </channel>

@@ -135,7 +135,7 @@ Google 发布 Gemini 4 Argon，面向复杂任务全球开放
     摘要：Reddit每周因Google AI模式损失超百万搜索流量，CEO Huffman警告行业结构性风险。为应对流量流失，Reddit正测试海外登录墙限制爬虫，同时继续与AI供应商谈判数据授权合作。该事件警示所有依赖Google流量的企业，AI模式可能引发系统性流量重构。
     原文：[打开原文](https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/)
 
-14. [DeepSeek 开源 DeepInfer 推理框架，vLLM 称解码吞吐差距在 6% 以内](https://reisen-ww.github.io/hot-pages/aihot/items/d7gxd9qhlly5rypq95t8wrarn)
+14. [DeepSeek 开源 DeepInfer 推理框架，vLLM 称解码吞吐差距在 6% 以内](https://www.latent.space/p/ainews-deepseek-deepinfer-open-source)
     来源：Latent Space · 发布时间：2026-10-21 14:54（北京时间）
     摘要：DeepSeek 开源了支撑 V4.1 Flash 的生产推理框架 DeepInfer，官方披露单集群 155T tokens/day、96% 输入缓存命中率、400ms 平均首 token 延迟，以及闲时每加速卡每小时 $38 收入。
     原文：[打开原文](https://www.latent.space/p/ainews-deepseek-deepinfer-open-source)

@@ -94,7 +94,7 @@ Go团队发布encoding/json/v2解决15年遗留问题并优化性能，Claude Op
    摘要：TideCloak 开源发布，通过去中心化架构简化开发者身份集成与加密操作。项目基于Keycloak构建，提供标准OIDC接口和SDK，开发者只需编写常规React钩子和加密函数，系统自动完成密钥管理、零知识认证、阈值签名及端到端加密，消除传统IAM的单点故障风险。
    原文：[打开原文](https://tide.org/whitepaper/tidecloak-integration)
 
-9. [musl Linux 环境下 SSH 密码哈希漏洞的十年修复历程与持续风险](https://reisen-ww.github.io/hot-pages/openhot/items/e7id5u39sxzhczos0hxfcymte)
+9. [musl Linux 环境下 SSH 密码哈希漏洞的十年修复历程与持续风险](https://sshhole.com/)
    来源：Lobsters 热榜 · 发布时间：2026-11-05 20:24（北京时间）
    摘要：musl Linux 环境下的 SSH 服务存在安全漏洞（CVE-2016-6210），未设置密码的账户（如 root 或默认用户）可能被 257-1024 字符长度的任意密码入侵。
    原文：[打开原文](https://sshhole.com/)

@@ -1,4 +1,4 @@
-# Nvidia CEO 詹森·黄辞职事件及后续影响
+# Nvidia CEO黄仁勋因丑闻辞职，中美AI竞争受关注
 
 > 原标题：Nvidia CEO Jensen Huang has resigned. What happens next?
 
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-Nvidia CEO 詹森·黄因丑闻辞职，公司启动内部调查并任命临时CEO。事件涉及中国间谍指控及中美AI硬件合作谈判背景，目前美国国会正要求其继续作证。
+Nvidia CEO黄仁勋因间谍指控和婚外情丑闻辞职，接任者已确定。事件涉及中美AI硬件谈判背景及公司高层变动。

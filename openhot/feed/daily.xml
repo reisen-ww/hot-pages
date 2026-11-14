@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[开源热点 日报 · 2026-11-14 — GraphQL 基金会发布 HTTP 规范，解决互操作与可观测性难题]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-14</link>
+      <description><![CDATA[<p>GraphQL 基金会发布 HTTP 规范，明确200 Not OK等状态码使用规则，新增GraphQL over HTTP媒体类型，解决代理缓存响应混淆问题。规范还规划了支持QUERY HTTP动词和持久化文档标准化，现有主流框架已适配新规。</p>
+<p><strong>工具与项目</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/lqxw4wq37xyv27ju4yfd0q8v2">WebKit 修复 Promise 构造函数 Symbol.species 获取异常导致的执行阻塞问题</a></li></ul>
+<p><strong>应用与安全</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/mm71surul71wuo6w5qblycb5l">GraphQL 基金会发布 HTTP 规范，解决互操作与可观测性难题</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/p18sp3k2wv16xh13ijb6kvel1">Home Assistant 密码变更无效且令牌密钥明文存储漏洞披露</a></li></ul>
+<p><strong>基础设施</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/hox5oh87bvu08t1u0frstto7z">FreeBSD bhyve虚拟机活迁移支持首次完整实现</a></li></ul>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-14">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-14</a></p>]]></description>
+      <pubDate>Sat, 14 Nov 2026 00:03:10 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-14</guid>
+      <author>noreply@reisen-ww.github.io (开源热点)</author>
+    </item>
+    <item>
       <title><![CDATA[开源热点 日报 · 2026-11-13 — PostgreSQL 发布安全更新修复52个漏洞]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-13</link>
       <description><![CDATA[<p>PostgreSQL Global Development Group于2026-11-12发布安全更新，修复18.7、17.12等支持版本中的52个安全漏洞（含CVE-2026-6460至CVE-2026-120154），涉及执行任意代码、SQL注入、内存泄露等高危问题。</p>
@@ -92,7 +107,7 @@
 <p><strong>工具与项目</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/d3mgvd9x8ho3ta7e14bdcmli2">Go团队发布新JSON库v2，解决长期兼容与性能问题</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/t5a9izy0prcp39alw9ch0ykzb">声明式拖拽交互库 Dragology 开源，支持数学可视化与编程界面优化</a></li></ul>
 <p><strong>应用与安全</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/fx67eouq9ky8jof7mpoaglguv">Meta开源Rust实现的NTS协议，提供经过认证的时间服务</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2">某团队自托管Plausible分析容器中发现未经授权的加密货币挖矿程序</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/e7id5u39sxzhczos0hxfcymte">musl Linux 环境下 SSH 密码哈希漏洞的十年修复历程与持续风险</a></li></ul>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/fx67eouq9ky8jof7mpoaglguv">Meta开源Rust实现的NTS协议，提供经过认证的时间服务</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/o62d4g72xdmxc1xxfrsu0wvk2">某团队自托管Plausible分析容器中发现未经授权的加密货币挖矿程序</a></li><li><a href="https://sshhole.com/">musl Linux 环境下 SSH 密码哈希漏洞的十年修复历程与持续风险</a></li></ul>
 <p><strong>基础设施</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/nlvmdcv15488psmlhr6bwpy1e">某团队开源自托管n8n+PostgreSQL四层架构实现零丢失webhook处理</a></li></ul>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-06">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-06</a></p>]]></description>

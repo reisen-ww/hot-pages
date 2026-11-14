@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[MyHOT 日报 · 2026-11-14 — Amazon SageMaker HyperPod数据捕获助力模型优化飞轮]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-14</link>
+      <description><![CDATA[<p>本文展示了如何利用Amazon SageMaker HyperPod数据捕获功能，记录实时推理数据并分析。通过Athena查询发现新家电品类识别盲区，编写SQL标签策略后进行LoRA微调，最终使新类别识别准确率从0%提升至100%，同时不影响原有类别表现。完整代码和测试数据在GitHub仓库中提供，支持在HyperPod集群上部署端到端闭环。</p>
+<p><strong>产品发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh">AWS EC2 Spot 实例优化 AssemblyAI 语音转文本推理成本</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp">Amplitude 如何用 OpenAI 模型在1-2天内完成产品迭代</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/l57lacm11hlp0vh3bhbtxk4gy">美国公共部门工会与AI应用的监管博弈：70%政府机构已采用生成式AI</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/tn9dempxn3yssqmqhwat78te2">OpenAI 发布两款网络安全产品：Daybreak Red Team 和 Daybreak Defense Factory</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/c8hr9nhjls2rq9n1gxgoqgvjt">被禁Nvidia芯片或成中国最强AI模型训练核心</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/j3jgnahbfqlw9mvtuhgrjkptj">Nvidia私下承认芯片追踪技术可行性引发争议</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ijuimcpg9ubcsm5bu0w7vgbd2">Nvidia CEO黄仁勋离职致AI初创公司融资遇阻</a></li></ul>
+<p><strong>技巧与观点</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/g2q66un3csjmgeguf3k5r21u8">Amazon SageMaker HyperPod数据捕获助力模型优化飞轮</a></li></ul>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-14">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-14</a></p>]]></description>
+      <pubDate>Sat, 14 Nov 2026 00:08:24 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-14</guid>
+      <author>noreply@reisen-ww.github.io (MyHOT)</author>
+    </item>
+    <item>
       <title><![CDATA[MyHOT 日报 · 2026-11-13 — Google DeepMind发布Gemini 4 Hydrogen]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-13</link>
       <description><![CDATA[<p>Google DeepMind发布Gemini 4 Hydrogen，提升多模型工作流程效率与安全性。该模型在速度上比3.8 Flash快2.5倍，在Terminal-Bench 4.1得分从18.2%跃升至57%，同时通过Orchestrator动态切换Carbon/Hydrogen模型，降低24%配额消耗。</p>
@@ -306,11 +321,11 @@
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-23</link>
       <description><![CDATA[<p>OpenAI 的 Patch the Planet 项目与 Wiz 分别独立发现了影响 PHP 核心的 PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619），涉及 PHP 内存不足与致命错误处理，研究者演示了针对 WordPress、Drupal、Joomla 的预认证 RCE。</p>
 <p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/jvmbvpin31pd9fkt8imrob0fn">NVIDIA 发布 Kumo Relational 关系型数据基础模型，无需训练直接预测</a></li></ul>
+<ul><li><a href="https://huggingface.co/blog/nvidia/kumo-relational">NVIDIA 发布 Kumo Relational 关系型数据基础模型，无需训练直接预测</a></li></ul>
 <p><strong>产品发布/更新</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ct97k1a02mxdqd8yi1814js1a">Anthropic 推出 Claude Duet 智能体应用，面向专业用户与小企业</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ovy7q9711uhn03b7dsb49th13">NVIDIA 扩展 Cosmos 平台，新增世界模型训练、评估与部署工具</a></li></ul>
 <p><strong>行业动态</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/pxl60dtfhb4nhi95i8rttfp4s">OpenAI Patch the Planet 与 Wiz 独立发现影响 PHP 核心的 PHP2Shell 漏洞</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/q29shg4wo3gl1grc0585t3hpd">NVIDIA DSX 如何帮助企业打破电力瓶颈</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/hlk5bdhwinbxdk23x7blstafk">OpenAI 模型与 Codex 工作流将上线 Google Cloud 的 Model Garden</a></li></ul>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/pxl60dtfhb4nhi95i8rttfp4s">OpenAI Patch the Planet 与 Wiz 独立发现影响 PHP 核心的 PHP2Shell 漏洞</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/q29shg4wo3gl1grc0585t3hpd">NVIDIA DSX 如何帮助企业打破电力瓶颈</a></li><li><a href="https://openai.com/index/openai-models-google-cloud">OpenAI 模型与 Codex 工作流将上线 Google Cloud 的 Model Garden</a></li></ul>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-23">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-23</a></p>]]></description>
       <pubDate>Fri, 23 Oct 2026 02:01:12 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-23</guid>
@@ -321,13 +336,13 @@
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-22</link>
       <description><![CDATA[<p>DeepSeek 在 PyTorch Conf 期间开源了 DeepInfer 生产推理栈，配套发布 deepseek-recipe 组件，官方称单集群吞吐达 155T tokens/day、96% 输入缓存命中、400 ms 平均首 token 延迟、生成速度 230 tokens/s（编码场景 300 tokens/s），离峰价格下每加速卡小时收入 $38。</p>
 <p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/eku7u33uo0xaip20uk7iuhw5m">NVIDIA 发布 Nemotron 3.5 Embed、Rerank 和 Parse 检索模型</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/bjnrqkpgigff0rvtsm4m5xjvz">IBM 发布 Granite Speech 5.0 系列模型，支持更精准的转写、翻译与说话人归属</a></li></ul>
+<ul><li><a href="https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval">NVIDIA 发布 Nemotron 3.5 Embed、Rerank 和 Parse 检索模型</a></li><li><a href="https://huggingface.co/blog/ibm-granite/granite-speech-5">IBM 发布 Granite Speech 5.0 系列模型，支持更精准的转写、翻译与说话人归属</a></li></ul>
 <p><strong>产品发布/更新</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/d7gxd9qhlly5rypq95t8wrarn">DeepSeek 开源 DeepInfer 推理框架并披露 155T tokens/day 生产数据</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/wo0yhbsgchdgay3gnbhrq9tjp">Google Cloud 与 NVIDIA 宣布 Vera Rubin A5X 实例全面可用</a></li></ul>
+<ul><li><a href="https://www.latent.space/p/ainews-deepseek-deepinfer-open-source">DeepSeek 开源 DeepInfer 推理框架并披露 155T tokens/day 生产数据</a></li><li><a href="https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/">Google Cloud 与 NVIDIA 宣布 Vera Rubin A5X 实例全面可用</a></li></ul>
 <p><strong>行业动态</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/yvn0qtfexpp543zkixxwbqxs5">NVIDIA GTC Berlin 2026 主题演讲发布 DSX POD、OpenShell 智能体安全架构等新品</a></li><li><a href="https://openai.com/index/openai-to-acquire-orchestra-bio">OpenAI 收购 Orchestra Bio</a></li></ul>
+<ul><li><a href="https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/">NVIDIA GTC Berlin 2026 主题演讲发布 DSX POD、OpenShell 智能体安全架构等新品</a></li><li><a href="https://openai.com/index/openai-to-acquire-orchestra-bio">OpenAI 收购 Orchestra Bio</a></li></ul>
 <p><strong>论文研究</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/l2rdys1efxgubs44d4wp1s3zo">Microsoft Research 宣布证明 31 年悬案 KLS 猜想</a></li></ul>
+<ul><li><a href="https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/">Microsoft Research 宣布证明 31 年悬案 KLS 猜想</a></li></ul>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-22">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-22</a></p>]]></description>
       <pubDate>Thu, 22 Oct 2026 01:42:34 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-22</guid>
@@ -451,19 +466,6 @@
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-11">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-11</a></p>]]></description>
       <pubDate>Sun, 11 Oct 2026 00:00:21 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-11</guid>
-      <author>noreply@reisen-ww.github.io (MyHOT)</author>
-    </item>
-    <item>
-      <title><![CDATA[MyHOT 日报 · 2026-10-10 — OpenAI 大规模发布数学成果，数学界或需多年理解其影响]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-10</link>
-      <description><![CDATA[<p>OpenAI 本周发布近 400 项 AI 生成数学成果，分布在 700 多份手稿中，覆盖组合数学、几何、数论、拓扑等多个领域。719 份手稿中仅 300 份完成形式化，约 42%，且已有三篇因符号错误被移除。数学家认为其中包含高水平工作，但验证、论文质量、引用完整性和研究社区承受的冲击仍引发广泛担忧。</p>
-<p><strong>行业动态</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/mdgnre2rbkwu5wm66jl7nodp0">OpenAI 大规模发布数学成果，数学界或需多年理解其影响</a></li><li><a href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/">Anthropic AI 模型向费城警方提交虚假谋杀线索</a></li></ul>
-<p><strong>技巧与观点</strong></p>
-<ul><li><a href="https://huggingface.co/blog/allenai/impactful-scheduling">Ai2 如何用 GPU 时间预算和公平调度提升集群资源分配</a></li><li><a href="https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/">Postman 如何在 Amazon Bedrock 上为 4000 万开发者运行 Agent Mode</a></li></ul>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-10">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-10</a></p>]]></description>
-      <pubDate>Sat, 10 Oct 2026 00:00:41 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-10</guid>
       <author>noreply@reisen-ww.github.io (MyHOT)</author>
     </item>
   </channel>

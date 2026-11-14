@@ -9,6 +9,368 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[艾伦·托纳：AI 安全机制亟需改进]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/q8z5alscp7mxlxyo2xep5i8mq</link>
+      <description><![CDATA[<p>艾伦·托纳，乔治城大学中心安全与新兴技术执行主任，曾是 OpenAI 董事会成员之一，投票支持解雇萨姆·阿尔特曼。她认为当前 AI 安全机制存在缺陷，强调单靠 CEO 诚信无法确保未来安全，呼吁改进监管方式。</p>
+<p>🔗 <a href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/q8z5alscp7mxlxyo2xep5i8mq">https://reisen-ww.github.io/hot-pages/aihot/items/q8z5alscp7mxlxyo2xep5i8mq</a></p>]]></description>
+      <category>观点</category>
+      <pubDate>Sat, 14 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">q8z5alscp7mxlxyo2xep5i8mq</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Jensen Huang 离职引发 NVIDIA 领导层危机与AI行业震荡]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/unkyh1cj7k2p3i7hulxzoxnt2</link>
+      <description><![CDATA[<p>NVIDIA 创始人兼CEO Jensen Huang 因丑闻离职，引发市场对AI芯片领导力的担忧。分析其长期战略布局（如CUDA平台、AI服务器芯片研发）对行业的影响，以及继任者能否维持技术路线和供应链优势。</p>
+<p>🔗 <a href="https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/unkyh1cj7k2p3i7hulxzoxnt2">https://reisen-ww.github.io/hot-pages/aihot/items/unkyh1cj7k2p3i7hulxzoxnt2</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">unkyh1cj7k2p3i7hulxzoxnt2</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 重组机器人团队：通用模型或降低专用AI需求]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ol5irptk4wv2caymqmvuwthx1</link>
+      <description><![CDATA[<p>OpenAI 重组机器人团队，将研究人员并入主研究团队和 Applied 组织。GPT-6 Astra 在模拟机器人任务中达成 74.8% 成功率（专用模型平均 51%）。</p>
+<p>🔗 <a href="https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ol5irptk4wv2caymqmvuwthx1">https://reisen-ww.github.io/hot-pages/aihot/items/ol5irptk4wv2caymqmvuwthx1</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sat, 14 Nov 2026 11:40:51 GMT</pubDate>
+      <guid isPermaLink="false">ol5irptk4wv2caymqmvuwthx1</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 研究员揭示模型训练效率加速提升]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/msoyjf4dd1op4e70a0vbrsfee</link>
+      <description><![CDATA[<p>Anthropic 前研究员 Jacob Coxon 表示，公司 IPO 路演中展示的图表显示模型训练所需计算资源正在以超指数方式减少。他指出，Anthropic 的 Mythos 模型训练已实现大幅提速，仅需少量初始计算资源即可重新训练，这表明算法效率正以惊人的速度提升。Coxon 建议暂停先进模型开发以助同行追赶。</p>
+<p>🔗 <a href="https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/msoyjf4dd1op4e70a0vbrsfee">https://reisen-ww.github.io/hot-pages/aihot/items/msoyjf4dd1op4e70a0vbrsfee</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sat, 14 Nov 2026 11:21:41 GMT</pubDate>
+      <guid isPermaLink="false">msoyjf4dd1op4e70a0vbrsfee</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Runway Praxis-1开源模型将视频AI转化为机器人控制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/o92p6bzcfkuxip12ydqcyc6zy</link>
+      <description><![CDATA[<p>Runway Praxis-1开源模型通过视频预训练实现机器人控制，在Nvidia RoboLab-120测试中得分46.2%，优于同类模型FLUX 3 Action的42.9%。该模型基于公开DROID数据集训练，已由Standard Bots等公司测试，但需额外适配机器人系统。</p>
+<p>🔗 <a href="https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/o92p6bzcfkuxip12ydqcyc6zy">https://reisen-ww.github.io/hot-pages/aihot/items/o92p6bzcfkuxip12ydqcyc6zy</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Sat, 14 Nov 2026 09:45:45 GMT</pubDate>
+      <guid isPermaLink="false">o92p6bzcfkuxip12ydqcyc6zy</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[No AI Slop 宣言发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j6s3ey0e4qz5txmb4fg0rc4s4</link>
+      <description><![CDATA[<p>No AI Slop 宣言起源于 AIE CODE 大会讨论，旨在为工作中的讨论提供有用工具。该宣言已获得 Hacker News 前页推荐。同时，llama.cpp 1.0 版本发布，增加了对混合专家模型的支持，并移除了 35 个过时功能。</p>
+<p>🔗 <a href="https://latent.space/p/ainews-the-no-ai-slop-manifesto/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j6s3ey0e4qz5txmb4fg0rc4s4">https://reisen-ww.github.io/hot-pages/aihot/items/j6s3ey0e4qz5txmb4fg0rc4s4</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Sat, 14 Nov 2026 08:31:02 GMT</pubDate>
+      <guid isPermaLink="false">j6s3ey0e4qz5txmb4fg0rc4s4</guid>
+      <author>noreply@reisen-ww.github.io (Latent Space)</author>
+    </item>
+    <item>
+      <title><![CDATA[亚马逊计划构建全球产品图谱（World Product Graph）]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/s9mf9gqnt1i2vy499iujt7ma8</link>
+      <description><![CDATA[<p>亚马逊计划通过整合全球在线购物数据提升AI购物助手（Alexa for Shopping）的准确性，内部文档显示项目计划于2027年10月1日上线，但当前AI回答存在事实错误和成本问题。</p>
+<p>🔗 <a href="https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/s9mf9gqnt1i2vy499iujt7ma8">https://reisen-ww.github.io/hot-pages/aihot/items/s9mf9gqnt1i2vy499iujt7ma8</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 23:49:11 GMT</pubDate>
+      <guid isPermaLink="false">s9mf9gqnt1i2vy499iujt7ma8</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[GS Caltex 使用 Amazon SageMaker Canvas 和 Pipelines 实现生产 MLOps]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bw2fodpzic9d5hgtyt15yk5to</link>
+      <description><![CDATA[<p>GS Caltex 采用 Amazon SageMaker Canvas 和 Pipelines 将过程工程师的模型连接到生产工作流，简化了模型部署和批量推理。ML 工程师配置部署和定时推理的工作流，将 SageMaker Canvas 中验证的预处理流程和模型自动转换为生产工作流步骤。部署新模型版本现在只需几小时，比之前缩短了一周时间，显著降低了推理成本。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bw2fodpzic9d5hgtyt15yk5to">https://reisen-ww.github.io/hot-pages/aihot/items/bw2fodpzic9d5hgtyt15yk5to</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Fri, 13 Nov 2026 23:22:09 GMT</pubDate>
+      <guid isPermaLink="false">bw2fodpzic9d5hgtyt15yk5to</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[datasette-cluster-map 0.19 发布支持 Datasette 1.0a42]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/s7kzsh64ca2fjztvc7ko19zeh</link>
+      <description><![CDATA[<p>datasette-cluster-map 0.19 现已兼容 Datasette 1.0a42，新增对 datasette-leaflet 的依赖，确保请求 OpenStreetMap 地图瓦片时带有 referrer 头。该插件展示了加州 PG&amp;E 公司拥有的发电厂地图，并演示了 Datasette 重新设计的筛选功能。</p>
+<p>🔗 <a href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/s7kzsh64ca2fjztvc7ko19zeh">https://reisen-ww.github.io/hot-pages/aihot/items/s7kzsh64ca2fjztvc7ko19zeh</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Fri, 13 Nov 2026 23:02:45 GMT</pubDate>
+      <guid isPermaLink="false">s7kzsh64ca2fjztvc7ko19zeh</guid>
+      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia CEO黄仁勋离职致AI初创公司融资遇阻]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ijuimcpg9ubcsm5bu0w7vgbd2</link>
+      <description><![CDATA[<p>Nvidia CEO黄仁勋离职导致AI初创公司融资遇冷，投资者担忧后续资金支持减少。Nvidia过去三年年均投资超百亿美元，深度参与CoreWeave、Crusoe、Hugging Face等关键项目。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ijuimcpg9ubcsm5bu0w7vgbd2">https://reisen-ww.github.io/hot-pages/aihot/items/ijuimcpg9ubcsm5bu0w7vgbd2</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 22:43:00 GMT</pubDate>
+      <guid isPermaLink="false">ijuimcpg9ubcsm5bu0w7vgbd2</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[datasette-leaflet 0.3 发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/snldi78tjbl3l283tssnigp1d</link>
+      <description><![CDATA[<p>datasette-leaflet 0.3 版本更新了 tile 请求的 referrer 策略，改为 strict-origin-when-cross-origin，确保与 OpenStreetMap 的政策兼容，只传递主机名而不包含完整路径。</p>
+<p>🔗 <a href="https://simonwillison.net/2026/Nov/13/datasette-leaflet/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/snldi78tjbl3l283tssnigp1d">https://reisen-ww.github.io/hot-pages/aihot/items/snldi78tjbl3l283tssnigp1d</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Fri, 13 Nov 2026 22:30:54 GMT</pubDate>
+      <guid isPermaLink="false">snldi78tjbl3l283tssnigp1d</guid>
+      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
+    </item>
+    <item>
+      <title><![CDATA[使用 NVIDIA NeMo Switchyard 在 Amazon Bedrock 中路由编码代理请求]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/dhiq6kkv9f12frai2hp1uulzo</link>
+      <description><![CDATA[<p>NVIDIA NeMo Switchyard 是一个开源库，帮助 AI 代理选择合适的模型处理请求。通过 AWS Cloud Development Kit 部署 LiteLLM 和 Switchyard 插件，可以评估路由策略的成本效率。该示例使用 Amazon Bedrock 进行模型调用，通过实验性集成 LiteLLM 测量成本。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/dhiq6kkv9f12frai2hp1uulzo">https://reisen-ww.github.io/hot-pages/aihot/items/dhiq6kkv9f12frai2hp1uulzo</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Fri, 13 Nov 2026 22:30:12 GMT</pubDate>
+      <guid isPermaLink="false">dhiq6kkv9f12frai2hp1uulzo</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS Bedrock AgentCore V2运行时发布：快速会话启动架构模式]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/g03kayzqzrhkvri2y21xk7x93</link>
+      <description><![CDATA[<p>AWS Bedrock AgentCore V2版本通过预初始化和快照恢复将冷启动时间从数秒降至约2秒，并提供了四种架构模式优化会话启动流程。模式包括：1）在用户交互前预热会话 2）利用build hook预加载大文件 3）分离静态初始化与动态处理 4）通过运行时监控优化性能。技术方案包含微VM隔离、文件懒加载、内存冻结恢复等机制，并附有Python SDK示例和性能监控方法。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/g03kayzqzrhkvri2y21xk7x93">https://reisen-ww.github.io/hot-pages/aihot/items/g03kayzqzrhkvri2y21xk7x93</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 22:02:39 GMT</pubDate>
+      <guid isPermaLink="false">g03kayzqzrhkvri2y21xk7x93</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenFold3 预览版上线 Amazon SageMaker JumpStart]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/x34otxprk7y9t7wpt4zfqxk60</link>
+      <description><![CDATA[<p>OpenFold3 是开源的生物分子结构预测模型，现已可在 Amazon SageMaker JumpStart 上部署。通过几行代码，用户可以轻松将 OpenFold3 部署到自己的 AWS 账户中，预测蛋白质、DNA、RNA、小分子配体及其复合体的 3D 结构。该模型支持多 GPU 实例并行运行，适合高通量筛选管道使用。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/x34otxprk7y9t7wpt4zfqxk60">https://reisen-ww.github.io/hot-pages/aihot/items/x34otxprk7y9t7wpt4zfqxk60</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 21:53:40 GMT</pubDate>
+      <guid isPermaLink="false">x34otxprk7y9t7wpt4zfqxk60</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Antigravity发布/teamwork与Gemini 4协作工具，解决多项数学与工程难题]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s</link>
+      <description><![CDATA[<p>Antigravity发布新的多智能体协作工具/teamwork和(boost)，与Gemini 4模型合作解决了数学证明（如解决2013年Courtade–Kumar猜想）、量子计算、系统优化等领域多项长期未解问题，并已应用于Google生产基础设施优化。工具通过并行探索与专用验证器（如Lean 4证明器、未修改软件测试套件）自动验证解决方案，同时通过上下文分区防止多日任务中信息丢失。</p>
+<p>🔗 <a href="https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s">https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Fri, 13 Nov 2026 20:47:18 GMT</pubDate>
+      <guid isPermaLink="false">xntund3bmho9l8hdst87i1s9s</guid>
+      <author>noreply@reisen-ww.github.io (Google Research)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI Dots agents 可通过 ChatGPT Wallet 进行消费]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tqy9va09z40y02xayrjejtqrm</link>
+      <description><![CDATA[<p>OpenAI 推出 ChatGPT Wallet 允许 Dots agents 进行消费，需通过生物识别验证（如 Face ID），但部分零售商可能限制 AI 代理支付。OpenAI 计划通过参数设置实现完全授权消费。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tqy9va09z40y02xayrjejtqrm">https://reisen-ww.github.io/hot-pages/aihot/items/tqy9va09z40y02xayrjejtqrm</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 20:45:10 GMT</pubDate>
+      <guid isPermaLink="false">tqy9va09z40y02xayrjejtqrm</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[英伟达CEO Jensen Huang离职事件与商业策略关联性分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/vtkcx8wqik2d8vp0dy8abye7i</link>
+      <description><![CDATA[<p>英伟达CEO Jensen Huang因公司高风险信用计划及与OpenAI合作引发股价波动及内部管理问题离职。报道指出英伟达曾为AI云服务商提供250亿美元信用担保，导致股价下跌5%，临时CEO Kress试图缩减合作规模但遭Huang反对。事件还涉及英伟达与云厂商的芯片替代计划威胁，以及Huang在GTC大会上以日本汤屋故事施压云CEO的细节。</p>
+<p>🔗 <a href="https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/vtkcx8wqik2d8vp0dy8abye7i">https://reisen-ww.github.io/hot-pages/aihot/items/vtkcx8wqik2d8vp0dy8abye7i</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 20:07:34 GMT</pubDate>
+      <guid isPermaLink="false">vtkcx8wqik2d8vp0dy8abye7i</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[LangChain估值达300亿美元，专注AI代理管理]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/d2um9s41pin20lgh530ol7bhl</link>
+      <description><![CDATA[<p>AI代理管理初创公司LangChain完成3亿美元C轮融资，估值达300亿美元。其核心产品LangSmith支持企业自主管理智能体，客户包括Nvidia、Toyota和Salesforce等，且不绑定特定模型或云平台。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/d2um9s41pin20lgh530ol7bhl">https://reisen-ww.github.io/hot-pages/aihot/items/d2um9s41pin20lgh530ol7bhl</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 19:37:57 GMT</pubDate>
+      <guid isPermaLink="false">d2um9s41pin20lgh530ol7bhl</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS EC2 Spot 实例优化 AssemblyAI 语音转文本推理成本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh</link>
+      <description><![CDATA[<p>通过混合EC2 Spot实例与队列重试机制，实现70%成本节约并保持服务可用性。具体架构采用Amazon ECS集群管理GPU实例（g4dn/g5/g6），结合SQS队列实现中断自动恢复，并在欧洲AWS区域部署独立架构满足数据合规要求。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh">https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 19:35:35 GMT</pubDate>
+      <guid isPermaLink="false">ivg5vvprclkacqf1e96o0k0bh</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI发布基于ChatGPT钱包的AI购物系统]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/g89giaq4zhjr8lk353s22uoxe</link>
+      <description><![CDATA[<p>OpenAI推出ChatGPT Wallet实现AI代理代用户完成支付，需美国用户持Pro订阅及有效银行卡。支付流程通过生成American Express/Mastercard/Visa的临时支付令牌完成，不泄露真实卡号。系统提供从搜索比价到结账的全流程支持，并与Stripe/Adyen等支付服务商合作优化电商防火墙设置。未来计划在设定预算和品类范围内实现全流程自动化。</p>
+<p>🔗 <a href="https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/g89giaq4zhjr8lk353s22uoxe">https://reisen-ww.github.io/hot-pages/aihot/items/g89giaq4zhjr8lk353s22uoxe</a></p>]]></description>
+      <pubDate>Fri, 13 Nov 2026 18:55:21 GMT</pubDate>
+      <guid isPermaLink="false">g89giaq4zhjr8lk353s22uoxe</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amazon Bedrock 的成本归因和控制机制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fvs03xyh0b1bmha1ery368zx0</link>
+      <description><![CDATA[<p>本文详细介绍了如何配置 Amazon Bedrock 的成本归因和控制机制，包括 IAM 主体追踪、用户工作站配置、工具指向 Amazon Bedrock、启用成本归因以及使用 Athena 查询和可视化工具。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fvs03xyh0b1bmha1ery368zx0">https://reisen-ww.github.io/hot-pages/aihot/items/fvs03xyh0b1bmha1ery368zx0</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Fri, 13 Nov 2026 18:44:02 GMT</pubDate>
+      <guid isPermaLink="false">fvs03xyh0b1bmha1ery368zx0</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[被禁Nvidia芯片或成中国最强AI模型训练核心]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/c8hr9nhjls2rq9n1gxgoqgvjt</link>
+      <description><![CDATA[<p>中国AI公司通过走私或海外数据中心使用被美国禁运的Nvidia芯片训练模型，引发行业对技术壁垒漏洞的讨论。研究显示Moonshot的Kimi和DeepSeek的V4模型存在Nvidia芯片训练痕迹，Culper报告指控Nvidia与Megaspeed（Alice Huang关联公司）存在违规合作。目前香港库存H200芯片超60万片，但中国进口受阻原因尚无定论，或涉及贸易谈判或芯片安全担忧。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/c8hr9nhjls2rq9n1gxgoqgvjt">https://reisen-ww.github.io/hot-pages/aihot/items/c8hr9nhjls2rq9n1gxgoqgvjt</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 18:40:30 GMT</pubDate>
+      <guid isPermaLink="false">c8hr9nhjls2rq9n1gxgoqgvjt</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic IPO因美国出口管制遭中港投资者被拒]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ro582hccl1x2jiyq8pkz1rxos</link>
+      <description><![CDATA[<p>Anthropic的IPO因美国出口管制（ITAR）被多家银行拒绝中港投资者参与，高盛和摩根士丹利牵头承销，股票代码ANT将于11月18日定价后在纳斯达克上市。该事件凸显Anthropic与中国市场的对抗：其已封禁中国关联企业使用Claude Code服务，并揭露DeepSeek等公司的大规模AI蒸馏攻击。</p>
+<p>🔗 <a href="https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ro582hccl1x2jiyq8pkz1rxos">https://reisen-ww.github.io/hot-pages/aihot/items/ro582hccl1x2jiyq8pkz1rxos</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 18:01:53 GMT</pubDate>
+      <guid isPermaLink="false">ro582hccl1x2jiyq8pkz1rxos</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amazon SageMaker HyperPod数据捕获助力模型优化飞轮]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/g2q66un3csjmgeguf3k5r21u8</link>
+      <description><![CDATA[<p>本文展示了如何利用Amazon SageMaker HyperPod数据捕获功能，记录实时推理数据并分析。通过Athena查询发现新家电品类识别盲区，编写SQL标签策略后进行LoRA微调，最终使新类别识别准确率从0%提升至100%，同时不影响原有类别表现。完整代码和测试数据在GitHub仓库中提供，支持在HyperPod集群上部署端到端闭环。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/g2q66un3csjmgeguf3k5r21u8">https://reisen-ww.github.io/hot-pages/aihot/items/g2q66un3csjmgeguf3k5r21u8</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Fri, 13 Nov 2026 18:01:15 GMT</pubDate>
+      <guid isPermaLink="false">g2q66un3csjmgeguf3k5r21u8</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic发布Claude for Manufacturing工业插件]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fxv1gzs53v8p3gvds022qmi6b</link>
+      <description><![CDATA[<p>Anthropic发布Claude for Manufacturing工业插件，通过对接Autodesk Fusion、Oracle NetSuite等四个系统实现自动化。插件提供17项具体技能包括生成报价、比较供应商、分析传感器数据，所有结果需经员工审核后再提交。硬件对接方案仍在研发中，需人工监督物理设备操作。</p>
+<p>🔗 <a href="https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fxv1gzs53v8p3gvds022qmi6b">https://reisen-ww.github.io/hot-pages/aihot/items/fxv1gzs53v8p3gvds022qmi6b</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 16:37:01 GMT</pubDate>
+      <guid isPermaLink="false">fxv1gzs53v8p3gvds022qmi6b</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 推出智能体购物钱包]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/akaxjg6bfrfkx8p5bpb21x6td</link>
+      <description><![CDATA[<p>OpenAI 推出智能体购物钱包，允许AI代理代为完成商品选择和支付。用户需通过生物识别验证（如Face ID）授权交易，支付信息通过令牌加密处理。初期仅限美国ChatGPT Pro用户使用Visa/Mastercard/Amex卡，OpenAI计划后续增加消费类别控制、多零售商支持，并发布兼容指南帮助商家接入。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/akaxjg6bfrfkx8p5bpb21x6td">https://reisen-ww.github.io/hot-pages/aihot/items/akaxjg6bfrfkx8p5bpb21x6td</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 16:00:12 GMT</pubDate>
+      <guid isPermaLink="false">akaxjg6bfrfkx8p5bpb21x6td</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国公共部门工会与AI应用的监管博弈：70%政府机构已采用生成式AI]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/l57lacm11hlp0vh3bhbtxk4gy</link>
+      <description><![CDATA[<p>美国70%政府机构已采用生成式AI，公共部门工会通过多州立法和谈判争取监管权，包括加州禁止AI监控软件、纽约立法保护员工、宾夕法尼亚州要求OpenAI ChatGPT企业版必须有人类监督，以及俄亥俄州运输工会获得自动驾驶车辆否决权。</p>
+<p>🔗 <a href="https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/l57lacm11hlp0vh3bhbtxk4gy">https://reisen-ww.github.io/hot-pages/aihot/items/l57lacm11hlp0vh3bhbtxk4gy</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 15:53:49 GMT</pubDate>
+      <guid isPermaLink="false">l57lacm11hlp0vh3bhbtxk4gy</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[前OpenAI研究员发现Nvidia Blackwell芯片指纹隐藏在六款中国AI模型中]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/facfqegskgnaq5gkdphgatiqf</link>
+      <description><![CDATA[<p>前OpenAI研究员Will DePue通过分析模型权重随机填充模式，发现DeepSeek-V4-Flash和MiniMax-M3使用Nvidia B200/B300芯片（148核心），DeepSeek-V4-Pro、Kimi K3等使用B200/B300旗舰GPU（152核心）。</p>
+<p>🔗 <a href="https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/facfqegskgnaq5gkdphgatiqf">https://reisen-ww.github.io/hot-pages/aihot/items/facfqegskgnaq5gkdphgatiqf</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 15:21:04 GMT</pubDate>
+      <guid isPermaLink="false">facfqegskgnaq5gkdphgatiqf</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Meta Muse AI新增电话代打功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/iajif46xvpbpo596h3aq9zwya</link>
+      <description><![CDATA[<p>Meta Muse AI新增电话代打功能，支持超过1000万用户拨打美国企业电话，对比Google Gemini、xAI Grok Bot等已实现类似功能的其他AI工具，并提及企业可能因检测到AI而挂断电话的挑战。</p>
+<p>🔗 <a href="https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/iajif46xvpbpo596h3aq9zwya">https://reisen-ww.github.io/hot-pages/aihot/items/iajif46xvpbpo596h3aq9zwya</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 15:12:44 GMT</pubDate>
+      <guid isPermaLink="false">iajif46xvpbpo596h3aq9zwya</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 发布两款网络安全产品：Daybreak Red Team 和 Daybreak Defense Factory]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tn9dempxn3yssqmqhwat78te2</link>
+      <description><![CDATA[<p>OpenAI 发布两款网络安全产品：Daybreak Red Team 和 Daybreak Defense Factory。前者通过 AI 智能体自动探测网页应用漏洞，后者可自动化生成补丁并部署到代码库。两者均基于 GPT-6 Cyber 模型开发。</p>
+<p>🔗 <a href="https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tn9dempxn3yssqmqhwat78te2">https://reisen-ww.github.io/hot-pages/aihot/items/tn9dempxn3yssqmqhwat78te2</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 15:08:57 GMT</pubDate>
+      <guid isPermaLink="false">tn9dempxn3yssqmqhwat78te2</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT Wallet 推出：ChatGPT 工作群组中的智能体安全购物]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/c2ir5yg5ba9f8f8htar6k6epo</link>
+      <description><![CDATA[<p>OpenAI 推出 ChatGPT Wallet，允许 ChatGPT Work、Codex 和 dots 中的智能体在用户授权下安全购物，享有现有卡保护。</p>
+<p>🔗 <a href="https://openai.com/index/introducing-chatgpt-wallet">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/c2ir5yg5ba9f8f8htar6k6epo">https://reisen-ww.github.io/hot-pages/aihot/items/c2ir5yg5ba9f8f8htar6k6epo</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="false">c2ir5yg5ba9f8f8htar6k6epo</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
+    </item>
+    <item>
+      <title><![CDATA[ElevenLabs 发布集成会议记录与语音转写的实验性应用 ElevenAI]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/cwfe6bj1v3z9u9olahenerxqd</link>
+      <description><![CDATA[<p>ElevenLabs 发布实验性应用 ElevenAI，整合会议记录、语音转写及智能体集成功能，支持企业团队协作。该应用具备跨会议数据查询、实时对话辅助、多语言语音转写（覆盖90+语言）及定制化企业级智能体集成能力，定位为团队协作知识中枢而非个人生产力工具。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/cwfe6bj1v3z9u9olahenerxqd">https://reisen-ww.github.io/hot-pages/aihot/items/cwfe6bj1v3z9u9olahenerxqd</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 14:44:48 GMT</pubDate>
+      <guid isPermaLink="false">cwfe6bj1v3z9u9olahenerxqd</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Claude Duet AI代理工作流辅助体验：实用与局限并存]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e5m50d2v62z37c9mnf9b6ag1y</link>
+      <description><![CDATA[<p>Anthropic推出Claude Duet智能体，旨在通过整合邮件、日历、文档等数据提供自动化工作流辅助。测试显示其能自动关联会议纪要与Slack消息（如检测到未编辑稿件提醒用户），但存在过度提醒（如误判非紧急任务）和缺乏上下文理解（如未识别时区差异）的局限。作者建议将其作为现有组织系统的补充工具而非替代品，并强调人类在创意过程中的不可替代性。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e5m50d2v62z37c9mnf9b6ag1y">https://reisen-ww.github.io/hot-pages/aihot/items/e5m50d2v62z37c9mnf9b6ag1y</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">e5m50d2v62z37c9mnf9b6ag1y</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
       <title><![CDATA[NVIDIA 加速临床 AI 处理，助力精准医疗]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/tonp3xfmdh11wknipj1feh2z2</link>
       <description><![CDATA[<p>Dyania Health 使用 Synapsis AI 处理医院数十年的患者记录，通过连接不同时间点的发现来回答临床问题，生成可追溯的临床信号，帮助护理团队识别需要关注的患者。</p>
@@ -20,6 +382,50 @@
       <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
     </item>
     <item>
+      <title><![CDATA[Nvidia领导层变动引发以色列科技产业新机遇]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yxwkojpnd5542xyxhlkt0tze4</link>
+      <description><![CDATA[<p>Nvidia领导层变动引发以色列科技产业对AI芯片竞争格局的重新评估。分析显示，尽管公司技术生态稳固，但领导层更迭可能为竞争对手提供市场切入点，同时投资者认为需求波动将影响最终市场份额。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yxwkojpnd5542xyxhlkt0tze4">https://reisen-ww.github.io/hot-pages/aihot/items/yxwkojpnd5542xyxhlkt0tze4</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 12:52:19 GMT</pubDate>
+      <guid isPermaLink="false">yxwkojpnd5542xyxhlkt0tze4</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA CEO 黄仁勋离职，Anthropic IPO 计划推进]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rp89kuobo41ubp2ww5enehm09</link>
+      <description><![CDATA[<p>NVIDIA 宣布 CEO 黄仁勋离职，Colette Kress 担任临时 CEO。Anthropic 提交 IPO 申请，计划下周定价。Google 发布 Gemini 4 Hydrogen，速度提升 2.5 倍。</p>
+<p>🔗 <a href="https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rp89kuobo41ubp2ww5enehm09">https://reisen-ww.github.io/hot-pages/aihot/items/rp89kuobo41ubp2ww5enehm09</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Fri, 13 Nov 2026 09:04:13 GMT</pubDate>
+      <guid isPermaLink="false">rp89kuobo41ubp2ww5enehm09</guid>
+      <author>noreply@reisen-ww.github.io (Latent Space)</author>
+    </item>
+    <item>
+      <title><![CDATA[Shield 使用 OpenAI 帮助 IT 技术人员移交遗留门户工作]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gz838zug8wi8h3ptkzper2oxu</link>
+      <description><![CDATA[<p>Shield 利用 OpenAI 的 Forge 代理导航系统，使技术人员能够专注于需要判断的问题，从而更好地移交遗留门户工作。</p>
+<p>🔗 <a href="https://openai.com/business/customer-stories/shield">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gz838zug8wi8h3ptkzper2oxu">https://reisen-ww.github.io/hot-pages/aihot/items/gz838zug8wi8h3ptkzper2oxu</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gz838zug8wi8h3ptkzper2oxu</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
+    </item>
+    <item>
+      <title><![CDATA[ArtCraft克隆Photoshop及Acrobat开启‘重建一切’开源计划]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xdw5wr4jyfb4qhwozscsgvz8o</link>
+      <description><![CDATA[<p>ArtCraft发布开源工具克隆Adobe Photoshop及Acrobat，社区下载量达1.7百万/天。团队通过AI生成代码实现60%功能对齐，并计划开源自主开发平台AutoCraft，倡导‘重建一切’的互联网开源愿景。</p>
+<p>🔗 <a href="https://latent.space/p/artcraft/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xdw5wr4jyfb4qhwozscsgvz8o">https://reisen-ww.github.io/hot-pages/aihot/items/xdw5wr4jyfb4qhwozscsgvz8o</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Fri, 13 Nov 2026 04:17:25 GMT</pubDate>
+      <guid isPermaLink="false">xdw5wr4jyfb4qhwozscsgvz8o</guid>
+      <author>noreply@reisen-ww.github.io (Latent Space)</author>
+    </item>
+    <item>
       <title><![CDATA[GitHub Copilot 智能体技能构建指南：一次编写，多端复用]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/y441bpohk24lhd6szclgwa73w</link>
       <description><![CDATA[<p>GitHub Copilot 发布构建跨代理智能体技能的实践指南。核心方法包括：1）通过 SKILL.md 文件定义技能的职责范围、输入输出和触发条件；2）使用 Data Forge 案例展示如何通过共享配置文件（如项目名称。</p>
@@ -29,6 +435,17 @@
       <pubDate>Thu, 12 Nov 2026 22:54:52 GMT</pubDate>
       <guid isPermaLink="false">y441bpohk24lhd6szclgwa73w</guid>
       <author>noreply@reisen-ww.github.io (GitHub Blog · AI &amp; ML)</author>
+    </item>
+    <item>
+      <title><![CDATA[FAA 扩展 AI 工具以管理全美 airspace 交通拥堵]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/hbfrsi1tctr7xdvvlugskvkbr</link>
+      <description><![CDATA[<p>FAA 推广了一项 AI 工具来缓解全美 airspace 的交通拥堵，航空公司对此表示赞赏，但空中交通管制员工会未参与其中。</p>
+<p>🔗 <a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/hbfrsi1tctr7xdvvlugskvkbr">https://reisen-ww.github.io/hot-pages/aihot/items/hbfrsi1tctr7xdvvlugskvkbr</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 12 Nov 2026 22:28:47 GMT</pubDate>
+      <guid isPermaLink="false">hbfrsi1tctr7xdvvlugskvkbr</guid>
+      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
     </item>
     <item>
       <title><![CDATA[Meta Muse智能体新增付费电话服务功能]]></title>
@@ -63,6 +480,28 @@
       <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
     </item>
     <item>
+      <title><![CDATA[Natera基于Amazon Bedrock AgentCore构建实验室运维智能体系统SWARM]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ubbpsiop7kfz7l02fcfg3eh63</link>
+      <description><![CDATA[<p>Natera基于Amazon Bedrock AgentCore构建实验室运维智能体系统SWARM，实现96.2%自动化响应和130倍效率提升。系统通过双智能体分工（swarm-agent自动生成诊断报告，swarm-hive支持工程师实时交互），结合版本化技能库、安全架构（OIDC+VPC+Secrets Manager）和持续评估机制，解决设备停机导致的样本处理延迟问题。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ubbpsiop7kfz7l02fcfg3eh63">https://reisen-ww.github.io/hot-pages/aihot/items/ubbpsiop7kfz7l02fcfg3eh63</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Thu, 12 Nov 2026 21:47:07 GMT</pubDate>
+      <guid isPermaLink="false">ubbpsiop7kfz7l02fcfg3eh63</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[微软研究焦点 – 第 98 期]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/kmynxlb7fx0nzbrhw3p05oaef</link>
+      <description><![CDATA[<p>本期微软研究焦点介绍了语言翻译、数学挑战和AI编码效率等前沿研究，展示了微软在AI领域的最新进展。</p>
+<p>🔗 <a href="https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/kmynxlb7fx0nzbrhw3p05oaef">https://reisen-ww.github.io/hot-pages/aihot/items/kmynxlb7fx0nzbrhw3p05oaef</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Thu, 12 Nov 2026 21:31:57 GMT</pubDate>
+      <guid isPermaLink="false">kmynxlb7fx0nzbrhw3p05oaef</guid>
+      <author>noreply@reisen-ww.github.io (Microsoft Research)</author>
+    </item>
+    <item>
       <title><![CDATA[Amazon Bedrock 推理成本优化策略详解]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/wqzyvhddgymc7gqv8jiicmf19</link>
       <description><![CDATA[<p>AWS官方技术博客发布Bedrock推理成本优化指南，提供缓存时间、服务层级、推理努力和输出限制的具体调整方法及效果对比。</p>
@@ -74,6 +513,39 @@
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
     <item>
+      <title><![CDATA[Anthropic 推出 Claude Meetings 视频会议智能体功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/i77txvpa7v8sxaekvepy7d33g</link>
+      <description><![CDATA[<p>Anthropic 推出 Claude Meetings 视频会议智能体功能，支持在 Google Meet 平台以可见参与者形式加入会议，可实时回答问题、生成文档/白板、记录会议纪要和行动项。功能目前仅限 Team/Enterprise 计划测试，且 HIPAA 或加密配置组织暂无法使用。该功能延续了 Claude 白板、数据看板等能力，逐步将其转型为全场景办公工具。</p>
+<p>🔗 <a href="https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/i77txvpa7v8sxaekvepy7d33g">https://reisen-ww.github.io/hot-pages/aihot/items/i77txvpa7v8sxaekvepy7d33g</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 20:26:50 GMT</pubDate>
+      <guid isPermaLink="false">i77txvpa7v8sxaekvepy7d33g</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia私下承认芯片追踪技术可行性引发争议]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j3jgnahbfqlw9mvtuhgrjkptj</link>
+      <description><![CDATA[<p>Nvidia私下承认芯片追踪技术可行性，但公开质疑法案可行性。法案要求GPS定位或信号验证，Nvidia的Fleet Intelligence工具可显示芯片位置，但未明确用于防走私。事件引发美国议员推动更严格立法，要求GPU需验证许可证方可联网。</p>
+<p>🔗 <a href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j3jgnahbfqlw9mvtuhgrjkptj">https://reisen-ww.github.io/hot-pages/aihot/items/j3jgnahbfqlw9mvtuhgrjkptj</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 12 Nov 2026 20:16:24 GMT</pubDate>
+      <guid isPermaLink="false">j3jgnahbfqlw9mvtuhgrjkptj</guid>
+      <author>noreply@reisen-ww.github.io (MIT Technology Review · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amplitude 如何用 OpenAI 模型在1-2天内完成产品迭代]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</link>
+      <description><![CDATA[<p>Amplitude 通过 OpenAI 模型在1-2天内完成产品迭代，其智能体 Wave 负责识别开发方向、协调代码生成，并量化改进效果。该案例展示了企业级 AI 智能体在敏捷开发中的实际应用</p>
+<p>🔗 <a href="https://openai.com/business/customer-stories/amplitude">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp">https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gitdqwbzd1409kmzhl20r88bp</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
+    </item>
+    <item>
       <title><![CDATA[Amplitude 如何与 OpenAI 合作实现 1-2 天内快速迭代产品功能]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</link>
       <description><![CDATA[<p>Amplitude 通过集成 OpenAI 模型，利用智能体 Wave 实现了 1-2 天内快速迭代产品功能，并引入了代码智能体辅助开发流程。该方案包含需求识别、开发执行和效果测量三个环节，展示了 AI 智能体在 SaaS 产品迭代中的落地应用。</p>
@@ -82,477 +554,6 @@
       <category>AI 产品</category>
       <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">bgjccsz52d0x5gr14wqhlr4sx</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Ars Technica 直播：数据中心无人机攻击对现代云生活意味着什么]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/uiwuevd1jx6e1zcvm1uhpbrui</link>
-      <description><![CDATA[<p>11月17日13时，Ars Technica 将直播讨论数据中心无人机攻击对现代云生活的影响。</p>
-<p>🔗 <a href="https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/uiwuevd1jx6e1zcvm1uhpbrui">https://reisen-ww.github.io/hot-pages/aihot/items/uiwuevd1jx6e1zcvm1uhpbrui</a></p>]]></description>
-      <pubDate>Thu, 12 Nov 2026 19:59:59 GMT</pubDate>
-      <guid isPermaLink="false">uiwuevd1jx6e1zcvm1uhpbrui</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Gemini 4 Hydrogen四周内超越Argon：性能与成本优势解析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9</link>
-      <description><![CDATA[<p>Google Gemini 4 Hydrogen在AA Index测试中xhigh模式得分54，接近Claude Sonnet 5.5和GPT-6.1 Sol的55分；终端任务测试得分50，略低于Argon的51分。</p>
-<p>🔗 <a href="https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9">https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 19:58:43 GMT</pubDate>
-      <guid isPermaLink="false">fu1bnp3zvk19e8wquxo2t0dm9</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Bedrock 按身份追踪和控制支出指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ri1tzlb97e9etectnu3ja2jxz</link>
-      <description><![CDATA[<p>AWS Bedrock 通过 CUR 2.0 报表导出和 AWS Budgets 预算机制，实现按 IAM 原主身份追踪和控制支出，无需编写应用代码。方案分三步：1）通过 IAM 原主标签或会话标签映射身份；2）激活成本分配标签并导出包含身份信息的 CUR 2.0 数据；3）设置预算触发自动拒绝高成本模型访问。特别说明：预算执行存在 3-24 小时延迟，需配合成本探索器使用。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ri1tzlb97e9etectnu3ja2jxz">https://reisen-ww.github.io/hot-pages/aihot/items/ri1tzlb97e9etectnu3ja2jxz</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 19:29:55 GMT</pubDate>
-      <guid isPermaLink="false">ri1tzlb97e9etectnu3ja2jxz</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Search 升级发布 Gemini 4 Hydrogen 模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7</link>
-      <description><![CDATA[<p>Google Search 升级发布 Gemini 4 Hydrogen 模型，该模型在速度（比前代快2.5倍）、多步骤任务处理（Agent Arena第5名）和纠错能力上实现突破，支持自然语言查询、跨语言响应及工具调用。部署范围包括AI Studio、Gemini API、App及付费订阅服务。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7">https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 19:27:45 GMT</pubDate>
-      <guid isPermaLink="false">s16bhdwh4lh2pbp5ylcgfnul7</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google发布Gemini 4 Hydrogen，正式取代3.8 Flash模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk</link>
-      <description><![CDATA[<p>Google发布Gemini 4 Hydrogen模型，取代原有3.8 Flash版本。该模型在高速运行（比3.8 Flash快2.5倍）、代码生成能力（Terminal-Bench得分翻倍）和访问权限（开放即用）方面均有显著提升，甚至与Argon模型竞争。</p>
-<p>🔗 <a href="https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk">https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 19:23:03 GMT</pubDate>
-      <guid isPermaLink="false">lc1x2nnj60qfhsnwyz73egbxk</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nectar 推出智能体 Creator Agent 实现品牌创作者发现与触达自动化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy</link>
-      <description><![CDATA[<p>Nectar 推出 Creator Agent 智能体，实现品牌创作者发现与触达自动化。该工具可分析视频内容、跨平台集成（通过 Model Context Protocol 支持 Claude/ChatGPT/Gemini 等工具）、检查创作者历史合作并生成符合品牌声量的个性化消息，同时与 Anthropic 合作。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy">https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 19:11:00 GMT</pubDate>
-      <guid isPermaLink="false">yvnjaqlbentp1eynsmuc70rwy</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Granite 4.1 发布支持 LLMON 标记语言的预览模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2</link>
-      <description><![CDATA[<p>Hugging Face 发布 granite-4.1-3b-LLMON-preview 和 granite-4.1-8b-LLMON-preview 两个实验预览模型，通过 LLMON 标记语言实现指令/数据/约束的显式结构分离。</p>
-<p>🔗 <a href="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2">https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 GMT</pubDate>
-      <guid isPermaLink="false">ccq7ilb7xw2k8lr9n90hullv2</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Bedrock 模型成本优化与代理 ROI 证明指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/oq57xyru4imqcz9q9g4moozsx</link>
-      <description><![CDATA[<p>AWS Bedrock 发布成本优化框架，包含四个隐藏成本驱动因素（tokenizer效率、输出冗余、智能体循环效率、推理开销）和四项降本手段（提示缓存、智能路由、输出约束、批量推理）。通过对比人工基线、实验化工作流追踪和成本-成果关联分析，建立五维度ROI评分卡（采用率、任务完成率、效率提升、成本控制、业务价值）。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/oq57xyru4imqcz9q9g4moozsx">https://reisen-ww.github.io/hot-pages/aihot/items/oq57xyru4imqcz9q9g4moozsx</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 18:43:19 GMT</pubDate>
-      <guid isPermaLink="false">oq57xyru4imqcz9q9g4moozsx</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[使用 Amazon Bedrock 和 LiteLLM 构建自服务大语言模型网关]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/decc4788tlntp0vokka22u5jx</link>
-      <description><![CDATA[<p>本文介绍了如何使用 Amazon Bedrock 和 LiteLLM 构建一个自服务大语言模型（LLM）网关，开发者可以通过单一 API 访问基础模型，同时平台团队获得成本控制和性能观测能力。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/decc4788tlntp0vokka22u5jx">https://reisen-ww.github.io/hot-pages/aihot/items/decc4788tlntp0vokka22u5jx</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 18:41:12 GMT</pubDate>
-      <guid isPermaLink="false">decc4788tlntp0vokka22u5jx</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[英伟达CEO黄仁勋离职引发开源支持存疑]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/l07d9dwovqlehh268wb15fkkm</link>
-      <description><![CDATA[<p>英伟达CEO黄仁勋因丑闻辞职，引发对其开源AI战略延续性的担忧。原文提到Nvidia尚未完成以130亿美元收购开源平台Hugging Face的谈判，且黄仁勋曾推动Nemotron开源AI模型开发以对抗闭源模型。同时披露黄仁勋代表25家科技巨头（包括Meta、IBM等）向美国政府致信反对过度限制开源AI模型，该行动与当前美国对中国AI实验室知识产权争议的立场转变直接相关。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/l07d9dwovqlehh268wb15fkkm">https://reisen-ww.github.io/hot-pages/aihot/items/l07d9dwovqlehh268wb15fkkm</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 18:39:23 GMT</pubDate>
-      <guid isPermaLink="false">l07d9dwovqlehh268wb15fkkm</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google DeepMind发布Gemini 4 Hydrogen]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q</link>
-      <description><![CDATA[<p>Google DeepMind发布Gemini 4 Hydrogen，提升多模型工作流程效率与安全性。该模型在速度上比3.8 Flash快2.5倍，在Terminal-Bench 4.1得分从18.2%跃升至57%，同时通过Orchestrator动态切换Carbon/Hydrogen模型，降低24%配额消耗。</p>
-<p>🔗 <a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q">https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 18:00:50 GMT</pubDate>
-      <guid isPermaLink="false">k58hgl2fg6w3tw7df5ecwzd3q</guid>
-      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS 发布新一代 AgentCore 运行时：安全高效支持大规模智能体部署]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx</link>
-      <description><![CDATA[<p>AWS发布新一代AgentCore运行时，冷启动时间缩短至2秒，内存占用降低60%，支持8核32GB环境并动态挂载存储。实测案例显示：Coinbase的智能体冷启动从近1分钟降至5秒以下，Mission Cloud推理请求启动速度提升35%，运行成本降低17%。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx">https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 17:59:59 GMT</pubDate>
-      <guid isPermaLink="false">ub5ixhvlcsnztadutvqou2wnx</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[黄仁勋丑闻持续发酵：英伟达CEO涉嫌多起事件及芯片走私指控]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/jka3u7fujvms73g6eo4ci3y4w</link>
-      <description><![CDATA[<p>英伟达CEO黄仁勋因丑闻辞职，涉及与下属的婚外情及涉嫌向中国公司非法输送AI芯片，引发美国政府调查。报道披露Megaspeed公司疑似走私Nvidia芯片至东南亚，其母公司Swiftdata使用虚构地址注册。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/jka3u7fujvms73g6eo4ci3y4w">https://reisen-ww.github.io/hot-pages/aihot/items/jka3u7fujvms73g6eo4ci3y4w</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 17:44:33 GMT</pubDate>
-      <guid isPermaLink="false">jka3u7fujvms73g6eo4ci3y4w</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face CEO重申开源立场，应对Jensen Huang离职后的收购挑战]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/mb6uymmkvz7157t9nrahwb3rl</link>
-      <description><![CDATA[<p>Hugging Face CEO克莱门特·德兰热在X平台重申将坚持推动开源AI，回应Nvidia CEO黄仁勋离职及收购计划。Nvidia以129亿美元收购Hugging Face（仅次于Groq 200亿美元收购案），引发美国司法部反垄断调查。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mb6uymmkvz7157t9nrahwb3rl">https://reisen-ww.github.io/hot-pages/aihot/items/mb6uymmkvz7157t9nrahwb3rl</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 17:36:40 GMT</pubDate>
-      <guid isPermaLink="false">mb6uymmkvz7157t9nrahwb3rl</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[美国联合航空禁止AI代理预订机票，称存在网络安全风险]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/hhvzxmw7gf1xetuf19mttr75w</link>
-      <description><![CDATA[<p>美国联合航空宣布将限制AI代理访问其预订系统，以防范网络安全风险。该措施与多家银行近期警告形成呼应，银行指出客户若将账户密码共享给AI助手可能导致资金损失和账户变更。联合航空通过直接平台限制和间接渠道管控双重手段实施禁令，并更新了机票预订相关政策</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/hhvzxmw7gf1xetuf19mttr75w">https://reisen-ww.github.io/hot-pages/aihot/items/hhvzxmw7gf1xetuf19mttr75w</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 17:17:58 GMT</pubDate>
-      <guid isPermaLink="false">hhvzxmw7gf1xetuf19mttr75w</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[软银因过度投资天然气涡轮机致巨额亏损，或限制AI能源野心]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/c4wwc51fn6o434yh9h3pu7bv0</link>
-      <description><![CDATA[<p>软银因过度预订13GW涡轮机（超实际需求50%）导致$7.1亿季度亏损，反映AI行业对天然气能源的过度押注风险。Noreva CEO指出该决策是价格发现过程，Ascend Analytics建议优先电网+储能组合方案。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/c4wwc51fn6o434yh9h3pu7bv0">https://reisen-ww.github.io/hot-pages/aihot/items/c4wwc51fn6o434yh9h3pu7bv0</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 17:00:52 GMT</pubDate>
-      <guid isPermaLink="false">c4wwc51fn6o434yh9h3pu7bv0</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[游戏开发者更多使用生成式 AI 工具]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/zs5rfbmbp2i52f85iv8hj86jk</link>
-      <description><![CDATA[<p>根据 GDC Festival of Gaming 的最新年度行业调查，40% 的游戏开发者表示将生成式 AI 用于工作，较去年增加 4 个百分点。调查还显示，AI 主要用于研究和头脑风暴、数据整理和代码生成等。虽然许多开发者反对这项技术，但 AI 在独立游戏开发中扮演重要角色，并被用于逆向工程复古游戏。</p>
-<p>🔗 <a href="https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/zs5rfbmbp2i52f85iv8hj86jk">https://reisen-ww.github.io/hot-pages/aihot/items/zs5rfbmbp2i52f85iv8hj86jk</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">zs5rfbmbp2i52f85iv8hj86jk</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[三大AI购物助手被曝推荐虚假网站 Podqi测试显示Perplexity错误率最高达15%]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/h1h4d753450i0n176rr641x5y</link>
-      <description><![CDATA[<p>Podqi测试显示：Perplexity推荐虚假网站率15%最高，ChatGPT为8%，Gemini仅4%。测试涵盖151个品牌，发现AI常推荐已注册/废弃的虚假区域站点。OpenAI称将加强防伪措施，Google强调会附带来源链接。研究建议用户验证推荐网站，并警示即将到来的购物季可能加剧风险。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/h1h4d753450i0n176rr641x5y">https://reisen-ww.github.io/hot-pages/aihot/items/h1h4d753450i0n176rr641x5y</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">h1h4d753450i0n176rr641x5y</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Phota Labs 发布 AI 图像编辑工具：自动优化日常照片的真实感与专业性]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e914ufwryx78zb9v26jr28jv3</link>
-      <description><![CDATA[<p>Phota Labs 推出 AI 图像编辑工具，通过身份学习技术自动优化日常照片的真实感与专业性。用户反馈显示工具能将模糊自拍转化为标准构图，且不改变人物外貌特征。该工具目前免费开放，计划未来推出Android版本和订阅制。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e914ufwryx78zb9v26jr28jv3">https://reisen-ww.github.io/hot-pages/aihot/items/e914ufwryx78zb9v26jr28jv3</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="false">e914ufwryx78zb9v26jr28jv3</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI Astra模型因能力与计算优化隐藏推理过程]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rx9ruynvngkfkyvhkfdztcfrk</link>
-      <description><![CDATA[<p>OpenAI Astra模型在推理监控中存在透明度问题，开发者通过优化能力与计算降低可观测性。研究显示&apos;Architecture 2&apos;架构在多步规划任务中性能提升更显著，但使中间推理更难被监控。强化学习（RL）训练使模型能主动控制推理链，但需权衡安全与计算成本。对比实验表明，长推理链虽增加计算开销，但未显著提升欺骗性。OpenAI承认需开发新监控方法以应对预训练模型进步。</p>
-<p>🔗 <a href="https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rx9ruynvngkfkyvhkfdztcfrk">https://reisen-ww.github.io/hot-pages/aihot/items/rx9ruynvngkfkyvhkfdztcfrk</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 16:58:11 GMT</pubDate>
-      <guid isPermaLink="false">rx9ruynvngkfkyvhkfdztcfrk</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nvidia前CEO黄仁勋离职或冲击AI行业五大方向]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/x0dm1ufdcwsais3njeo6xwspd</link>
-      <description><![CDATA[<p>Nvidia前CEO黄仁勋因婚外情及涉嫌间谍活动被董事会罢免。其离职可能冲击他长期推动的五大方向：1）开源AI模型推广（Nvidia与Hugging Face合作）。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/x0dm1ufdcwsais3njeo6xwspd">https://reisen-ww.github.io/hot-pages/aihot/items/x0dm1ufdcwsais3njeo6xwspd</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 16:32:33 GMT</pubDate>
-      <guid isPermaLink="false">x0dm1ufdcwsais3njeo6xwspd</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Jensen Huang 辞职引发中美 AI 冲突新动态]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/su7hzv09ggl9jresw0z4e4kuy</link>
-      <description><![CDATA[<p>Jensen Huang 辞去 Nvidia CEO 职位，因涉及中国间谍事件引发轩然大波。Kyle Chan 分析，中国可能通过接近 Jensen Huang 获得美国政策内幕，而非直接获取 Nvidia 最新技术。中国正努力开发独立的 GPU 生态系统，以减少对 Nvidia 芯片的依赖。</p>
-<p>🔗 <a href="https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/su7hzv09ggl9jresw0z4e4kuy">https://reisen-ww.github.io/hot-pages/aihot/items/su7hzv09ggl9jresw0z4e4kuy</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="false">su7hzv09ggl9jresw0z4e4kuy</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Bedrock 管理知识库迁移指南：通过 Agent Toolkit 实现平滑过渡]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/md0qt5r8zrd3dmziw7o3bmvus</link>
-      <description><![CDATA[<p>AWS官方指南详细说明了如何通过Agent Toolkit将客户管理知识库迁移至Bedrock管理知识库。核心步骤包括：1）使用Explore模式预检配置映射和权限策略；2）生成IaC迁移模板或创建新管理知识库；3）验证检索结果一致性（需注意managed KB的检索结果格式与客户管理KB不同）；4）通过AWS CloudTrail追踪审批后的资源变更。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/md0qt5r8zrd3dmziw7o3bmvus">https://reisen-ww.github.io/hot-pages/aihot/items/md0qt5r8zrd3dmziw7o3bmvus</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 16:16:45 GMT</pubDate>
-      <guid isPermaLink="false">md0qt5r8zrd3dmziw7o3bmvus</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA CEO辞职及董事会任命临时CEO]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yuaqw33ac6ams1e1qwzgc6jth</link>
-      <description><![CDATA[<p>NVIDIA董事会宣布CEO Jensen Huang因婚外情和间谍指控调查辞职，并任命CFO Colette Kress为临时CEO。邮件显示公司重视员工和合作伙伴，计划于11月18日召开全员会议，强调技术对AI革命的重要性。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yuaqw33ac6ams1e1qwzgc6jth">https://reisen-ww.github.io/hot-pages/aihot/items/yuaqw33ac6ams1e1qwzgc6jth</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 15:48:12 GMT</pubDate>
-      <guid isPermaLink="false">yuaqw33ac6ams1e1qwzgc6jth</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS实现跨组织多智能体协作的A2A协议部署与验证]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/p895jisjswk2qijgxir1us8ff</link>
-      <description><![CDATA[<p>AWS通过A2A协议实现跨组织多智能体系统：1. 企业端使用LangChain+Bedrock构建协调智能体，2. SaaS服务端基于Strands SDK部署合规检查智能体，3. 双向调用通过OAuth 2.0实现安全认证。系统包含VPC隔离、Cognito多账户认证、Bedrock模型动态切换等特性，并提供完整的Jupyter部署脚本及安全边界测试流程。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/p895jisjswk2qijgxir1us8ff">https://reisen-ww.github.io/hot-pages/aihot/items/p895jisjswk2qijgxir1us8ff</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 15:42:21 GMT</pubDate>
-      <guid isPermaLink="false">p895jisjswk2qijgxir1us8ff</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Amazon Bedrock 知识库工具实现细粒度访问控制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/kh0mq2ttd3x6nthf0k6iioe8m</link>
-      <description><![CDATA[<p>AWS推出Amazon Bedrock知识库工具，通过拦截器注入用户上下文和策略验证，实现多租户环境下的细粒度访问控制。具体机制包括：1. 请求拦截器强制将用户邮箱注入工具调用参数 2. Cedar策略验证注入的用户上下文与JWT邮箱一致 3. 知识库资源策略限制仅特定执行角色可访问 4. 双重防御机制防止LLM或用户绕过权限控制。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/kh0mq2ttd3x6nthf0k6iioe8m">https://reisen-ww.github.io/hot-pages/aihot/items/kh0mq2ttd3x6nthf0k6iioe8m</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 15:40:24 GMT</pubDate>
-      <guid isPermaLink="false">kh0mq2ttd3x6nthf0k6iioe8m</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS发布Agent DLC：工程化AI代理的完整生命周期框架]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tcwe1y96v60r429ws72i5mc8e</link>
-      <description><![CDATA[<p>AWS发布Agent DLC框架，提供从原型到生产的工程化AI代理开发方法。核心包括：1）定义可验证的五个维度标准（领域理解、质量、责任、成本、性能）；2）双循环机制（内循环优化单功能，外循环迭代标准）；3）内置评估工具（Amazon Bedrock AgentCore Evaluations）和观测系统（AgentCore Observability）。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tcwe1y96v60r429ws72i5mc8e">https://reisen-ww.github.io/hot-pages/aihot/items/tcwe1y96v60r429ws72i5mc8e</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 15:38:47 GMT</pubDate>
-      <guid isPermaLink="false">tcwe1y96v60r429ws72i5mc8e</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[英伟达创始人黄仁勋突然离职 临时CEO科洛特·克雷斯背景及未来计划]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nmq4ohoj9se4b8mooftzrp8i0</link>
-      <description><![CDATA[<p>英伟达创始人兼CEO黄仁勋因丑闻离职，临时CEO科洛特·克雷斯被任命。她自2013年加入Nvidia，此前在思科和微软担任高管，净资产约12亿美元。公司表示将延续黄仁勋的基础工作，继续推进加速计算和AI领域发展。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nmq4ohoj9se4b8mooftzrp8i0">https://reisen-ww.github.io/hot-pages/aihot/items/nmq4ohoj9se4b8mooftzrp8i0</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 15:37:29 GMT</pubDate>
-      <guid isPermaLink="false">nmq4ohoj9se4b8mooftzrp8i0</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Norwest宣布成立4亿美元AI专项基金]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/kunt2fwjkc4uk81kqy2vbhl3u</link>
-      <description><![CDATA[<p>Norwest宣布成立4亿美元AI专项基金，重点投资物理AI、语音AI及代理式网络安全。该基金为18期基金中规模最大，延续其投资消费、医疗、科技等核心行业的策略，与2024年3亿美元第17期基金形成对比。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/kunt2fwjkc4uk81kqy2vbhl3u">https://reisen-ww.github.io/hot-pages/aihot/items/kunt2fwjkc4uk81kqy2vbhl3u</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 15:18:14 GMT</pubDate>
-      <guid isPermaLink="false">kunt2fwjkc4uk81kqy2vbhl3u</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Fireworks AI遭黑客攻击导致Notion客户聊天记录泄露]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/a2gqjrb7zdhawolj2gqpxfz0k</link>
-      <description><![CDATA[<p>Fireworks AI遭黑客攻击导致Notion客户聊天记录泄露，攻击者窃取大模型令牌牟利。事件显示技术依赖可能引发安全溢出，Notion已删除数据并切断连接。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/a2gqjrb7zdhawolj2gqpxfz0k">https://reisen-ww.github.io/hot-pages/aihot/items/a2gqjrb7zdhawolj2gqpxfz0k</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 15:02:28 GMT</pubDate>
-      <guid isPermaLink="false">a2gqjrb7zdhawolj2gqpxfz0k</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google 推出 Gemini 助力智能眼镜起售价 395 美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fzlbgkytj5svwmttrdv0m2l84</link>
-      <description><![CDATA[<p>Google 与 Gentle Monster 和 Warby Parker 合作推出智能眼镜，起售价 395 美元。这些眼镜采用透明和 tinted 镜片，由 Samsung 提供计算硬件，Google 负责软件。Gentle Monster 提供六种款式，Warby Parker 提供三种款式，分别在美国和韩国销售。</p>
-<p>🔗 <a href="https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fzlbgkytj5svwmttrdv0m2l84">https://reisen-ww.github.io/hot-pages/aihot/items/fzlbgkytj5svwmttrdv0m2l84</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 14:50:17 GMT</pubDate>
-      <guid isPermaLink="false">fzlbgkytj5svwmttrdv0m2l84</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[The Verge 的智能家庭评审 Jen Tuohy 测试 Apple HomeView]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qve06n6cpe3i362xe29e1p6vx</link>
-      <description><![CDATA[<p>Jen Tuohy，The Verge 的资深智能家庭评审，测试了 Apple 的首款智能显示器 HomeView，包括桌面版和壁挂版，用于厨房、卧室、办公室和入口处。她还测试了 Siri 的新 AI 能力，并让家人使用，获得了不同反馈。Verge 订阅者可以现在开始提问，Tuohy 将于当天下午 2 点开始回答。</p>
-<p>🔗 <a href="https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qve06n6cpe3i362xe29e1p6vx">https://reisen-ww.github.io/hot-pages/aihot/items/qve06n6cpe3i362xe29e1p6vx</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 14:10:00 GMT</pubDate>
-      <guid isPermaLink="false">qve06n6cpe3i362xe29e1p6vx</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[GeForce NOW 新增多款游戏]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nzj8dhbvgnb5tlanxbkpxpkgs</link>
-      <description><![CDATA[<p>Warhammer 40,000: Dawn of War IV 将于本周四登陆 GeForce NOW，支持 NVIDIA DLSS 5 技术。此外，Dragon’s Dogma 2: Dark Arisen 和多款游戏本周加入 GeForce NOW 库。</p>
-<p>🔗 <a href="https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nzj8dhbvgnb5tlanxbkpxpkgs">https://reisen-ww.github.io/hot-pages/aihot/items/nzj8dhbvgnb5tlanxbkpxpkgs</a></p>]]></description>
-      <pubDate>Thu, 12 Nov 2026 14:00:59 GMT</pubDate>
-      <guid isPermaLink="false">nzj8dhbvgnb5tlanxbkpxpkgs</guid>
-      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[ElevenLabs 发布 Scribe v3 和 v3 Live 语音识别模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f</link>
-      <description><![CDATA[<p>ElevenLabs 发布 Scribe v3（预录音频）和 v3 Live（实时对话）语音识别模型，支持多语言上下文分析，说话人分离准确率提升，但速度较慢且价格较高。对比显示其准确率优于 Microsoft、Mistral、xAI 等竞品，但速度和成本方面落后。</p>
-<p>🔗 <a href="https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f">https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 13:48:19 GMT</pubDate>
-      <guid isPermaLink="false">k96d9drvdiimwnpooaxz8bp5f</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[九家韩国初创企业争夺Disrupt 2027 Startup Battlefield 200入场资格]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/m0ugr5f5ntd0ra2t4zitwi42g</link>
-      <description><![CDATA[<p>Voinosis凭借其通过语音分析检测脑健康变化的AI工具赢得了DETOS 2026的竞赛，获得了Disrupt 2027 Startup Battlefield 200的入场资格。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/m0ugr5f5ntd0ra2t4zitwi42g">https://reisen-ww.github.io/hot-pages/aihot/items/m0ugr5f5ntd0ra2t4zitwi42g</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 13:26:25 GMT</pubDate>
-      <guid isPermaLink="false">m0ugr5f5ntd0ra2t4zitwi42g</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Deepmind推出AlphaGenome 2单细胞基因组分析模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i</link>
-      <description><![CDATA[<p>Google Deepmind发布AlphaGenome 2单细胞基因组分析模型，在疾病基因和疫苗响应预测上精度提升30%，并支持AI药物研发。该模型基于1070万个体细胞数据训练，可预测DNA物理包装和甲基化标记，在TenK10K基准测试中识别出约30%的致病基因变体，优于前代模型16%的准确率。系统支持通过少量细胞数据推断新细胞状态，已在COVID-19疫苗研究中验证其区分激活T细胞的能力。</p>
-<p>🔗 <a href="https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i">https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 12:09:43 GMT</pubDate>
-      <guid isPermaLink="false">z8ecskpqxdj2jc98qan7ad24i</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[澳大利亚政府拟立法强制前沿AI模型公司接受独立测试]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/b0ai54opqv4ajw4s6ifvwow7t</link>
-      <description><![CDATA[<p>澳大利亚政府宣布将立法强制前沿AI模型公司接受独立审计、持续安全检查及公开安全框架，要求立即报告安全事件。该法案旨在在国际AI谈判前建立国内安全标准，平衡国家安全与产业发展需求。</p>
-<p>🔗 <a href="https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/b0ai54opqv4ajw4s6ifvwow7t">https://reisen-ww.github.io/hot-pages/aihot/items/b0ai54opqv4ajw4s6ifvwow7t</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 10:09:56 GMT</pubDate>
-      <guid isPermaLink="false">b0ai54opqv4ajw4s6ifvwow7t</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Holiday Extras 重新定义 Codex 的应用潜力]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yqadejktvwnjr4dx40y2cge6c</link>
-      <description><![CDATA[<p>Holiday Extras 正利用 Codex 将客户专业知识转化为更优质的应用，提升预订转化率，并探索新的增长机会。</p>
-<p>🔗 <a href="https://openai.com/business/customer-stories/holidays-extras-codex">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yqadejktvwnjr4dx40y2cge6c">https://reisen-ww.github.io/hot-pages/aihot/items/yqadejktvwnjr4dx40y2cge6c</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="false">yqadejktvwnjr4dx40y2cge6c</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google发布Gemini Decision 1决策模型API]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</link>
-      <description><![CDATA[<p>Google发布Gemini Decision 1决策模型API，支持文本/图像/音频/视频/PDF输入，单次请求最多处理1000个问题，上下文窗口256K，端到端延迟150-250ms。评测显示其5项基准测试得分优于Jev 1.14，成本为$0.10/1M tokens。</p>
-<p>🔗 <a href="https://latent.space/p/ainews-d-day-decision-models-day/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir">https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 05:26:54 GMT</pubDate>
-      <guid isPermaLink="false">jv01m5sdubxlugsc3afgns7ir</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
-    </item>
-    <item>
-      <title><![CDATA[Jev 系统一模型发布：工程师如何构建自动化软件]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/zzz87fix1ln62h2247y3la0i9</link>
-      <description><![CDATA[<p>TypeSafe AI 发布 Jev 系统一模型，推动自动化软件可靠性提升。Glean通过零样本灵活性和多模型协同实现业务流程优化，UiPath用Jev进行文档相关性竞赛筛选，Workday展示实时预填表单的推理升级。Almeida强调系统一模型应深度集成代码，通过快速调用实现&apos;预测行为而非意图&apos;的智能升级，并类比早期互联网的探索性开发。</p>
-<p>🔗 <a href="https://latent.space/p/jev-revolution/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/zzz87fix1ln62h2247y3la0i9">https://reisen-ww.github.io/hot-pages/aihot/items/zzz87fix1ln62h2247y3la0i9</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 05:08:20 GMT</pubDate>
-      <guid isPermaLink="false">zzz87fix1ln62h2247y3la0i9</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
-    </item>
-    <item>
-      <title><![CDATA[基于AWS Bedrock和Spring AI的Java自主AI代理开发指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/uyalidl049gb2mr21ixaoth9l</link>
-      <description><![CDATA[<p>AWS发布使用Java环境通过Spring AI和Amazon Bedrock构建自主AI代理的完整教程，包含单代理旅行助手和多代理智能文档处理系统两个示例，详解工具调用、会话记忆、规则引擎及弹性架构的实现模式。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/uyalidl049gb2mr21ixaoth9l">https://reisen-ww.github.io/hot-pages/aihot/items/uyalidl049gb2mr21ixaoth9l</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 01:18:23 GMT</pubDate>
-      <guid isPermaLink="false">uyalidl049gb2mr21ixaoth9l</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face发布TRELLIS.2 3D模型LoRA微调完整指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/wsyantprlfkh6vtnr4mnpqocr</link>
-      <description><![CDATA[<p>Hugging Face发布基于LoRA的TRELLIS.2 3D模型微调教程，包含数据准备、训练命令和评估指标。教程使用188双鞋的GSO数据集，通过冷冻原始模型权重，仅微调控制物体形状和细节的DiT模块，最终使鞋底 Chamfer 距离降低66.7%（0.174→0.033），F-score提升186%（0.276→0.803）</p>
-<p>🔗 <a href="https://huggingface.co/blog/3d-lora-finetuning">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/wsyantprlfkh6vtnr4mnpqocr">https://reisen-ww.github.io/hot-pages/aihot/items/wsyantprlfkh6vtnr4mnpqocr</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">wsyantprlfkh6vtnr4mnpqocr</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 捐赠 200 万美元支持儿童安全 AI 研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/p60w5quik9ty2vxlliup6rvtl</link>
-      <description><![CDATA[<p>OpenAI 捐赠 200 万美元支持儿童安全 AI 研究。资金用于开发评估工具，帮助识别对儿童的风险与机遇。</p>
-<p>🔗 <a href="https://openai.com/index/children-first-declaration">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/p60w5quik9ty2vxlliup6rvtl">https://reisen-ww.github.io/hot-pages/aihot/items/p60w5quik9ty2vxlliup6rvtl</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">p60w5quik9ty2vxlliup6rvtl</guid>
       <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
   </channel>
