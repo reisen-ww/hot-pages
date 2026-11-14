@@ -118,16 +118,5 @@
       <guid isPermaLink="false">qsxad3u93sk40fr05oz1jf2d7</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[OpenBSD top(1) 新增 -Q 标志以显示 chroot、pledge 和 unveil 状态]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/zvnw0j3dnbr5wkcf8khane86o</link>
-      <description><![CDATA[<p>OpenBSD 的 top(1) 命令新增 -Q 标志，用于显示进程的 chroot、pledge 和 unveil 权限隔离状态。该功能由 Klemens Nanni 在 2026-11-05 的提交中实现，需安装最新快照才能体验。开发者通过该功能可快速定位未正确声明权限隔离的进程，强化系统安全审计能力。</p>
-<p>🔗 <a href="https://undeadly.org/cgi?action=article;sid=20261106104957">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/zvnw0j3dnbr5wkcf8khane86o">https://reisen-ww.github.io/hot-pages/openhot/items/zvnw0j3dnbr5wkcf8khane86o</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Sat, 07 Nov 2026 18:41:33 GMT</pubDate>
-      <guid isPermaLink="false">zvnw0j3dnbr5wkcf8khane86o</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
   </channel>
 </rss>

@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[IEEE浮点数包sqrt(2)计算错误被披露]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/t4bjd7dqpd5p9cptu9gz48l7y</link>
+      <description><![CDATA[<p>IEEE P1076工作组披露VHDL标准浮点数包存在sqrt(2)等运算错误，测试发现修复前float32格式37%的加法、乘法、除法及sqrt运算结果偏差，float64格式错误率分别为86%和77%。修复方案通过增加guard bits和调整舍入逻辑，在GHDL 7.0.0-dev和NVC 1.23.1中实现100%正确率。错误源于指数截断时未保留足够精度，导致分母截断后计算结果偏离预期。</p>
+<p>🔗 <a href="https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/t4bjd7dqpd5p9cptu9gz48l7y">https://reisen-ww.github.io/hot-pages/openhot/items/t4bjd7dqpd5p9cptu9gz48l7y</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Sat, 14 Nov 2026 17:58:58 GMT</pubDate>
+      <guid isPermaLink="false">t4bjd7dqpd5p9cptu9gz48l7y</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[某开发者开源HPKE驱动的去中心化通讯协议技术方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mgz6vi462wkqxlsohb6miulcc</link>
+      <description><![CDATA[<p>某开发者通过GitHub分享技术方案，提出基于HPKE加密的通讯协议，包含用户身份验证（nickname@domain）、.well-known/lnchat.json协议发现、Ed25519服务器签名验证、X25519客户端加密等核心模块。</p>
+<p>🔗 <a href="https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mgz6vi462wkqxlsohb6miulcc">https://reisen-ww.github.io/hot-pages/openhot/items/mgz6vi462wkqxlsohb6miulcc</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Sat, 14 Nov 2026 16:01:04 GMT</pubDate>
+      <guid isPermaLink="false">mgz6vi462wkqxlsohb6miulcc</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Lexifina 使用 Lean 形式化验证发现美国税法138处漏洞]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/wt2y1wgjbx2c1djolvjcbadec</link>
       <description><![CDATA[<p>Lexifina 在 GitHub 开源的 global-law 仓库中，使用 Lean 语言将美国税法逐条形式化验证，发现 138 处漏洞（含 67 处过时引用、24 处文本错误、13 处括号未闭合等），并测试发现 Tax-Calculator 等工具存在 14 处逻辑错误。</p>
@@ -29,6 +51,28 @@
       <pubDate>Sat, 14 Nov 2026 15:28:16 GMT</pubDate>
       <guid isPermaLink="false">p24rex7qppzx9nuhskrbg12n8</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek V3 在约200行纯JAX代码中实现开源]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xdsjei8o51wrbu1tz2ntabuo5</link>
+      <description><![CDATA[<p>GitHub 仓库发布 DeepSeek V3 模型，仅用约200行纯 JAX 代码实现，提供可复现的构建步骤和训练数据哈希值。模型在MacBook Air M5上训练，验证损失为3.51，支持多任务推理和路由优化。</p>
+<p>🔗 <a href="https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xdsjei8o51wrbu1tz2ntabuo5">https://reisen-ww.github.io/hot-pages/openhot/items/xdsjei8o51wrbu1tz2ntabuo5</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Sat, 14 Nov 2026 15:04:15 GMT</pubDate>
+      <guid isPermaLink="false">xdsjei8o51wrbu1tz2ntabuo5</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[解密手机解锁工具的技术基础：Android与iOS安全架构分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vdbdkrk777xm3qbxqn62ut9g4</link>
+      <description><![CDATA[<p>某团队通过分析Android和iOS安全架构，揭露商业解锁工具利用Boot ROM漏洞、TEE/Secure Element弱点的攻击路径，并对比不同设备的防护措施。</p>
+<p>🔗 <a href="https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vdbdkrk777xm3qbxqn62ut9g4">https://reisen-ww.github.io/hot-pages/openhot/items/vdbdkrk777xm3qbxqn62ut9g4</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Sat, 14 Nov 2026 14:44:28 GMT</pubDate>
+      <guid isPermaLink="false">vdbdkrk777xm3qbxqn62ut9g4</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
       <title><![CDATA[英伟达 DGX 站点通过 vLLM 服务 GLM-5.3 模型，吞吐量达 607.8 tok/s]]></title>
@@ -77,7 +121,7 @@
     <item>
       <title><![CDATA[创建自启动 ZIP 存档]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/wticsm79i44rtbnqtjhkqeyx7</link>
-      <description><![CDATA[<p>作者创建了一个自启动 ZIP 存档，包含源代码用于从零构建自身。该存档的首 512 字节包含有效的引导扇区，可加载更多代码并启用 A20 位线和 32 位保护模式。存档中的 ZIPHEAD.COM 文件包含启动代码，可以在 Qemu 中直接运行或写入软盘启动。</p>
+      <description><![CDATA[<p>作者创建了一个自启动 ZIP 存档，包含源代码以从头构建自身。该存档的首 512 字节包含一个有效的引导扇区，可加载更多代码并启用 A20 位线和 32 位保护模式。存档中的 ZIPHEAD.COM 文件包含启动代码，可在 QEMU 中直接运行或写入软盘和硬盘启动。</p>
 <p>🔗 <a href="https://goliath32.com/blog/ziphead.html">阅读原文</a></p>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wticsm79i44rtbnqtjhkqeyx7">https://reisen-ww.github.io/hot-pages/openhot/items/wticsm79i44rtbnqtjhkqeyx7</a></p>]]></description>
       <category>社区新奇仓库</category>
@@ -509,49 +553,6 @@
       <pubDate>Thu, 12 Nov 2026 20:17:40 GMT</pubDate>
       <guid isPermaLink="false">kd653ceycr2m1bm0xx7koj5rm</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[The Low-Complexity Stack: 自托管体验 OpenSUSE MicroOS 和 Podman]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ltrr2ourhgfaxm74lwj17yrwi</link>
-      <description><![CDATA[<p>作者分享了从 Debian 和 Docker 迁移到 OpenSUSE MicroOS 和 Podman 的经验，认为 Podman 更简洁高效。OpenSUSE MicroOS 也引起了作者的兴趣，希望听到其他用户的使用体验和建议。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xumnpe/the_lowcomplexity_stack_selfhosting_with_opensuse/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ltrr2ourhgfaxm74lwj17yrwi">https://reisen-ww.github.io/hot-pages/openhot/items/ltrr2ourhgfaxm74lwj17yrwi</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Thu, 12 Nov 2026 19:46:06 GMT</pubDate>
-      <guid isPermaLink="false">ltrr2ourhgfaxm74lwj17yrwi</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Dyalog v21.0发布：全面支持.NET 10与ARM架构，首次包含软件物料清单]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mxyfcdc09qyihr0u6y20btwh3</link>
-      <description><![CDATA[<p>Dyalog Ltd 发布 v21.0 版本，全面支持 .NET 10 和 ARM 架构（包括Linux x64/ARM、macOS、Windows 11及Raspberry Pi OS Bookworm），首次内置软件物料清单（SBOM）工具。</p>
-<p>🔗 <a href="https://dyalog.com/dyalog/dyalog-versions/210.htm">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mxyfcdc09qyihr0u6y20btwh3">https://reisen-ww.github.io/hot-pages/openhot/items/mxyfcdc09qyihr0u6y20btwh3</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Thu, 12 Nov 2026 19:13:49 GMT</pubDate>
-      <guid isPermaLink="false">mxyfcdc09qyihr0u6y20btwh3</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[寻找替代的 Cookshelf 自托管方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jmx127npz43oedsed1viajtv6</link>
-      <description><![CDATA[<p>用户 /u/mb232627 寻求自托管 Cookshelf 的替代方案，该服务用于索引食谱并按食材搜索。社区成员建议探索自托管的可能性。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xulknn/looking_for_self_hosted_cookshelf_alternative/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jmx127npz43oedsed1viajtv6">https://reisen-ww.github.io/hot-pages/openhot/items/jmx127npz43oedsed1viajtv6</a></p>]]></description>
-      <pubDate>Thu, 12 Nov 2026 19:06:14 GMT</pubDate>
-      <guid isPermaLink="false">jmx127npz43oedsed1viajtv6</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rust 1.100.0正式发布：稳定化Never类型与DropGuard API]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wmgrjsgwfzq7rt75uxv59z81p</link>
-      <description><![CDATA[<p>Rust团队发布1.100.0版本，主要包含Never类型稳定化、DropGuard API引入及Cargo构建优化。新增的DropGuard类型简化了资源管理，Never类型支持更灵活的类型标注。Cargo新增依赖冷却机制，避免误用新版本包，并优化构建缓存减少重复编译。</p>
-<p>🔗 <a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wmgrjsgwfzq7rt75uxv59z81p">https://reisen-ww.github.io/hot-pages/openhot/items/wmgrjsgwfzq7rt75uxv59z81p</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Thu, 12 Nov 2026 18:43:41 GMT</pubDate>
-      <guid isPermaLink="false">wmgrjsgwfzq7rt75uxv59z81p</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

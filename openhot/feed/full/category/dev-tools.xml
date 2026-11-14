@@ -107,16 +107,5 @@
       <guid isPermaLink="false">ls7w3euks7681n32pvk9th3xp</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[GitHub Actions 引入依赖锁定文件机制防范供应链攻击]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rr0qp67kk8scysq3ozrvyh700</link>
-      <description><![CDATA[<p>GitHub 官方文档发布依赖锁定文件机制，通过在 .github/workflows/actions.lock 文件中绑定 commit SHA 和 owner_id防止恶意代码注入。该机制支持 transitive dependencies 管理和 Dependabot 自动化更新，相比传统 SHA 针定更易维护且满足最新安全政策要求。</p>
-<p>🔗 <a href="https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rr0qp67kk8scysq3ozrvyh700">https://reisen-ww.github.io/hot-pages/openhot/items/rr0qp67kk8scysq3ozrvyh700</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Sat, 07 Nov 2026 20:27:05 GMT</pubDate>
-      <guid isPermaLink="false">rr0qp67kk8scysq3ozrvyh700</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
   </channel>
 </rss>

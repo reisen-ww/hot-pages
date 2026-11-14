@@ -1,6 +1,6 @@
-# 美国航班恢复但仍面临延误和取消
+# 美国交通部因承包商升级L3Harris通信系统实施全国停飞
 
-> 原标题：Flight disruptions continue after FAA lifts ground stop, some college football games delayed
+> 原标题：Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy
 
 - 来源：CNBC Top News
 - 发布时间：2026-11-14T11:34:02.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-FAA解除地面停止后，美国航班正在恢复，但延误和取消情况依然严重。
+美国交通部宣布全国停飞，因承包商升级L3Harris通信系统（Duffy周六声明）

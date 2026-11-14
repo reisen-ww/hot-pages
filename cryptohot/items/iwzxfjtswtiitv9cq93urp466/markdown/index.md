@@ -1,0 +1,16 @@
+# 英伟达股价暴跌与民主党国会可能放缓AI数据中心建设
+
+> 原标题：How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts
+
+- 来源：CNBC Top News
+- 发布时间：2026-11-14T15:50:43.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/iwzxfjtswtiitv9cq93urp466
+- 原文：https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html
+
+## 摘要
+
+英伟达股价暴跌与民主党国会可能放缓AI数据中心建设，引发AI芯片行业震荡及ETF表现分化。Roundhill Investments CEO Dave Mazza指出，若投资者对英伟达失去信心，AMD、Alphabet等竞争对手可能填补芯片需求缺口。
+
+## 推荐理由
+
+原文提供了国会政策变化对AI芯片供需的量化影响预估（10%-20%数据中心建设延迟），以及英伟达股价波动与竞争对手ETF表现对比数据。
