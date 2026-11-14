@@ -107,16 +107,5 @@
       <guid isPermaLink="false">tdhmmbc4vi6r88pje71mfdpru</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[TideCloak 开源发布：基于Keycloak的去中心化身份管理与加密架构]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qsxad3u93sk40fr05oz1jf2d7</link>
-      <description><![CDATA[<p>TideCloak 开源发布，通过去中心化架构简化开发者身份集成与加密操作。项目基于Keycloak构建，提供标准OIDC接口和SDK，开发者只需编写常规React钩子和加密函数，系统自动完成密钥管理、零知识认证、阈值签名及端到端加密，消除传统IAM的单点故障风险。</p>
-<p>🔗 <a href="https://tide.org/whitepaper/tidecloak-integration">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qsxad3u93sk40fr05oz1jf2d7">https://reisen-ww.github.io/hot-pages/openhot/items/qsxad3u93sk40fr05oz1jf2d7</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Sat, 07 Nov 2026 21:41:03 GMT</pubDate>
-      <guid isPermaLink="false">qsxad3u93sk40fr05oz1jf2d7</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
   </channel>
 </rss>
