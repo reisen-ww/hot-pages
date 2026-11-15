@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[个人开发者开源Go语言Minecraft服务器备份方案Plakar集成]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/q4a4aq9dugce5vnp3ooo15xfh</link>
+      <description><![CDATA[<p>作者在个人GitHub仓库发布基于Go语言的Minecraft服务器备份集成，通过RCON远程控制暂停服务器存档，恢复时无需停止服务。提供完整测试、安装命令及注意事项，并演示将备份数据存储为Minecraft世界文件的技术方案。</p>
+<p>🔗 <a href="https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/q4a4aq9dugce5vnp3ooo15xfh">https://reisen-ww.github.io/hot-pages/openhot/items/q4a4aq9dugce5vnp3ooo15xfh</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Sat, 14 Nov 2026 23:23:12 GMT</pubDate>
+      <guid isPermaLink="false">q4a4aq9dugce5vnp3ooo15xfh</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[IEEE浮点数包sqrt(2)计算错误被披露]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/t4bjd7dqpd5p9cptu9gz48l7y</link>
       <description><![CDATA[<p>IEEE P1076工作组披露VHDL标准浮点数包存在sqrt(2)等运算错误，测试发现修复前float32格式37%的加法、乘法、除法及sqrt运算结果偏差，float64格式错误率分别为86%和77%。修复方案通过增加guard bits和调整舍入逻辑，在GHDL 7.0.0-dev和NVC 1.23.1中实现100%正确率。错误源于指数截断时未保留足够精度，导致分母截断后计算结果偏离预期。</p>
@@ -542,17 +553,6 @@
       <pubDate>Thu, 12 Nov 2026 20:45:02 GMT</pubDate>
       <guid isPermaLink="false">tmvbxny0t9vt2d6zleb5wu8yh</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Securo维护者公布8个月成果：新增贷款管理、分类 splits、PWA安装等功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm</link>
-      <description><![CDATA[<p>Securo维护者TassioNoronha在Reddit宣布，项目已获4275星、37.9万次下载，并新增贷款管理、分类 splits、预算 rollover、PWA安装及内置MCP服务器等功能，目前由129名贡献者维护，每周发布2-3次更新。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xunhqd/securo_maintainer_here_8_months_of_work_and_the/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm">https://reisen-ww.github.io/hot-pages/openhot/items/kd653ceycr2m1bm0xx7koj5rm</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Thu, 12 Nov 2026 20:17:40 GMT</pubDate>
-      <guid isPermaLink="false">kd653ceycr2m1bm0xx7koj5rm</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>
 </rss>

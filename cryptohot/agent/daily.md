@@ -1,155 +1,142 @@
-# 金融与加密日报 · 2026-11-14
+# 金融与加密日报 · 2026-11-15
 
-- 期号：第 37 期
-- 发布：2026-11-14 08:08（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/daily/2026-11-14)
+- 期号：第 38 期
+- 发布：2026-11-15 08:00（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/daily/2026-11-15)
 
 ## 头条
 
-美联储宣布2027年FOMC会议修订草案时间表
+币安本周重新开放87条网络提现服务，计划下周末完成全部恢复
 
 ## 加密货币
 
-1. [比特币价格因美元走强跌至近6.75万美元创8月新低](https://reisen-ww.github.io/hot-pages/cryptohot/items/wqp9pislzn2sg3trbfe06s6bq)
-   来源：Bitcoin Magazine · 发布时间：2026-11-13 22:11（北京时间）
-   摘要：比特币价格在11月13日因美元指数维持103上方（19个月高位）和美联储加息预期影响，一度跌至近6.75万美元（较8月低点）。生产价格指数低于预期缓解部分压力，但CME FedWatch数据显示市场仍押注88%概率美联储12月加息25基点。杠杆清算（24小时1.64亿美元）和ETF赎回（单日4.77百万美元）加剧波动，比特币订单簿深度降至72亿美元（较正常水平下降33%）。
-   原文：[打开原文](https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar)
-
-2. [比特币跌至12周低点，Nvidia高管Jensen Huang离职引发市场震荡](https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992)
-   来源：The Block · 发布时间：2026-11-13 01:40（北京时间） · 一手
-   摘要：比特币价格跌至12周低点，Nvidia前CEO Jensen Huang离职引发市场震荡，导致7500万美元加密资产被清算。
+1. [Kava链桥遭攻击致代币暴跌40% 三大交易所暂停KAVA服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/zaeymawau8n52oklcjnlwb4vx)
+   来源：Crypto Briefing · 发布时间：2026-11-14 22:35（北京时间） · 另有 1 家信源报道
+   摘要：Kava链桥遭安全漏洞攻击致代币价格单日暴跌41%，Upbit、Bithumb、Coinone暂停KAVA提款和桥服务。事件源于异常跨链转账及BNB链上的KAVA抛售，Kava官方已暂停Axelar桥并承诺发布完整报告。
    相关：
-   - [比特币跌破6.9万美元，Nvidia动荡叠加美联储政策加剧市场波动](https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643) · The Block · 2026-11-13 14:23（北京时间）
-   原文：[打开原文](https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992)
+   - [Kava代币异常跨链事件致交易所暂停充提，官方回应称已受控](https://reisen-ww.github.io/hot-pages/cryptohot/items/o67g88pxbfb91p9beyqah5658) · PANews · 2026-11-14 20:11（北京时间）
+   原文：[打开原文](https://cryptobriefing.com/kava-token-incident-bridge-shutdown/)
+
+2. [币安发布储备快照：用户 BTC 增至 68.79 万枚，USDT 减少至 243 亿枚](https://reisen-ww.github.io/hot-pages/cryptohot/items/jvuyo62gis515atzc6k8o3z9m)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-13 15:16（北京时间） · 一手
+   摘要：币安发布 11 月 12 日储备证明快照，用户 BTC 持仓较 11 月 4 日增加 0.35% 至约 687,900 枚，ETH 持仓增加 1.04% 至 348 万枚，USDT 持仓下降 3.68% 至 243 亿枚（减少 9.28 亿枚），BNB 持仓增加 1.03% 至 4,295 万枚。币安称此次核查系 10 月 29 日黑客事件后额外进行，已全额补足受影响资产。
+   原文：[打开原文](https://www.chaincatcher.com/article/2304480)
 
 ## 政策与宏观
 
-1. [美联储宣布2027年FOMC会议修订草案时间表](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm)
-   来源：美联储新闻稿 · 发布时间：2026-11-13 01:45（北京时间） · 一手 · 另有 1 家信源报道
-   摘要：美联储宣布2027年FOMC会议修订草案时间表，包含1月26-27日、3月16-17日等具体会议日期，10月26-27日会议将聚焦货币政策战略讨论。
+1. [巴拉圭终止加密货币矿工特殊电力合同](https://reisen-ww.github.io/hot-pages/cryptohot/items/nk4dhevo79y5hovtc2vghrpuz)
+   来源：PANews · 发布时间：2026-11-14 08:19（北京时间） · 一手 · 另有 1 家信源报道
+   摘要：巴拉圭国家电力公司（ANDE）宣布将于2027年底终止加密货币矿工特殊电力合同，涉及943.8兆瓦电力供应。受此影响，HIVE Digital Technologies约77%-80%的活跃挖矿产能将受冲击，ANDE同期与AI数据中心签署15年电力供应协议。
    相关：
-   - [美联储2027年议息会议改革：减少次数并取消10月利率投票](https://reisen-ww.github.io/hot-pages/cryptohot/items/wmi77kdtmn2v6zwv8d2lhu6kx) · 东方财富 · 2026-11-13 09:48（北京时间）
-   原文：[打开原文](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm)
+   - [巴拉圭国家电力公司终止加密货币矿工特殊电力合同](https://reisen-ww.github.io/hot-pages/cryptohot/items/y9czptvxmex5gqnw1ojppx7bv) · 链捕手 ChainCatcher · 2026-11-14 08:25（北京时间）
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d76c-427f-7663-b765-53ad8b923abf)
 
-2. [美司法部冻结币安被盗资金约27亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/x7m928o2sfh90ys8yeg3ctudl)
-   来源：PANews · 发布时间：2026-11-13 05:50（北京时间） · 一手 · 另有 2 家信源报道
-   摘要：美国司法部联合稳定币发行方冻结币安被盗资金约27亿美元，占被盗总资产的近一半。同日FBI警告称朝鲜黑客通过仿冒视频会议平台窃取加密资产并攻击软件供应链。
+2. [中国证监会主席吴清：长钱长投制度体系持续完善](https://reisen-ww.github.io/hot-pages/cryptohot/items/h30p2806eh8txrfzwh7xc70cp)
+   来源：界面新闻 · 发布时间：2026-11-14 12:08（北京时间）
+   摘要：中国证监会主席吴清在2026年资本市场学术年会表示投融资结构持续优化，投资端2024年以来社保、保险、年金净买入A股超1.5万亿元，融资端发行上市、并购重组等制度包容性提升，直接融资占比近50%
+   原文：[打开原文](https://www.jiemian.com/article/15333164.html)
+
+3. [美国国会传唤NVIDIA前CEO Jensen Huang及商务部长Howard Lutnick涉芯片出口至中国](https://reisen-ww.github.io/hot-pages/cryptohot/items/mnkorpzd4dybn8dl86hsrwqp0)
+   来源：Decrypt · 发布时间：2026-11-13 18:55（北京时间）
+   摘要：美国国会传唤NVIDIA前CEO Jensen Huang及商务部长Howard Lutnick，要求其于12月3日、10日及1-2日接受闭门问询。调查聚焦Nvidia客户Megaspeed涉嫌规避芯片出口管制，协助中国获取先进AI芯片。事件导致Nvidia市值蒸发近5000亿美元，股价单日跌4.3%。中国外交部驳斥相关指控为污蔑。
+   原文：[打开原文](https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china)
+
+4. [CFTC起诉路易斯安那州挑战预测市场禁令](https://reisen-ww.github.io/hot-pages/cryptohot/items/v78t3k4jgibbrv3yo5k4p7qp8)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-14 08:46（北京时间） · 一手 · 另有 1 家信源报道
+   摘要：美国商品期货交易委员会（CFTC）起诉路易斯安那州，要求阻止该州禁止受监管交易所提供事件合约的禁令。此为CFTC第12次针对州政府管辖权发起诉讼，且路易斯安那州法院此前未向被告充分通知或给予陈述机会。
    相关：
-   - [美国司法部没收北韩黑客通过币安盗取的1.2亿美元加密货币](https://reisen-ww.github.io/hot-pages/cryptohot/items/ezunq7cyk4g2v2253vtgh7vib) · Bitcoin Magazine · 2026-11-13 08:15（北京时间）
-   - [美国司法部扣押北韩黑客攻击Binance导致的1.2亿美元冻结资产](https://protos.com/us-seizes-1-2b-in-funds-frozen-after-north-korean-binance-hack/) · Protos · 2026-11-14 01:16（北京时间）
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d1bd-e69d-7195-8b74-44366d3f693f)
+   - [CFTC起诉路易斯安那州限制加密预测市场服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/l8dzz6xeqoy6hbes5bxq3cuj6) · Crypto Briefing · 2026-11-15 03:11（北京时间）
+   原文：[打开原文](https://www.chaincatcher.com/article/2304668)
 
-3. [美联储报告：87%受访者视AI为金融体系主要风险](https://reisen-ww.github.io/hot-pages/cryptohot/items/qbogb388gukqd1rf11e3x7f6u)
-   来源：PANews · 发布时间：2026-11-14 05:19（北京时间） · 一手 · 另有 1 家信源报道
-   摘要：美联储发布半年度金融稳定报告，显示87%受访者将人工智能列为金融体系主要风险，较春季调查上升37个百分点，并指出对冲基金杠杆率处于2013年以来最高水平。
-   相关：
-   - [美联储调查报告：AI成金融系统最大威胁](https://reisen-ww.github.io/hot-pages/cryptohot/items/t8kj1jkd3w3xsjx76yqzl52bz) · CNBC Markets · 2026-11-14 05:18（北京时间）
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d6c7-f11e-72b6-930f-53765c0a5b96)
-
-4. [朝鲜黑客利用AI深度伪造窃取超4亿美元加密资产](https://reisen-ww.github.io/hot-pages/cryptohot/items/ytmvfiiwuhbxtbhq67hkkxle9)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-13 06:10（北京时间） · 一手 · 另有 3 家信源报道
-   摘要：美国司法部披露朝鲜黑客通过AI深度伪造视频会议窃取超4亿美元加密资产。攻击手法包括利用被盗账号诱骗目标进入会议、播放预录深度伪造视频、制造虚假技术故障诱导点击恶意链接。该团伙已查封基础设施，FBI将此技术定义为'FaceStealer'。
-   相关：
-   - [美国司法部打击朝鲜虚假电话加密货币盗窃行动](https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme) · The Defiant · 2026-11-13 06:18（北京时间）
-   - [美国司法部扣押Binance遭北韩黑客攻击的1.2亿美元并打击深度伪造诈骗](https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065) · The Block · 2026-11-13 06:40（北京时间）
-   - [美国司法部查封朝鲜FaceStealer计划相关设施](https://cryptobriefing.com/doj-seizes-north-korea-facestealer-infrastructure/) · Crypto Briefing · 2026-11-13 05:56（北京时间）
-   原文：[打开原文](https://www.chaincatcher.com/article/2304314)
-
-5. [美国10月批发价格指数上涨0.3%，年化增幅达6.5%创近四年新高](https://reisen-ww.github.io/hot-pages/cryptohot/items/df70ugvz49b16y7eoufpfuo2x)
-   来源：CNBC Top News · 发布时间：2026-11-13 23:44（北京时间） · 一手
-   摘要：美国劳工统计局10月13日发布数据显示，10月批发价格指数（PPI）环比上涨0.3%，年化增幅达6.5%，创近四年新高。核心PPI环比涨0.3%，商品价格年化涨幅10.2%（创2022年10月以来最大），运输仓储服务价格环比涨3.9%。报告发布后市场预期美联储12月加息概率提升，但部分官员认为通胀压力具有暂时性。
-   原文：[打开原文](https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html)
-
-6. [美国10月PPI同比6.5%创四年新高，影响加息预期](https://wallstreetcn.com/articles/3785905)
-   来源：华尔街见闻 · 发布时间：2026-11-13 21:58（北京时间） · 一手
-   摘要：美国劳工统计局发布10月PPI数据，同比上涨6.5%，创2022年11月以来新高，略低于预期。数据显示商品价格涨幅快于服务业，核心PPI环比上涨0.3%，食品和能源价格推动通胀，企业利润承压。
-   原文：[打开原文](https://wallstreetcn.com/articles/3785905)
+5. [国际金价与油价一周累计跌幅均超4.6%](https://reisen-ww.github.io/hot-pages/cryptohot/items/oqoa436lhzpq8upny2sdxqbdy)
+   来源：界面新闻 · 发布时间：2026-11-14 11:12（北京时间）
+   摘要：国际金价与油价在一周内累计跌幅均超4.6%。金价下跌主因市场担忧美国通胀黏性及美联储可能收紧货币政策，导致美元走强、美债收益率攀升；油价下跌则因美伊冲突风险缓和及国际能源署预计2026年四季度全球石油供应过剩。
+   原文：[打开原文](https://www.jiemian.com/article/15333090.html)
 
 ## 股票市场
 
-1. [Cerebras Q3 2026财报：核心收入同比增70%但总营收未达预期](https://cryptobriefing.com/cerebras-q3-2026-earnings-revenue-miss/)
-   来源：Crypto Briefing · 发布时间：2026-11-13 05:22（北京时间） · 另有 3 家信源报道
-   摘要：Cerebras Q3 2026 GAAP总营收210.8百万美元，核心收入230.9百万美元创纪录，云业务收入141.9百万美元同比增265%。未达华尔街预期，全年核心收入指引提升至310-330百万美元，并披露IPO融资额63.8亿美元及上市时间2026-05-14。
+1. [币安本周重新开放87条网络提现服务，计划下周末完成全部恢复](https://reisen-ww.github.io/hot-pages/cryptohot/items/dzok4gtsisrgmgpgudo77f54v)
+   来源：PANews · 发布时间：2026-11-14 12:03（北京时间） · 一手 · 另有 2 家信源报道
+   摘要：币安宣布本周已恢复87条网络提现服务，并计划在下周末前重新开放所有剩余网络及资产的提现功能。
    相关：
-   - [Cerebras季度财报超预期并与微软达成合作](https://cryptobriefing.com/cerebras-earnings-beat-microsoft-deal/) · Crypto Briefing · 2026-11-13 05:20（北京时间）
-   - [Cerebras Systems Q3财报超预期并宣布与微软合作，股价盘后暴涨18%](https://reisen-ww.github.io/hot-pages/cryptohot/items/sx9sjjzk9wdlj2022f79rfllw) · CNBC Top News · 2026-11-13 05:33（北京时间）
-   - [Cerebras Q3财报：云业务收入激增272%，上调全年指引](https://wallstreetcn.com/articles/3785843) · 华尔街见闻 · 2026-11-13 05:20（北京时间）
-   - [Cerebras Systems第三季度财报超预期并与微软达成合作](https://reisen-ww.github.io/hot-pages/cryptohot/items/ba009qx5s3ywivcqjb2kl6cf8) · 东方财富 · 2026-11-13 09:59（北京时间）
-   原文：[打开原文](https://cryptobriefing.com/cerebras-q3-2026-earnings-revenue-miss/)
+   - [币安恢复87条网络提现服务，计划下周末前完成全部恢复](https://reisen-ww.github.io/hot-pages/cryptohot/items/y7apbs3hls20u2t1m05xg9afx) · 链捕手 ChainCatcher · 2026-11-14 11:54（北京时间）
+   - [币安计划下周末前全面恢复提现服务](https://reisen-ww.github.io/hot-pages/cryptohot/items/q01aqainj3mv3sertk7jjmkb8) · 界面新闻 · 2026-11-14 17:34（北京时间）
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d839-3d45-70f7-a763-1b2a03d5b9e0)
 
-2. [汇丰银行下调英伟达评级，CEO空缺致市场信心波动](https://cryptobriefing.com/hsbc-downgrades-nvidia-cites-ceo-search-as-stock-struggle-factor/)
-   来源：Crypto Briefing · 发布时间：2026-11-13 23:53（北京时间） · 另有 1 家信源报道
-   摘要：汇丰银行将英伟达评级从买入调至持有，主要因CEO空缺问题。市场数据显示，临时CEO Colette Kress的永久任命概率从24%降至13%，反映投资者对领导层过渡的担忧。需关注未来CEO任命进展及公司战略调整。
+2. [思科第一财季营收185亿美元，同比增长24%，上调全年业绩预期](https://reisen-ww.github.io/hot-pages/cryptohot/items/zadh9yvjpgq2unl8d4mhbzpjk)
+   来源：东方财富 · 发布时间：2026-11-13 07:11（北京时间） · 另有 1 家信源报道
+   摘要：思科2027财年第一季度营收185.17亿美元，同比增长24%，净利润45.52亿美元，同比增长59%。公司上调全年营收预期至748亿至758亿美元，并预计AI基础设施业务收入将达90亿美元，较2026财年增长一倍以上。
    相关：
-   - [汇丰下调英伟达评级：股价承压将持续至新CEO任命](https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html) · CNBC Top News · 2026-11-14 00:24（北京时间）
-   原文：[打开原文](https://cryptobriefing.com/hsbc-downgrades-nvidia-cites-ceo-search-as-stock-struggle-factor/)
+   - [思科Q1财季营收创15年最快增速，上调全年指引至753亿美元，AI相关收入翻倍](https://wallstreetcn.com/articles/3785840) · 华尔街见闻 · 2026-11-13 07:34（北京时间）
+   原文：[打开原文](http://finance.eastmoney.com/news/1354,202611133930093620.html)
 
-3. [Nakamoto 公司第三季度财报亏损致股价盘前下跌 6.5%](https://reisen-ww.github.io/hot-pages/cryptohot/items/uhecvawb2k6p3fcya86s5lsl6)
-   来源：Cointelegraph · 发布时间：2026-11-13 21:04（北京时间）
-   摘要：Nakamoto 公司第三季度财报显示收入为负，致股价盘前下跌 6.5%。公司因比特币期权亏损 5.8 万美元，运营收入 -1.9 万美元，但重估数字资产（主要为 BTC）实现净利润 85.5 万美元，比特币持仓减少至 4,283 枚。
-   原文：[打开原文](https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+3. [英伟达CEO黄仁勋下台致股价暴跌，14家投行评级与目标价变动分析](https://reisen-ww.github.io/hot-pages/cryptohot/items/yd504cz0f7w75x07tunljktpm)
+   来源：华尔街见闻 · 发布时间：2026-11-13 09:15（北京时间） · 一手
+   摘要：英伟达CEO黄仁勋辞职致股价单日暴跌10%，14家投行中3家下调评级、6家下调目标价，但13家仍维持买入，核心逻辑为订单排至2028年且盈利预测不变，但担忧继任者能力及AI生态融资体系稳定性。
+   原文：[打开原文](https://wallstreetcn.com/articles/3785851)
 
-## 行业动态
+4. [半导体龙头华虹宏力抛出回购计划 股价较年内高点回撤近六成](https://reisen-ww.github.io/hot-pages/cryptohot/items/u80b92t850rtl4sl7ix72aph9)
+   来源：东方财富 · 发布时间：2026-11-13 06:22（北京时间）
+   摘要：华虹宏力宣布以3亿至5亿元回购A股股份，当前股价较年内高点回撤近58%。按上限测算可回购约195.66万股，占股0.1015%。公司总资产1189.18亿元，回购占净资产1.08%。公告称此举为维护投资者利益及引导价值投资，并披露前三季度营收186.11亿元、净利润16.03亿元，同比增长138.23%。
+   原文：[打开原文](http://finance.eastmoney.com/news/1354,202611123929993869.html)
 
-1. [Securitize与Ethena上线BlackRock BUIDL流动性设施](https://reisen-ww.github.io/hot-pages/cryptohot/items/nnxe6ua9xrlc5heppp8hnvf3n)
-   来源：The Block · 发布时间：2026-11-12 22:00（北京时间） · 一手 · 跟进：2026-11-13 的日报报道过这件事，这里是新进展
-   摘要：Securitize与Ethena上线BlackRock提供的1亿美元BUIDL流动性设施，允许符合条件的BUIDL持有者24/7兑换USDC及同类稳定币。该设施要求用户通过KYC认证，并设有单笔兑换上限。
-   原文：[打开原文](https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442)
+## 观点与教程
+
+1. [长安汽车挂牌转让阿维塔10%股权](https://reisen-ww.github.io/hot-pages/cryptohot/items/p8e35c1x3c698uh71w4hyeijm)
+   来源：华尔街见闻 · 发布时间：2026-11-13 16:31（北京时间） · 一手
+   摘要：长安汽车在上海联合产权交易所挂牌转让所持阿维塔科技10%股权，底价31.828亿元，信息披露期至12月10日。若交易完成，长安持股比例降至30.99%仍为第一大股东。阿维塔计划将港股募资用于技术研发、国内渠道运营和海外销售网络建设，2025年境外收入占比5.5%。当前交易可能影响其上市进程及股东结构变化。
+   原文：[打开原文](https://wallstreetcn.com/articles/3785886)
 
 ## 快讯
 
-- [Jane Street三季度将富达比特币ETF（FBTC）持仓增至近8倍](https://reisen-ww.github.io/hot-pages/cryptohot/items/as6z1oaiscq40j6dz78gljp93)
-  来源：PANews · 发布时间：2026-11-13 18:00（北京时间） · 一手
-  摘要：Jane Street三季度将富达比特币ETF（FBTC）持仓增至近8倍，价值达5.09亿美元；同时减持贝莱德IBIT和ARKB持仓。
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d459-b485-73f5-b6ed-906a0ac9dc81)
+- [Upbit因KAVA网络安全事件暂停充提服务并发布交易警示](https://reisen-ww.github.io/hot-pages/cryptohot/items/slxs1m17igweagu3mz3alowhf)
+  来源：PANews · 发布时间：2026-11-15 00:24（北京时间） · 一手
+  摘要：Upbit因KAVA网络出现安全事件暂停充提服务，并发布交易警示提醒用户注意价格波动风险。Kava方表示正在调查生态内某dApp的异常行为，且非无限增发。恢复时间待官方另行通知。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1dadf-a48a-77d9-b148-a3206af05ec4)
 
-- [BTCS为避免Aave贷款清算抛售约9930万美元ETH](https://reisen-ww.github.io/hot-pages/cryptohot/items/fsd0hduaxj2u6v9qst88uqjua)
-  来源：PANews · 发布时间：2026-11-13 15:31（北京时间） · 一手
-  摘要：BTCS披露为避免6410万美元Aave贷款遭清算，以低于成本价出售约9930万美元ETH（46,676枚）。抵押率155%，健康因子1.24，清算线1,717美元/ETH（11月9日数据），当时ETH价格1,950美元。公司现金约46.3万美元，绝大多数资产已抵押至Aave
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d3d1-7a6d-74bb-a328-1048593e91a6)
+- [Google向美国Gemini用户开放钱包连接功能，并支持通过Plaid进行关联](https://reisen-ww.github.io/hot-pages/cryptohot/items/t4ghvae2ygv67p6tijqhwr9se)
+  来源：PANews · 发布时间：2026-11-14 10:47（北京时间） · 一手
+  摘要：Google向美国Gemini用户开放钱包连接功能，支持通过Plaid关联信用卡和银行账户。新功能包含生成现金流、资产配置和预算动态图表，提示订阅费用上涨，并根据往年消费建议节日预算。Google强调Gemini仅能读取账户信息，无法转移、管理或投资资金。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d7f3-735d-72c4-bb13-3fffabc85b3a)
 
-- [Unocoin指控BitGo多签机制被利用致资产损失调查](https://www.panewslab.com/zh/articles/01a1d455-a239-72da-92c1-608a85114f40)
-  来源：PANews · 发布时间：2026-11-13 17:55（北京时间） · 一手
-  摘要：Unocoin指控BitGo多签机制被利用导致资产损失调查。BitGo确认11月6日冻结企业账户但异常转出交易在链上完成，平台服务暂停中。
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d455-a239-72da-92c1-608a85114f40)
+- [Cardano创始人：既定路线图已完成，网络已实现自治](https://reisen-ww.github.io/hot-pages/cryptohot/items/ozggezm1f29hx0cd052njv0ba)
+  来源：PANews · 发布时间：2026-11-13 21:47（北京时间） · 一手
+  摘要：Cardano创始人Charles Hoskinson在11月7日YouTube直播中宣布既定路线图已完成，网络实现自治无需其同意选领导。他否认曾承诺Cardano将超越比特币或保证币价上涨，强调已履行建设网络及推动去中心化的职责。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d529-6a71-74a2-86e4-922f3f1c1d44)
 
-- [Lido关闭Golden Goose Vault，指引持有者迁移至EarnETH元 Vault](https://reisen-ww.github.io/hot-pages/cryptohot/items/q68z1yyi5vakin1j2uzx5tj3g)
-  来源：Crypto Briefing · 发布时间：2026-11-14 00:19（北京时间）
-  摘要：Lido宣布关闭Golden Goose Vault（GGV），要求持有者于2026年11月17日前完成迁移至EarnETH元 Vault或提取。GGV自2025年9月上线，采用免手动策略的质押产品。
-  原文：[打开原文](https://cryptobriefing.com/lido-sunsets-ggv-vault-earneth-migration/)
+- [币安发布资产储备零知识证明，用户可独立验证](https://reisen-ww.github.io/hot-pages/cryptohot/items/yx25a39gz2rmg31gnudmjf6u8)
+  来源：链捕手 ChainCatcher · 发布时间：2026-11-14 19:18（北京时间） · 一手
+  摘要：币安生成资产储备的零知识证明，用户可独立验证其 1:1 支持情况。原文提到该证明已生成，并开放了验证入口，用户需通过特定流程进行验证。
+  原文：[打开原文](https://www.chaincatcher.com/article/2304755)
 
-- [彭博分析师：英伟达ETF近两日获130亿美元资金流入](https://reisen-ww.github.io/hot-pages/cryptohot/items/wngsgtk6yse4rmyqbf9wubka6)
-  来源：PANews · 发布时间：2026-11-13 21:58（北京时间） · 一手
-  摘要：彭博分析师称英伟达ETF近两日获130亿美元资金流入，资金流入前20大ETF中仅1只非股票类。该分析师指出投资者持续2倍做多该ETF，且跌幅越大资金买入力度越强。
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d533-d855-7494-a7fb-13cf049a4fa0)
+- [美国10月财政赤字达4040亿美元创历史新高 债务利息占税收28.2%](https://wallstreetcn.com/articles/3785882)
+  来源：华尔街见闻 · 发布时间：2026-11-13 16:32（北京时间） · 一手
+  摘要：美国10月财政赤字达4040亿美元创历史同期新高，债务利息占税收28.2%。国防支出激增与收入下降8.8%是主因，利息支出已占联邦税收28.2%，2027财年全年利息支出或达1.6万亿美元，挤占公共服务资金。
+  原文：[打开原文](https://wallstreetcn.com/articles/3785882)
 
-- [英伟达尚未选定猎头公司永久接替黄仁勋，董事会向CNBC透露](https://reisen-ww.github.io/hot-pages/cryptohot/items/zgeud3i0ido2kgovit4fg9lb4)
-  来源：CNBC Top News · 发布时间：2026-11-14 03:42（北京时间） · 一手 · 另有 1 家信源报道
-  摘要：英伟达董事会向CNBC透露尚未选定猎头公司，称正在考虑内外部候选人。同日股价下跌超2%，市值跌破4万亿美元。此前黄仁勋因被指控与中国间谍有染，已辞去CEO职务并由CFO科勒特·克雷斯接任。美国国会三个委员会要求黄仁勋11月18日闭门听证，参议院银行业委员会要求其与商务部长卢特尼克共同作证，调查AI芯片流向中国问题。
+- [源杰科技获17.44亿元大额订单 激光器芯片业务成业绩增长核心](https://reisen-ww.github.io/hot-pages/cryptohot/items/l2yjdo4dc0y7w5867i97qt829)
+  来源：东方财富 · 发布时间：2026-11-13 20:03（北京时间）
+  摘要：源杰科技公告称获B客户大额激光器芯片订单，金额达17.44亿元人民币。公司前三季度营收同比增长319.83%，净利润增长866.88%，主要依赖数据中心光模块产品出货。华鑫证券指出800G光模块已进入规模部署，1.6T产品2026年商用，公司产能扩张计划预计2027年形成产能，2028年产能进一步释放。
+  原文：[打开原文](http://finance.eastmoney.com/news/1354,202611133930876693.html)
+
+- [Payward第三季度调整后EBITDA同比下降67%，披露代币化股票与链上永续合约计划](https://www.panewslab.com/zh/articles/01a1d500-5ea4-7113-b827-899d72d22151)
+  来源：PANews · 发布时间：2026-11-13 21:02（北京时间） · 一手
+  摘要：Payward第三季度调整后EBITDA为6000万美元，同比下降67%；总平台利润4.87亿美元，同比下降12%；交易量3530亿美元，同比下降30%，但余额账户数同比增长37%至710万。公司披露将拓展代币化股票业务，计划在美国上线链上永续合约（需监管批准），并已同意收购Saldo Bank。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d500-5ea4-7113-b827-899d72d22151)
+
+- [Cerebras六个月内签约微软AWS甲骨文三家超大规模云服务商 WSE-5芯片2027年夏季量产](https://wallstreetcn.com/articles/3785852)
+  来源：华尔街见闻 · 发布时间：2026-11-13 10:51（北京时间） · 一手
+  摘要：Cerebras宣布与微软签署云合作协议，加上此前AWS和甲骨文合作，六个月内完成三家超大规模云服务商客户签约。同时宣布基于台积电5纳米工艺的WSE-5芯片已进入整机测试阶段，预计2027年夏季量产，性能较前代翻倍。
+  原文：[打开原文](https://wallstreetcn.com/articles/3785852)
+
+- [美国政府持有约20亿美元比特币和以太坊](https://reisen-ww.github.io/hot-pages/cryptohot/items/xdpusqyfy4n3j1e57l5ckifg8)
+  来源：Crypto Briefing · 发布时间：2026-11-15 04:35（北京时间）
+  摘要：美国政府持有约20亿美元比特币和以太坊，战略储备政策禁止出售。主要资产来自暗网市场Silk Road和交易所Bitfinex黑客事件，总价值约20.57亿至20.7亿美元。市场需关注政策调整及非比特币资产处理进展。
+  原文：[打开原文](https://cryptobriefing.com/us-government-holds-20b-bitcoin-ether/)
+
+- [Glassnode：稳定币供应量过去一个月减少170亿美元创2022年以来最大降幅](https://reisen-ww.github.io/hot-pages/cryptohot/items/zqz1csom4nqsyxp3cn191drol)
+  来源：链捕手 ChainCatcher · 发布时间：2026-11-14 21:51（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：Glassnode数据显示，过去一个月稳定币供应量减少170亿美元，创2022年以来最大单月降幅。分析指出持有者将稳定币兑换为法币，正在抽走可用于比特币及加密市场的购买力。
   相关：
-  - [英伟达单周股价暴跌13% 创52周新低 市值蒸发超万亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/vddwxnjbxab84qtvt7c5fcf9n) · Crypto Briefing · 2026-11-14 05:07（北京时间）
-  原文：[打开原文](https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html)
-
-- [OpenAI推出ChatGPT钱包，AI智能体可代表用户购物付款](https://wallstreetcn.com/articles/3785909)
-  来源：华尔街见闻 · 发布时间：2026-11-13 23:43（北京时间） · 一手 · 另有 3 家信源报道
-  摘要：OpenAI推出ChatGPT钱包，支持Visa、万事达卡等信用卡令牌化支付，用户需通过生物识别验证授权交易。该功能首批面向美国年满18岁的ChatGPT Pro订阅用户开放，但仅限于与dots AI智能体交互的场景。支付流程通过令牌化机制实现，商家仅接收支付令牌而非完整卡信息，OpenAI与Visa合作提供技术支持。
-  相关：
-  - [OpenAI 推出 ChatGPT 支付钱包](https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html) · CNBC Top News · 2026-11-13 23:31（北京时间）
-  - [OpenAI上线ChatGPT Wallet，支持dot代付功能](https://www.panewslab.com/zh/articles/01a1d572-7ea0-754b-bb7e-5c48f1d3adbe) · PANews · 2026-11-13 23:06（北京时间）
-  - [OpenAI 与 Visa、Mastercard、Amex 合作推出 ChatGPT 内置 AI 支付功能](https://reisen-ww.github.io/hot-pages/cryptohot/items/ytwoqvbu9r741pg6sfod79hey) · Cointelegraph · 2026-11-14 06:01（北京时间）
-  原文：[打开原文](https://wallstreetcn.com/articles/3785909)
-
-- [Kraft Heinz推出高蛋白食品复兴品牌](https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html)
-  来源：CNBC Top News · 发布时间：2026-11-13 07:41（北京时间） · 一手
-  摘要：Kraft Heinz宣布通过推出高蛋白食品复兴品牌，包括PowerMac（含17克蛋白质）和Cheesy Ramen（加拿大市场售罄），股价本季度上涨7%但全年仍落后标普500。
-  原文：[打开原文](https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html)
-
-- [英伟达股价暴跌后散户半小时抄底逾1亿美元](https://wallstreetcn.com/articles/3785867)
-  来源：华尔街见闻 · 发布时间：2026-11-13 13:56（北京时间） · 一手
-  摘要：英伟达股价因CEO黄仁勋离职消息暴跌14%，散户在首个半小时内抄底买入1.11亿美元。富达投资平台显示当日买单达394,818笔，远超AMD等股票。华尔街14家机构中3家下调评级、6家调低目标价，但13家平均目标价仍较盘前涨50%。Vanda Research数据显示该半小时散户买入创历史纪录，分析师指出订单排至2028年支撑基本面，但短期供应问题或致增速放缓至40%。
-  原文：[打开原文](https://wallstreetcn.com/articles/3785867)
-
-- [国家发改委、能源局发布‘十五五’新型储能实施方案](https://reisen-ww.github.io/hot-pages/cryptohot/items/v6b2a2j9fwx1wo7yoancx6ytq)
-  来源：东方财富 · 发布时间：2026-11-13 17:35（北京时间）
-  摘要：国家发改委、能源局发布《‘十五五’新型储能实施方案》，明确2030年新型储能装机规模达3亿千瓦，平均储能时长3小时，并推动锂钠电池储能技术迭代、构网型储能应用及金融工具支持。政策涵盖电源侧配置、分布式新能源消纳、电力系统调节能力提升、智能运维技术探索及行业监管强化五大方向，提出到2030年电网侧独立储能规模约1.4亿千瓦，并鼓励储能与智慧城市、数据中心等领域融合应用。
-  原文：[打开原文](http://finance.eastmoney.com/news/1345,202611133930762659.html)
+  - [稳定币供应量创2022年以来最大降幅，分析称市场购买力受影响](https://reisen-ww.github.io/hot-pages/cryptohot/items/kvk5pqmolbleoylpedvyk5k4k) · PANews · 2026-11-14 23:16（北京时间）
+  原文：[打开原文](https://www.chaincatcher.com/article/2304775)

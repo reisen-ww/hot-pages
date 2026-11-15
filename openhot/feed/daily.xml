@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[开源热点 日报 · 2026-11-15 — Perses 发布 v0.55.0 版本，支持多种数据源与 DevOps 场景]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-15</link>
+      <description><![CDATA[<p>Perses v0.55.0 新增对 Prometheus、Tempo、Loki 和 Pyroscope 的支持，提供全面的静态验证和插件架构，适合 DevOps 场景。</p>
+<p><strong>应用与安全</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/p24rex7qppzx9nuhskrbg12n8">Perses 发布 v0.55.0 版本，支持多种数据源与 DevOps 场景</a></li></ul>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-15">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-15</a></p>]]></description>
+      <pubDate>Sun, 15 Nov 2026 00:00:22 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-15</guid>
+      <author>noreply@reisen-ww.github.io (开源热点)</author>
+    </item>
+    <item>
       <title><![CDATA[开源热点 日报 · 2026-11-14 — GraphQL 基金会发布 HTTP 规范，解决互操作与可观测性难题]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-14</link>
       <description><![CDATA[<p>GraphQL 基金会发布 HTTP 规范，明确200 Not OK等状态码使用规则，新增GraphQL over HTTP媒体类型，解决代理缓存响应混淆问题。规范还规划了支持QUERY HTTP动词和持久化文档标准化，现有主流框架已适配新规。</p>
