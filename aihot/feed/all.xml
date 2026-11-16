@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Nvidia高管离职与安全团队调查关联性分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gdvkc5g9lhxfi8s6ew2matp2j</link>
+      <description><![CDATA[<p>Nvidia首席安全官David Reber因健康原因（确诊帕金森病两年）于8月离职，接任者Saša Zdjelar有17年ExxonMobil安全经验。纽约时报披露Nvidia总法律顾问早在一年前就参与Megaspeed（被美调查是否向中国输送芯片）相关调查。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gdvkc5g9lhxfi8s6ew2matp2j">https://reisen-ww.github.io/hot-pages/aihot/items/gdvkc5g9lhxfi8s6ew2matp2j</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sun, 15 Nov 2026 00:08:07 GMT</pubDate>
+      <guid isPermaLink="false">gdvkc5g9lhxfi8s6ew2matp2j</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Simon Willison 发布 datasette-llm 0.1a11 插件支持本地模型集成]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xfsxhrkbn1pakae4z9n23kjsh</link>
+      <description><![CDATA[<p>Simon Willison 发布 datasette-llm 0.1a11 插件，支持通过 OpenAI 兼容接口集成本地模型（如 LM Studio、Ollama、llama.cpp），并附有 uvx 部署示例。</p>
+<p>🔗 <a href="https://simonwillison.net/2026/Nov/14/datasette-llm/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xfsxhrkbn1pakae4z9n23kjsh">https://reisen-ww.github.io/hot-pages/aihot/items/xfsxhrkbn1pakae4z9n23kjsh</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Sat, 14 Nov 2026 23:59:28 GMT</pubDate>
+      <guid isPermaLink="false">xfsxhrkbn1pakae4z9n23kjsh</guid>
+      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
+    </item>
+    <item>
       <title><![CDATA[Nvidia CEO Jensen Huang 离职引发超11.5万签名请愿]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/lwebo6q362clbvj3e6jstcy8g</link>
       <description><![CDATA[<p>Nvidia CEO Jensen Huang 因婚外情指控离职，引发超11.5万签名请愿要求恢复职位。支持者包括特斯拉CEO Elon Musk、Replit CEO Amjad Masad、Epic Games CEO Tim Sweeney等，Nvidia股价周五下跌2%。</p>
@@ -532,28 +554,6 @@
       <category>论文</category>
       <pubDate>Thu, 12 Nov 2026 21:47:07 GMT</pubDate>
       <guid isPermaLink="false">ubbpsiop7kfz7l02fcfg3eh63</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[微软研究焦点 – 第 98 期]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/kmynxlb7fx0nzbrhw3p05oaef</link>
-      <description><![CDATA[<p>本期微软研究焦点介绍了语言翻译、数学挑战和AI编码效率等前沿研究，展示了微软在AI领域的最新进展。</p>
-<p>🔗 <a href="https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/kmynxlb7fx0nzbrhw3p05oaef">https://reisen-ww.github.io/hot-pages/aihot/items/kmynxlb7fx0nzbrhw3p05oaef</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Thu, 12 Nov 2026 21:31:57 GMT</pubDate>
-      <guid isPermaLink="false">kmynxlb7fx0nzbrhw3p05oaef</guid>
-      <author>noreply@reisen-ww.github.io (Microsoft Research)</author>
-    </item>
-    <item>
-      <title><![CDATA[Amazon Bedrock 推理成本优化策略详解]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/wqzyvhddgymc7gqv8jiicmf19</link>
-      <description><![CDATA[<p>AWS官方技术博客发布Bedrock推理成本优化指南，提供缓存时间、服务层级、推理努力和输出限制的具体调整方法及效果对比。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/wqzyvhddgymc7gqv8jiicmf19">https://reisen-ww.github.io/hot-pages/aihot/items/wqzyvhddgymc7gqv8jiicmf19</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Thu, 12 Nov 2026 20:51:55 GMT</pubDate>
-      <guid isPermaLink="false">wqzyvhddgymc7gqv8jiicmf19</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>

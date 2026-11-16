@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Let's Employ 发布 oJobPub 1.0.0-draft.1 开源标准]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/caiqigho3u9zk13hjzfzouwqi</link>
+      <description><![CDATA[<p>Let&apos;s Employ 发布 oJobPub 1.0.0-draft.1 开源标准，允许企业通过 JSON 文件自主发布职位信息。工具 Publisher 开源（Apache 2.0 许可证），支持手动编写或自托管部署。与 schema.org 兼容，通过 SourceTracker 每日抓取验证有效域名。非营利组织背景，瑞士总部，GitHub 开源协作。</p>
+<p>🔗 <a href="https://www.letsemploy.org">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/caiqigho3u9zk13hjzfzouwqi">https://reisen-ww.github.io/hot-pages/openhot/items/caiqigho3u9zk13hjzfzouwqi</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Sun, 15 Nov 2026 01:46:52 GMT</pubDate>
+      <guid isPermaLink="false">caiqigho3u9zk13hjzfzouwqi</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[个人开发者开源Go语言Minecraft服务器备份方案Plakar集成]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/q4a4aq9dugce5vnp3ooo15xfh</link>
       <description><![CDATA[<p>作者在个人GitHub仓库发布基于Go语言的Minecraft服务器备份集成，通过RCON远程控制暂停服务器存档，恢复时无需停止服务。提供完整测试、安装命令及注意事项，并演示将备份数据存储为Minecraft世界文件的技术方案。</p>
@@ -403,6 +414,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[500 行 Python 代码实现 3D 建模器]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/d38y4eyvf6rq0eomdt5kkvlnd</link>
+      <description><![CDATA[<p>该文介绍了一款使用 500 行 Python 代码实现的 3D 建模器。文章详细探讨了渲染过程、界面管理及主循环机制，采用 Legacy OpenGL 降低代码复杂度，简化了图形处理逻辑。</p>
+<p>🔗 <a href="https://aosabook.org/en/500L/a-3d-modeller.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/d38y4eyvf6rq0eomdt5kkvlnd">https://reisen-ww.github.io/hot-pages/openhot/items/d38y4eyvf6rq0eomdt5kkvlnd</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Fri, 13 Nov 2026 13:47:42 GMT</pubDate>
+      <guid isPermaLink="false">d38y4eyvf6rq0eomdt5kkvlnd</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[某作者开源支持NTFS/FAT/exFAT格式的磁盘数据恢复工具Reflota（测试版）]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/q3kah8hb7uvovfe5a9ujhluxa</link>
       <description><![CDATA[<p>Reflota是一款开源磁盘数据恢复工具，支持NTFS、FAT32、exFAT文件系统，可从物理磁盘直接读取并恢复删除文件。测试版状态下已验证FAT16/FAT12、相机RAW文件、PSD等格式恢复，提供分阶段复制（快速扫描→边缘修复→逐扇区复制）和内容搜索功能，不写入原磁盘。用户需管理员权限读取物理磁盘，工具生成校验哈希确保下载安全。</p>
@@ -530,28 +552,6 @@
       <category>社区新奇仓库</category>
       <pubDate>Fri, 13 Nov 2026 00:16:10 GMT</pubDate>
       <guid isPermaLink="false">v650t3p3zse8bw3hqdh1m9nh1</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[通过反向工程与 AI 辅助，实现 Coway 空气净化器本地化控制并脱离云端依赖]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/h6u4p7a0w0lfjsoltcebzj5bn</link>
-      <description><![CDATA[<p>作者通过 mitmproxy 和 Python 脚本，绕过 Coway 云服务依赖，实现设备本地化控制。关键步骤包括：1. 利用 AI 生成 mitmproxy 插件拦截设备与云端通信；2. 通过 Web Bluetooth 配置设备 Wi-Fi 参数；3. 自建 MQTT 服务器替代 Coway 云端服务。最终实现 &apos;Good Night&apos; 按钮联动空气净化器与智能家居系统。</p>
-<p>🔗 <a href="https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/h6u4p7a0w0lfjsoltcebzj5bn">https://reisen-ww.github.io/hot-pages/openhot/items/h6u4p7a0w0lfjsoltcebzj5bn</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Thu, 12 Nov 2026 22:03:09 GMT</pubDate>
-      <guid isPermaLink="false">h6u4p7a0w0lfjsoltcebzj5bn</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[FreeBSD项目第三季度进展：安全修复、AI政策框架与工具链重构]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/tmvbxny0t9vt2d6zleb5wu8yh</link>
-      <description><![CDATA[<p>FreeBSD项目第三季度报告显示，因PHP漏洞导致ports仓库历史重写，并制定AI使用政策框架，同时推进Sylve系统管理平台和AppJails工具开发。安全团队通过SBOM工具链实现供应链加固，开发团队在LLDB调试API和Zoned Storage支持上取得进展。</p>
-<p>🔗 <a href="https://www.freebsd.org/status/report-2026-07-2026-09/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/tmvbxny0t9vt2d6zleb5wu8yh">https://reisen-ww.github.io/hot-pages/openhot/items/tmvbxny0t9vt2d6zleb5wu8yh</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Thu, 12 Nov 2026 20:45:02 GMT</pubDate>
-      <guid isPermaLink="false">tmvbxny0t9vt2d6zleb5wu8yh</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>

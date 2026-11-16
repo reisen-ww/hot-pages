@@ -140,16 +140,5 @@
       <guid isPermaLink="false">fku7chpqjurbxvpvtubj8ppln</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[某团队开源Rust写的轻量级WhatsApp客户端，单机内存占用仅200MB]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/tvtvems9d77vil064fo1hvz5v</link>
-      <description><![CDATA[<p>某团队在GitHub开源Rust写的WhatsApp客户端ZapFast，Linux单机版内存占用仅200MB（对比Web版1.13GB），支持多语言界面与无浏览器引擎设计。安装指南包含macOS/Brew、Arch Linux/yay、Windows等平台的具体步骤，并强调本地加密存储与离线使用特性。</p>
-<p>🔗 <a href="https://github.com/crmne/zapfast">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/tvtvems9d77vil064fo1hvz5v">https://reisen-ww.github.io/hot-pages/openhot/items/tvtvems9d77vil064fo1hvz5v</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Sun, 08 Nov 2026 02:02:27 GMT</pubDate>
-      <guid isPermaLink="false">tvtvems9d77vil064fo1hvz5v</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
   </channel>
 </rss>

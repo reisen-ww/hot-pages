@@ -9,6 +9,19 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[MyHOT 日报 · 2026-11-15 — Antigravity发布/teamwork与Gemini 4协作工具，解决多项数学与工程难题]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-15</link>
+      <description><![CDATA[<p>Antigravity发布新的多智能体协作工具/teamwork和(boost)，与Gemini 4模型合作解决了数学证明（如解决2013年Courtade–Kumar猜想）、量子计算、系统优化等领域多项长期未解问题，并已应用于Google生产基础设施优化。工具通过并行探索与专用验证器（如Lean 4证明器、未修改软件测试套件）自动验证解决方案，同时通过上下文分区防止多日任务中信息丢失。</p>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/i12xwi9g7p8h3anmb8c1o4p11">Anthropic CEO Amodei坦言明年存在巨大不确定性，IPO前揭示核心财务挑战</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/unkyh1cj7k2p3i7hulxzoxnt2">Jensen Huang 离职引发 NVIDIA 领导层危机与AI行业震荡</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ol5irptk4wv2caymqmvuwthx1">OpenAI 重组机器人团队：通用模型或降低专用AI需求</a></li></ul>
+<p><strong>论文研究</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s">Antigravity发布/teamwork与Gemini 4协作工具，解决多项数学与工程难题</a></li></ul>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-15">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-15</a></p>]]></description>
+      <pubDate>Sun, 15 Nov 2026 00:00:16 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-15</guid>
+      <author>noreply@reisen-ww.github.io (MyHOT)</author>
+    </item>
+    <item>
       <title><![CDATA[MyHOT 日报 · 2026-11-14 — Amazon SageMaker HyperPod数据捕获助力模型优化飞轮]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-14</link>
       <description><![CDATA[<p>本文展示了如何利用Amazon SageMaker HyperPod数据捕获功能，记录实时推理数据并分析。通过Athena查询发现新家电品类识别盲区，编写SQL标签策略后进行LoRA微调，最终使新类别识别准确率从0%提升至100%，同时不影响原有类别表现。完整代码和测试数据在GitHub仓库中提供，支持在HyperPod集群上部署端到端闭环。</p>
@@ -455,17 +468,6 @@
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-12">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-12</a></p>]]></description>
       <pubDate>Mon, 12 Oct 2026 00:00:39 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-12</guid>
-      <author>noreply@reisen-ww.github.io (MyHOT)</author>
-    </item>
-    <item>
-      <title><![CDATA[MyHOT 日报 · 2026-10-11 — 数学家如何看待 OpenAI 批量发布数学成果]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-11</link>
-      <description><![CDATA[<p>OpenAI 于 2026 年 10 月 6 日一次发布 700 多篇数学手稿，声称解决数百个开放问题，引发数学家对成果质量、发布方式和职业前景的强烈反应。Peter Scholze、Terence Tao 等人认可部分结果的潜力，同时批评论文难以阅读、缺少作者信息和讨论机制；一些研究者则担忧自身研究计划、职业发展与数学共同体的未来。</p>
-<p><strong>行业动态</strong></p>
-<ul><li><a href="https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/">数学家如何看待 OpenAI 批量发布数学成果</a></li><li><a href="https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/">Anthropic 因 Claude 提交虚假谋杀线索切断其互联网访问</a></li></ul>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-11">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-11</a></p>]]></description>
-      <pubDate>Sun, 11 Oct 2026 00:00:21 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-11</guid>
       <author>noreply@reisen-ww.github.io (MyHOT)</author>
     </item>
   </channel>
