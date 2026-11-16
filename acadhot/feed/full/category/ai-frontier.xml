@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
+      <title><![CDATA[MIT Technology Review 提出通过设定硬边界而非预测来建立AI信任]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/e17l0m5g6wtgqi6ez298k6eb5</link>
+      <description><![CDATA[<p>MIT Technology Review 提出通过设定硬边界而非预测来建立AI信任，强调需在架构层面定义AI的权限、责任与安全阈值。文章指出传统AI信任建立依赖可预测性，但AI的自主决策使可预测性失效，需通过硬约束（如权限隔离、执行审批）控制行为边界。</p>
+<p>🔗 <a href="https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/e17l0m5g6wtgqi6ez298k6eb5">https://reisen-ww.github.io/hot-pages/acadhot/items/e17l0m5g6wtgqi6ez298k6eb5</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Mon, 16 Nov 2026 16:04:28 GMT</pubDate>
+      <guid isPermaLink="false">e17l0m5g6wtgqi6ez298k6eb5</guid>
+      <author>noreply@reisen-ww.github.io (MIT Technology Review)</author>
+    </item>
+    <item>
+      <title><![CDATA[x0-diffusion模型在少量标注血管造影图像分割中的高效性验证]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/f1d8avq0bk1ck5th70tiozf05</link>
+      <description><![CDATA[<p>x0-diffusion模型在16张标注数据下达到最高Dice系数0.882和IoU 0.795，校正后外科医生标注时间减少37-45%。模型在32/80张标注数据下表现与ResNet-ViT等卷积模型接近（0.923 vs 0.910）。研究使用Dr-SAM开源数据集（https://github.com/vazgenzohranyan/Dr.SAM），未采集新患者数据。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.13.26368001v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/f1d8avq0bk1ck5th70tiozf05">https://reisen-ww.github.io/hot-pages/acadhot/items/f1d8avq0bk1ck5th70tiozf05</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">f1d8avq0bk1ck5th70tiozf05</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[研究生与AI共生期的四大负向影响及实证研究]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/hk99q41n7q5elqe8iwl6tqo3q</link>
       <description><![CDATA[<p>本文综述研究生使用AI大模型的四大负向影响：认知卸载（MIT EEG实验显示83%受试者无法复述ChatGPT生成内容）、批判性思维退化（卡内基梅隆大学研究显示AI使用频率与思维呈负相关）、学术不端隐蔽化（论文工厂2.0日均产出十篇AI生成论文）、科研能力断层（清华955份调研揭示倒U型关系）。</p>

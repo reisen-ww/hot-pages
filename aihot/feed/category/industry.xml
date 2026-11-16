@@ -9,6 +9,50 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[FBI警告Artex开源AI渗透工具遭黑客利用致多国企业数据泄露]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg</link>
+      <description><![CDATA[<p>FBI警告Artex开源AI渗透工具被黑客用于在3小时内突破企业网络防御。攻击案例包括韩国金融机构68,000人数据泄露和ConnectWise客户微软云环境入侵，黑客通过Artex扫描网络漏洞并利用弱密码等安全缺陷。开发者已将Artex转为闭源以阻止攻击，但旧版仍广泛流通。研究显示Artex系统存在未授权暴露，攻击者可借此获取渗透能力。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg">https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 17:36:43 GMT</pubDate>
+      <guid isPermaLink="false">sivcfwv9rksooyiur4wqsm8dg</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI与Apollo Research合作试点AI安全评估]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/z74zml4u3iirtlmyf7n85660y</link>
+      <description><![CDATA[<p>OpenAI宣布与Apollo Research合作开展AI安全评估试点。试点将重点调查模型在训练过程中是否尝试破坏自身或后续版本的alignment机制，并探讨外部安全评估的独立性与数据透明度问题。OpenAI同意公开部分条件，但限制数据访问范围（仅开放训练代码、强化学习回滚记录及中间模型检查点），引发对独立评估可行性的讨论。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z74zml4u3iirtlmyf7n85660y">https://reisen-ww.github.io/hot-pages/aihot/items/z74zml4u3iirtlmyf7n85660y</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 17:02:43 GMT</pubDate>
+      <guid isPermaLink="false">z74zml4u3iirtlmyf7n85660y</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 发布对抗儿童色情内容的新图像分类器与ChatGPT警告机制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/mbab65j3wygtk3nz0i8stryg6</link>
+      <description><![CDATA[<p>OpenAI 发布了可检测AI生成儿童色情图像的新分类器，该工具在减少48%误报的同时保持相同有害内容检出率。ChatGPT新增强制警告和临时封禁功能，24小时封禁机制已部署。工具通过API免费开放给合作方，并与NCMEC、Tech Coalition等机构联合开发。第三方评估显示警告机制使违规内容生成量降低，但未提供具体数值。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mbab65j3wygtk3nz0i8stryg6">https://reisen-ww.github.io/hot-pages/aihot/items/mbab65j3wygtk3nz0i8stryg6</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">mbab65j3wygtk3nz0i8stryg6</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA CUDA 20周年纪念：科学计算与AI加速的里程碑]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rv0v6zmhzren9axsc4u0sqmuy</link>
+      <description><![CDATA[<p>NVIDIA宣布CUDA平台20周年，累计吸引超1100万开发者使用。文中回顾了CUDA在2013年HIV病毒结构模拟、2012年AlexNet训练、2024年AlphaFold蛋白质预测（获诺贝尔奖）等关键科学计算案例，并提到CUDA-X工具包已包含1000+库，支持从药物研发到量子计算的多领域加速</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/20-years-cuda/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rv0v6zmhzren9axsc4u0sqmuy">https://reisen-ww.github.io/hot-pages/aihot/items/rv0v6zmhzren9axsc4u0sqmuy</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 16:00:11 GMT</pubDate>
+      <guid isPermaLink="false">rv0v6zmhzren9axsc4u0sqmuy</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Anthropic CEO Amodei坦言明年存在巨大不确定性，IPO前揭示核心财务挑战]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/i12xwi9g7p8h3anmb8c1o4p11</link>
       <description><![CDATA[<p>Anthropic CEO Amodei坦言明年存在巨大不确定性，IPO前揭示核心财务挑战。公司已投入近900亿美元用于计算资源，其中71亿美元将于2027年9月到期，远超多数标普500公司市值。Amodei提出通过动态采购计算资源和保持高现金储备来缓解风险，并计划通过IPO和私募融资共筹集约90.4亿美元，创史上最大IPO纪录。</p>
@@ -414,72 +458,6 @@
       <pubDate>Mon, 09 Nov 2026 18:55:43 GMT</pubDate>
       <guid isPermaLink="false">xu5vdccvvzq2mmcnzrepeu481</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code 设置文件意外泄露 GitHub 上数千项敏感信息]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/sl91a8zq3senx6gidgnxqht0c</link>
-      <description><![CDATA[<p>AI安全公司Apiiro发现Claude Code用户在GitHub公开的设置文件中存在数据库密码、API令牌等敏感信息泄露。问题源于用户自动审批命令时生成的settings.local.json文件，部分命令直接写入文件导致信息外泄。Anthropic官方文档提到该文件会被加入.gitignore，但实际存在配置疏漏。</p>
-<p>🔗 <a href="https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sl91a8zq3senx6gidgnxqht0c">https://reisen-ww.github.io/hot-pages/aihot/items/sl91a8zq3senx6gidgnxqht0c</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 09 Nov 2026 17:24:26 GMT</pubDate>
-      <guid isPermaLink="false">sl91a8zq3senx6gidgnxqht0c</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Handshake AI 数据评估与安全对齐的实践案例]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yi5mwmcc8opryrl2kiiogxl8k</link>
-      <description><![CDATA[<p>Handshake AI 展示金融和生物领域的数据评估方法及安全对齐实践，包含银行模拟环境中的Excel评分器漏洞演示、VIALS科学图像识别基准测试（涉及凝胶条带和脑组织坏死识别任务）、安全反馈机制如何影响模型训练等案例。</p>
-<p>🔗 <a href="https://latent.space/p/handshake/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yi5mwmcc8opryrl2kiiogxl8k">https://reisen-ww.github.io/hot-pages/aihot/items/yi5mwmcc8opryrl2kiiogxl8k</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 09 Nov 2026 17:15:53 GMT</pubDate>
-      <guid isPermaLink="false">yi5mwmcc8opryrl2kiiogxl8k</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA 在 MSIT-NVIDIA AI 创业伙伴论坛宣布对四家韩国初创公司的投资]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/kvud0jgabsh9h2u3pukbmgvdb</link>
-      <description><![CDATA[<p>NVIDIA 在 MSIT-NVIDIA AI 创业伙伴论坛宣布对 Point2、Motif Technologies、RLWRLD 和 Upstage 四家韩国初创公司的投资。投资涉及AI基础设施（Point2）、基础模型（Motif-3）、机器人技术（RLWRLD）和文档AI工具（Upstage），合作方包括韩国科学信息通信部及NVIDIA Inception计划下的超1000家韩国初创企业。</p>
-<p>🔗 <a href="https://blogs.nvidia.com/blog/korean-startup-investments-msit/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/kvud0jgabsh9h2u3pukbmgvdb">https://reisen-ww.github.io/hot-pages/aihot/items/kvud0jgabsh9h2u3pukbmgvdb</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 09 Nov 2026 08:00:53 GMT</pubDate>
-      <guid isPermaLink="false">kvud0jgabsh9h2u3pukbmgvdb</guid>
-      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA助力韩国半导体/自动驾驶/机器人三大产业物理AI落地]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/r86koxywjw8ery6rgylnqg8ur</link>
-      <description><![CDATA[<p>NVIDIA与三星半导体合作实现量子化学计算5倍加速，与Kakao Mobility开发L4自动驾驶系统，与LG Electronics完成机器人制造任务1600倍加速。技术方案涵盖cuISS/cuDSS加速设计、cuEquivariance优化张量运算、PhysicsNeMo物理仿真，并首次公开端侧AI工具链集成案例。</p>
-<p>🔗 <a href="https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/r86koxywjw8ery6rgylnqg8ur">https://reisen-ww.github.io/hot-pages/aihot/items/r86koxywjw8ery6rgylnqg8ur</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 09 Nov 2026 05:00:40 GMT</pubDate>
-      <guid isPermaLink="false">r86koxywjw8ery6rgylnqg8ur</guid>
-      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA与韩国扩展主权AI合作：涵盖芯片、基础设施及人才培养]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/f9ohxzk6qjy2hcbr1i8dzpf3w</link>
-      <description><![CDATA[<p>NVIDIA与韩国扩展主权AI合作，涵盖芯片、基础设施及人才培养，并宣布与SK Telecom和Rebellions合作优化推理。具体包括NVIDIA培训计划、NVLink Fusion生态探索及Dynamo软件用于优化AI推理。</p>
-<p>🔗 <a href="https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/f9ohxzk6qjy2hcbr1i8dzpf3w">https://reisen-ww.github.io/hot-pages/aihot/items/f9ohxzk6qjy2hcbr1i8dzpf3w</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 09 Nov 2026 05:00:04 GMT</pubDate>
-      <guid isPermaLink="false">f9ohxzk6qjy2hcbr1i8dzpf3w</guid>
-      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nvidia启动CEO Jensen Huang关系调查，涉及国家安全疑虑]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/a1y228bdvcvtepitfs0bijsbf</link>
-      <description><![CDATA[<p>Nvidia董事会宣布启动独立调查，针对CEO Jensen Huang与疑似中国间谍的关联。调查由独立董事及外部法律顾问执行，Huang已承诺配合。此前Huang被曝与新加坡芯片公司前高管Alice Huang存在婚外情，而匿名备忘录称Alice Huang受中国国家安全部招募监视Huang。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/a1y228bdvcvtepitfs0bijsbf">https://reisen-ww.github.io/hot-pages/aihot/items/a1y228bdvcvtepitfs0bijsbf</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Sun, 08 Nov 2026 21:00:11 GMT</pubDate>
-      <guid isPermaLink="false">a1y228bdvcvtepitfs0bijsbf</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
   </channel>
 </rss>

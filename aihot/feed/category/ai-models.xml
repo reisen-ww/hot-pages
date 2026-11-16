@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[美团发布1.6万亿参数AI智能体模型，全栈使用华为芯片实现端侧部署]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e2zhmwiiykwghljm1vi1sbk74</link>
+      <description><![CDATA[<p>美团发布1.6万亿参数智能体模型LongCat-2.5，全栈采用华为Ascend芯片实现端侧部署，支持文本、图像、视频多模态输入。测试显示其终端任务得分88.4（Terminal Bench v2.1），接近Claude Opus 5的89.1分，搜索基准（自环测试）达91.9分。模型通过MIT协议开源权重，部署指南提供194片华为芯片集群配置方案，API兼容OpenAI和Anthropic格式。</p>
+<p>🔗 <a href="https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e2zhmwiiykwghljm1vi1sbk74">https://reisen-ww.github.io/hot-pages/aihot/items/e2zhmwiiykwghljm1vi1sbk74</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Sun, 15 Nov 2026 10:06:06 GMT</pubDate>
+      <guid isPermaLink="false">e2zhmwiiykwghljm1vi1sbk74</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
       <title><![CDATA[Runway Praxis-1开源模型将视频AI转化为机器人控制]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/o92p6bzcfkuxip12ydqcyc6zy</link>
       <description><![CDATA[<p>Runway Praxis-1开源模型通过视频预训练实现机器人控制，在Nvidia RoboLab-120测试中得分46.2%，优于同类模型FLUX 3 Action的42.9%。该模型基于公开DROID数据集训练，已由Standard Bots等公司测试，但需额外适配机器人系统。</p>

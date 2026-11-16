@@ -1,125 +1,123 @@
-# 金融热点 周报 · 2026-W45
+# 金融热点 周报 · 2026-W46
 
-- 期号：第 5 期
-- 发布：2026-11-10 18:31（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/weekly/2026-W45)
+- 期号：第 6 期
+- 发布：2026-11-17 01:00（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/weekly/2026-W46)
 
 ## 导语
 
-币安遭6.3亿美元黑客攻击后动用超63.4亿储备资金应对
+英伟达董事会拟罢免CEO黄仁勋，CFO Colette Kress或任过渡期CEO
 
-币安遭6.3亿美元黑客攻击并动用63.4亿储备应对，标普500单日蒸发2.9万亿美元创历史新低，美国财政部切断MEXC金融体系接入并制裁柬埔寨太子集团关联实体。
+美国核心CPI超预期推动加息预期，欧盟成立加密货币工作组打击俄罗斯规避制裁，OpenAI融资150亿美元估值达1.25万亿。
 
 ## 加密货币
 
-**栏目导读**：币安分批次恢复提现，Circle USDC Treasury在Solana链五次铸币；Zcash主网升级缩短出块时间至25秒，矿工补贴减半。
+1. [Compound关闭Scroll上USDC市场，未偿还贷款将在数周内清算](https://reisen-ww.github.io/hot-pages/cryptohot/items/jwa0fun3iaujdnnvs79zcsbgs)
+   来源：PANews · 发布时间：2026-11-08 08:46（北京时间） · 一手
+   摘要：Compound宣布关闭部署在Scroll Layer2上的USDC市场，要求用户处理DeFi头寸。所有未偿还贷款将在未来数周内清算，建议用户及时还款以避免资产损失。
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1b89f-55a2-7542-8e97-cf2e2d6d3156)
 
-1. [币安遭6.3亿美元黑客攻击后动用超63.4亿储备资金应对](https://reisen-ww.github.io/hot-pages/cryptohot/items/uatm1ak69r2n7p7e0am8dp5bw)
-   来源：The Defiant · 发布时间：2026-11-03 19:59（北京时间）
-   摘要：币安因6.3亿美元黑客攻击动用超63.4亿储备资金应对，来源彭博法律报道，具体包括预留资金和紧急储备的使用。
-   原文：[打开原文](https://thedefiant.io/news/hacks/binance-lacks-cyber-insurance-for-6-3-billion-hack-bloomberg-law-reports)
-
-2. [币安完成约60亿美元被盗资产补足](https://reisen-ww.github.io/hot-pages/cryptohot/items/sx5lsgvbgon2cogba7vjxqrgf)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-01 10:27（北京时间） · 一手
-   摘要：币安已完成约60亿美元被盗资产补足，SAFU基金划转7,499枚BTC，覆盖90%损失。其中BTC、ETH、USDT、BNB、SOL、USDC、XRP、USD1、RLUSD和ZEC等10种资产实现100%储备覆盖。资金来源包括SAFU基金、期货保险基金及公司自有资金。
-   原文：[打开原文](https://www.chaincatcher.com/article/2300732)
-
-3. [Circle USDC Treasury 在 Solana 链上五次铸币总计2500万美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/ndoj38bxgm25o38q1v4kd1jnd)
-   来源：Crypto Briefing · 发布时间：2026-11-01 03:40（北京时间）
-   摘要：Circle的USDC Treasury在2026年10月通过Solana链五次铸造总计2500万美元USDC，每次2500万美元且均选择Solana链。此举可能提升该链DeFi流动性，但需观察铸币是否进入流通。所有操作均通过官方Treasury合约完成，USDC维持1美元锚定。
-   原文：[打开原文](https://cryptobriefing.com/usdc-treasury-mints-250m-usdc-solana/)
-
-4. [币安分批次恢复资产提现业务](https://reisen-ww.github.io/hot-pages/cryptohot/items/rf106ewcbed2c6bzhclllguzo)
-   来源：界面新闻 · 发布时间：2026-11-03 10:48（北京时间）
-   摘要：币安于11月3日4时（UTC）起分批次恢复更多资产提现业务，充值服务保持正常。恢复进程将根据安全评估分阶段进行，具体恢复资产列表未在摘要中披露。
-   原文：[打开原文](https://www.jiemian.com/article/15286105.html)
-
-5. [币安黑客攻击致价值500万美元PROM代币在Uniswap V2仅获71美元回款](https://reisen-ww.github.io/hot-pages/cryptohot/items/cvvlre8vq8vwenpw3eowa3a70)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-01 12:17（北京时间） · 一手
-   摘要：币安黑客将价值约500万美元的90.8793万枚PROM代币抛售至Uniswap V2流动性池，仅收到0.0316枚ETH（价值约71美元）。事件揭示交易所安全漏洞与资金追回困境，Uniswap V2流动性池当时深度为0.0003%.
-   原文：[打开原文](https://www.chaincatcher.com/article/2300746)
-
-6. [比特币与以太坊因美股抛售蒸发大选后涨幅，触发超103亿美元加密资产清算](https://reisen-ww.github.io/hot-pages/cryptohot/items/b2vppl0dj3k1dbbpncwl9kon9)
-   来源：The Block · 发布时间：2026-11-06 04:11（北京时间） · 一手
-   摘要：比特币与以太坊因美股抛售蒸发大选后涨幅，触发超103亿美元加密资产清算。比特币跌6%至75700美元，以太坊跌7%，涉及Nasdaq指数下跌引发的链上清算。
-   原文：[打开原文](https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434)
-
-7. [Zcash完成NU7主网升级，出块时间缩短至25秒](https://reisen-ww.github.io/hot-pages/cryptohot/items/eyb9wqcn72k0hsltoj42g0phm)
-   来源：PANews · 发布时间：2026-11-06 11:59（北京时间） · 一手
-   摘要：Zcash宣布NU7主网升级于区块3543405激活，将目标出块时间从75秒缩短至25秒，并减少每区块补贴至三分之一。升级还引入网络可持续发展机制，将60%交易费存入储备，矿工保留40%。四年减半计划和2100万枚供应上限保持不变。
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1af02-dcf3-776f-9058-531b5a1a0b78)
-
-8. [ApeChain宣布将跨链基础设施迁移至Chainlink CCIP](https://reisen-ww.github.io/hot-pages/cryptohot/items/ktlkd259et155f58xkly0dx1d)
-   来源：Crypto Briefing · 发布时间：2026-11-05 00:36（北京时间）
-   摘要：ApeChain宣布因LayerZero桥被攻击导致$292M损失，将跨链基础设施迁移至Chainlink CCIP，并升级$APE和$USDC为CCTs以统一标准并降低桥接风险。
-   原文：[打开原文](https://cryptobriefing.com/apechain-migrates-chainlink-ccip-cross-chain/)
+2. [Hyperwave宣布于12月16日关闭协议，金库仅支持提取](https://reisen-ww.github.io/hot-pages/cryptohot/items/vbtn928dsqfgn61o0d3adv7d9)
+   来源：PANews · 发布时间：2026-11-11 18:49（北京时间） · 一手
+   摘要：Hyperwave宣布将于12月16日关闭协议，用户需在此前完成金库提取，剩余资金将按比例返还，且协议关闭前金库收益的100%将用于HWAVE代币回购和销毁。
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1ca39-f6ef-768c-b884-31c41cdacd70)
 
 ## 政策与宏观
 
-**栏目导读**：美国财政部制裁柬埔寨太子集团关联4人41实体，切断MEXC美国金融接入；央行上调外汇存款准备金率2个百分点至6%。
+**栏目导读**：欧盟成立加密货币工作组打击俄罗斯规避制裁，美国司法部冻结币安27亿美元被盗资金；沙特10月原油日产量增至10.56万桶创2019年以来新高
 
-1. [美国财政部制裁柬埔寨太子集团关联4名个人及41家实体](https://reisen-ww.github.io/hot-pages/cryptohot/items/hv8siz3tvozp1bssck3zsncxa)
-   来源：PANews · 发布时间：2026-11-06 09:37（北京时间） · 一手
-   摘要：美国财政部制裁柬埔寨太子集团关联4名个人及41家实体，涉及跨国网络诈骗与数字资产洗钱。被制裁者包括Qiu Yong、Zhao Mengyao等个人及香港、英属维尔京群岛等地离岸公司。犯罪手法包括数字资产投资骗局和杀猪盘，累计非法收益达数十亿美元。
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1ae81-63ab-7176-b9b2-e82409131cb6)
+1. [欧盟成立加密货币工作组打击俄罗斯规避制裁](https://reisen-ww.github.io/hot-pages/cryptohot/items/qdcgvp0wnfpn6qo1uwdfsuiwg)
+   来源：PANews · 发布时间：2026-11-08 08:08（北京时间） · 一手
+   摘要：欧盟成立加密货币工作组打击俄罗斯规避制裁，预计运行12个月并获乌克兰、英国支持，协调成员国执行制裁及反规避措施。
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1b87c-306f-7560-882f-e0f56f98e899)
 
-2. [美国财政部切断 MEXC Global 接入美国金融体系，指其促成至少 160 亿美元非法资金流动](https://reisen-ww.github.io/hot-pages/cryptohot/items/feaa41yblyghgkxz1lunh7jok)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-07 04:10（北京时间） · 一手
-   摘要：美国财政部依据《打击俄罗斯洗钱法》第 9714(a) 条，对加密交易所 MEXC Global 下令禁止美国金融机构与其交易，切断其接入美国金融体系。命令自《联邦公报》公布后 30 日生效。
-   原文：[打开原文](https://www.chaincatcher.com/article/2302524)
+2. [美国核心CPI超预期上涨，或支撑美联储加息预期](https://cryptobriefing.com/us-core-cpi-rises-more-than-forecast-supporting-potential-fed-rate-hike/)
+   来源：Crypto Briefing · 发布时间：2026-11-10 21:35（北京时间）
+   摘要：美国10月核心CPI同比上涨3.7%，市场押注概率达94.5%，显示通胀预期转向。需关注劳工统计局官方CPI数据发布及美联储官员表态。
+   原文：[打开原文](https://cryptobriefing.com/us-core-cpi-rises-more-than-forecast-supporting-potential-fed-rate-hike/)
 
-3. [近五年来首次！央行上调外汇存款准备金率2个百分点](https://reisen-ww.github.io/hot-pages/cryptohot/items/i0ti5g764rxr0pdta8iy054fh)
-   来源：界面新闻 · 发布时间：2026-11-03 10:58（北京时间）
-   摘要：中国人民银行自2026年11月15日起上调外汇存款准备金率2个百分点至6%，政策发布后人民币对美元汇率在在岸和离岸市场双双跌破6.66关口。分析指出此举旨在平衡出口企业汇兑损失与汇率双向波动弹性，防范单边升值预期。
-   原文：[打开原文](https://www.jiemian.com/article/15286192.html)
+3. [美联储Christopher Waller支持12月加息](https://reisen-ww.github.io/hot-pages/cryptohot/items/b70v0v07zgppjl1loaqvbu8af)
+   来源：Bloomberg Markets · 发布时间：2026-11-10 18:22（北京时间） · 一手
+   摘要：美联储Christopher Waller表示支持12月加息，并警告若通胀持续加速将支持半个百分点加息，FOMC或需采取更 robust 行动。
+   原文：[打开原文](https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video)
 
-4. [CFTC批准某交易所上线美股个股永续期货合约](https://www.panewslab.com/zh/articles/01a1a1b8-d6c5-75fc-8d2c-52eb14331269)
-   来源：PANews · 发布时间：2026-11-03 22:03（北京时间） · 一手
-   摘要：美国商品期货交易委员会（CFTC）宣布允许某CFTC注册交易所上线美股个股永续期货合约，该合约即日起生效，依据2000年《商品期货现代化法案》及CFTC与SEC的监管合作备忘录推出。
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1a1b8-d6c5-75fc-8d2c-52eb14331269)
+4. [美司法部冻结币安被盗资金约27亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/x7m928o2sfh90ys8yeg3ctudl)
+   来源：PANews · 发布时间：2026-11-13 05:50（北京时间） · 一手
+   摘要：美国司法部联合稳定币发行方冻结币安被盗资金约27亿美元，占被盗总资产的近一半。同日FBI警告称朝鲜黑客通过仿冒视频会议平台窃取加密资产并攻击软件供应链。
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d1bd-e69d-7195-8b74-44366d3f693f)
 
-5. [曼集团因科威特贿赂案被法官判定有责任](https://reisen-ww.github.io/hot-pages/cryptohot/items/vbq12mpzttm1x3c10gt0v63js)
-   来源：Bloomberg Markets · 发布时间：2026-11-06 02:50（北京时间） · 一手
-   摘要：曼集团（Man Group Plc）因被指控在科威特公共养老金基金中策划长达数十年的贿赂行为，被英国法官判定需承担赔偿责任，金额约1.55亿美元。案件涉及伦敦多被告贿赂诉讼，由已故前董事总经理Fahad al Rajaan主导实施，其通过向寻求基金业务的其他金融机构支付巨额非法资金，侵吞基金资产超10亿美元。
-   原文：[打开原文](https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery)
+5. [美联储理事沃勒鹰派讲话后市场定价12月加息25基点](https://reisen-ww.github.io/hot-pages/cryptohot/items/jybtp9dden89ytglgqwtd8jp5)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-10 17:12（北京时间） · 一手
+   摘要：市场已完全计入美联储12月加息25基点预期。沃勒表示即使10月CPI环比改善，仍支持该加息路径；若10月核心CPI同比涨幅达0.3%或更高，12月可能需加息50基点。
+   原文：[打开原文](https://www.chaincatcher.com/article/2303305)
 
-6. [中国人民银行第三次启动SFISF互换便利操作，申报额度超千亿元](https://reisen-ww.github.io/hot-pages/cryptohot/items/qnwhqs0z5liuhmcd4pp9nj6gw)
-   来源：华尔街见闻 · 发布时间：2026-11-02 17:03（北京时间） · 一手
-   摘要：中国人民银行将于11月3日开展第三次SFISF互换便利操作，31家机构申报额度超1000亿元，规模远超前两次的500亿和550亿元。市场预期费率将维持低位，监管层要求机构用足该工具稳定资本市场。
-   原文：[打开原文](https://wallstreetcn.com/articles/3784992)
+6. [布伦特原油单周暴跌创1988年以来最大纪录 对冲基金狂抛66亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/dkbci3ofgrl5v45atqjnmqh4p)
+   来源：华尔街见闻 · 发布时间：2026-11-08 10:08（北京时间） · 一手
+   摘要：高盛报告显示布伦特原油本周单周跌幅达20%（从118美元跌至98美元下方），对冲基金净卖出66亿美元（未包含选举日当天8.7%暴跌），期权市场出现看涨信号。分析指出下周CFTC持仓报告或更难看，当前仓位已大幅出清，但地缘冲突可能引发反弹。
+   原文：[打开原文](https://wallstreetcn.com/articles/3785468)
 
-7. [NEAR治理投票通过，计划24个月内将最高年度发行率降至1.6%](https://reisen-ww.github.io/hot-pages/cryptohot/items/ti92ybapnwcuvlchcusnz7uhq)
-   来源：PANews · 发布时间：2026-11-03 08:29（北京时间） · 一手
-   摘要：NEAR Protocol治理投票通过，计划24个月内将最高年度发行率从2.5%降至1.6%。后续流程包括House of Stake安全委员会审查、90天宽限期、协议升级实施及季度报告跟踪。
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a19ecf-5387-728a-81d8-032f02d59844)
+7. [朝鲜黑客利用AI深度伪造窃取超4亿美元加密资产](https://reisen-ww.github.io/hot-pages/cryptohot/items/ytmvfiiwuhbxtbhq67hkkxle9)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-13 06:10（北京时间） · 一手
+   摘要：美国司法部披露朝鲜黑客通过AI深度伪造视频会议窃取超4亿美元加密资产。攻击手法包括利用被盗账号诱骗目标进入会议、播放预录深度伪造视频、制造虚假技术故障诱导点击恶意链接。该团伙已查封基础设施，FBI将此技术定义为'FaceStealer'。
+   原文：[打开原文](https://www.chaincatcher.com/article/2304314)
+
+8. [国务院办公厅发布AI就业影响应对政策](https://reisen-ww.github.io/hot-pages/cryptohot/items/evpw4dir8wscj8npzlf9co12s)
+   来源：经济观察网 · 发布时间：2026-11-08 14:28（北京时间）
+   摘要：国务院办公厅发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出通过失业缓冲期制度、技能培训和社会保障来缓解AI对就业的冲击。政策强调综合评估AI应用对就业的影响，引导创新资源向创造就业潜力大的领域倾斜，并指出不同行业和企业对技术冲击的易感度差异，需针对性制定保障措施。
+   原文：[打开原文](http://www.eeo.com.cn/2026/1108/1087874.shtml)
+
+9. [欧洲央行宣布数字欧元试点商户招募进展及法律框架筹备时间表](https://reisen-ww.github.io/hot-pages/cryptohot/items/gje3idzveewsxuwy81hsieyby)
+   来源：欧洲央行新闻 · 发布时间：2026-11-10 22:00（北京时间）
+   摘要：欧洲央行执行董事会成员Cipollone在议会讲话中宣布：数字欧元试点将于2027年下半年启动，已筛选36家支付服务商参与测试；法律框架需在2026年底前完成立法程序以保障2028年数字欧元发行。同时披露新欧元纸币设计将在2026年底公布，2020年代初期流通。讲话强调数字欧元与现金的协同发展，要求立法保障现金接受义务和流通基础设施韧性。
+   原文：[打开原文](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html)
+
+10. [中国证监会主席吴清：长钱长投制度体系持续完善](https://reisen-ww.github.io/hot-pages/cryptohot/items/h30p2806eh8txrfzwh7xc70cp)
+    来源：界面新闻 · 发布时间：2026-11-14 12:08（北京时间）
+    摘要：中国证监会主席吴清在2026年资本市场学术年会表示投融资结构持续优化，投资端2024年以来社保、保险、年金净买入A股超1.5万亿元，融资端发行上市、并购重组等制度包容性提升，直接融资占比近50%
+    原文：[打开原文](https://www.jiemian.com/article/15333164.html)
+
+11. [沙特石油产量环比激增26%至战前最高水平](https://reisen-ww.github.io/hot-pages/cryptohot/items/d78640uy7rcaimgrzkqmcf2ld)
+    来源：Bloomberg Markets · 发布时间：2026-11-11 21:00（北京时间） · 一手
+    摘要：沙特通知OPEC其10月原油日产量增至10.56万桶，环比增长26%，达到2019年战争爆发前最高水平，推动OPEC地区产量恢复并抑制油价上涨。该数据为观察OPEC政策调整与大宗商品价格关联提供关键依据。
+    原文：[打开原文](https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high)
 
 ## 股票市场
 
-**栏目导读**：伯克希尔Q3净利润降28%但现金储备达3774亿美元创历史新高，特朗普表态缓解伊朗担忧推动亚洲股市普涨。
+**栏目导读**：英伟达董事会拟罢免CEO，思科上调全年业绩预期至748-758亿美元
 
-1. [标普500单日市值蒸发2.9万亿美元创历史新低](https://reisen-ww.github.io/hot-pages/cryptohot/items/eoo56nlfepodaunqkgrtkjiyx)
-   来源：MarketWatch Top Stories · 发布时间：2026-11-06 05:45（北京时间）
-   摘要：标普500单日市值蒸发2.9万亿美元创历史新低，主要受AI交易市场动荡影响。
-   原文：[打开原文](https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories)
+1. [英伟达董事会拟罢免CEO黄仁勋，CFO Colette Kress或任过渡期CEO](https://wallstreetcn.com/articles/3785797)
+   来源：华尔街见闻 · 发布时间：2026-11-12 15:03（北京时间） · 一手
+   摘要：英伟达董事会计划于本周三晚间召开会议讨论罢免CEO黄仁勋，部分董事倾向由CFO Colette Kress出任过渡期CEO。消息传出后英伟达股价盘后跌超8%至52周低点，美国国会参议员Chris Coons与Elizabeth Warren联名致函要求保存芯片出口相关文件，事件已引发白宫通报并进入董事会调查阶段。
+   原文：[打开原文](https://wallstreetcn.com/articles/3785797)
 
-2. [伯克希尔Q3财报：净利润降28%，现金储备升至3774亿美元创历史新高，回购金额创新高](https://reisen-ww.github.io/hot-pages/cryptohot/items/gne8venheq20hn0b62chtpi7r)
-   来源：华尔街见闻 · 发布时间：2026-11-07 21:02（北京时间） · 一手
-   摘要：伯克希尔·哈撒韦发布2026年Q3财报，净利润同比下降28%，但运营利润同比增长8%，现金储备达3774亿美元创历史新高，并回购96亿美元股票创年内单季新高。保险板块承保利润下滑43%，铁路和能源板块增长，回购信号显示管理层对自身价值的信心。
-   原文：[打开原文](https://wallstreetcn.com/articles/3785460)
+2. [Anthropic IPO路演披露长期经营利润率目标为35%或以上](https://reisen-ww.github.io/hot-pages/cryptohot/items/ybuomci2thehtjunkk4btqs46)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-11 09:40（北京时间） · 一手
+   摘要：Anthropic 在 11 月 10 日公布的 IPO 路演视频中披露，公司计划通过提升算力效率、增加直接租赁芯片和数据中心比例、扩大推理业务占比，将长期调整后经营利润率目标提升至 35% 或以上。第三季度数据显示其经营利润率为 15%，计算与基础设施支出占比将从 58% 降至 45%-50%，销售及合作伙伴费用占比拟由 14% 降至 7%-10%，人员及其他运营费用占比同步优化。
+   原文：[打开原文](https://www.chaincatcher.com/article/2303577)
 
-3. [特朗普表态缓解伊朗担忧 亚洲股市普涨原油应声下跌](https://reisen-ww.github.io/hot-pages/cryptohot/items/v33bxp0g948quf25vcn97oe76)
-   来源：Bloomberg Markets · 发布时间：2026-11-05 07:31（北京时间） · 一手
-   摘要：特朗普表示暂无进一步打击伊朗计划，缓解地缘政治风险。受此影响原油价格大幅下跌，亚洲股市同步上涨。
-   原文：[打开原文](https://www.bloomberg.com/news/videos/2026-11-04/asian-markets-react-as-trump-cools-iran-fears-video)
+3. [币安本周重新开放87条网络提现服务，计划下周末完成全部恢复](https://reisen-ww.github.io/hot-pages/cryptohot/items/dzok4gtsisrgmgpgudo77f54v)
+   来源：PANews · 发布时间：2026-11-14 12:03（北京时间） · 一手
+   摘要：币安宣布本周已恢复87条网络提现服务，并计划在下周末前重新开放所有剩余网络及资产的提现功能。
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d839-3d45-70f7-a763-1b2a03d5b9e0)
 
-4. [Anthropic第三季度营收170亿美元，净亏损233亿美元](https://www.panewslab.com/zh/articles/01a19caa-99fb-7129-8b0d-5aa48192c6e1)
-   来源：PANews · 发布时间：2026-11-02 22:29（北京时间） · 一手
-   摘要：Anthropic第三季度营收170亿美元，净亏损233亿美元。截至9月30日，现金储备956亿美元，承诺支出总额约8954亿美元，剩余履约义务138亿美元。前九个月累计营收332亿美元，去年同期为25亿美元。
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a19caa-99fb-7129-8b0d-5aa48192c6e1)
+4. [CoreWeave季度财报：收入超预期并上调全年指引，缓解AI放缓担忧](https://reisen-ww.github.io/hot-pages/cryptohot/items/ksbq3l5q4m4f9t58ygf8bv304)
+   来源：CNBC Top News · 发布时间：2026-11-11 05:25（北京时间） · 一手
+   摘要：CoreWeave 2026年第三季度财报显示收入达$3.66亿超预期，并上调全年调整后运营收入指引至$1.275亿-$1.375亿。尽管公司宣布首期亚洲数据中心和Forge AI模型评估服务，但股价近月下跌超40%，因市场担忧AI投资放缓及Nvidia供应链风险。财报同时披露公司债务达$470亿，且主要客户Anthropic计划下周纳斯达克上市（估值或达$1.4万亿）。
+   原文：[打开原文](https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html)
+
+5. [Lyell Immunopharma 在 2026 Stifel 健康医疗会议上发布临床试验进展](https://reisen-ww.github.io/hot-pages/cryptohot/items/kq6zy907c9sc2gwjgt5yxkeps)
+   来源：Seeking Alpha · 发布时间：2026-11-12 02:39（北京时间）
+   摘要：Lyell Immunopharma 在 2026 Stifel 健康医疗会议上宣布其核心产品 ronde-cel 的两项关键临床试验进展：PiNACLE试验计划于明年提交BLA申请，另一项头对头随机对照试验将展示与YESCARTA、BREYANZI的疗效对比数据。
+   原文：[打开原文](https://seekingalpha.com/article/4966624-lyell-immunopharma-inc-lyel-presents-at-stifel-2026-healthcare-conference-2026-transcript?source=feed_all_articles)
+
+6. [思科第一财季营收185亿美元，同比增长24%，上调全年业绩预期](https://reisen-ww.github.io/hot-pages/cryptohot/items/zadh9yvjpgq2unl8d4mhbzpjk)
+   来源：东方财富 · 发布时间：2026-11-13 07:11（北京时间）
+   摘要：思科2027财年第一季度营收185.17亿美元，同比增长24%，净利润45.52亿美元，同比增长59%。公司上调全年营收预期至748亿至758亿美元，并预计AI基础设施业务收入将达90亿美元，较2026财年增长一倍以上。
+   原文：[打开原文](http://finance.eastmoney.com/news/1354,202611133930093620.html)
 
 ## 行业动态
 
-1. [Marvell以1150亿美元收购Lumentum加码AI数据中心芯片布局](https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html)
-   来源：CNBC Top News · 发布时间：2026-11-02 20:11（北京时间） · 一手
-   摘要：Marvell以1150亿美元收购光学组件商Lumentum，加码AI数据中心芯片布局。Nvidia今年初分别向Marvell和Lumentum投资2亿美元，Marvell市值三年内从不足百亿暴涨至1700亿美元，此次收购是其继2021年百亿收购Inphi后最大规模交易。交易或强化其与Broadcom在AI芯片领域的竞争，后者长期为Alphabet提供定制芯片服务。
-   原文：[打开原文](https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html)
+1. [OpenAI融资150亿美元，估值达1.25万亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/rnjckcf05honjr3g07s7zk6tc)
+   来源：PANews · 发布时间：2026-11-12 22:55（北京时间） · 一手
+   摘要：OpenAI宣布完成新一轮融资，金额达150亿美元，公司估值攀升至1.25万亿美元。该融资由多家知名机构参与，具体投资方及条款细节尚未披露。
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1d041-dc8a-7534-82c7-f2870ffcfd06)

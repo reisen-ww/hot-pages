@@ -85,27 +85,5 @@
       <guid isPermaLink="false">d3nxd0eqqv0i8azde6nvhw4xs</guid>
       <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
     </item>
-    <item>
-      <title><![CDATA[NVIDIA 发布 Nemotron-Personas-Finance-Japan 金融合成数据集]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/sp52ffo13f80yty1nstx4xmsr</link>
-      <description><![CDATA[<p>NVIDIA 与 Elith 合作发布首个百万级日本金融合成数据集 Nemotron-Personas-Finance-Japan，包含9M个角色记录（较前版增加50%），涵盖50个字段如职业、资产状况和财务素养，支持金融AI开发与隐私合规测试。数据集基于NeMo框架生成，获Sompo Japan等机构反馈，采用CC BY 4.0协议开放商用。</p>
-<p>🔗 <a href="https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sp52ffo13f80yty1nstx4xmsr">https://reisen-ww.github.io/hot-pages/aihot/items/sp52ffo13f80yty1nstx4xmsr</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 GMT</pubDate>
-      <guid isPermaLink="false">sp52ffo13f80yty1nstx4xmsr</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face 发布 HOPE 方法：基于专家交互的第二代剪枝技术]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/sjbvbu54gyoysznwzeq3hdz6c</link>
-      <description><![CDATA[<p>Hugging Face 发布 HOPE 方法，在50%剪枝率下模型性能最佳，平均排名提升至1.58，显著优于REAP等第一代方法。该方法通过二次规划优化专家间交互，适用于Qwen3.5-122B、Qwen3.5-35B-A3B等MoE架构模型，提供完整代码实现流程（校准、求解、剪枝）。</p>
-<p>🔗 <a href="https://huggingface.co/blog/amazon/higher-order-pruning-experts">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sjbvbu54gyoysznwzeq3hdz6c">https://reisen-ww.github.io/hot-pages/aihot/items/sjbvbu54gyoysznwzeq3hdz6c</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
-      <guid isPermaLink="false">sjbvbu54gyoysznwzeq3hdz6c</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
   </channel>
 </rss>

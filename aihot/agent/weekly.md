@@ -1,121 +1,125 @@
-# MyHOT 周报 · 2026-W45
+# MyHOT 周报 · 2026-W46
 
-- 期号：第 5 期
-- 发布：2026-11-10 18:31（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/aihot/weekly/2026-W45)
+- 期号：第 6 期
+- 发布：2026-11-17 00:59（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/aihot/weekly/2026-W46)
 
 ## 导语
 
-Anthropic 开发开源验证系统 FlashProve
+Microsoft研究人员发现Lazarus攻击：通过激活AI模型休眠神经元可在触发条件下执行恶意命令
 
-Ricursive Intelligence发布训练成本仅3220万美元的开源模型Ripple-65B，在编码基准测试中得分80.52%；OpenAI推出GPT-6 Cyber网络安全模型，漏洞检测得分提升16个百分点至48.5%；Google DeepMind发布Gemini Omni 1.2 Flash，原生支持15秒视频生成且价格降低30%.
+Google DeepMind发布Gemini 4 Hydrogen模型，速度提升2.5倍且多模态工作流程安全性增强；AWS发布Kimi K3.1 Pro Highspeed智能体，性能提升2-3倍并支持工具调用；Anthropic发布Claude Fable 5.2与Mythos 5.2，评测显示多任务完成率领先竞品两倍以上。
 
 ## 模型发布/更新
 
-1. [Ricursive Intelligence 发布开源模型 Ripple-65B Preview](https://reisen-ww.github.io/hot-pages/aihot/items/xi3toj6yjtamhl8awj947c1gg)
-   来源：The Decoder · 发布时间：2026-11-07 03:47（北京时间）
-   摘要：Ricursive Intelligence 发布开源模型 Ripple-65B Preview，训练成本仅3220万美元，在TerminalBench 2.1编码基准测试中得分80.52%，为开放模型最佳表现。
-   原文：[打开原文](https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/)
-
-2. [OpenAI 发布 GPT-6 Cyber 网络安全模型，显著降低越界攻击风险](https://reisen-ww.github.io/hot-pages/aihot/items/dv88sc6s9mn5tyn6jikwnz1ud)
-   来源：The Verge · AI · 发布时间：2026-11-06 01:00（北京时间）
-   摘要：OpenAI 发布 GPT-6 Cyber 网络安全模型，ExploitGym 评测显示其漏洞检测得分（48.5%）较 GPT-5.6 Cyber（32.1%）提升 16 个百分点，越界攻击率降至 1% 以下。
-   原文：[打开原文](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch)
+1. [Google DeepMind发布Gemini 4 Hydrogen](https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q)
+   来源：Google DeepMind · 发布时间：2026-11-13 02:00（北京时间） · 一手
+   摘要：Google DeepMind发布Gemini 4 Hydrogen，提升多模型工作流程效率与安全性。该模型在速度上比3.8 Flash快2.5倍，在Terminal-Bench 4.1得分从18.2%跃升至57%，同时通过Orchestrator动态切换Carbon/Hydrogen模型，降低24%配额消耗。
+   原文：[打开原文](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
 
 ## 产品发布/更新
 
-1. [Apple 向第三方应用开放 Siri AI 能力](https://reisen-ww.github.io/hot-pages/aihot/items/m72zf73fmc8utdz146qg9zrmy)
-   来源：The Verge · AI · 发布时间：2026-11-04 04:16（北京时间）
-   摘要：Apple 在 iOS 27.3 更新中向第三方应用开放 Siri AI 能力。新增的「app skills」功能允许开发者整合多任务操作，Siri AI 可基于用户上下文和屏幕感知完成请求（如修改叫车地址）。此更新同时覆盖 Apple 自有应用如日历、邮件等，用户可通过「Hey Siri，这个应用能做什么？」查询具体功能。
-   原文：[打开原文](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)
+1. [Google 发布 Gemini Decision 1 决策 API](https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9)
+   来源：The Decoder · 发布时间：2026-11-12 04:12（北京时间）
+   摘要：Google Deepmind 推出 Gemini Decision 1 决策 API，单次处理 1000 个跨模态问题（文本/图像/音频/视频/PDF）。
+   原文：[打开原文](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/)
 
-2. [AWS Bedrock 在印度推出本地推理支持](https://reisen-ww.github.io/hot-pages/aihot/items/usxwo4dmjf9jd230xr1pqxcju)
-   来源：AWS Machine Learning Blog · 发布时间：2026-11-04 00:32（北京时间） · 一手
-   摘要：AWS宣布在印度本地化Kimi K3推理服务，支持多语言文档处理与成本优化。客户案例显示通过prompt缓存可将LLM成本降低80%，响应速度提升85%。服务提供跨区域加密传输（如AWS Mumbai/Hyderabad），支持图像OCR、混合语言问答及结构化数据提取。代码示例包含API调用、图像处理及成本优化策略，完整方案已开源。
-   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/)
+2. [AWS Bedrock发布Kimi K3.1 Pro Highspeed智能体](https://reisen-ww.github.io/hot-pages/aihot/items/teb9htf41ab5b3bgrk3znurb4)
+   来源：AWS Machine Learning Blog · 发布时间：2026-11-11 09:07（北京时间） · 一手
+   摘要：AWS发布Kimi K3.1 Pro Highspeed智能体，性能提升2-3倍并支持工具调用和流式输出。该产品通过Amazon Bedrock平台提供API调用示例，包含使用OpenCode集成开发环境、成本优化策略（Flex层级）、显式提示缓存技术（需256+稳定前缀），同时保持数据隔离（不共享给Moonshot AI且零数据留存）。
+   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/)
 
-3. [ChatGPT 新增动画 GIF 生成功能](https://reisen-ww.github.io/hot-pages/aihot/items/jsr54leknocd97tb0zzqoj7rm)
-   来源：The Verge · AI · 发布时间：2026-11-05 02:00（北京时间）
-   摘要：OpenAI 在 ChatGPT 和 API 中推出图像生成升级，周均生成量超40亿张（较9月增长）。新增GIF制作功能，支持调整动画速度、编辑单帧及分享，并推出GPT-Image-2.6 Flare和Sunburst API以提升生成速度和质量。
-   原文：[打开原文](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
+3. [Anthropic 发布 AI 办公套件 Claude Meetings/Sheets/Whiteboards](https://reisen-ww.github.io/hot-pages/aihot/items/a2mgke7ecqs3bptbrikuejex4)
+   来源：The Verge · AI · 发布时间：2026-11-11 01:30（北京时间）
+   摘要：Anthropic 推出 AI 办公套件 Claude Meetings/Sheets/Whiteboards，支持会议记录、表格编辑和协作白板功能，并开放与 HubSpot、Adobe 等应用的集成。测试版已上线，前两工具开放给付费用户，会议功能需企业版订阅。此前工具 Claude Cowork 主要面向非技术用户的工程师部分需求，现扩展至全体知识工作者。
+   原文：[打开原文](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)
 
-4. [AWS无服务器MCP服务器架构：AI智能体数据湖访问解决方案](https://reisen-ww.github.io/hot-pages/aihot/items/rbopao61zwqs4sccqyz4ip1jq)
-   来源：AWS Machine Learning Blog · 发布时间：2026-11-07 01:13（北京时间） · 一手
-   摘要：AWS构建无服务器MCP服务器，实现AI智能体与数据湖的自动化集成。系统通过JSON元数据文件配置，无需重复开发SQL接口，支持多租户环境下的权限集中管控和弹性扩展。架构包含认证层、MCP服务器层、工具层和数据更新层，利用Amazon Bedrock和Athena服务，确保15-20秒内完成从自然语言查询到结构化数据返回的全流程。
-   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/)
+4. [Anthropic发布Claude Fable 5.2与Mythos 5.2：评测与成本分析](https://reisen-ww.github.io/hot-pages/aihot/items/aq0l5fkjhuxes3ugqfdpztphv)
+   来源：Latent Space · 发布时间：2026-11-10 14:34（北京时间）
+   摘要：Anthropic发布Claude Fable 5.2与Mythos 5.2，评测显示其在多个基准测试中排名第一（如GDPx 16.4%、HLE-Diamond 80%、AA-3D 1271 Elo），但成本较前代上涨20%至$8输入/$40输出 tokens。
+   原文：[打开原文](https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/)
 
-5. [Google DeepMind发布Gemini Omni 1.2 Flash：原生15秒视频生成与多轮对话编辑能力升级](https://reisen-ww.github.io/hot-pages/aihot/items/ocnntc4b03t3u6b4tup8wfu6p)
-   来源：Google DeepMind · 发布时间：2026-11-06 01:05（北京时间） · 一手
-   摘要：Google DeepMind发布Gemini Omni 1.2 Flash，原生支持15秒视频生成，并提升多轮对话编辑的一致性及成本效益。价格从1.1版降低30%至$0.07/秒，支持3-15秒精确时长设定，可生成完整产品说明视频或社交媒体广告片段。
-   原文：[打开原文](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/)
+5. [Spotify AI DJ 新增多语言声音与静音选项](https://reisen-ww.github.io/hot-pages/aihot/items/r1d5l19l774uwtn9n60sb5lfc)
+   来源：TechCrunch · AI · 发布时间：2026-11-10 22:00（北京时间）
+   摘要：Spotify AI DJ 新增多语言声音与静音选项，支持英语和西班牙语共9种个性化声音（含英国、美国、澳大利亚等口音），用户可关闭歌曲间评论。该功能已覆盖全球95个市场，超9400万Premium用户使用。访问方式：Spotify应用内搜索'DJ'并调整设置
+   原文：[打开原文](https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/)
 
 ## 行业动态
 
-1. [Anthropic警告接近递归自我改进（RSI）能力](https://reisen-ww.github.io/hot-pages/aihot/items/jaa5kyntx02rd6h5csh2b3q67)
-   来源：TechCrunch · AI · 发布时间：2026-11-03 06:14（北京时间）
-   摘要：Anthropic在招股书中警告接近递归自我改进（RSI）能力，并强调需通过人类监督和责任扩展政策来控制风险。文中提到其AI系统加速研发可能导致模型能力远超安全措施跟进速度，同时承诺不会让Claude完全自主设计前沿模型，并计划更新责任扩展政策以保持人类控制。
-   原文：[打开原文](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
+**栏目导读**：纽约AI安全法生效要求超5亿美元公司合规申报，美国70%政府机构已采用生成式AI，微软发现Lazarus攻击可绕过安全评估。
 
-2. [NVIDIA开源Aerial和Sionna工具加速6G网络研发](https://reisen-ww.github.io/hot-pages/aihot/items/v1mfh4nhhq42nkmjuq5w4upwp)
-   来源：NVIDIA Blog · 发布时间：2026-11-07 00:00（北京时间） · 一手
-   摘要：NVIDIA开源Aerial和Sionna工具加速6G网络研发，支持端侧实时数据处理（机器人任务完成时间减少52.6%）、能耗优化（RAN功耗降低45.6%）和仿真加速（3小时缩短至10-20分钟）。工具已获超百万次下载，被8000+机构用于6G原型验证，涵盖信号增强、动态环境适应等关键技术场景。
-   原文：[打开原文](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/)
+1. [Microsoft研究人员发现Lazarus攻击：通过激活AI模型休眠神经元可在触发条件下执行恶意命令](https://reisen-ww.github.io/hot-pages/aihot/items/k2o8sjiefxyykso8jzscvgh22)
+   来源：Microsoft Research · 发布时间：2026-11-11 04:52（北京时间） · 一手
+   摘要：Microsoft研究人员发现Lazarus攻击：通过激活AI模型休眠神经元可在触发条件下执行恶意命令。该攻击无需模型微调，仅修改权重即可绕过标准安全评估。防御建议包括模型来源验证、容器扫描和AI驱动的权重检测，强调需将模型视为潜在内部威胁并限制其权限。
+   原文：[打开原文](https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/)
 
-3. [Anthropic AI加速引发研究者担忧：自主开发证据首次披露](https://reisen-ww.github.io/hot-pages/aihot/items/tqcf8df4vr3fm0hqw045mxxkx)
-   来源：The Verge · AI · 发布时间：2026-11-07 20:30（北京时间）
-   摘要：Anthropic AI模型一年内进步速度翻倍，首次披露自主开发证据引发安全争议。报告显示其内部模型（Model 2-4）加速显著，但关键数据遭红acted处理，引发透明度质疑。第三方机构METR指出，若AI自主加速持续，现有安全措施或无法跟上。
-   原文：[打开原文](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
+2. [美国公共部门工会与AI应用的监管博弈：70%政府机构已采用生成式AI](https://reisen-ww.github.io/hot-pages/aihot/items/l57lacm11hlp0vh3bhbtxk4gy)
+   来源：The Decoder · 发布时间：2026-11-13 23:53（北京时间）
+   摘要：美国70%政府机构已采用生成式AI，公共部门工会通过多州立法和谈判争取监管权，包括加州禁止AI监控软件、纽约立法保护员工、宾夕法尼亚州要求OpenAI ChatGPT企业版必须有人类监督，以及俄亥俄州运输工会获得自动驾驶车辆否决权。
+   原文：[打开原文](https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/)
 
-4. [智能体正在重塑互联网生态：从技术突破到商业博弈](https://reisen-ww.github.io/hot-pages/aihot/items/v9n6zxx4josy49hj51l16bybd)
-   来源：MIT Technology Review · AI · 发布时间：2026-11-02 17:35（北京时间）
-   摘要：智能体（如OpenAI的Claude Duet和Meta的Muse）正推动互联网向自主代理主导的‘agentic web’转型，分析其技术路径、商业影响及潜在风险。平台面临用户行为转变与收入模式重构的双重挑战，部分传统业务可能被淘汰，而老年人、残障人士等群体将受益于更便捷的交互方式。
-   原文：[打开原文](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
+3. [xAI旗下Grok构建应用泄露患者数据及内部销售信息](https://reisen-ww.github.io/hot-pages/aihot/items/bthsmafmicxeqe7evxfk94kzd)
+   来源：The Decoder · 发布时间：2026-11-11 20:53（北京时间）
+   摘要：Grok构建的应用存在大规模数据泄露风险，包括患者记录和内部销售信息。Claroc报告显示94.7%的未授权访问应用来自SpaceXSI员工，涉及企业销售团队名单、广告提案等敏感数据。SpaceXSI虽已下线24个涉事内部应用，但未修复其他用户公开应用的安全漏洞。此前已发生Grok泄露370万对话记录和用户文件上传事件，爱尔兰数据保护机构正在调查。
+   原文：[打开原文](https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/)
 
-5. [OpenAI ChatGPT 与 Work 合并：统一 token 预算机制](https://reisen-ww.github.io/hot-pages/aihot/items/wn66ouuy35hbcwb56gvohp367)
-   来源：The Decoder · 发布时间：2026-11-01 17:51（北京时间）
-   摘要：OpenAI 宣布 ChatGPT 与 Work 平台功能合并，自 12 月起 Plus/Pro/Business 计划将共享 token 预算。具体机制包括：1) token 测算规则（复杂任务消耗更快）；2) 用户可通过 Settings 查看余额及重置时间；3) Instant 模型对话不占用预算但可能影响低价用户服务质量。此举或回应此前对 ChatGPT 功能复杂化引发的批评。
-   原文：[打开原文](https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/)
+4. [NVIDIA 开源贡献与 AI 基础设施更新：OpenShell 和 Agent Substrate 加入 CNCF](https://reisen-ww.github.io/hot-pages/aihot/items/uagcv308o94wdape8ix85q7zm)
+   来源：NVIDIA Blog · 发布时间：2026-11-11 00:00（北京时间） · 一手
+   摘要：NVIDIA 在 KubeCon + CloudNativeCon 上贡献 OpenShell 和 Agent Substrate 到 CNCF 开源社区，并发布 DSX 平台的新组件以提升 Kubernetes 上的 GPU 基础设施管理效率。
+   原文：[打开原文](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/)
 
-6. [OpenAI 收购 Pierre Computer Company 以扩展 Codex 代码工具](https://reisen-ww.github.io/hot-pages/aihot/items/u5lqk6s19yes07071rtn98p82)
-   来源：OpenAI News · 发布时间：2026-11-04 22:30（北京时间） · 一手
-   摘要：OpenAI 收购 Pierre Computer Company 以扩展 Codex 代码工具。收购后 Codex 将增强对代码构建、理解和审查的能力，具体工具升级细节待官方进一步披露。
-   原文：[打开原文](https://openai.com/index/openai-to-acquire-pierre)
+5. [三大AI购物助手被曝推荐虚假网站 Podqi测试显示Perplexity错误率最高达15%](https://reisen-ww.github.io/hot-pages/aihot/items/h1h4d753450i0n176rr641x5y)
+   来源：The Verge · AI · 发布时间：2026-11-13 01:00（北京时间）
+   摘要：Podqi测试显示：Perplexity推荐虚假网站率15%最高，ChatGPT为8%，Gemini仅4%。测试涵盖151个品牌，发现AI常推荐已注册/废弃的虚假区域站点。OpenAI称将加强防伪措施，Google强调会附带来源链接。研究建议用户验证推荐网站，并警示即将到来的购物季可能加剧风险。
+   原文：[打开原文](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations)
+
+6. [OpenAI 发布两款网络安全产品：Daybreak Red Team 和 Daybreak Defense Factory](https://reisen-ww.github.io/hot-pages/aihot/items/tn9dempxn3yssqmqhwat78te2)
+   来源：The Decoder · 发布时间：2026-11-13 23:08（北京时间）
+   摘要：OpenAI 发布两款网络安全产品：Daybreak Red Team 和 Daybreak Defense Factory。前者通过 AI 智能体自动探测网页应用漏洞，后者可自动化生成补丁并部署到代码库。两者均基于 GPT-6 Cyber 模型开发。
+   原文：[打开原文](https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/)
+
+7. [Anthropic CEO Amodei坦言明年存在巨大不确定性，IPO前揭示核心财务挑战](https://reisen-ww.github.io/hot-pages/aihot/items/i12xwi9g7p8h3anmb8c1o4p11)
+   来源：The Decoder · 发布时间：2026-11-15 03:05（北京时间）
+   摘要：Anthropic CEO Amodei坦言明年存在巨大不确定性，IPO前揭示核心财务挑战。公司已投入近900亿美元用于计算资源，其中71亿美元将于2027年9月到期，远超多数标普500公司市值。Amodei提出通过动态采购计算资源和保持高现金储备来缓解风险，并计划通过IPO和私募融资共筹集约90.4亿美元，创史上最大IPO纪录。
+   原文：[打开原文](https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/)
+
+8. [纽约AI安全法生效，OpenAI、Anthropic等需合规申报](https://reisen-ww.github.io/hot-pages/aihot/items/qiy8ed5hcb518cgsdzf60b7zw)
+   来源：TechCrunch · AI · 发布时间：2026-11-11 04:52（北京时间）
+   摘要：纽约州于2026年11月10日宣布新AI安全法（RAISE法案）正式生效，要求年营收超5亿美元的大模型公司于2027年1月1日前完成注册、公开安全框架及72小时内报告重大事故。法案同步成立DIGIT监管办公室和AI责任研究中心，并与加州、伊利诺伊州形成监管联动。
+   原文：[打开原文](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
+
+9. [Anthropic Fable 5.2 完成真实自由职业任务占比达41%](https://reisen-ww.github.io/hot-pages/aihot/items/u2r9v9ra7bsoz2dpvfnqu37q8)
+   来源：The Decoder · 发布时间：2026-11-10 22:07（北京时间）
+   摘要：评测显示 Fable 5.2 完成真实自由职业任务占比达41%，超过 Opus 5.5 和 GPT-6 Astra 等竞品两倍以上。测试基于240个真实项目（总价值约14.4万美元），涵盖视频编辑、CAD设计、游戏开发等任务，Fable 5.2在3D建模、音频编辑和建筑设计领域表现突出。人类专家验证显示其完成复杂项目能力提升显著，但工业级产品设计和动画仍存短板。
+   原文：[打开原文](https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/)
 
 ## 论文研究
 
-1. [Anthropic 开发开源验证系统 FlashProve](https://reisen-ww.github.io/hot-pages/aihot/items/v3987bltvds2iev2b0t5fe1ka)
-   来源：TechCrunch · AI · 发布时间：2026-11-04 06:41（北京时间）
-   摘要：Anthropic 开发开源验证系统 FlashProve，防止AI公司暗中替换模型或夸大性能。该系统通过模型指纹验证输出来源，指纹不泄露权重参数，支持本地设备验证。已发布技术规格和代码（GitHub开源协议），目前处于研究阶段未部署。
-   原文：[打开原文](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
+**栏目导读**：AWS开源UAEF框架支持多维度AI代理评估，Antigravity发布teamwork协作工具解决数学与工程难题，Amazon SageMaker提出静默数据损坏的三种检测方法。
 
-2. [Google DeepMind发布Genie 4：实时世界模型与低延迟任务评测](https://reisen-ww.github.io/hot-pages/aihot/items/oeye439d8l050snqu345hsinx)
-   来源：Import AI · 发布时间：2026-11-02 22:30（北京时间）
-   摘要：Google DeepMind发布Genie 4，实时世界模型支持动态环境交互与物理模拟。Realtime-Bench评测显示主流LLMs（包括GPT-6-Astra、Claude Fable 5.1、Gemini 3.8等）在低延迟任务中通过率最高仅36%，需结合暂停时钟测试才能达到70%以上。Metis公司提出融合符号与神经推理的架构，强调显式知识溯源与可审计推理流程。
-   原文：[打开原文](https://importai.substack.com/p/import-ai-479-spacewar-low-latency)
+1. [AWS发布UAEF框架：支持多框架AI代理闭环评估的开源系统](https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0)
+   来源：AWS Machine Learning Blog · 发布时间：2026-11-11 23:50（北京时间） · 一手
+   摘要：AWS推出开源评估框架UAEF，支持LangGraph、LangChain等框架的AI代理进行多维度指标（工具调用、响应质量、推理能力等）评估。系统通过适配器统一处理不同框架的执行轨迹，存储结果至DynamoDB/S3，生成对比报告和LLM辅助分析。案例显示企业客户通过该框架检测退化、优化提示词和模型，实现闭环迭代。
+   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/)
 
-3. [CloudOpsBench开源评测揭示AI云运维最大瓶颈是推理能力](https://reisen-ww.github.io/hot-pages/aihot/items/gt1gczoss9nsvhtnrokkm722y)
-   来源：The Decoder · 发布时间：2026-11-05 00:42（北京时间）
-   摘要：CloudOpsBench开源评测显示，AI在云运维任务中约80%的失败源于推理不足（包括任务范围误判和未检查相关服务），20%为错误操作（部分导致基础设施不可逆损失）。测试基于AWS的45个真实运维任务，Claude Fable 5.1通过率60%，GPT-6 Astra 53%。项目已开源（Apache 2.0），GitHub提供详细失败分析。
-   原文：[打开原文](https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/)
+2. [Antigravity发布/teamwork与Gemini 4协作工具，解决多项数学与工程难题](https://reisen-ww.github.io/hot-pages/aihot/items/xntund3bmho9l8hdst87i1s9s)
+   来源：Google Research · 发布时间：2026-11-14 04:47（北京时间） · 一手
+   摘要：Antigravity发布新的多智能体协作工具/teamwork和(boost)，与Gemini 4模型合作解决了数学证明（如解决2013年Courtade–Kumar猜想）、量子计算、系统优化等领域多项长期未解问题，并已应用于Google生产基础设施优化。工具通过并行探索与专用验证器（如Lean 4证明器、未修改软件测试套件）自动验证解决方案，同时通过上下文分区防止多日任务中信息丢失。
+   原文：[打开原文](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
 
-4. [CWE-bench v2开源评测框架发布](https://reisen-ww.github.io/hot-pages/aihot/items/iieikpuba1gl6s5u8axc8qoyw)
-   来源：Hugging Face Blog · 发布时间：2026-11-03 08:00（北京时间） · 一手
-   摘要：Hugging Face发布CWE-bench v2开源评测框架，包含100个安全修复任务，覆盖91种常见漏洞类型。测试通过Docker化环境实现可复现性，支持Gemini、Claude等API模型评估。
-   原文：[打开原文](https://huggingface.co/blog/cwe-bench)
+3. [Amazon SageMaker HyperPod 静默数据损坏检测与恢复方法](https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc)
+   来源：AWS Machine Learning Blog · 发布时间：2026-11-12 07:30（北京时间） · 一手
+   摘要：本文介绍了在Amazon SageMaker HyperPod中检测和恢复静默数据损坏的三种方法：1）梯度非有限值检查（捕获NaN/Inf异常）；2）环式回放审计（通过跨节点微批次复现验证计算路径错误）；3）权重指纹比较（检测更新后权重不一致）。
+   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/)
 
 ## 技巧与观点
 
-1. [基于 Amazon Bedrock AgentCore 和 Nova 多模态嵌入的工程智能体系统构建教程](https://reisen-ww.github.io/hot-pages/aihot/items/cwvokgjp4izcpsphq6ihn552v)
-   来源：AWS Machine Learning Blog · 发布时间：2026-11-03 01:01（北京时间） · 一手
-   摘要：AWS 官方教程展示了如何通过 Amazon Bedrock AgentCore 构建多智能体工程助手，系统整合 Nova 多模态嵌入实现文本/图像检索和视觉相似度评分，使用 Strands Agents SDK 开发三个专用智能体（目录检索、确定性评估、知识查询），通过人类在环机制确保工程师决策权。
-   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/)
+1. [Amazon SageMaker HyperPod数据捕获助力模型优化飞轮](https://reisen-ww.github.io/hot-pages/aihot/items/g2q66un3csjmgeguf3k5r21u8)
+   来源：AWS Machine Learning Blog · 发布时间：2026-11-14 02:01（北京时间） · 一手
+   摘要：本文展示了如何利用Amazon SageMaker HyperPod数据捕获功能，记录实时推理数据并分析。通过Athena查询发现新家电品类识别盲区，编写SQL标签策略后进行LoRA微调，最终使新类别识别准确率从0%提升至100%，同时不影响原有类别表现。完整代码和测试数据在GitHub仓库中提供，支持在HyperPod集群上部署端到端闭环。
+   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/)
 
-2. [GitHub Copilot 发布智能体工程开发者指南](https://reisen-ww.github.io/hot-pages/aihot/items/rihs47h4er0orr9135aoivfxt)
-   来源：GitHub Blog · AI &amp; ML · 发布时间：2026-11-07 06:15（北京时间） · 一手
-   摘要：GitHub Copilot 发布智能体工程开发者指南，通过规划、构建、验证、观察四个阶段提升开发效率。数据显示团队采用AI后代码审查时间延长441%，Copilot支持跨设备会话延续、代码质量检查、安全漏洞扫描等功能，可自动化修复问题并生成回归测试用例。
-   原文：[打开原文](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
-
-3. [Deep Insight 如何应用四层次上下文工程优化AI代理](https://reisen-ww.github.io/hot-pages/aihot/items/xprw3rthlyn26nnnpvbzholx4)
-   来源：AWS Machine Learning Blog · 发布时间：2026-11-05 00:30（北京时间） · 一手
-   摘要：Deep Insight 通过架构隔离、提示控制、文件存储和验证机制四层次方法优化AI代理的上下文管理。具体实现包括：1. 多智能体架构隔离上下文；2. 提示限制输出token数；3. 将代码和结果存储到文件系统；4. 验证器独立复算验证。参考代码开源在GitHub，工具链基于Strands Agents SDK和Amazon Bedrock AgentCore。
-   原文：[打开原文](https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/)
+2. [Hugging Face发布TRELLIS.2 3D模型LoRA微调完整指南](https://reisen-ww.github.io/hot-pages/aihot/items/wsyantprlfkh6vtnr4mnpqocr)
+   来源：Hugging Face Blog · 发布时间：2026-11-12 08:00（北京时间） · 一手
+   摘要：Hugging Face发布基于LoRA的TRELLIS.2 3D模型微调教程，包含数据准备、训练命令和评估指标。教程使用188双鞋的GSO数据集，通过冷冻原始模型权重，仅微调控制物体形状和细节的DiT模块，最终使鞋底 Chamfer 距离降低66.7%（0.174→0.033），F-score提升186%（0.276→0.803）
+   原文：[打开原文](https://huggingface.co/blog/3d-lora-finetuning)

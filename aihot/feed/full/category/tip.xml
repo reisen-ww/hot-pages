@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS Bedrock Guardrails_denied topics配置最佳实践指南]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/g6pqbzv74tpy94bxov1lketwv</link>
+      <description><![CDATA[<p>AWS官方博客发布Denied Topics配置指南。核心建议：1. 用具体动作命名主题而非领域（如将Finance改为Investment Recommendations）。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/g6pqbzv74tpy94bxov1lketwv">https://reisen-ww.github.io/hot-pages/aihot/items/g6pqbzv74tpy94bxov1lketwv</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Mon, 16 Nov 2026 15:48:01 GMT</pubDate>
+      <guid isPermaLink="false">g6pqbzv74tpy94bxov1lketwv</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS Bedrock 管理知识库发布租户级定制回答功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j3q9na3j0qrphd2bu88t5g713</link>
+      <description><![CDATA[<p>AWS Bedrock 管理知识库发布租户级定制回答功能，支持企业按区域、团队等维度设置专属的语音、格式和策略。通过组合使用检索指令（retrieval instructions）和元数据过滤，可在共享知识库中实现租户数据隔离，并利用版本控制机制分阶段更新不同租户的配置。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j3q9na3j0qrphd2bu88t5g713">https://reisen-ww.github.io/hot-pages/aihot/items/j3q9na3j0qrphd2bu88t5g713</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Mon, 16 Nov 2026 15:46:28 GMT</pubDate>
+      <guid isPermaLink="false">j3q9na3j0qrphd2bu88t5g713</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Amazon Bedrock 的成本归因和控制机制]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/fvs03xyh0b1bmha1ery368zx0</link>
       <description><![CDATA[<p>本文详细介绍了如何配置 Amazon Bedrock 的成本归因和控制机制，包括 IAM 主体追踪、用户工作站配置、工具指向 Amazon Bedrock、启用成本归因以及使用 Athena 查询和可视化工具。</p>

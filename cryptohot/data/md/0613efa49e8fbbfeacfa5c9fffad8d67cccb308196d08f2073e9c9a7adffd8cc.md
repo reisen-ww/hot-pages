@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>金融热点 — 精选全文</title>
+    <link>https://reisen-ww.github.io/hot-pages/cryptohot/</link>
+    <description>与精选摘要相同的最新 50 条；仅对明确允许再分发的来源内联正文，其余仍提供摘要和阅读入口。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://reisen-ww.github.io/hot-pages/cryptohot/feed/full.xml" rel="self" type="application/rss+xml" />
+    <ttl>30</ttl>
+    <generator>金融热点 (https://reisen-ww.github.io/hot-pages/cryptohot/agent)</generator>
+    <item>
+      <title><![CDATA[英伟达发布Rubin HPC GPU及CUDA-X科学计算扩展]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/gnra67bz6cd39690z58ytwnkw</link>
+      <description><![CDATA[<p>英伟达在SC26发布专为科学计算优化的Rubin HPC GPU及CUDA-X扩展，将天文学数据关联处理时间从数月缩短至8分钟，并展示多领域科学计算加速效果。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3786045">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/gnra67bz6cd39690z58ytwnkw">https://reisen-ww.github.io/hot-pages/cryptohot/items/gnra67bz6cd39690z58ytwnkw</a></p>]]></description>
+      <category>日韩台科技股</category>
+      <pubDate>Mon, 16 Nov 2026 17:43:43 GMT</pubDate>
+      <guid isPermaLink="false">gnra67bz6cd39690z58ytwnkw</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[Solana交易所 Jupiter 推出许可制借贷市场，支持 Bullish 代币化股票抵押]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/b9r8dp3ruzgm5zb3b7p05xuag</link>
+      <description><![CDATA[<p>Solana 交易所 Jupiter 宣布推出许可制借贷市场，首批支持纽约证券交易所上市的 Bullish 代币化股票作为抵押品。用户可通过链上清算机制借入资产，该市场目前仅在部分司法辖区开放。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2305314">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/b9r8dp3ruzgm5zb3b7p05xuag">https://reisen-ww.github.io/hot-pages/cryptohot/items/b9r8dp3ruzgm5zb3b7p05xuag</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 17:10:42 GMT</pubDate>
+      <guid isPermaLink="false">b9r8dp3ruzgm5zb3b7p05xuag</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[道琼斯单日暴跌450点，Nvidia拖累AI股，美国商务部关闭技术租赁漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/t42rppvhgeafh4o7ai3kbziqd</link>
+      <description><![CDATA[<p>美国商务部关闭Nvidia技术租赁漏洞致单日暴跌450点，Nvidia股价周跌13%；Anthropic估值1.4万亿美元筹备IPO，亚洲科技股受拖累普跌；分析师警示Nvidia管理层动荡或致6-7个月市场信心不足。</p>
+<p>🔗 <a href="https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/t42rppvhgeafh4o7ai3kbziqd">https://reisen-ww.github.io/hot-pages/cryptohot/items/t42rppvhgeafh4o7ai3kbziqd</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Mon, 16 Nov 2026 16:56:22 GMT</pubDate>
+      <guid isPermaLink="false">t42rppvhgeafh4o7ai3kbziqd</guid>
+      <author>noreply@reisen-ww.github.io (CNBC Top News)</author>
+    </item>
+    <item>
+      <title><![CDATA[英国前首相 Boris Johnson 在 Solana Breakpoint 会议上支持区块链代币化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/upzw1c7zimad5ouztg1rej6dr</link>
+      <description><![CDATA[<p>英国前首相 Boris Johnson 在 Solana Breakpoint 会议上支持区块链和代币化，但重申对加密货币投机的担忧。该声明反映了其对加密货币市场投机行为的持续警惕，并强调区块链技术的合规应用。</p>
+<p>🔗 <a href="https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/upzw1c7zimad5ouztg1rej6dr">https://reisen-ww.github.io/hot-pages/cryptohot/items/upzw1c7zimad5ouztg1rej6dr</a></p>]]></description>
+      <category>加密监管</category>
+      <pubDate>Mon, 16 Nov 2026 16:49:23 GMT</pubDate>
+      <guid isPermaLink="false">upzw1c7zimad5ouztg1rej6dr</guid>
+      <author>noreply@reisen-ww.github.io (The Block)</author>
+    </item>
+    <item>
+      <title><![CDATA[Bitmine Holdings ETH持仓降至118亿美元，Tom Lee称 Anthropic IPO或为市场波动主因]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/vehihxzurle8wd4vbce2jnw8y</link>
+      <description><![CDATA[<p>Bitmine Holdings 11月16日公告其加密资产和股权持仓总价值降至118亿美元，其中ETH持仓因价格下跌从14.3亿降至11.8亿。Tom Lee指出ETH近两周28%跌幅与Anthropic 11月18日IPO相关，并类比2020年SpaceX IPO前的ETH表现。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/tom-lee-points-to-anthropic-ipo-as-ether-slide-cuts-bitmines-holdings-to-11-8-billion/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/vehihxzurle8wd4vbce2jnw8y">https://reisen-ww.github.io/hot-pages/cryptohot/items/vehihxzurle8wd4vbce2jnw8y</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Mon, 16 Nov 2026 16:45:43 GMT</pubDate>
+      <guid isPermaLink="false">vehihxzurle8wd4vbce2jnw8y</guid>
+      <author>noreply@reisen-ww.github.io (Unchained)</author>
+    </item>
+    <item>
+      <title><![CDATA[DTCC与Barclays合作上线Solana资产代币化服务，释放闲置抵押品价值]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/m6033n56ei8e03azrbb10mooe</link>
+      <description><![CDATA[<p>DTCC与Barclays宣布合作推出Solana链资产代币化服务，计划2027年第二季度上线。服务初期将代币化Russell 1000股票、指数ETF和美国国债，通过抵押品24小时流动管理提升机构资金使用效率，预计释放数百万至数十亿美元流动性。Barclays高管表示已开始实践，并希望推动更多中央证券登记机构接入Solana网络构建跨大洲基础设施层。</p>
+<p>🔗 <a href="https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/m6033n56ei8e03azrbb10mooe">https://reisen-ww.github.io/hot-pages/cryptohot/items/m6033n56ei8e03azrbb10mooe</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 16:11:31 GMT</pubDate>
+      <guid isPermaLink="false">m6033n56ei8e03azrbb10mooe</guid>
+      <author>noreply@reisen-ww.github.io (Decrypt)</author>
+    </item>
+    <item>
+      <title><![CDATA[英伟达CEO更迭及分析师上调至‘强力买入’评级]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/wbagz4a297o3whcs58xxcv4mo</link>
+      <description><![CDATA[<p>分析师上调英伟达至‘强力买入’评级，目标价$215（潜在收益32%），依据$279亿合同供应及财务展望稳定。第四季度营收预期$124亿，若达预期可逐步建仓。主要风险包括CEO搜索延长、调查及订单延迟，营收低于$120亿或毛利率跌破71%则维持持有评级。</p>
+<p>🔗 <a href="https://seekingalpha.com/article/4968624-nvidia-ceo-search-offers-several-paths-each-supports-strong-buy-upgrade?source=feed_all_articles">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/wbagz4a297o3whcs58xxcv4mo">https://reisen-ww.github.io/hot-pages/cryptohot/items/wbagz4a297o3whcs58xxcv4mo</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Mon, 16 Nov 2026 15:56:14 GMT</pubDate>
+      <guid isPermaLink="false">wbagz4a297o3whcs58xxcv4mo</guid>
+      <author>noreply@reisen-ww.github.io (Seeking Alpha)</author>
+    </item>
+    <item>
+      <title><![CDATA[DeFi Development 上周增持 9,482 枚 SOL，持仓总量升至约 262 万枚]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/tgbw5rgwo5d7x31eyomljorgi</link>
+      <description><![CDATA[<p>DeFi Development Corp.（DFDV）上周增持 9,482 枚 Solana 代币，持仓总量升至约 262 万枚，实现连续第 10 周增长。此外，其 CHAD 优先股已连续 31 个工作日支付股息，当前浮动年化股息率为 14%（每股年化股息 1.40 美元）。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2305293">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/tgbw5rgwo5d7x31eyomljorgi">https://reisen-ww.github.io/hot-pages/cryptohot/items/tgbw5rgwo5d7x31eyomljorgi</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Mon, 16 Nov 2026 15:31:43 GMT</pubDate>
+      <guid isPermaLink="false">tgbw5rgwo5d7x31eyomljorgi</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[Lighter交易所因API密钥泄露致超1500万美元资金外流]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/mkw6ewgq4wc736wfbt45qydro</link>
+      <description><![CDATA[<p>Lighter交易所于11月16日披露遭遇API密钥泄露事件，攻击者于10:11:47 UTC通过智能合约提现10,390,000 USDC，经CoW Swap兑换5,760 ETH后转至Hyperliquid。未确认的细节包括：1）是否涉及2个市场做市商账户（$15.5M）；2）资金是否用于购买Monero（XMR）；3）Lighter交易所是否已升级智能合约。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/lighter-pins-drain-on-traders-leaked-api-key-says-contracts-were-not-hit/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/mkw6ewgq4wc736wfbt45qydro">https://reisen-ww.github.io/hot-pages/cryptohot/items/mkw6ewgq4wc736wfbt45qydro</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 13:25:22 GMT</pubDate>
+      <guid isPermaLink="false">mkw6ewgq4wc736wfbt45qydro</guid>
+      <author>noreply@reisen-ww.github.io (Unchained)</author>
+    </item>
+    <item>
+      <title><![CDATA[Lighter API密钥泄露事件疑似关联Abraxas Capital，Hyperliquid空头仓位缩至7000万美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/rbxp5vo7a7afzer1aw31yktk6</link>
+      <description><![CDATA[<p>Abraxas Capital 因 Lighter API密钥泄露事件，在 Hyperliquid 平仓空头并提取约1.5亿美元资金。过去24小时内其账户资产价值减少1.5亿美元，空头仓位规模已缩减至约7000万美元。相关消息尚待进一步确认。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e481-a21c-7743-bb01-9e40289e1194">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/rbxp5vo7a7afzer1aw31yktk6">https://reisen-ww.github.io/hot-pages/cryptohot/items/rbxp5vo7a7afzer1aw31yktk6</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Mon, 16 Nov 2026 13:17:45 GMT</pubDate>
+      <guid isPermaLink="false">rbxp5vo7a7afzer1aw31yktk6</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[Ledger为Solana生态引入清晰签名功能，结束盲签时代]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/tvurlhy5gni2yq74vb3exmrbb</link>
+      <description><![CDATA[<p>Ledger为Solana生态引入清晰签名功能，覆盖九大应用及18项常见操作。用户现在可预览Jupiter等平台交易的具体内容（发送/接收金额、协议方信息），避免盲签风险。该功能由Solana基金会与Anza合作开发，Atom设备将首次搭载Solana Seeker应用商店（含1500+应用）。</p>
+<p>🔗 <a href="https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/tvurlhy5gni2yq74vb3exmrbb">https://reisen-ww.github.io/hot-pages/cryptohot/items/tvurlhy5gni2yq74vb3exmrbb</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 13:12:08 GMT</pubDate>
+      <guid isPermaLink="false">tvurlhy5gni2yq74vb3exmrbb</guid>
+      <author>noreply@reisen-ww.github.io (Decrypt)</author>
+    </item>
+    <item>
+      <title><![CDATA[Strive宣布增持251枚比特币，总持仓达43,404枚]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/si6ywkom51gajfmr0i392on0m</link>
+      <description><![CDATA[<p>Strive宣布增持251枚比特币（均价69,853美元），总持仓达43,404枚，并通过优先股SAT斯ATM计划筹集1000万美元资金，股息覆盖期133个月，放大比率76%。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2305241">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/si6ywkom51gajfmr0i392on0m">https://reisen-ww.github.io/hot-pages/cryptohot/items/si6ywkom51gajfmr0i392on0m</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Mon, 16 Nov 2026 13:07:15 GMT</pubDate>
+      <guid isPermaLink="false">si6ywkom51gajfmr0i392on0m</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国加州通过第42号提案：数字资产等个人财产免征新增税]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/kmkv0cb8w41tedk4ylmamivch</link>
+      <description><![CDATA[<p>美国加州通过第42号提案，禁止对数字资产等个人财产征收新增税。提案最初作为毒丸条款阻止亿万富翁税，最终获选民通过并限制追溯征税。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e464-b3b8-77fb-b3f8-ebe26dc19677">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/kmkv0cb8w41tedk4ylmamivch">https://reisen-ww.github.io/hot-pages/cryptohot/items/kmkv0cb8w41tedk4ylmamivch</a></p>]]></description>
+      <category>加密监管</category>
+      <pubDate>Mon, 16 Nov 2026 12:46:09 GMT</pubDate>
+      <guid isPermaLink="false">kmkv0cb8w41tedk4ylmamivch</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[比特币价格周末回落至6.2万美元区间 周一小幅反弹]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/povhx6qkmphvoqkmbv3ffqvvl</link>
+      <description><![CDATA[<p>比特币价格周末回落至约62,000美元，周一小幅反弹至64,200附近。美国10年期国债收益率升至5.15%，美联储12月加息概率较高。分析指出，比特币下跌与通胀数据上升及市场对AI和科技板块的担忧有关，同时比特币ETF连续七日净流出超1.9亿美元。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/bitcoin-hovers-near-64200-after-sliding-to-about-62000-over-the-weekend/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/povhx6qkmphvoqkmbv3ffqvvl">https://reisen-ww.github.io/hot-pages/cryptohot/items/povhx6qkmphvoqkmbv3ffqvvl</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Mon, 16 Nov 2026 11:00:18 GMT</pubDate>
+      <guid isPermaLink="false">povhx6qkmphvoqkmbv3ffqvvl</guid>
+      <author>noreply@reisen-ww.github.io (Unchained)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国国会监督委员会提议立法禁止立法者及联邦官员参与预测市场]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/jfnxshqwg274my58lqvb11h4n</link>
+      <description><![CDATA[<p>美国国会监督委员会发布备忘录，建议立法禁止立法者及联邦官员参与预测市场，包括对涉及政府行动或政治结果的合约进行交易限制。备忘录援引CFTC对前议员George Santos和白宫操作员Gabriel Perez的处罚案例，并指出现有STOCK Act已覆盖部分行为。委员会要求平台与监管机构共享数据以执行新规，并提及2023年5月对Kalshi、Polymarket等平台的调查进展。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/house-oversight-staff-float-prediction-market-ban-for-lawmakers-and-federal-officials/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/jfnxshqwg274my58lqvb11h4n">https://reisen-ww.github.io/hot-pages/cryptohot/items/jfnxshqwg274my58lqvb11h4n</a></p>]]></description>
+      <category>加密监管</category>
+      <pubDate>Mon, 16 Nov 2026 10:30:28 GMT</pubDate>
+      <guid isPermaLink="false">jfnxshqwg274my58lqvb11h4n</guid>
+      <author>noreply@reisen-ww.github.io (Unchained)</author>
+    </item>
+    <item>
+      <title><![CDATA[德国立法赋予海关直接没收价值超10万欧元加密资产的权力]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/nljkcqy8hjk2p2myd1azf28nh</link>
+      <description><![CDATA[<p>德国议会通过《海关金融正义法》，允许海关直接没收价值超10万欧元且来源存疑的加密资产，无需先启动刑事调查。反对党质疑此举更易打击现金走私而非洗钱大案。法律需经联邦院最终批准，预计2027年实施。德国此前已多次查获并拍卖加密资产，2024年曾没收Movie2K平台近5万枚BTC。</p>
+<p>🔗 <a href="https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/nljkcqy8hjk2p2myd1azf28nh">https://reisen-ww.github.io/hot-pages/cryptohot/items/nljkcqy8hjk2p2myd1azf28nh</a></p>]]></description>
+      <category>加密监管</category>
+      <pubDate>Mon, 16 Nov 2026 10:25:15 GMT</pubDate>
+      <guid isPermaLink="false">nljkcqy8hjk2p2myd1azf28nh</guid>
+      <author>noreply@reisen-ww.github.io (Decrypt)</author>
+    </item>
+    <item>
+      <title><![CDATA[以太坊联合创始人支持 leanPCS 方案加速量子安全升级]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/rpoogdutcgf9sc2hozucuh9up</link>
+      <description><![CDATA[<p>以太坊联合创始人 Vitalik Buterin 支持 leanPCS 方案，提出通过聚合量子安全签名和证明实现快速升级。该方案对比 leanSPHINCS（单类型签名，成本约 3,000 gas）和 leanSTARK（需新编程语言），强调 leanPCS 可减少 98% 链上数据存储，且无需协议层变更。</p>
+<p>🔗 <a href="https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/rpoogdutcgf9sc2hozucuh9up">https://reisen-ww.github.io/hot-pages/cryptohot/items/rpoogdutcgf9sc2hozucuh9up</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 09:54:55 GMT</pubDate>
+      <guid isPermaLink="false">rpoogdutcgf9sc2hozucuh9up</guid>
+      <author>noreply@reisen-ww.github.io (Decrypt)</author>
+    </item>
+    <item>
+      <title><![CDATA[百度2026年Q3财报：AI云收入同比增94% Token调用收入暴增1159%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/siis5ajnr2chcmcjy4qldun9d</link>
+      <description><![CDATA[<p>百度2026年第三季度营收308亿元，AI云业务收入同比增94%至82亿元，Token调用收入暴增1159%达132亿元，占一般性业务收入53%。自动驾驶扩展至30个城市，累计行驶里程3.9亿公里。自由现金流为负45.71亿元，资本开支73亿元，研发投入48亿元。爱奇艺收入同比降10%拖累业绩。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3786013">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/siis5ajnr2chcmcjy4qldun9d">https://reisen-ww.github.io/hot-pages/cryptohot/items/siis5ajnr2chcmcjy4qldun9d</a></p>]]></description>
+      <category>A股与港股</category>
+      <pubDate>Mon, 16 Nov 2026 09:04:55 GMT</pubDate>
+      <guid isPermaLink="false">siis5ajnr2chcmcjy4qldun9d</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[Upbit运营商Dunamu第三季度净亏损186亿韩元，营收同比下降60.7%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/blallipj9v42hlh6cvaw0xg7q</link>
+      <description><![CDATA[<p>Dunamu（Upbit运营商）2026年第三季度净亏损186亿韩元，营收同比下滑60.7%；全球数字资产市场交易萎缩、投资情绪减弱及营业费用负担是主要影响因素。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e350-0147-7654-8c4d-c0bb9fbb421d">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/blallipj9v42hlh6cvaw0xg7q">https://reisen-ww.github.io/hot-pages/cryptohot/items/blallipj9v42hlh6cvaw0xg7q</a></p>]]></description>
+      <category>日韩台科技股</category>
+      <pubDate>Mon, 16 Nov 2026 07:43:58 GMT</pubDate>
+      <guid isPermaLink="false">blallipj9v42hlh6cvaw0xg7q</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[日本第三季度GDP意外收缩至0.1% 主要受能源成本上升拖累]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/chpl5cp4a8h0r1i0jxoekutji</link>
+      <description><![CDATA[<p>日本第三季度GDP同比收缩0.1%，主要受能源成本上升影响，导致消费和净出口下滑。日经225指数下跌0.62%，10年期国债收益率升至2.885%，日元兑美元汇率跌至159.76。State Street经济学家指出实际国内最终销售同比降幅达2.1%，创疫情后最大跌幅；Capital Economics仍预计日本央行12月将加息25基点。</p>
+<p>🔗 <a href="https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/chpl5cp4a8h0r1i0jxoekutji">https://reisen-ww.github.io/hot-pages/cryptohot/items/chpl5cp4a8h0r1i0jxoekutji</a></p>]]></description>
+      <category>宏观</category>
+      <pubDate>Mon, 16 Nov 2026 02:56:24 GMT</pubDate>
+      <guid isPermaLink="false">chpl5cp4a8h0r1i0jxoekutji</guid>
+      <author>noreply@reisen-ww.github.io (CNBC Markets)</author>
+    </item>
+    <item>
+      <title><![CDATA[越南散户抛售股市转投银行理财：利率近10%对冲3%年度跌幅]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/fulm3171jm674zgg9o7koent9</link>
+      <description><![CDATA[<p>越南散户因银行理财利率近10%撤离股市，致2026年股市累计下跌3%。外资年内净卖出46亿美元，散户账户现金创两年新低（649亿美元）。银行利率连续11个月上调，柜台利率达7%，私下协商最高9.1%。分析人士认为信贷增速超存款增速或维持高利率，但短期市场信心不足。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3785979">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/fulm3171jm674zgg9o7koent9">https://reisen-ww.github.io/hot-pages/cryptohot/items/fulm3171jm674zgg9o7koent9</a></p>]]></description>
+      <category>宏观</category>
+      <pubDate>Mon, 16 Nov 2026 01:20:12 GMT</pubDate>
+      <guid isPermaLink="false">fulm3171jm674zgg9o7koent9</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[英伟达CEO职位争夺：黄仁勋盟友游说董事会，美国财政部施压要求换血]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/bmu9mb8l1inkk87tbjwomqkoe</link>
+      <description><![CDATA[<p>美国财政部部长贝森特公开施压英伟达董事会更换领导层，要求10天内提供合规调查结果。黄仁勋盟友组建硅谷高管团队游说复职，马斯克等53233名股东联署支持。贝森特质疑英伟达违规出口AI芯片至新加坡，要求董事会从外部物色继任者。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3785975">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/bmu9mb8l1inkk87tbjwomqkoe">https://reisen-ww.github.io/hot-pages/cryptohot/items/bmu9mb8l1inkk87tbjwomqkoe</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Mon, 16 Nov 2026 00:17:14 GMT</pubDate>
+      <guid isPermaLink="false">bmu9mb8l1inkk87tbjwomqkoe</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[特斯拉与SpaceX合并谈判提速，最快12月宣布交易]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/a5igdxmqbfn32vvpp0xw4ymc1</link>
+      <description><![CDATA[<p>特斯拉与SpaceX合并谈判提速，最快12月宣布交易；英伟达CEO黄仁勋可能复职，AI芯片融资平台进展缓慢；美国全国停飞事件暴露空管系统老旧问题；美联储报告指出资产估值压力持续高位，两高官警告通胀扩散风险。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3785971">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/a5igdxmqbfn32vvpp0xw4ymc1">https://reisen-ww.github.io/hot-pages/cryptohot/items/a5igdxmqbfn32vvpp0xw4ymc1</a></p>]]></description>
+      <category>宏观</category>
+      <pubDate>Sun, 15 Nov 2026 23:21:23 GMT</pubDate>
+      <guid isPermaLink="false">a5igdxmqbfn32vvpp0xw4ymc1</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[华尔街21家银行联合成立稳定币项目Faro挑战现有巨头]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/xye2rw5n7tbcqyvw1yno6i3pi</link>
+      <description><![CDATA[<p>华尔街21家银行联合成立稳定币项目Faro，计划2027年1月1日启动，旨在挑战Tether和Circle占据的85%稳定币市场。SoFi将稳定币SoFiUSD扩展至Polygon生态，Anchorage与Visa合作实现稳定币跨境结算，Mastercard推出AI代理支付功能。监管推动方面，2025年通过的GENIUS法案为银行进入稳定币业务提供合规框架。</p>
+<p>🔗 <a href="https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/xye2rw5n7tbcqyvw1yno6i3pi">https://reisen-ww.github.io/hot-pages/cryptohot/items/xye2rw5n7tbcqyvw1yno6i3pi</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Sun, 15 Nov 2026 16:01:02 GMT</pubDate>
+      <guid isPermaLink="false">xye2rw5n7tbcqyvw1yno6i3pi</guid>
+      <author>noreply@reisen-ww.github.io (Decrypt)</author>
+    </item>
+    <item>
+      <title><![CDATA[比特币ETF November月资金净流出达21亿美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/c33r7tm3l3omiu5lngbyz6c0i</link>
+      <description><![CDATA[<p>美国比特币ETF November月资金净流出达21亿美元，单周流出8.29亿美元创七日连跌纪录。CoinGecko数据显示比特币周跌幅15%至64500美元，ETF单日最高流出185.4百万美元。摩根大通最新持仓接近十亿美元但发生于市场暴跌前</p>
+<p>🔗 <a href="https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/c33r7tm3l3omiu5lngbyz6c0i">https://reisen-ww.github.io/hot-pages/cryptohot/items/c33r7tm3l3omiu5lngbyz6c0i</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 14:01:02 GMT</pubDate>
+      <guid isPermaLink="false">c33r7tm3l3omiu5lngbyz6c0i</guid>
+      <author>noreply@reisen-ww.github.io (Decrypt)</author>
+    </item>
+    <item>
+      <title><![CDATA[美银：DRAM环比涨8%而NAND现货周跌12% 开启存储芯片分化周期]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/p76nib20owks78k9tbs71c3ep</link>
+      <description><![CDATA[<p>美银报告显示DRAM环比上涨8%而NAND现货价格周跌12%（512Gb晶圆周环比跌12%至14.3美元），存储芯片市场进入分化周期。NAND现货累计回调20%，主要受PC/手机订单疲软及2027Q1合约价谈判可能推迟影响，但厂商通过促销维持eSSD价格微涨。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3785963">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/p76nib20owks78k9tbs71c3ep">https://reisen-ww.github.io/hot-pages/cryptohot/items/p76nib20owks78k9tbs71c3ep</a></p>]]></description>
+      <category>宏观</category>
+      <pubDate>Sun, 15 Nov 2026 08:33:47 GMT</pubDate>
+      <guid isPermaLink="false">p76nib20owks78k9tbs71c3ep</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[高盛预测2027美元将迎拐点：AI资本开支见顶或致汇率逆转]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/wssqllzs7tgqe3jx5dohx8uhc</link>
+      <description><![CDATA[<p>高盛预测2027年美元将迎来拐点，AI资本开支见顶或导致汇率逆转。报告指出美元短期受美联储鹰派政策支撑，但外资持有的1.47万亿美元美国股票中90%为账面浮盈且对冲比率历史低位，存在结构性压制风险。同时分析日元低估30%、日本央行加息预期及AI叙事对冲价值。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3785958">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/wssqllzs7tgqe3jx5dohx8uhc">https://reisen-ww.github.io/hot-pages/cryptohot/items/wssqllzs7tgqe3jx5dohx8uhc</a></p>]]></description>
+      <category>宏观</category>
+      <pubDate>Sun, 15 Nov 2026 07:23:13 GMT</pubDate>
+      <guid isPermaLink="false">wssqllzs7tgqe3jx5dohx8uhc</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[费城半导体指数单周涨8% 对冲基金加码做空科技股]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/jd5cyuzwja63s4ju8v2tmc6je</link>
+      <description><![CDATA[<p>费城半导体指数上周单周涨幅逾8% 创下4月以来最佳表现 标普500同期上涨2.5% 但高盛数据显示对冲基金连续两周净卖出美股且本周以新建空头为主 信息技术板块多空比降至1.5创2016年以来新低 金融板块单周净卖出达-2.2个标准差居各板块之首</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3785954">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/jd5cyuzwja63s4ju8v2tmc6je">https://reisen-ww.github.io/hot-pages/cryptohot/items/jd5cyuzwja63s4ju8v2tmc6je</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Sun, 15 Nov 2026 02:53:37 GMT</pubDate>
+      <guid isPermaLink="false">jd5cyuzwja63s4ju8v2tmc6je</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[比特币、以太坊反弹后市场十天内蒸发571亿美元抛售加速]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/w8nankzw9pbffyirjk0ixf665</link>
+      <description><![CDATA[<p>加密货币市场十天内蒸发571亿美元，比特币、以太坊反弹后抛售加速，11月12日价格跌破7.2万美元触发新一轮抛售。</p>
+<p>🔗 <a href="https://thedefiant.io/news/markets/crypto-sheds-571-billion-in-ten-days-as-losses-deepen">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/w8nankzw9pbffyirjk0ixf665">https://reisen-ww.github.io/hot-pages/cryptohot/items/w8nankzw9pbffyirjk0ixf665</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 02:21:35 GMT</pubDate>
+      <guid isPermaLink="false">w8nankzw9pbffyirjk0ixf665</guid>
+      <author>noreply@reisen-ww.github.io (The Defiant)</author>
+    </item>
+    <item>
+      <title><![CDATA[JPYC发行一周年：日本企业支付场景拓展但面临单次100万日元上限限制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/smy8pw1rz8b0kwhguwz7ko5ns</link>
+      <description><![CDATA[<p>JPYC发行一周年流通规模仅达目标四分之一，应用场景拓展至零售支付、企业付款及海外交易。但单次100万日元上限成为增长障碍，兑换及交易规则尚不明确，Upbit上币曾引发向上脱锚考验。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304843">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/smy8pw1rz8b0kwhguwz7ko5ns">https://reisen-ww.github.io/hot-pages/cryptohot/items/smy8pw1rz8b0kwhguwz7ko5ns</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 02:16:04 GMT</pubDate>
+      <guid isPermaLink="false">smy8pw1rz8b0kwhguwz7ko5ns</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[某巨鲸持有3万枚ETH空单 浮盈1560万美元成Hyperliquid最高账户]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/mxsaktf7vsnrf41gybiskt79w</link>
+      <description><![CDATA[<p>某巨鲸持有3万枚ETH空单 浮盈1560万美元成Hyperliquid最高账户。此前该地址做多ETH和BTC获利1777.7万美元，总盈利达3587万美元。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304841">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/mxsaktf7vsnrf41gybiskt79w">https://reisen-ww.github.io/hot-pages/cryptohot/items/mxsaktf7vsnrf41gybiskt79w</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 02:11:46 GMT</pubDate>
+      <guid isPermaLink="false">mxsaktf7vsnrf41gybiskt79w</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[Strategy公司比特币持仓浮亏扩大至111.4亿美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/lum2eed70pznh70ih54p9e8ex</link>
+      <description><![CDATA[<p>Strategy公司提交SEC 8-K文件披露，其持有850,364枚BTC（比特币），总成本641.6亿美元，当前浮亏达111.4亿美元。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304838">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/lum2eed70pznh70ih54p9e8ex">https://reisen-ww.github.io/hot-pages/cryptohot/items/lum2eed70pznh70ih54p9e8ex</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 01:54:36 GMT</pubDate>
+      <guid isPermaLink="false">lum2eed70pznh70ih54p9e8ex</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[交易员0xc05b 10小时内被清算7次 总亏损1647万美元 涉及比特币和以太坊仓位]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/jmr1j51fege2acj13coqq34au</link>
+      <description><![CDATA[<p>交易员0xc05b在过去10小时内累计遭遇7次清算，总亏损约1647万美元，其中172枚比特币和2984枚以太坊仓位价值分别占1103万美元和544万美元。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304833">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/jmr1j51fege2acj13coqq34au">https://reisen-ww.github.io/hot-pages/cryptohot/items/jmr1j51fege2acj13coqq34au</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 01:41:57 GMT</pubDate>
+      <guid isPermaLink="false">jmr1j51fege2acj13coqq34au</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[SpaceX星舰完成轨道回收测试 马斯克称这是估值逻辑验证]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/qgakdxs7qs3wyrzq5fbri9drv</link>
+      <description><![CDATA[<p>SpaceX星舰上级首次被发射塔机械臂捕获，完成全球首次轨道返回回收。摩根士丹利指出该里程碑将降低轨道数据中心建设成本，支撑其万亿估值。但助推器因发动机提前关机未能回收，SpaceX股价较IPO价仅高出3%。星舰若实现双级完全回收，将使Starlink部署成本降低90%，同时为AI算力基础设施提供新路径。</p>
+<p>🔗 <a href="https://wallstreetcn.com/articles/3785950">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/qgakdxs7qs3wyrzq5fbri9drv">https://reisen-ww.github.io/hot-pages/cryptohot/items/qgakdxs7qs3wyrzq5fbri9drv</a></p>]]></description>
+      <category>加密监管</category>
+      <pubDate>Sun, 15 Nov 2026 01:30:29 GMT</pubDate>
+      <guid isPermaLink="false">qgakdxs7qs3wyrzq5fbri9drv</guid>
+      <author>noreply@reisen-ww.github.io (华尔街见闻)</author>
+    </item>
+    <item>
+      <title><![CDATA[币安因比特币价格下跌导致空头清算金额接近8000万美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/sflm4s1ie9bkf84z5nzhg2oss</link>
+      <description><![CDATA[<p>币安因比特币价格下跌导致空头清算金额接近8000万美元。CoinGlass 记录全市场清算金额达2.05亿美元，其中币安清算占比显著，且清算主要针对做多比特币的合约。</p>
+<p>🔗 <a href="https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/sflm4s1ie9bkf84z5nzhg2oss">https://reisen-ww.github.io/hot-pages/cryptohot/items/sflm4s1ie9bkf84z5nzhg2oss</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 01:24:59 GMT</pubDate>
+      <guid isPermaLink="false">sflm4s1ie9bkf84z5nzhg2oss</guid>
+      <author>noreply@reisen-ww.github.io (The Defiant)</author>
+    </item>
+    <item>
+      <title><![CDATA[多名巨鲸趁低吸纳ETH，Erik Voorhees关联钱包单笔买入1.25亿美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/o13cwmn2aqz1wth6cymvskwpk</link>
+      <description><![CDATA[<p>Erik Voorhees关联钱包斥资1.25亿美元以平均价$1972买入63,540枚ETH，同时7 Siblings（6,088万美元）、王纯（币安提现10,997枚，$2188万）和58bro.eth（OKX提现10,501枚，$2077万）也大额增持。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1dccd-26bb-728e-aa55-73bdb159eb74">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/o13cwmn2aqz1wth6cymvskwpk">https://reisen-ww.github.io/hot-pages/cryptohot/items/o13cwmn2aqz1wth6cymvskwpk</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 01:23:18 GMT</pubDate>
+      <guid isPermaLink="false">o13cwmn2aqz1wth6cymvskwpk</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[鲸鱼平台理财资金无法提现引监管介入，涉案金额超5亿元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/tkvlvqx33hwap5e6jsnv0l523</link>
+      <description><![CDATA[<p>鲸鱼平台理财资金无法提现，涉案金额超5亿元，警方已立案调查。平台运营公司吉才神无金融牌照，涉嫌非法吸收公众存款，且存在偷税记录，部分资金已被冻结。投资者正通过法律途径追讨损失。</p>
+<p>🔗 <a href="http://www.eeo.com.cn/2026/1115/1093393.shtml">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/tkvlvqx33hwap5e6jsnv0l523">https://reisen-ww.github.io/hot-pages/cryptohot/items/tkvlvqx33hwap5e6jsnv0l523</a></p>]]></description>
+      <category>加密监管</category>
+      <pubDate>Sun, 15 Nov 2026 01:17:40 GMT</pubDate>
+      <guid isPermaLink="false">tkvlvqx33hwap5e6jsnv0l523</guid>
+      <author>noreply@reisen-ww.github.io (经济观察网)</author>
+    </item>
+    <item>
+      <title><![CDATA[欧易OKX比特币价格跌破63000美元 日内跌幅4.21%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/bfentzvru9rj6y16n5iasi6rz</link>
+      <description><![CDATA[<p>欧易OKX行情显示，比特币现报62979.20美元/枚，日内下跌4.21%跌破63000美元。巨鲸Loracle持有BTC等多资产多头仓位累计浮亏2670万美元。分析师指出凌晨急跌或因周末流动性差时集中卖出引发的连环踩踏。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1dcba-7ed2-7656-8934-5afb121cc187">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/bfentzvru9rj6y16n5iasi6rz">https://reisen-ww.github.io/hot-pages/cryptohot/items/bfentzvru9rj6y16n5iasi6rz</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 01:02:51 GMT</pubDate>
+      <guid isPermaLink="false">bfentzvru9rj6y16n5iasi6rz</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[香港七旬老人遭YouTube广告诈骗损失1800万港元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/t23nn4tim29b0ovp6xms5ba3n</link>
+      <description><![CDATA[<p>香港一名七旬老人因回应YouTube投资广告诈骗，损失约1800万港元USDT和ETH。警方披露该案为近期最大个人诈骗案例，同期记录40余起同类案件，总损失近5000万港元。</p>
+<p>🔗 <a href="https://cryptobriefing.com/hong-kong-man-loses-hk18m-youtube-crypto-scam/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/t23nn4tim29b0ovp6xms5ba3n">https://reisen-ww.github.io/hot-pages/cryptohot/items/t23nn4tim29b0ovp6xms5ba3n</a></p>]]></description>
+      <category>加密监管</category>
+      <pubDate>Sun, 15 Nov 2026 00:33:55 GMT</pubDate>
+      <guid isPermaLink="false">t23nn4tim29b0ovp6xms5ba3n</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[比特币价格逼近63,000美元触发市场清算超19亿美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/dhm09n5tw4qeweql5bkoa41hs</link>
+      <description><![CDATA[<p>比特币价格跌破63,000美元触发24小时超19亿美元清算，以太坊、BNB等主流代币均下跌超10%。CoinShares分析师Butterfill指出，美联储加息预期与科技股疲软可能压制比特币上行空间，同时通胀数据回升引发市场对利率调整的担忧。</p>
+<p>🔗 <a href="https://cryptobriefing.com/crypto-market-liquidations-bitcoin-slide/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/dhm09n5tw4qeweql5bkoa41hs">https://reisen-ww.github.io/hot-pages/cryptohot/items/dhm09n5tw4qeweql5bkoa41hs</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 00:17:26 GMT</pubDate>
+      <guid isPermaLink="false">dhm09n5tw4qeweql5bkoa41hs</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[Vestige DeFi 平台宣布 12 月 31 日停运]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/rczuyu5n3wwvtcpeyuaganwa7</link>
+      <description><![CDATA[<p>Vestige宣布将于12月31日关闭主站、API及交易聚合器服务，因Algorand生态交易量不足导致长期亏损。用户钱包资产不受影响，但存入金库的资产需通过旧版前端访问，平台将销毁全部VEST代币及流动性凭证。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1dc88-b00e-7770-89eb-7aeda51fe1b9">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/rczuyu5n3wwvtcpeyuaganwa7">https://reisen-ww.github.io/hot-pages/cryptohot/items/rczuyu5n3wwvtcpeyuaganwa7</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Sun, 15 Nov 2026 00:08:29 GMT</pubDate>
+      <guid isPermaLink="false">rczuyu5n3wwvtcpeyuaganwa7</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[B站旗下BLG电竞战队首夺S赛冠军 融资与赞助商营销全解析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/o36r65c9ency7oyefx78wirdp</link>
+      <description><![CDATA[<p>BLG电子竞技俱乐部夺得2026年英雄联盟全球总决赛冠军，连续击败HLE、DK、T1和Gen.G四支LCK队伍，队史首座S赛冠军。B站电竞分部2021年完成1.8亿元首轮融资（投后估值超8亿元），赛事直播带动B站2026年上半年营收154.1亿元（同比增长7.5%），增值服务与广告收入分别达58.8亿和57.2亿。</p>
+<p>🔗 <a href="http://finance.eastmoney.com/news/1354,202611153931390544.html">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/o36r65c9ency7oyefx78wirdp">https://reisen-ww.github.io/hot-pages/cryptohot/items/o36r65c9ency7oyefx78wirdp</a></p>]]></description>
+      <category>A股与港股</category>
+      <pubDate>Sun, 15 Nov 2026 00:07:27 GMT</pubDate>
+      <guid isPermaLink="false">o36r65c9ency7oyefx78wirdp</guid>
+      <author>noreply@reisen-ww.github.io (东方财富)</author>
+    </item>
+    <item>
+      <title><![CDATA[Trezor Safe 5 硬件植入事件及经销商网络削减 80%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/c8oyxs3zymyzlr7utqc5xstrc</link>
+      <description><![CDATA[<p>Trezor 官方确认 3 台 Safe 5 存在硬件植入漏洞，经销商网络缩减约 80%。同步数据显示同期比特币下跌 6.1%，以太坊下跌 8.3%，加密恐慌贪婪指数从 21 降至 12。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304815">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/c8oyxs3zymyzlr7utqc5xstrc">https://reisen-ww.github.io/hot-pages/cryptohot/items/c8oyxs3zymyzlr7utqc5xstrc</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:10 GMT</pubDate>
+      <guid isPermaLink="false">c8oyxs3zymyzlr7utqc5xstrc</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[英伟达推出DSX POD数据中心解决方案 缩短部署周期]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/aw61hsghc43uiawjskxug21qy</link>
+      <description><![CDATA[<p>英伟达CEO黄仁勋在柏林GTC大会警告：单个大型AI数据中心延迟三个月将造成约10亿美元营收损失。为此英伟达推出DSX POD模块化数据中心解决方案，宣称可将传统六个月部署周期缩短至14天（需接入现有基础设施）。</p>
+<p>🔗 <a href="https://cryptobriefing.com/jensen-huang-data-center-delay-10-billion/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/aw61hsghc43uiawjskxug21qy">https://reisen-ww.github.io/hot-pages/cryptohot/items/aw61hsghc43uiawjskxug21qy</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Sat, 14 Nov 2026 23:51:01 GMT</pubDate>
+      <guid isPermaLink="false">aw61hsghc43uiawjskxug21qy</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[Kava Lend遭黑客攻击致KAVA代币跌近40%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/z29ssycmuhz0oa36mh5tdei78</link>
+      <description><![CDATA[<p>Kava Lend因黑客攻击损失约380万美元，导致KAVA代币价格下跌近40%。事件中约4.92亿KAVA通过LayerZero跨链至BNB Chain并兑换为约210万美元的BNB和USDT。</p>
+<p>🔗 <a href="https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/z29ssycmuhz0oa36mh5tdei78">https://reisen-ww.github.io/hot-pages/cryptohot/items/z29ssycmuhz0oa36mh5tdei78</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Sat, 14 Nov 2026 23:07:35 GMT</pubDate>
+      <guid isPermaLink="false">z29ssycmuhz0oa36mh5tdei78</guid>
+      <author>noreply@reisen-ww.github.io (The Block)</author>
+    </item>
+    <item>
+      <title><![CDATA[BitMine 的 ETH 持仓浮亏扩大至约 97 亿美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/tg5r1hm1evftenmnzxfbd2ksy</link>
+      <description><![CDATA[<p>BitMine 的以太坊持仓浮亏扩大至约 97 亿美元。截至 11 月 8 日，其持有 6,070,092 枚 ETH，估算平均成本 3352.58 美元/枚，总成本约 203.5 亿美元。按当前 ETH 价格 1753 美元计算，持仓价值约 106.4 亿美元，浮亏比例 47.7%。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2304813">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/tg5r1hm1evftenmnzxfbd2ksy">https://reisen-ww.github.io/hot-pages/cryptohot/items/tg5r1hm1evftenmnzxfbd2ksy</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sat, 14 Nov 2026 22:53:52 GMT</pubDate>
+      <guid isPermaLink="false">tg5r1hm1evftenmnzxfbd2ksy</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[BitMine以太坊持仓浮亏扩大至97亿美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/cwktkkvluqcbithphps5luoxm</link>
+      <description><![CDATA[<p>BitMine以太坊持仓浮亏达97亿美元，总成本203.5亿美元，当前市值106.4亿美元。数据基于11月8日持仓量607万枚ETH及成本价3352.58美元/枚计算得出。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1dc43-c3dc-7465-9e2a-7195edd5cd97">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/cwktkkvluqcbithphps5luoxm">https://reisen-ww.github.io/hot-pages/cryptohot/items/cwktkkvluqcbithphps5luoxm</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sat, 14 Nov 2026 22:53:15 GMT</pubDate>
+      <guid isPermaLink="false">cwktkkvluqcbithphps5luoxm</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[比特币价格短时跌破64000美元，1小时全网爆仓6.91亿美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ujt17apovuuq5y1wpq0y51yea</link>
+      <description><![CDATA[<p>过去1小时加密货币全网爆仓6.91亿美元，其中多单占6.71亿美元，空单1951万美元，BTC价格短时跌破64000美元。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1dbf3-6397-72b0-acb0-88fe7d1b0494">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ujt17apovuuq5y1wpq0y51yea">https://reisen-ww.github.io/hot-pages/cryptohot/items/ujt17apovuuq5y1wpq0y51yea</a></p>]]></description>
+      <category>加密货币市场</category>
+      <pubDate>Sat, 14 Nov 2026 21:25:25 GMT</pubDate>
+      <guid isPermaLink="false">ujt17apovuuq5y1wpq0y51yea</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[Aztec V6升级：隐私协议如何抵御北朝鲜Lazarus集团资金渗透]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/hwqo1o8bv7ley18rd80lvqoj5</link>
+      <description><![CDATA[<p>Aztec宣布V6升级，通过隐私协议设计防止北朝鲜Lazarus集团资金混入。AI审计发现其加密库漏洞，并采用Zcash式Turnstile机制防止隐蔽双重支付，同时支持用户向IRS共享交易记录而不暴露全局审计密钥。新功能包括zk.money数字银行、隐私AI推理市场和匿名社交网络。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/can-private-protocols-keep-north-korea-out-aztecs-zac-williamson-thinks-so/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/hwqo1o8bv7ley18rd80lvqoj5">https://reisen-ww.github.io/hot-pages/cryptohot/items/hwqo1o8bv7ley18rd80lvqoj5</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Sat, 14 Nov 2026 21:00:24 GMT</pubDate>
+      <guid isPermaLink="false">hwqo1o8bv7ley18rd80lvqoj5</guid>
+      <author>noreply@reisen-ww.github.io (Unchained)</author>
+    </item>
+    <item>
+      <title><![CDATA[文艺复兴科技清仓减持英伟达等科技股，加仓半导体上游标的]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/eje17cth0vh46psurwbfs968v</link>
+      <description><![CDATA[<p>文艺复兴科技减持英伟达股票99.7%（从709万股降至2.317万股）、Meta股票99.9%（从202万股降至1577股），同步增持美光（持股+618.7%至152万股）、AMD（持股+140%）、闪迪（持股+5451%），持仓市值占比分别达2.2%、1.8%、0.7%。东吴证券分析称，当前市场恐慌情绪可能已充分释放，部分优质科技资产或现配置价值，建议关注半导体等上游产业链标的。</p>
+<p>🔗 <a href="http://finance.eastmoney.com/news/1354,202611143931379261.html">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/eje17cth0vh46psurwbfs968v">https://reisen-ww.github.io/hot-pages/cryptohot/items/eje17cth0vh46psurwbfs968v</a></p>]]></description>
+      <category>美股</category>
+      <pubDate>Sat, 14 Nov 2026 20:40:37 GMT</pubDate>
+      <guid isPermaLink="false">eje17cth0vh46psurwbfs968v</guid>
+      <author>noreply@reisen-ww.github.io (东方财富)</author>
+    </item>
+  </channel>
+</rss>

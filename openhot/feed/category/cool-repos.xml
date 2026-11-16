@@ -118,27 +118,5 @@
       <guid isPermaLink="false">v0b2zlifsd154eu1r4wuqgaav</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[Riviamigo 自托管瑞维安数据日志仪表盘发布 2026.11.1 版本]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/lzqrnxv1qyab6ywdftt7qh8em</link>
-      <description><![CDATA[<p>Riviamigo 2026.11.1 版本发布，主要针对 R2 车型优化数据准确性，新增轮胎、预热、车窗及温度实时监控，支持自动重启数据流并显示版本信息。项目为自托管开源软件（GPL-3.0），GitHub 仓库提供文档与安装指南。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xrtvw3/riviamigo_self_hosted_rivian_data_logging/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/lzqrnxv1qyab6ywdftt7qh8em">https://reisen-ww.github.io/hot-pages/openhot/items/lzqrnxv1qyab6ywdftt7qh8em</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Mon, 09 Nov 2026 15:01:02 GMT</pubDate>
-      <guid isPermaLink="false">lzqrnxv1qyab6ywdftt7qh8em</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Lucas Barrena 开源支持浏览器与 Node.js 的 P2P WebRTC 连接库]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln</link>
-      <description><![CDATA[<p>Lucas Barrena 在 GitHub 公开该连接库仓库，支持浏览器、Node.js 和 React Native 的 P2P WebRTC 连接，内置信令服务器和节点发现功能。</p>
-<p>🔗 <a href="https://github.com/lukks/like-webrtc">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln">https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Sun, 08 Nov 2026 20:10:06 GMT</pubDate>
-      <guid isPermaLink="false">fku7chpqjurbxvpvtubj8ppln</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
   </channel>
 </rss>

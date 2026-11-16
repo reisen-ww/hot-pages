@@ -41,16 +41,5 @@
       <guid isPermaLink="false">dlvsvy1n7mon1015e2w6ubpns</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[Zyphra 发布开源文本转语音模型 ZONOS3-Mini，支持43种语言实时运行]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/evro9tz4l5n8324ejcigxnx08</link>
-      <description><![CDATA[<p>Zyphra 发布开源文本转语音模型 ZONOS3-Mini，支持43种语言实时运行，提供本地浏览器和云服务部署方案。模型采用Apache 2.0许可证，参数量约1000万，在H100 GPU上测试显示80ms延迟和457秒/秒吞吐量，并包含语音克隆、流式生成等功能。</p>
-<p>🔗 <a href="https://huggingface.co/Zyphra/ZONOS3-Mini">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/evro9tz4l5n8324ejcigxnx08">https://reisen-ww.github.io/hot-pages/openhot/items/evro9tz4l5n8324ejcigxnx08</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Mon, 09 Nov 2026 05:03:57 GMT</pubDate>
-      <guid isPermaLink="false">evro9tz4l5n8324ejcigxnx08</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face 模型趋势)</author>
-    </item>
   </channel>
 </rss>

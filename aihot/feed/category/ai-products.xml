@@ -9,6 +9,50 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Claude 新增 HTML-in-Canvas 功能：在画布中构建交互式网站，重现 Flash 时代]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yg5196pwsvj8u37xjf59nmliy</link>
+      <description><![CDATA[<p>Claude 新增 HTML-in-Canvas 功能，可在画布中嵌入可交互的文本、按钮等元素，支持 Chrome/Edge 157+版本，但 Safari/Firefox暂不支持。该功能通过将真实HTML页面嵌入Canvas图形实现，保留了可复制粘贴的文本和屏幕阅读器兼容性，被开发者称为&apos;重现Flash时代&apos;的创新尝试。</p>
+<p>🔗 <a href="https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yg5196pwsvj8u37xjf59nmliy">https://reisen-ww.github.io/hot-pages/aihot/items/yg5196pwsvj8u37xjf59nmliy</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 16 Nov 2026 16:10:22 GMT</pubDate>
+      <guid isPermaLink="false">yg5196pwsvj8u37xjf59nmliy</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA Slurm扩展支持量子计算融入超算集群]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/blht07s2jta8osqoxwjdg8e32</link>
+      <description><![CDATA[<p>NVIDIA Slurm扩展支持量子处理器集成，简化HPC中心与QPU厂商协作流程。已获Alice &amp; Bob、IBM、Pasqal等采用，支持QRMI/QDMI接口。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/blht07s2jta8osqoxwjdg8e32">https://reisen-ww.github.io/hot-pages/aihot/items/blht07s2jta8osqoxwjdg8e32</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 16 Nov 2026 16:00:47 GMT</pubDate>
+      <guid isPermaLink="false">blht07s2jta8osqoxwjdg8e32</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA发布CUDA-X工具包，赋能AI智能体加速科学发现]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lnr2vpvae8e5y8dy2i5x5914e</link>
+      <description><![CDATA[<p>NVIDIA发布CUDA-X工具包，包含cuPhoton、cuPotential和cuSpa等模块，加速科学发现研究。cuPhoton实现黑洞观测数据处理速度提升百倍，支持实时重建银河系；cuPotential加速药物分子模拟3倍并发现新结合位点；cuSpa使细胞分析速度提升900倍。工具包支持分布式GPU系统，并与NVIDIA本地智能体结合实现实时模拟分析。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lnr2vpvae8e5y8dy2i5x5914e">https://reisen-ww.github.io/hot-pages/aihot/items/lnr2vpvae8e5y8dy2i5x5914e</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 16 Nov 2026 16:00:16 GMT</pubDate>
+      <guid isPermaLink="false">lnr2vpvae8e5y8dy2i5x5914e</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA 宣布 Rubin HPC 新 GPU 加速科学、工程与数据分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/jg1ezhwrvcjpbygeayjkoq164</link>
+      <description><![CDATA[<p>NVIDIA 宣布 Rubin HPC 新 GPU 加速科学、工程与数据分析，该卡搭载超过5万CUDA核心和第七代NVLink技术，计划2028年上市。通过优化数据传输与计算的平衡设计，缩短模拟循环时间，提升科研与工程效率。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/rubin-hpc/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/jg1ezhwrvcjpbygeayjkoq164">https://reisen-ww.github.io/hot-pages/aihot/items/jg1ezhwrvcjpbygeayjkoq164</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 16 Nov 2026 16:00:01 GMT</pubDate>
+      <guid isPermaLink="false">jg1ezhwrvcjpbygeayjkoq164</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS EC2 Spot 实例优化 AssemblyAI 语音转文本推理成本]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ivg5vvprclkacqf1e96o0k0bh</link>
       <description><![CDATA[<p>通过混合EC2 Spot实例与队列重试机制，实现70%成本节约并保持服务可用性。具体架构采用Amazon ECS集群管理GPU实例（g4dn/g5/g6），结合SQS队列实现中断自动恢复，并在欧洲AWS区域部署独立架构满足数据合规要求。</p>
@@ -436,50 +480,6 @@
       <pubDate>Mon, 09 Nov 2026 18:43:30 GMT</pubDate>
       <guid isPermaLink="false">e5c7n3ymf6cl105u6tzreix3k</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA与合作伙伴在CoRL发布机器人仿真技术GR00T 2及Isaac Lab 3.0]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/zj0dm1luhyd7s3807ekpcb8be</link>
-      <description><![CDATA[<p>NVIDIA在CoRL发布机器人仿真技术GR00T 2和Isaac Lab 3.0，前者实现毫米级零件操作，后者通过集成Newton物理引擎使训练效率提升2.5倍。GR00T 2在RoboCasa365等基准测试中位列前三，已应用于洗衣机器人、服务器制造等场景。DexBench和VABAR新基准测试覆盖零售物流制造等多领域。</p>
-<p>🔗 <a href="https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/zj0dm1luhyd7s3807ekpcb8be">https://reisen-ww.github.io/hot-pages/aihot/items/zj0dm1luhyd7s3807ekpcb8be</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Mon, 09 Nov 2026 14:00:01 GMT</pubDate>
-      <guid isPermaLink="false">zj0dm1luhyd7s3807ekpcb8be</guid>
-      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Kuken Industries 发布AI快速搜索70年绘图功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/z6gyv5ghrwy04pv2qjhhruitk</link>
-      <description><![CDATA[<p>Kuken Industries 发布AI快速搜索功能，工程师可在4.5分钟内找到70年历史绘图，效率提升显著</p>
-<p>🔗 <a href="https://openai.com/index/kuken">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z6gyv5ghrwy04pv2qjhhruitk">https://reisen-ww.github.io/hot-pages/aihot/items/z6gyv5ghrwy04pv2qjhhruitk</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">z6gyv5ghrwy04pv2qjhhruitk</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[韩国 AI 生态系统通过 NVIDIA 提升智能体安全性]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/dwotj3ja03lnws1gqoq4xba6j</link>
-      <description><![CDATA[<p>Hyundai Motor Group 和 AIM Intelligence 等公司正在使用 NVIDIA 的 OpenShell 运行时和 Nemotron 数据集，提升智能体的安全性和企业流程。NVIDIA 的 Open Agent Safety Platform 提供了安全的运行时环境和策略控制。</p>
-<p>🔗 <a href="https://blogs.nvidia.com/blog/korea-secure-agentic-ai/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/dwotj3ja03lnws1gqoq4xba6j">https://reisen-ww.github.io/hot-pages/aihot/items/dwotj3ja03lnws1gqoq4xba6j</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Mon, 09 Nov 2026 05:00:39 GMT</pubDate>
-      <guid isPermaLink="false">dwotj3ja03lnws1gqoq4xba6j</guid>
-      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA Dynamo发布韩国领先开源模型生产部署优化方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nvlflcmbk0z884nxi9y1b6vdd</link>
-      <description><![CDATA[<p>NVIDIA发布Dynamo优化部署方案，支持SK Telecom A.X K2、LG AI Research K-EXAONE 2.0、Upstage Solar Open 2等韩国开源模型。该方案针对NVIDIA B200 GPU优化，可提升基准性能2倍，帮助开发者加速将开源模型部署到多节点生产环境。</p>
-<p>🔗 <a href="https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nvlflcmbk0z884nxi9y1b6vdd">https://reisen-ww.github.io/hot-pages/aihot/items/nvlflcmbk0z884nxi9y1b6vdd</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="false">nvlflcmbk0z884nxi9y1b6vdd</guid>
-      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
     </item>
   </channel>
 </rss>
