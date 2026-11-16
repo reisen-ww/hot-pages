@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS Transform + Bedrock 实现老式 mainframe 汇编到 Java 的系统化转换]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/w5jlqfhb0hutbmd7ejryutqu9</link>
+      <description><![CDATA[<p>AWS Transform 与 Bedrock 联合实现 mainframe 汇编到 Java 的系统化转换，通过分阶段验证确保业务逻辑完整性。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/w5jlqfhb0hutbmd7ejryutqu9">https://reisen-ww.github.io/hot-pages/aihot/items/w5jlqfhb0hutbmd7ejryutqu9</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Mon, 16 Nov 2026 17:29:29 GMT</pubDate>
+      <guid isPermaLink="false">w5jlqfhb0hutbmd7ejryutqu9</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS Bedrock Guardrails_denied topics配置最佳实践指南]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/g6pqbzv74tpy94bxov1lketwv</link>
       <description><![CDATA[<p>AWS官方博客发布Denied Topics配置指南。核心建议：1. 用具体动作命名主题而非领域（如将Finance改为Investment Recommendations）。</p>

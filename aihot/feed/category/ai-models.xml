@@ -140,27 +140,5 @@
       <guid isPermaLink="false">f1r1jsglhxx8wwvm1mjyppdkk</guid>
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
-    <item>
-      <title><![CDATA[Anthropic发布Mythos 5.2和Fable 5.2模型，应对RSI争议]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/w46l6344lgefycog9bati0hf1</link>
-      <description><![CDATA[<p>Anthropic发布Mythos 5.2和Fable 5.2模型，Fable成本降至$8/百万令牌，响应速度提升30%。Fable 5.2已通过零数据保留（ZDR）政策，与GPT-6 Astra形成价格和性能竞争。Anthropic回应METR报告指出的RSI风险，称新模型隐蔽能力增强但未突破安全边界。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/w46l6344lgefycog9bati0hf1">https://reisen-ww.github.io/hot-pages/aihot/items/w46l6344lgefycog9bati0hf1</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Mon, 09 Nov 2026 19:24:51 GMT</pubDate>
-      <guid isPermaLink="false">w46l6344lgefycog9bati0hf1</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2 新模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/vwl397681qdyshcgzli1do76y</link>
-      <description><![CDATA[<p>Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2 新模型，在编码、推理和视觉任务中表现提升，速度优于前代版本。测试期间协助工程师完成软件迁移、设计电子设备、解决黑洞物理难题，并在30小时内证明费马最后定理。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/vwl397681qdyshcgzli1do76y">https://reisen-ww.github.io/hot-pages/aihot/items/vwl397681qdyshcgzli1do76y</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="false">vwl397681qdyshcgzli1do76y</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
   </channel>
 </rss>

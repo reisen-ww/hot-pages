@@ -20,9 +20,9 @@
       <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
     <item>
-      <title><![CDATA[OpenAI与Apollo Research合作试点AI安全评估]]></title>
+      <title><![CDATA[OpenAI与Apollo Research启动AI安全评估试点]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/z74zml4u3iirtlmyf7n85660y</link>
-      <description><![CDATA[<p>OpenAI宣布与Apollo Research合作开展AI安全评估试点。试点将重点调查模型在训练过程中是否尝试破坏自身或后续版本的alignment机制，并探讨外部安全评估的独立性与数据透明度问题。OpenAI同意公开部分条件，但限制数据访问范围（仅开放训练代码、强化学习回滚记录及中间模型检查点），引发对独立评估可行性的讨论。</p>
+      <description><![CDATA[<p>OpenAI与Apollo Research启动AI安全评估试点，探讨模型在训练和部署中潜在的对抗性行为检测与数据透明度问题。试点将重点检查模型是否试图破坏自身或后续版本的 Alignment 机制，并涉及训练数据访问权限、内部部署场景监控等关键限制。</p>
 <p>🔗 <a href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z74zml4u3iirtlmyf7n85660y">https://reisen-ww.github.io/hot-pages/aihot/items/z74zml4u3iirtlmyf7n85660y</a></p>]]></description>
       <category>行业动态</category>
@@ -51,6 +51,61 @@
       <pubDate>Mon, 16 Nov 2026 16:00:11 GMT</pubDate>
       <guid isPermaLink="false">rv0v6zmhzren9axsc4u0sqmuy</guid>
       <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国政府宣布加强AI芯片出口管制限制中国等D:5国家远程计算访问]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tdi2j8p7z0wvyzbl6hu4r5819</link>
+      <description><![CDATA[<p>美国政府宣布加强AI芯片出口管制，要求企业为向中国等D:5国家提供计算服务申请许可证，并废除2025年1月生效的拜登政府AI扩散规则。新规将远程访问的AI芯片和服务器限制在12 million TPP（约750块Nvidia H100/H200芯片）以下，同时要求出口商监控客户股权结构。该政策直接针对中国等国家的企业通过海外数据中心绕过出口限制的行为。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tdi2j8p7z0wvyzbl6hu4r5819">https://reisen-ww.github.io/hot-pages/aihot/items/tdi2j8p7z0wvyzbl6hu4r5819</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 15:02:34 GMT</pubDate>
+      <guid isPermaLink="false">tdi2j8p7z0wvyzbl6hu4r5819</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[英伟达CEO黄仁勋丑闻辞职致股价暴跌14%，牵连中国芯片供应与国会调查]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bny41s6zz8yf9v06tjmilhwuu</link>
+      <description><![CDATA[<p>英伟达CEO黄仁勋因丑闻辞职致股价单周暴跌14%，事件牵连中国芯片供应、国会调查及AI行业融资不确定性。董事会持续调查其涉嫌泄密，部分议员计划传唤CEO作证。AI安全机构担忧企业为营收压缩安全投入，行业或面临长期震荡。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bny41s6zz8yf9v06tjmilhwuu">https://reisen-ww.github.io/hot-pages/aihot/items/bny41s6zz8yf9v06tjmilhwuu</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bny41s6zz8yf9v06tjmilhwuu</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国国会拟加强AI芯片出口管制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/b344u7r3trp4ghxteaqveji8e</link>
+      <description><![CDATA[<p>美国国会拟加强AI芯片出口管制，两党支持限制中国获取AI芯片，众议院议长明确表态支持。法案包括Remote Access Security Act，该法案曾在2025年4月提交但未通过参议院。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/b344u7r3trp4ghxteaqveji8e">https://reisen-ww.github.io/hot-pages/aihot/items/b344u7r3trp4ghxteaqveji8e</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sun, 15 Nov 2026 19:15:43 GMT</pubDate>
+      <guid isPermaLink="false">b344u7r3trp4ghxteaqveji8e</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[与英伟达CEO前女友关联的公司涉嫌促成近120亿美元中国芯片订单]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/vm92ml6iqsdrjfncqe0rylpmz</link>
+      <description><![CDATA[<p>Megaspeed（由Jensen Huang前女友Alice Huang控股）涉嫌通过Nvidia云合作伙伴关系优先获取稀缺AI芯片，为国内客户促成近120亿美元订单，引发美国出口管制合规调查。</p>
+<p>🔗 <a href="https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/vm92ml6iqsdrjfncqe0rylpmz">https://reisen-ww.github.io/hot-pages/aihot/items/vm92ml6iqsdrjfncqe0rylpmz</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sun, 15 Nov 2026 14:45:12 GMT</pubDate>
+      <guid isPermaLink="false">vm92ml6iqsdrjfncqe0rylpmz</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[澳大利亚央行研究：AI优先冲击年轻从业者，软件与客服领域首当其冲]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rnsotva28sk4ivgp4wopnpyi4</link>
+      <description><![CDATA[<p>澳大利亚央行研究显示AI对年轻从业者的冲击显著，15-24岁及应届毕业生在AI高暴露行业（如编程、客服）就业率下降13%-20%，而资深员工就业率稳定或上升。LinkedIn数据显示AI相关职位一年内增长6倍，但研究强调需结合美联储加息等宏观经济因素（如2022年疫情后招聘激增后的回调），世界经济论坛预测2030年AI将创造净增7800万岗位。</p>
+<p>🔗 <a href="https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rnsotva28sk4ivgp4wopnpyi4">https://reisen-ww.github.io/hot-pages/aihot/items/rnsotva28sk4ivgp4wopnpyi4</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Sun, 15 Nov 2026 10:45:58 GMT</pubDate>
+      <guid isPermaLink="false">rnsotva28sk4ivgp4wopnpyi4</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
     <item>
       <title><![CDATA[Anthropic CEO Amodei坦言明年存在巨大不确定性，IPO前揭示核心财务挑战]]></title>
@@ -447,17 +502,6 @@
       <pubDate>Mon, 09 Nov 2026 22:23:42 GMT</pubDate>
       <guid isPermaLink="false">gs4mnf5hczvnui1w6tzcs5gbh</guid>
       <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[CrossnoKaye 如何通过 Amazon Bedrock AgentCore 构建工业物理AI系统]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xu5vdccvvzq2mmcnzrepeu481</link>
-      <description><![CDATA[<p>CrossnoKaye 在AWS上构建了AURA工业AI系统，通过Amazon Bedrock AgentCore实现物理AI落地。系统日均处理650,000次闭环控制动作，在13,000个工业设备上运行，使食品加工厂能耗降低21%，采石场产能提升50,000吨/年。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xu5vdccvvzq2mmcnzrepeu481">https://reisen-ww.github.io/hot-pages/aihot/items/xu5vdccvvzq2mmcnzrepeu481</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 09 Nov 2026 18:55:43 GMT</pubDate>
-      <guid isPermaLink="false">xu5vdccvvzq2mmcnzrepeu481</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>
 </rss>

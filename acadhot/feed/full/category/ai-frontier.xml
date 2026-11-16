@@ -20,6 +20,50 @@
       <author>noreply@reisen-ww.github.io (MIT Technology Review)</author>
     </item>
     <item>
+      <title><![CDATA[某研究团队在 bioRxiv 发布神经电路模型调谐新方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/w6h1gbwdoy3ei2a4xbzy37mat</link>
+      <description><![CDATA[<p>某研究团队在 bioRxiv 发布神经电路模型调谐新方法，通过模拟自激发输入补偿缺失的循环连接，解决了高维背景输入联合调谐的瓶颈问题。该方法成功应用于43人群灵长类听觉丘脑-皮质电路模型，使模型与实验数据的拟合误差降低至5%以内，并验证了在子电路隔离场景下的有效性。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.13.766494v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/w6h1gbwdoy3ei2a4xbzy37mat">https://reisen-ww.github.io/hot-pages/acadhot/items/w6h1gbwdoy3ei2a4xbzy37mat</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">w6h1gbwdoy3ei2a4xbzy37mat</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[Catch*ReSeq 首次实现单细胞水平稀有剪接异构体与宿主细胞状态的解析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ph9lhjgp97ouybv7edzzxatdv</link>
+      <description><![CDATA[<p>Catch*ReSeq 方法首次实现单细胞水平稀有剪接异构体与宿主细胞状态的解析。在 SIV 感染猴 CD4+ T 细胞中，该方法检测到 13 倍于标准 10X 的感染细胞，并完整识别 10X 完全漏检的病毒剪接异构体。实验表明剪接+细胞携带的宿主翻译程序独立于病毒转录量，该方法在存档 cDNA 和临床样本中均可应用，并在克隆性 CD4+ T 细胞增殖及小鼠肝再生模型中验证了普适性。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.763766v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ph9lhjgp97ouybv7edzzxatdv">https://reisen-ww.github.io/hot-pages/acadhot/items/ph9lhjgp97ouybv7edzzxatdv</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ph9lhjgp97ouybv7edzzxatdv</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某研究团队在 bioRxiv 发表固定权重电路实现52种手写字母连续书写的论文]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ghqmnmifb07n3u8gc9rshqnxs</link>
+      <description><![CDATA[<p>某研究团队在 bioRxiv 发表论文，展示固定权重循环电路通过互抑制机制（MISOC）实现52种手写字母的连续书写。实验表明，在50-200神经元网络规模下，MISOC的书写误差比基础版本（SOC）低16-48%，且无需改变突触连接即可扩展新字符。论文同时验证了单字母学习链式成词的可行性，并对比了不同规模网络的表现（R²=0.996和0.999）。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.13.766302v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ghqmnmifb07n3u8gc9rshqnxs">https://reisen-ww.github.io/hot-pages/acadhot/items/ghqmnmifb07n3u8gc9rshqnxs</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ghqmnmifb07n3u8gc9rshqnxs</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队发布新型NanoShield陷阱柱在低输入蛋白质组学中的基准测试结果]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/el5f8v6nza4d5hgozg1qmb2sg</link>
+      <description><![CDATA[<p>某团队在预印本平台 bioRxiv 发布新型 NanoShield 陷阱柱的基准测试结果，对比了 5 cm 和 1.2 cm 床长版本在 LC-MS 流程中的样本加载时间、正向冲洗性能缺陷及定量精度表现，发现缩短床长可消除显著性能差距，1.2 cm 版本接近直接注射水平。研究还展示了新一代更大孔径固定相的 NanoShield 进一步优化了正向冲洗性能。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.12.766175v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/el5f8v6nza4d5hgozg1qmb2sg">https://reisen-ww.github.io/hot-pages/acadhot/items/el5f8v6nza4d5hgozg1qmb2sg</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">el5f8v6nza4d5hgozg1qmb2sg</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[x0-diffusion模型在少量标注血管造影图像分割中的高效性验证]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/f1d8avq0bk1ck5th70tiozf05</link>
       <description><![CDATA[<p>x0-diffusion模型在16张标注数据下达到最高Dice系数0.882和IoU 0.795，校正后外科医生标注时间减少37-45%。模型在32/80张标注数据下表现与ResNet-ViT等卷积模型接近（0.923 vs 0.910）。研究使用Dr-SAM开源数据集（https://github.com/vazgenzohranyan/Dr.SAM），未采集新患者数据。</p>

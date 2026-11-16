@@ -9,6 +9,50 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[InterceptSuite开源工具实现HTTP/3流量拦截与QPack动态表解析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ms77wgd7uq83kueb3yc1cxslv</link>
+      <description><![CDATA[<p>InterceptSuite开源工具通过代理重定向和扩展解析，演示了如何捕获和解码HTTP/3请求流，并修改QPACK动态表头数据。关键步骤包括配置UDP代理、忽略证书错误、使用HTTP/3扩展解析流，以及通过Replay功能修改请求体和元数据。工具仅支持QUIC版本1，无法处理加密客户端hello（ECH）和QUIC版本2。</p>
+<p>🔗 <a href="https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ms77wgd7uq83kueb3yc1cxslv">https://reisen-ww.github.io/hot-pages/openhot/items/ms77wgd7uq83kueb3yc1cxslv</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Mon, 16 Nov 2026 19:29:17 GMT</pubDate>
+      <guid isPermaLink="false">ms77wgd7uq83kueb3yc1cxslv</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[基于Asterisk的JioFiber IMS网络通信问题排查与解决方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hg9z5kqakqsdad77tcjlbkmfe</link>
+      <description><![CDATA[<p>某开发者通过配置Asterisk PBX服务器解决JioFiberIMS网络通信问题：1. 从ONT设备导出SIP认证凭证 2. NixOS系统定制加载jio专用模块 3. 解决ACK丢失（需配置RTP端口转发和PAI头注入） 4. 处理MNP号码路由异常 5. 最终构建asterisk-jio专用包。</p>
+<p>🔗 <a href="https://yashgarg.dev/posts/where-did-the-ack-go/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hg9z5kqakqsdad77tcjlbkmfe">https://reisen-ww.github.io/hot-pages/openhot/items/hg9z5kqakqsdad77tcjlbkmfe</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Mon, 16 Nov 2026 19:19:20 GMT</pubDate>
+      <guid isPermaLink="false">hg9z5kqakqsdad77tcjlbkmfe</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Rust 如何改变我作为开发者的思维方式]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jqchk2d8rub82jlkojs6no687</link>
+      <description><![CDATA[<p>作者在使用 Rust 6 年后发现，这种编程语言极大地改变了其开发方式。Rust 强调使用 sum type（析构类型）来处理不同类型的对象，这使得代码更加清晰和安全。作者认为，Rust 的这种设计哲学不仅适用于 Rust，也适用于其他编程语言，能够帮助开发者更好地进行抽象和处理基本问题。</p>
+<p>🔗 <a href="https://blog.startifact.com/posts/how-rust-changed-me/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jqchk2d8rub82jlkojs6no687">https://reisen-ww.github.io/hot-pages/openhot/items/jqchk2d8rub82jlkojs6no687</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 18:17:29 GMT</pubDate>
+      <guid isPermaLink="false">jqchk2d8rub82jlkojs6no687</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[从 Swift 转向 Rust：编程语言的新趋势]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cruf1gqsztj5pu7568a34ok4d</link>
+      <description><![CDATA[<p>昨日，作者辞去了 Swift Android 工作组的职务，转而支持 Rust。尽管他高度评价 Swift 的性能和开发者友好性，但认为 Swift 在非 Apple 平台上将永远无法提供无缝体验。文章指出，随着软件开发转向由计算机自动生成代码，Rust 等“计算机语言”正逐渐成为主流，包括 PostgreSQL 和 TypeScript 在内的多个大型项目正从 Swift 转向 Rust。</p>
+<p>🔗 <a href="https://www.prux.org/posts/goodbye-swift-hello-rust/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cruf1gqsztj5pu7568a34ok4d">https://reisen-ww.github.io/hot-pages/openhot/items/cruf1gqsztj5pu7568a34ok4d</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Mon, 16 Nov 2026 17:56:45 GMT</pubDate>
+      <guid isPermaLink="false">cruf1gqsztj5pu7568a34ok4d</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Jolt 开源 Clojure 实现支持原生 C 交互]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/vtpfn1ii5hohbw9tz11dakkjh</link>
       <description><![CDATA[<p>Jolt 是 Clojure 的自托管实现，支持原生 C 交互，编译为无需 JVM 的独立二进制文件。通过 Gambit 编译器将 Clojure 代码转换为 Scheme，可运行在 Chez 或 Gambit 编译的 JavaScript 后端，提供 persistent data structures、core.async 并发模型等完整 Clojure语义。</p>
@@ -39,6 +83,39 @@
       <category>编程语言与运行时</category>
       <pubDate>Mon, 16 Nov 2026 15:22:38 GMT</pubDate>
       <guid isPermaLink="false">myvmffb5ezhurvt4zd3dk0frn</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[某开发者分享 FreeBSD pkgbase 本地镜像搭建方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/sv8geb10vigqydnh4fshriunx</link>
+      <description><![CDATA[<p>开发者公开 FreeBSD pkgbase 本地镜像搭建方案，减少带宽消耗。配置要点包括：使用 Apache 反向代理+缓存模块，直接访问 AWS CDN（需处理重定向问题），镜像路径指向 /var/repos/。注意事项：官方 CDN 重定向需绕过，暂未配置 SRV 路径回退方案。</p>
+<p>🔗 <a href="https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/sv8geb10vigqydnh4fshriunx">https://reisen-ww.github.io/hot-pages/openhot/items/sv8geb10vigqydnh4fshriunx</a></p>]]></description>
+      <category>基础设施</category>
+      <pubDate>Mon, 16 Nov 2026 14:47:48 GMT</pubDate>
+      <guid isPermaLink="false">sv8geb10vigqydnh4fshriunx</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[个人开发者开源 Python SQLite 函数缓存库 FunkyCache]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd</link>
+      <description><![CDATA[<p>作者发布 Python 库 FunkyCache，利用 SQLite 实现函数缓存，减少静态网站生成时间。该库支持依赖文件追踪（如 Markdown 文件）、静态值监控（如 Pygments 版本），并对比 MD5 与 XXH64 哈希算法性能，证明 XXH64 在大键场景下速度提升显著。</p>
+<p>🔗 <a href="https://alexwlchan.net/2026/funkycache/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd">https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Mon, 16 Nov 2026 13:15:54 GMT</pubDate>
+      <guid isPermaLink="false">zei58gxjawq9mr6za2n1paidd</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[mddog：在终端中预览 Markdown 的 Rust 工具]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/zp79o447dlepxawzei4jbn9e8</link>
+      <description><![CDATA[<p>开发者正在完善 mddog，这是一个终端工具，可让用户在终端中预览 Markdown 文件，效果如同在 GitHub 或 Obsidian 中查看。该工具利用 macOS 内置引擎将 Markdown 转换为实际格式，并以图像条的形式输出到终端。目前支持 headings 和图片渲染，用户反馈积极。</p>
+<p>🔗 <a href="https://lobste.rs/s/isejqv">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/zp79o447dlepxawzei4jbn9e8">https://reisen-ww.github.io/hot-pages/openhot/items/zp79o447dlepxawzei4jbn9e8</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 11:03:30 GMT</pubDate>
+      <guid isPermaLink="false">zp79o447dlepxawzei4jbn9e8</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
@@ -75,6 +152,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[从 GitHub 迁移到 Codeberg 的经历]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vdwvivq01d5vjzicae1d9jbam</link>
+      <description><![CDATA[<p>作者于 2009 年创建 GitHub 账号，2023 年将 Inko 项目和个人项目迁回 GitHub，旨在增加项目可见度和贡献者数量。然而，由于 GitHub 上低质量的“贡献”增多，作者决定迁移至 Codeberg，因其对非自由软件的立场、反对 AI 和更符合自由软件精神的组织结构。迁移过程中，作者手动处理了 70 多个仓库，遇到 GitHub API 限流等问题，但最终顺利完成。</p>
+<p>🔗 <a href="https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vdwvivq01d5vjzicae1d9jbam">https://reisen-ww.github.io/hot-pages/openhot/items/vdwvivq01d5vjzicae1d9jbam</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 05:10:34 GMT</pubDate>
+      <guid isPermaLink="false">vdwvivq01d5vjzicae1d9jbam</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Paint in the Memory of Other Programs]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/p4kerzu4q6do4z8y6gg4xojiz</link>
       <description><![CDATA[<p>Core 是一个程序调试器兼画图工具，通过可视化内存内容帮助用户理解程序内部结构。用户可以在程序内存中自由绘制，观察数据结构和编程模式在内存中的物理表现。该工具展示了程序内存的复杂性和使用方式，揭示了程序的抽象概念在物理层面上的形态。</p>
@@ -83,6 +171,28 @@
       <category>社区新奇仓库</category>
       <pubDate>Mon, 16 Nov 2026 03:37:36 GMT</pubDate>
       <guid isPermaLink="false">p4kerzu4q6do4z8y6gg4xojiz</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nix 官方文档更新：eval-profiler 使用指南与性能分析工具链]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/w3xuddwagz6m1ywjk7artxloz</link>
+      <description><![CDATA[<p>Nix 官方文档新增 eval-profiler 工具的使用指南，支持通过命令行参数配置采样频率和输出路径，并可直接生成 flamegraph 可视化图表。</p>
+<p>🔗 <a href="https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/w3xuddwagz6m1ywjk7artxloz">https://reisen-ww.github.io/hot-pages/openhot/items/w3xuddwagz6m1ywjk7artxloz</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 01:28:22 GMT</pubDate>
+      <guid isPermaLink="false">w3xuddwagz6m1ywjk7artxloz</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nix 动态衍生功能的探索与实践]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vbcy03wnsfjz9ktezca1pze9e</link>
+      <description><![CDATA[<p>最近，作者在 Nix 的动态衍生功能上进行了一次实验，发现即使设置了内容地址化，也能通过查询最终衍生路径反向获取初始衍生路径。作者还展示了如何通过手动编写 ATerm 来创建一个无限递归的衍生链，生成“99 瓶啤酒”歌曲的每一句歌词。</p>
+<p>🔗 <a href="https://fzakaria.com/2026/11/14/beer-drv-drv-drv">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vbcy03wnsfjz9ktezca1pze9e">https://reisen-ww.github.io/hot-pages/openhot/items/vbcy03wnsfjz9ktezca1pze9e</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Mon, 16 Nov 2026 00:47:28 GMT</pubDate>
+      <guid isPermaLink="false">vbcy03wnsfjz9ktezca1pze9e</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
@@ -95,6 +205,39 @@
       <pubDate>Mon, 16 Nov 2026 00:21:54 GMT</pubDate>
       <guid isPermaLink="false">zkbvcvefkd1gltls8n9i88io9</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[CashDB：基于共识算法的分布式账本新设计]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/i7cafc2oocg2ls5u0bw8utcqx</link>
+      <description><![CDATA[<p>CashDB是专为朋友分账应用设计的分布式账本，支持原子性交易和日志追加。作者通过对比Raft、E-Paxos、QuePaxa、Accord等算法在Cassandra、Megastore等系统中的表现，指出当前技术趋势下Quorum数据库的改进方向。</p>
+<p>🔗 <a href="https://transactional.blog/talk/please-implement-a-quorum-database">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/i7cafc2oocg2ls5u0bw8utcqx">https://reisen-ww.github.io/hot-pages/openhot/items/i7cafc2oocg2ls5u0bw8utcqx</a></p>]]></description>
+      <category>数据与数据库</category>
+      <pubDate>Sun, 15 Nov 2026 22:44:13 GMT</pubDate>
+      <guid isPermaLink="false">i7cafc2oocg2ls5u0bw8utcqx</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Bruce 开源 Rust 写的自托管地图瓦片方案 Protomaps]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bosj177t9nw15nk8o9zu2nyxd</link>
+      <description><![CDATA[<p>计算机科学学生 Bruce 在开源项目 Mapboard 的研究中发现 Protomaps 自托管地图瓦片方案。该方案通过 PMTiles 格式实现单文件部署，支持 Bunnycdn 等 CDN 配置，成本仅为 Mapbox 的 1/100（5MB 传输费用约 0.00005 美元），并给出 Rust 代码部署的详细步骤与 CDN 配置技巧。</p>
+<p>🔗 <a href="https://bruceroettgers.eu/blog/protomaps/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bosj177t9nw15nk8o9zu2nyxd">https://reisen-ww.github.io/hot-pages/openhot/items/bosj177t9nw15nk8o9zu2nyxd</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Sun, 15 Nov 2026 19:26:22 GMT</pubDate>
+      <guid isPermaLink="false">bosj177t9nw15nk8o9zu2nyxd</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[CSS Working Group 决议：按钮使用 pointer 光标]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/x8vejro4mphk4alkw2jxxnzbd</link>
+      <description><![CDATA[<p>CSS 工作组在最近的会议上决定，按钮等交互元素应使用 pointer 光标，以指示可点击状态。这一决议总结了讨论中的意见，包括 text cursor 用于文本输入、grabbing hand 用于拖拽等。虽然默认浏览器样式可被用户自定义覆盖，但工作组认为这些元素应有明确的视觉反馈，以提升用户体验。</p>
+<p>🔗 <a href="https://blog.kizu.dev/cursors/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/x8vejro4mphk4alkw2jxxnzbd">https://reisen-ww.github.io/hot-pages/openhot/items/x8vejro4mphk4alkw2jxxnzbd</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Sun, 15 Nov 2026 09:15:40 GMT</pubDate>
+      <guid isPermaLink="false">x8vejro4mphk4alkw2jxxnzbd</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
       <title><![CDATA[WebGL 飞行模拟器，基于种子生成地形]]></title>
@@ -412,149 +555,6 @@
       <pubDate>Fri, 13 Nov 2026 18:40:37 GMT</pubDate>
       <guid isPermaLink="false">tf0ub0ichb1fhjbghxb79md8q</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rust 和 C++ 中指针来源的对比]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dytg02ueluzbxvlzmpr8pdkft</link>
-      <description><![CDATA[<p>作者探索了 Rust 中的指针来源（pointer provenance），发现即使指针看起来像是简单的内存地址，编译器也会跟踪其来源以防止意外修改。通过 LLVM IR，作者展示了如何在 Rust 和 C++ 中检查指针来源。在 C++ 中，编译器无法优化包含指针整数转换的代码，而在 Rust 中，开发者可以通过 API 清晰表达其意图。</p>
-<p>🔗 <a href="https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dytg02ueluzbxvlzmpr8pdkft">https://reisen-ww.github.io/hot-pages/openhot/items/dytg02ueluzbxvlzmpr8pdkft</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Fri, 13 Nov 2026 18:37:30 GMT</pubDate>
-      <guid isPermaLink="false">dytg02ueluzbxvlzmpr8pdkft</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Sable开源项目改进Matrix协议预览链接生成技术方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nzsmj32nb6rj1k7l1hicc65uh</link>
-      <description><![CDATA[<p>Sable开源项目发布Matrix协议预览链接生成技术方案，通过独立代理服务实现隐私保护，对比Discord和Signal的实现差异。技术方案包含：1）将预览生成模块拆分为独立库以优化架构；2）开发OpenGraph扩展规范支持社交媒体预览；3）基于Soliditas自托管基础设施运行隐私代理服务器。未来计划探索完全移除 homeserver 生成预览的可能性，并持续优化用户界面与隐私提示。</p>
-<p>🔗 <a href="https://sable.moe/en/blog/link-previews-and-you/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nzsmj32nb6rj1k7l1hicc65uh">https://reisen-ww.github.io/hot-pages/openhot/items/nzsmj32nb6rj1k7l1hicc65uh</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Fri, 13 Nov 2026 17:34:47 GMT</pubDate>
-      <guid isPermaLink="false">nzsmj32nb6rj1k7l1hicc65uh</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[共享 Shell 命令队列]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ir7z5uocev0rycywn3n02p83y</link>
-      <description><![CDATA[<p>该脚本提供了一种在 Bash 中并行运行 Shell 命令的方法，同时限制并发数。通过 `queue_start` 初始化队列，`queue_submit` 提交命令，`queue_wait` 等待队列清空。此实现使用 `xargs` 管理并发，并通过 `mkfifo` 创建队列文件。</p>
-<p>🔗 <a href="https://emmer.dev/blog/concurrent-shell-command-queues/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ir7z5uocev0rycywn3n02p83y">https://reisen-ww.github.io/hot-pages/openhot/items/ir7z5uocev0rycywn3n02p83y</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Fri, 13 Nov 2026 17:13:01 GMT</pubDate>
-      <guid isPermaLink="false">ir7z5uocev0rycywn3n02p83y</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[bitsinfra 发布 Gnomon：为代理提供 Postgres 数据库分支管理]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gmr43e947cm57rz8smobejwoe</link>
-      <description><![CDATA[<p>bitsinfra 开源 Gnomon，提供基于 PostgreSQL 的数据库分支管理方案，支持事务回滚与合并，适用于测试隔离与生产环境安全迁移场景。项目支持自托管部署，包含 TypeScript、Python SDK，并遵循 PostgreSQL 许可证。</p>
-<p>🔗 <a href="https://github.com/bitsinfra/gnomon">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gmr43e947cm57rz8smobejwoe">https://reisen-ww.github.io/hot-pages/openhot/items/gmr43e947cm57rz8smobejwoe</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Fri, 13 Nov 2026 17:09:52 GMT</pubDate>
-      <guid isPermaLink="false">gmr43e947cm57rz8smobejwoe</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[WebKit 修复 Promise 构造函数 Symbol.species 获取异常导致的执行阻塞问题]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/lqxw4wq37xyv27ju4yfd0q8v2</link>
-      <description><![CDATA[<p>WebKit 修复 Promise 构造函数 Symbol.species 获取异常导致的执行阻塞问题。对比 Safari/Bun引擎在 Promise 处理中的行为差异，分析 JavaScript 规范中 resolve 函数的实现逻辑及修复方案。</p>
-<p>🔗 <a href="https://alistair.sh/thenables">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/lqxw4wq37xyv27ju4yfd0q8v2">https://reisen-ww.github.io/hot-pages/openhot/items/lqxw4wq37xyv27ju4yfd0q8v2</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Fri, 13 Nov 2026 16:48:01 GMT</pubDate>
-      <guid isPermaLink="false">lqxw4wq37xyv27ju4yfd0q8v2</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Go语言团队发布unsure：高效概率数据结构库]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n4ttqix2nx7e4hxqfnt3ossmh</link>
-      <description><![CDATA[<p>作者在GitHub公开了基于Go语言的概率数据结构库unsure，包含Bloom filter、Count-min sketch等5种结构，提供查询延迟、内存占用等对比数据。</p>
-<p>🔗 <a href="https://antonz.org/probabilistic-data-structures/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n4ttqix2nx7e4hxqfnt3ossmh">https://reisen-ww.github.io/hot-pages/openhot/items/n4ttqix2nx7e4hxqfnt3ossmh</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Fri, 13 Nov 2026 16:03:44 GMT</pubDate>
-      <guid isPermaLink="false">n4ttqix2nx7e4hxqfnt3ossmh</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Haskell 基金会技术领导委员会成立]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qa9ezcthlqbxts7nncmjbq7ym</link>
-      <description><![CDATA[<p>Haskell 基金会的技术领导委员会已成功组建，致力于通过提高迭代速度、增强调试功能和优化文档等方式改进 Haskell 语言的开发体验。委员会还计划加强安全性和稳定性，目标是使 10 年前的 Haskell 代码在最新版本的 GHC 下编译无需修改。</p>
-<p>🔗 <a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qa9ezcthlqbxts7nncmjbq7ym">https://reisen-ww.github.io/hot-pages/openhot/items/qa9ezcthlqbxts7nncmjbq7ym</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Fri, 13 Nov 2026 14:43:12 GMT</pubDate>
-      <guid isPermaLink="false">qa9ezcthlqbxts7nncmjbq7ym</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Antithesis 开源 Rust 工具链，AI 5分钟通关 NetHack]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hv86jnxgvxxqrwz46m4mtg5p2</link>
-      <description><![CDATA[<p>Antithesis 团队基于 Rust 开发的新工具链，通过多宇宙调试器定位 NetHack 游戏漏洞，利用概率编程语言特性实现动态策略优化。系统在 5 分钟内完成 NetHack 通关，关键突破包括：1) 多态变形机制（polymorphitis）的自动化利用；2) 基于逆向工程的动态状态管理；3) 资源约束下的价值函数迭代优化。该工具链已开源，支持自主系统在复杂状态空间中的探索与决策优化。</p>
-<p>🔗 <a href="https://antithesis.com/blog/2026/nethack/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hv86jnxgvxxqrwz46m4mtg5p2">https://reisen-ww.github.io/hot-pages/openhot/items/hv86jnxgvxxqrwz46m4mtg5p2</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Fri, 13 Nov 2026 14:34:57 GMT</pubDate>
-      <guid isPermaLink="false">hv86jnxgvxxqrwz46m4mtg5p2</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Lonewolf 0.3版本发布：Rust编写自托管XMPP服务器新增证书认证联邦与直接TLS功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nlu34xtp3nyuo3g44r0hn4rg8</link>
-      <description><![CDATA[<p>Lonewolf 0.3.0发布，新增证书认证联邦、直接TLS及桌面客户端功能，支持Apache-2.0许可证。当前仍为预1.0版本，完整XMPP合规和集群功能计划后续迭代。</p>
-<p>🔗 <a href="https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nlu34xtp3nyuo3g44r0hn4rg8">https://reisen-ww.github.io/hot-pages/openhot/items/nlu34xtp3nyuo3g44r0hn4rg8</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Fri, 13 Nov 2026 14:28:40 GMT</pubDate>
-      <guid isPermaLink="false">nlu34xtp3nyuo3g44r0hn4rg8</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[对比 Zig 与 C 的内存管理与错误处理机制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wml2cfdy2w3vzdljydfgoxaib</link>
-      <description><![CDATA[<p>作者通过对比 Zig 与 C 的内存管理、错误处理和编译检查机制，展示 Zig 在系统编程中的优势。具体分析包括：1）Zig 的 errdefer 机制如何简化资源清理流程；2）Zig 切片自带长度检查避免数组越界；3）Zig 编译器对整数溢出和内存越界的强制检查；4）Zig 作为 C 编译器替代方案的性能与工具链验证。</p>
-<p>🔗 <a href="https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wml2cfdy2w3vzdljydfgoxaib">https://reisen-ww.github.io/hot-pages/openhot/items/wml2cfdy2w3vzdljydfgoxaib</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Fri, 13 Nov 2026 14:01:13 GMT</pubDate>
-      <guid isPermaLink="false">wml2cfdy2w3vzdljydfgoxaib</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[500 行 Python 代码实现 3D 建模器]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/d38y4eyvf6rq0eomdt5kkvlnd</link>
-      <description><![CDATA[<p>该文介绍了一款使用 500 行 Python 代码实现的 3D 建模器。文章详细探讨了渲染过程、界面管理及主循环机制，采用 Legacy OpenGL 降低代码复杂度，简化了图形处理逻辑。</p>
-<p>🔗 <a href="https://aosabook.org/en/500L/a-3d-modeller.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/d38y4eyvf6rq0eomdt5kkvlnd">https://reisen-ww.github.io/hot-pages/openhot/items/d38y4eyvf6rq0eomdt5kkvlnd</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Fri, 13 Nov 2026 13:47:42 GMT</pubDate>
-      <guid isPermaLink="false">d38y4eyvf6rq0eomdt5kkvlnd</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[某作者开源支持NTFS/FAT/exFAT格式的磁盘数据恢复工具Reflota（测试版）]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/q3kah8hb7uvovfe5a9ujhluxa</link>
-      <description><![CDATA[<p>Reflota是一款开源磁盘数据恢复工具，支持NTFS、FAT32、exFAT文件系统，可从物理磁盘直接读取并恢复删除文件。测试版状态下已验证FAT16/FAT12、相机RAW文件、PSD等格式恢复，提供分阶段复制（快速扫描→边缘修复→逐扇区复制）和内容搜索功能，不写入原磁盘。用户需管理员权限读取物理磁盘，工具生成校验哈希确保下载安全。</p>
-<p>🔗 <a href="https://github.com/Christ10-8/reflota">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/q3kah8hb7uvovfe5a9ujhluxa">https://reisen-ww.github.io/hot-pages/openhot/items/q3kah8hb7uvovfe5a9ujhluxa</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Fri, 13 Nov 2026 12:17:52 GMT</pubDate>
-      <guid isPermaLink="false">q3kah8hb7uvovfe5a9ujhluxa</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[joshka 开源 Zig 终端边框协议，实现零空间占用框线]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ck6o466mxhfkg8hy3yonk6nv5</link>
-      <description><![CDATA[<p>joshka 在 GitHub 开源了基于 Zig 的终端边框协议，通过在单元格边缘添加细线实现框线不占用额外行或列。方案支持颜色、宽度、圆角配置，并提供 Ghostty 和 Ratatui 的演示应用，对比传统Unicode框绘制在界面布局和滚动时的差异。</p>
-<p>🔗 <a href="https://www.joshka.net/cell-borders/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ck6o466mxhfkg8hy3yonk6nv5">https://reisen-ww.github.io/hot-pages/openhot/items/ck6o466mxhfkg8hy3yonk6nv5</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Fri, 13 Nov 2026 12:03:19 GMT</pubDate>
-      <guid isPermaLink="false">ck6o466mxhfkg8hy3yonk6nv5</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

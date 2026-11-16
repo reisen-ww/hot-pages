@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[个人开发者开源 Python SQLite 函数缓存库 FunkyCache]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd</link>
+      <description><![CDATA[<p>作者发布 Python 库 FunkyCache，利用 SQLite 实现函数缓存，减少静态网站生成时间。该库支持依赖文件追踪（如 Markdown 文件）、静态值监控（如 Pygments 版本），并对比 MD5 与 XXH64 哈希算法性能，证明 XXH64 在大键场景下速度提升显著。</p>
+<p>🔗 <a href="https://alexwlchan.net/2026/funkycache/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd">https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Mon, 16 Nov 2026 13:15:54 GMT</pubDate>
+      <guid isPermaLink="false">zei58gxjawq9mr6za2n1paidd</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Perses 发布 v0.55.0 版本，支持多种数据源与 DevOps 场景]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/p24rex7qppzx9nuhskrbg12n8</link>
       <description><![CDATA[<p>Perses v0.55.0 新增对 Prometheus、Tempo、Loki 和 Pyroscope 的支持，提供全面的静态验证和插件架构，适合 DevOps 场景。</p>
@@ -544,17 +555,6 @@
       <category>开发工具</category>
       <pubDate>Sun, 08 Nov 2026 19:37:42 GMT</pubDate>
       <guid isPermaLink="false">ls7w3euks7681n32pvk9th3xp</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队开源Rust写的轻量级WhatsApp客户端，单机内存占用仅200MB]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/tvtvems9d77vil064fo1hvz5v</link>
-      <description><![CDATA[<p>某团队在GitHub开源Rust写的WhatsApp客户端ZapFast，Linux单机版内存占用仅200MB（对比Web版1.13GB），支持多语言界面与无浏览器引擎设计。安装指南包含macOS/Brew、Arch Linux/yay、Windows等平台的具体步骤，并强调本地加密存储与离线使用特性。</p>
-<p>🔗 <a href="https://github.com/crmne/zapfast">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/tvtvems9d77vil064fo1hvz5v">https://reisen-ww.github.io/hot-pages/openhot/items/tvtvems9d77vil064fo1hvz5v</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Sun, 08 Nov 2026 02:02:27 GMT</pubDate>
-      <guid isPermaLink="false">tvtvems9d77vil064fo1hvz5v</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>

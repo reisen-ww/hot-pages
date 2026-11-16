@@ -1,6 +1,6 @@
-# 道琼斯单日暴跌450点，Nvidia拖累AI股，美国商务部关闭技术租赁漏洞
+# 美国商务部关闭Nvidia芯片漏洞致美股重挫，分析师预警$150支撑位失守
 
-> 原标题：Dow falls 450 points, Nasdaq loses 2% as Nvidia leads AI stocks lower: Live updates
+> 原标题：Dow falls 700 points, Nasdaq loses 2% as Nvidia leads AI stocks lower: Live updates
 
 - 来源：CNBC Top News
 - 发布时间：2026-11-16T16:56:22.000Z
@@ -9,8 +9,8 @@
 
 ## 摘要
 
-美国商务部关闭Nvidia技术租赁漏洞致单日暴跌450点，Nvidia股价周跌13%；Anthropic估值1.4万亿美元筹备IPO，亚洲科技股受拖累普跌；分析师警示Nvidia管理层动荡或致6-7个月市场信心不足。
+美国商务部11月16日关闭Nvidia芯片漏洞，导致其股价单周暴跌13%至$100以下关键支撑位。分析师指出若跌破$150支撑位，可能进一步下探至$100。同时，AI芯片供应商三星、SK海力士、台积电股价均重挫，拖累亚洲科技股。市场正等待Nvidia周二财报和新CEO人选确认。
 
 ## 推荐理由
 
-美国商务部关闭Nvidia技术租赁漏洞，导致其股价单周暴跌13%，同时影响亚洲供应链企业股价，并关注Anthropic的IPO进展
+原文提供了美国商务部关闭芯片漏洞、Nvidia股价暴跌至$100以下风险及分析师对CEO辞职影响的解读
