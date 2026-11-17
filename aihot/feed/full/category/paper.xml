@@ -85,16 +85,5 @@
       <guid isPermaLink="false">r66k97dfagns4nehp2wbvjlwh</guid>
       <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
     </item>
-    <item>
-      <title><![CDATA[Hugging Face 决策模型接口详解]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/d3nxd0eqqv0i8azde6nvhw4xs</link>
-      <description><![CDATA[<p>Hugging Face 推出决策模型接口，支持通过 state（状态）、questions（问题）和 allowed_answers（允许答案）结构化输出三种决策类型：1) choice（选择类）返回概率分布选项，2) score（评分类）返回期望值及对应概率，3) noul（布尔决策）返回二分类概率。</p>
-<p>🔗 <a href="https://huggingface.co/blog/decision">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/d3nxd0eqqv0i8azde6nvhw4xs">https://reisen-ww.github.io/hot-pages/aihot/items/d3nxd0eqqv0i8azde6nvhw4xs</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d3nxd0eqqv0i8azde6nvhw4xs</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
   </channel>
 </rss>

@@ -9,6 +9,19 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[开源热点 日报 · 2026-11-17 — uBlock Origin 存在可被网站驱动的元素选择器 XSS 漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-17</link>
+      <description><![CDATA[<p>uBlock Origin 存在一个可被恶意网站利用的元素选择器 XSS 漏洞，攻击者可通过伪造可信过滤器注入任意 JavaScript 代码。漏洞利用机制涉及窃取扩展 UUID、劫持元素选择器界面、绕过过滤类型限制。修复方案包括验证消息令牌和限制元素选择器权限。</p>
+<p><strong>工具与项目</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd">个人开发者开源 Python SQLite 函数缓存库 FunkyCache</a></li></ul>
+<p><strong>应用与安全</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt">uBlock Origin 存在可被网站驱动的元素选择器 XSS 漏洞</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo">Three.js光照管线优化：G缓冲、SSR与SSGI整合方案及性能对比</a></li></ul>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-17">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-17</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:23 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-17</guid>
+      <author>noreply@reisen-ww.github.io (开源热点)</author>
+    </item>
+    <item>
       <title><![CDATA[开源热点 日报 · 2026-11-15 — Perses 发布 v0.55.0 版本，支持多种数据源与 DevOps 场景]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-15</link>
       <description><![CDATA[<p>Perses v0.55.0 新增对 Prometheus、Tempo、Loki 和 Pyroscope 的支持，提供全面的静态验证和插件架构，适合 DevOps 场景。</p>
@@ -103,7 +116,7 @@
 <p><strong>工具与项目</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/kchsblmyurhq85xape3sydd83">Meridian——基于Rust和GPUI的实验性浏览器发布</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/jrfg73epq75kzo3gubses2mgw">mr-andreas2 开源自托管图像存储方案 Replycant，支持 Git 多节点复制与端到端加密</a></li></ul>
 <p><strong>应用与安全</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/bgg4zo1cgfoj4jptua9z79wus">Firecracker 虚拟机逃逸漏洞利用方法及验证</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/qsxad3u93sk40fr05oz1jf2d7">TideCloak 开源发布：基于Keycloak的去中心化身份管理与加密架构</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/w7s14xftekwetxgrozuwgvk98">Tailwind CSS 发布 v4.3.5 版本</a></li></ul>
+<ul><li><a href="https://pwn.ai/blog/firecracker-escape">Firecracker 虚拟机逃逸漏洞利用方法及验证</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/qsxad3u93sk40fr05oz1jf2d7">TideCloak 开源发布：基于Keycloak的去中心化身份管理与加密架构</a></li><li><a href="https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.5">Tailwind CSS 发布 v4.3.5 版本</a></li></ul>
 <p><strong>模型与数据</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/rjbxodxyunf7aaugdwzaewy1r">Lo与团队开源MaxxBench基准测试工具，揭示大模型任务适应能力差异</a></li></ul>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-08">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-08</a></p>]]></description>
@@ -407,19 +420,6 @@
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-14">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-14</a></p>]]></description>
       <pubDate>Wed, 14 Oct 2026 00:00:25 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-14</guid>
-      <author>noreply@reisen-ww.github.io (开源热点)</author>
-    </item>
-    <item>
-      <title><![CDATA[开源热点 日报 · 2026-10-13 — w1700k-sdr 将 Wi-Fi 7 路由器改造成 320 Msps 软件定义无线电接收机]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-13</link>
-      <description><![CDATA[<p>w1700k-sdr 让 Gemtek W1700K 的 MediaTek MT7996 采集最高 320 Msps 的 14-bit 复数 IQ 数据，并由 Airoha AN7581 SoC 通过 10 GbE 传输到 Linux 主机。</p>
-<p><strong>工具与项目</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/c10sz334shnoxduwov5azwi0m">w1700k-sdr 将 Wi-Fi 7 路由器改造成 320 Msps 软件定义无线电接收机</a></li></ul>
-<p><strong>应用与安全</strong></p>
-<ul><li><a href="https://www.rnz.co.nz/news/world/1865776/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack">法国多家大型超市遭网络攻击，数百家门店制冷系统被远程升温</a></li></ul>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-13">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-13</a></p>]]></description>
-      <pubDate>Tue, 13 Oct 2026 00:00:16 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-13</guid>
       <author>noreply@reisen-ww.github.io (开源热点)</author>
     </item>
   </channel>

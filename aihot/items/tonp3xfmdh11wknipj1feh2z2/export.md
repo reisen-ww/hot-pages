@@ -1,6 +1,6 @@
-# NVIDIA 加速临床 AI 处理，助力精准医疗
+# NVIDIA Jetson Orin NX 等技术赋能医疗AI落地
 
-> 原标题：How AI Is Helping Care Teams Get Patients the Right Care, Sooner
+> 原标题：AI Is Helping Care Teams Get Patients the Right Care, Sooner
 
 - 来源：NVIDIA Blog
 - 发布时间：2026-11-13T13:00:42.000Z
@@ -9,4 +9,8 @@
 
 ## 摘要
 
-Dyania Health 使用 Synapsis AI 处理医院数十年的患者记录，通过连接不同时间点的发现来回答临床问题，生成可追溯的临床信号，帮助护理团队识别需要关注的患者。
+NVIDIA Jetson Orin NX 等技术被Artisight、Sword、Dyania Health等医疗公司用于提升护理效率与诊断准确率。
+
+## 推荐理由
+
+原文展示了NVIDIA Jetson Orin NX、CUDA、TensorRT等技术被Artisight、Sword、Dyania Health等医疗公司用于提升护理效率、优化诊断模型和自动化处理患者记录的具体案例

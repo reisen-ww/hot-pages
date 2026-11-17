@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Three.js光照管线优化：G缓冲、SSR与SSGI整合方案及性能对比]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo</link>
+      <description><![CDATA[<p>Three.js维护者通过优化G缓冲、动态光照探针和屏幕空间反射（SSR/SSGI）等组件，将4K分辨率下的内存占用从626MB降至322MB。</p>
+<p>🔗 <a href="https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo">https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Mon, 16 Nov 2026 21:07:43 GMT</pubDate>
+      <guid isPermaLink="false">ya19v5tqy6npwd9ft1vua42oo</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[个人开发者开源 Python SQLite 函数缓存库 FunkyCache]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd</link>
       <description><![CDATA[<p>作者发布 Python 库 FunkyCache，利用 SQLite 实现函数缓存，减少静态网站生成时间。该库支持依赖文件追踪（如 Markdown 文件）、静态值监控（如 Pygments 版本），并对比 MD5 与 XXH64 哈希算法性能，证明 XXH64 在大键场景下速度提升显著。</p>
@@ -17,6 +28,17 @@
       <category>社区新奇仓库</category>
       <pubDate>Mon, 16 Nov 2026 13:15:54 GMT</pubDate>
       <guid isPermaLink="false">zei58gxjawq9mr6za2n1paidd</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[uBlock Origin 存在可被网站驱动的元素选择器 XSS 漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt</link>
+      <description><![CDATA[<p>uBlock Origin 存在一个可被恶意网站利用的元素选择器 XSS 漏洞，攻击者可通过伪造可信过滤器注入任意 JavaScript 代码。漏洞利用机制涉及窃取扩展 UUID、劫持元素选择器界面、绕过过滤类型限制。修复方案包括验证消息令牌和限制元素选择器权限。</p>
+<p>🔗 <a href="https://iter.ca/post/ubo-uxss/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt">https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Mon, 16 Nov 2026 05:12:27 GMT</pubDate>
+      <guid isPermaLink="false">vmvo81vgo78w2fx4e2r4uezvt</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
@@ -534,28 +556,6 @@
       <pubDate>Mon, 09 Nov 2026 05:03:57 GMT</pubDate>
       <guid isPermaLink="false">evro9tz4l5n8324ejcigxnx08</guid>
       <author>noreply@reisen-ww.github.io (Hugging Face 模型趋势)</author>
-    </item>
-    <item>
-      <title><![CDATA[Lucas Barrena 开源支持浏览器与 Node.js 的 P2P WebRTC 连接库]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln</link>
-      <description><![CDATA[<p>Lucas Barrena 在 GitHub 公开该连接库仓库，支持浏览器、Node.js 和 React Native 的 P2P WebRTC 连接，内置信令服务器和节点发现功能。</p>
-<p>🔗 <a href="https://github.com/lukks/like-webrtc">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln">https://reisen-ww.github.io/hot-pages/openhot/items/fku7chpqjurbxvpvtubj8ppln</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Sun, 08 Nov 2026 20:10:06 GMT</pubDate>
-      <guid isPermaLink="false">fku7chpqjurbxvpvtubj8ppln</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Git 优化参考删除性能，Rust 版本提升 18%，纳入 v3.0 计划]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ls7w3euks7681n32pvk9th3xp</link>
-      <description><![CDATA[<p>Git 团队通过 Rust 重构参考存储，在删除百万级引用时性能提升 18%。测试显示 Rust 版本删除时间比 C 版本快 17.7%（v2.56.0），补丁已合并至 master (fc70f528)，计划在 v2.98 后的 v3.0 中正式启用。优化通过直接写入数据避免格式化开销，适用于 GitLab 等拥有数百万引用的大仓库。</p>
-<p>🔗 <a href="https://nayak.im/posts/optimizing-reference-deletion/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ls7w3euks7681n32pvk9th3xp">https://reisen-ww.github.io/hot-pages/openhot/items/ls7w3euks7681n32pvk9th3xp</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Sun, 08 Nov 2026 19:37:42 GMT</pubDate>
-      <guid isPermaLink="false">ls7w3euks7681n32pvk9th3xp</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
-# SNL 在本周节目中讽刺科技巨头的约会与间谍技巧
+# SNL 草集科技巨头上台表演间谍与约会技巧
 
-> 原标题：SNL gathers all the tech tycoons for a lesson in dating and spycraft
+> 原标题：‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft
 
 - 来源：TechCrunch · AI
 - 发布时间：2026-11-15T20:20:57.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-在本周的《周六夜现场》中，演员们通过一系列讽刺性的表演展示了对科技巨头们的模仿，特别是Peter Thiel、Sam Altman和Elon Musk等人物。主持人John Mulaney饰演的CIA特工试图解释这些高管们在突然遇到有吸引力的人时应保持警惕，以防被间谍欺骗。表演中还涉及了科技巨头们在技术上的贡献与不足，以及他们因个人问题可能面临的行业影响。
+在本周的周六夜现场中，演员们集中展示了对 Peter Thiel、Sam Altman、Dario Amodei 等科技巨头的模仿。主持人 John Mulaney 以 CIA 间谍的身份警告这些高管们要警惕突然表现出兴趣的异性，以免成为间谍的猎物。Thiel 的扮演者 James Austin Johnson 强调科技巨头们为国家做出了巨大贡献，值得更多尊重。

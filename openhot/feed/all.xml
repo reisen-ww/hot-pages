@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Claude Code 开源自托管本体平台 Sutra-OS]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xgdauy1cx4a5ly2vbmkj026t4</link>
+      <description><![CDATA[<p>Claude Code 在 GitHub 公开自托管本体平台 Sutra-OS，支持通过类型约束（如整数限制、日期格式）和规则引擎（如拒绝超额销售）确保数据可追溯。</p>
+<p>🔗 <a href="https://github.com/0nelight/sutra-os">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xgdauy1cx4a5ly2vbmkj026t4">https://reisen-ww.github.io/hot-pages/openhot/items/xgdauy1cx4a5ly2vbmkj026t4</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Mon, 16 Nov 2026 23:25:41 GMT</pubDate>
+      <guid isPermaLink="false">xgdauy1cx4a5ly2vbmkj026t4</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Three.js光照管线优化：G缓冲、SSR与SSGI整合方案及性能对比]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo</link>
+      <description><![CDATA[<p>Three.js维护者通过优化G缓冲、动态光照探针和屏幕空间反射（SSR/SSGI）等组件，将4K分辨率下的内存占用从626MB降至322MB。</p>
+<p>🔗 <a href="https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo">https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Mon, 16 Nov 2026 21:07:43 GMT</pubDate>
+      <guid isPermaLink="false">ya19v5tqy6npwd9ft1vua42oo</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[InterceptSuite开源工具实现HTTP/3流量拦截与QPack动态表解析]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/ms77wgd7uq83kueb3yc1cxslv</link>
       <description><![CDATA[<p>InterceptSuite开源工具通过代理重定向和扩展解析，演示了如何捕获和解码HTTP/3请求流，并修改QPACK动态表头数据。关键步骤包括配置UDP代理、忽略证书错误、使用HTTP/3扩展解析流，以及通过Replay功能修改请求体和元数据。工具仅支持QUIC版本1，无法处理加密客户端hello（ECH）和QUIC版本2。</p>
@@ -50,6 +72,17 @@
       <category>社区新奇仓库</category>
       <pubDate>Mon, 16 Nov 2026 17:56:45 GMT</pubDate>
       <guid isPermaLink="false">cruf1gqsztj5pu7568a34ok4d</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Aerogramme 团队开源邮件服务器，解析复杂边缘案例]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ve2o0jqatjv85xcdh9f8tjas9</link>
+      <description><![CDATA[<p>Aerogramme 团队发布开源邮件服务器技术方案，重点解决SEARCH/FETCH查询的复杂边缘情况。通过ImapTest测试框架和模糊生成测试，修复了编码词上下文依赖、消息ID格式兼容等12类问题，并改进eml-codec库的解析恢复机制。</p>
+<p>🔗 <a href="https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ve2o0jqatjv85xcdh9f8tjas9">https://reisen-ww.github.io/hot-pages/openhot/items/ve2o0jqatjv85xcdh9f8tjas9</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Mon, 16 Nov 2026 16:25:38 GMT</pubDate>
+      <guid isPermaLink="false">ve2o0jqatjv85xcdh9f8tjas9</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
@@ -108,6 +141,27 @@
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[Linux内核NoisyTCP模块存在11年潜伏的CVE-2026-99288远程破坏漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kz4kuhq5kosb7smyqehskkg8e</link>
+      <description><![CDATA[<p>Hyunwoo Kim 报告的 NoisyTCP 漏洞（CVE-2026-99288）在 Linux 内核中潜伏了约11年，影响几乎所有发行版，可通过禁用 SYN cookies 或限制 RX 队列临时缓解。触发需特定配置， bare-metal服务器需14小时以上，虚拟机约5-2分钟，攻击者可远程触发导致宿主机崩溃。</p>
+<p>🔗 <a href="https://www.openwall.com/lists/oss-security/2026/11/15/2">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kz4kuhq5kosb7smyqehskkg8e">https://reisen-ww.github.io/hot-pages/openhot/items/kz4kuhq5kosb7smyqehskkg8e</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Mon, 16 Nov 2026 12:50:29 GMT</pubDate>
+      <guid isPermaLink="false">kz4kuhq5kosb7smyqehskkg8e</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[编程语言的设计与实现]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kvgkghyiaxdiykj2hn5n5t2gi</link>
+      <description><![CDATA[<p>作者在过去两年为两家公司实现两种简单的编程语言，发现这一过程非常有趣，因此决定更深入地研究编程语言设计。本文系列将记录作者的工作坊内容，涵盖从表示源代码到解释类型化抽象语法树的过程。</p>
+<p>🔗 <a href="https://nrinaudo.github.io/articles/pl.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kvgkghyiaxdiykj2hn5n5t2gi">https://reisen-ww.github.io/hot-pages/openhot/items/kvgkghyiaxdiykj2hn5n5t2gi</a></p>]]></description>
+      <pubDate>Mon, 16 Nov 2026 11:24:12 GMT</pubDate>
+      <guid isPermaLink="false">kvgkghyiaxdiykj2hn5n5t2gi</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[mddog：在终端中预览 Markdown 的 Rust 工具]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/zp79o447dlepxawzei4jbn9e8</link>
       <description><![CDATA[<p>开发者正在完善 mddog，这是一个终端工具，可让用户在终端中预览 Markdown 文件，效果如同在 GitHub 或 Obsidian 中查看。该工具利用 macOS 内置引擎将 Markdown 转换为实际格式，并以图像条的形式输出到终端。目前支持 headings 和图片渲染，用户反馈积极。</p>
@@ -152,6 +206,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[uBlock Origin 存在可被网站驱动的元素选择器 XSS 漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt</link>
+      <description><![CDATA[<p>uBlock Origin 存在一个可被恶意网站利用的元素选择器 XSS 漏洞，攻击者可通过伪造可信过滤器注入任意 JavaScript 代码。漏洞利用机制涉及窃取扩展 UUID、劫持元素选择器界面、绕过过滤类型限制。修复方案包括验证消息令牌和限制元素选择器权限。</p>
+<p>🔗 <a href="https://iter.ca/post/ubo-uxss/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt">https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Mon, 16 Nov 2026 05:12:27 GMT</pubDate>
+      <guid isPermaLink="false">vmvo81vgo78w2fx4e2r4uezvt</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[从 GitHub 迁移到 Codeberg 的经历]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/vdwvivq01d5vjzicae1d9jbam</link>
       <description><![CDATA[<p>作者于 2009 年创建 GitHub 账号，2023 年将 Inko 项目和个人项目迁回 GitHub，旨在增加项目可见度和贡献者数量。然而，由于 GitHub 上低质量的“贡献”增多，作者决定迁移至 Codeberg，因其对非自由软件的立场、反对 AI 和更符合自由软件精神的组织结构。迁移过程中，作者手动处理了 70 多个仓库，遇到 GitHub API 限流等问题，但最终顺利完成。</p>
@@ -160,6 +225,17 @@
       <category>开发工具</category>
       <pubDate>Mon, 16 Nov 2026 05:10:34 GMT</pubDate>
       <guid isPermaLink="false">vdwvivq01d5vjzicae1d9jbam</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Hegel-clj 0.1.1 发布：Clojure测试库优化生成器与缩小算法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/d0zxil6jz8nkkkx71j6f1jdfm</link>
+      <description><![CDATA[<p>Hegel-clj 0.1.1 发布，优化了生成测试的缩小算法，解决嵌套绑定导致的效率低下问题。对比test.check在查找含42的向量时产生冗余数据结构，Hegel-clj能直接缩小为[42]。集成Clojure测试框架，提供fmap/bind等生成器组合，支持递归生成和调试信息输出。</p>
+<p>🔗 <a href="https://aphyr.com/posts/428-announcing-hegel-clj">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/d0zxil6jz8nkkkx71j6f1jdfm">https://reisen-ww.github.io/hot-pages/openhot/items/d0zxil6jz8nkkkx71j6f1jdfm</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 04:12:25 GMT</pubDate>
+      <guid isPermaLink="false">d0zxil6jz8nkkkx71j6f1jdfm</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
@@ -207,6 +283,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[Redox OS 十月更新：Go编译器移植与NUMA性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xb1wzdpmmbsuhvxq5mlqbckzc</link>
+      <description><![CDATA[<p>Redox OS 团队宣布 October 2026 月度更新，包含 Wildan Mubarok 完成的Go编译器跨编译与自宿主编译支持（使用relibc无需外部编译器），MJ Pooladkhay实现的virtiofs驱动支持Linux主机目录共享，EuclidDivisionLemma的NUMA硬件测试显示平均45.2%的NPB MG负载耗时降低。</p>
+<p>🔗 <a href="https://www.redox-os.org/news/this-month-261031/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xb1wzdpmmbsuhvxq5mlqbckzc">https://reisen-ww.github.io/hot-pages/openhot/items/xb1wzdpmmbsuhvxq5mlqbckzc</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Sun, 15 Nov 2026 23:05:45 GMT</pubDate>
+      <guid isPermaLink="false">xb1wzdpmmbsuhvxq5mlqbckzc</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[CashDB：基于共识算法的分布式账本新设计]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/i7cafc2oocg2ls5u0bw8utcqx</link>
       <description><![CDATA[<p>CashDB是专为朋友分账应用设计的分布式账本，支持原子性交易和日志追加。作者通过对比Raft、E-Paxos、QuePaxa、Accord等算法在Cassandra、Megastore等系统中的表现，指出当前技术趋势下Quorum数据库的改进方向。</p>
@@ -215,6 +302,17 @@
       <category>数据与数据库</category>
       <pubDate>Sun, 15 Nov 2026 22:44:13 GMT</pubDate>
       <guid isPermaLink="false">i7cafc2oocg2ls5u0bw8utcqx</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Clice v1.0 正式发布：现代C++语言服务器架构革新]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qblgfl9j53fav5m8588a52vnr</link>
+      <description><![CDATA[<p>Clice v1.0发布，支持C++20模块化与自托管构建，通过多进程隔离编译解决clangd崩溃问题。作者历时2.5年开发，集成xclang工具链与Bazel构建系统，实现跨平台编译缓存与第三方库自动封装。对比clangd，clice在语义高亮、代码补全等场景性能提升显著，并新增CLI命令支持项目级代码分析。</p>
+<p>🔗 <a href="https://www.ykiko.me/en/articles/2105384023094834022/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qblgfl9j53fav5m8588a52vnr">https://reisen-ww.github.io/hot-pages/openhot/items/qblgfl9j53fav5m8588a52vnr</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Sun, 15 Nov 2026 21:19:35 GMT</pubDate>
+      <guid isPermaLink="false">qblgfl9j53fav5m8588a52vnr</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
@@ -416,6 +514,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[DocSpring 团队八载 Convox 实践：AWS 混合云部署与成本优化实例]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/bz7p3jd5s206446ll72hfr9q2</link>
+      <description><![CDATA[<p>DocSpring 团队通过 Convox 在 AWS 和 EU 多云环境中部署应用，并开源了部分 Terraform 模块。文中详细记录了从 Heroku 迁移到 AWS 的基础设施实践，包括 Kubernetes 集群管理、安全合规配置（如 Tailscale 隔离、Rack Gateway 认证）、成本估算（单机成本约 $306/月）及部署流程优化。</p>
+<p>🔗 <a href="https://docspring.com/blog/posts/eight-years-running-docspring-convox/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/bz7p3jd5s206446ll72hfr9q2">https://reisen-ww.github.io/hot-pages/openhot/items/bz7p3jd5s206446ll72hfr9q2</a></p>]]></description>
+      <category>基础设施</category>
+      <pubDate>Sat, 14 Nov 2026 04:46:41 GMT</pubDate>
+      <guid isPermaLink="false">bz7p3jd5s206446ll72hfr9q2</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Jane Street 实习生开发 OxCaml 高性能并行动态编译器]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/em0fv5l6674vp6xor3kaalmuv</link>
       <description><![CDATA[<p>Jane Street 实习生 Sai Konkimalla 开发了一款基于 OxCaml 的动态编译器，支持 SIMD 高性能并行计算。该编译器通过运行时元编程生成 OxCaml 代码，实现跨架构编译，并对比手动代码和 C 实现的基准测试，验证了其性能接近手动代码但不及 C 实现的现状。</p>
@@ -446,114 +555,6 @@
       <category>社区新奇仓库</category>
       <pubDate>Sat, 14 Nov 2026 01:47:30 GMT</pubDate>
       <guid isPermaLink="false">on1lvwzcjpr64jhfv2dw388er</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Light control for MacBook charger status light 开源项目发布]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/blajrdwyjdncv877240h7je9r</link>
-      <description><![CDATA[<p>Ember 作为 disk image 下载后，拖放到 Applications 即可运行。新版本解决了从 Applications 启动时无法启动辅助程序的问题，并改进了卸载流程。</p>
-<p>🔗 <a href="https://github.com/Getterbetter/ember/releases/tag/v1.0.1">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/blajrdwyjdncv877240h7je9r">https://reisen-ww.github.io/hot-pages/openhot/items/blajrdwyjdncv877240h7je9r</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Sat, 14 Nov 2026 00:44:58 GMT</pubDate>
-      <guid isPermaLink="false">blajrdwyjdncv877240h7je9r</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 升级 Claude Code Projects 支持并行 AI 工作者]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/p6akfduhbbxsj23w3tdwaq6uh</link>
-      <description><![CDATA[<p>Anthropic 宣布升级 Claude Code Projects，新增并行 AI 工作者支持功能</p>
-<p>🔗 <a href="https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/p6akfduhbbxsj23w3tdwaq6uh">https://reisen-ww.github.io/hot-pages/openhot/items/p6akfduhbbxsj23w3tdwaq6uh</a></p>]]></description>
-      <pubDate>Sat, 14 Nov 2026 00:28:11 GMT</pubDate>
-      <guid isPermaLink="false">p6akfduhbbxsj23w3tdwaq6uh</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Unsloth开源团队发布Qwen3.8-27B动态量化v3.1版本]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/sa2903pwq6h7xyv2khiasv3ye</link>
-      <description><![CDATA[<p>Unsloth在GitHub发布Qwen3.8-27B动态量化v3.1版本，包含BF16/FP8/NVFP4三种量化方案。</p>
-<p>🔗 <a href="https://unsloth.ai/docs/models/qwen3.8">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/sa2903pwq6h7xyv2khiasv3ye">https://reisen-ww.github.io/hot-pages/openhot/items/sa2903pwq6h7xyv2khiasv3ye</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Sat, 14 Nov 2026 00:06:04 GMT</pubDate>
-      <guid isPermaLink="false">sa2903pwq6h7xyv2khiasv3ye</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Doc-foundry – AI 自动生成并验证安全检测规则]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/i132sprk2wjhb22sn92heq67i</link>
-      <description><![CDATA[<p>Doc-foundry 是一个基于 adversarial multi-agent 的检测工程框架，能够将威胁（如 CVE、CISA KEV 入口等）转化为经过验证的第一版检测规则，并生成 Sigma 检测规则、威胁报告和证明包。该工具通过蓝队和红队的对抗循环，确保生成的规则能够有效检测真实攻击，而不仅仅是声称覆盖所有未来变种。</p>
-<p>🔗 <a href="https://github.com/mjha-arya/DOC-foundry">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/i132sprk2wjhb22sn92heq67i">https://reisen-ww.github.io/hot-pages/openhot/items/i132sprk2wjhb22sn92heq67i</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Fri, 13 Nov 2026 23:40:12 GMT</pubDate>
-      <guid isPermaLink="false">i132sprk2wjhb22sn92heq67i</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Home Assistant 密码变更无效且令牌密钥明文存储漏洞披露]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/p18sp3k2wv16xh13ijb6kvel1</link>
-      <description><![CDATA[<p>Home Assistant 存在密码变更无效且令牌密钥明文存储的安全漏洞。测试版本 home-assistant/core 2026.11.0 发现：1. 用户令牌秘密和JWT签名密钥以明文形式存储在 config/.storage/auth 文件中；2. 长期有效令牌未设置过期时间；3. 密码变更未撤销相关令牌。建议用户立即更新配置并检查备份文件。</p>
-<p>🔗 <a href="https://seclists.org/fulldisclosure/2026/Nov/34">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/p18sp3k2wv16xh13ijb6kvel1">https://reisen-ww.github.io/hot-pages/openhot/items/p18sp3k2wv16xh13ijb6kvel1</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Fri, 13 Nov 2026 22:30:10 GMT</pubDate>
-      <guid isPermaLink="false">p18sp3k2wv16xh13ijb6kvel1</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[FreeBSD bhyve虚拟机活迁移支持首次完整实现]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hox5oh87bvu08t1u0frstto7z</link>
-      <description><![CDATA[<p>作者在GitHub发布基于FreeBSD 15.1的bhyve虚拟机活迁移实现，实测单机迁移停机时间138-171ms，支持多vCPU协议和内存一致性检查。当前状态为WIP RFC，已规划存储网络交接和自动化测试方案，后续将扩展设备支持和性能优化。</p>
-<p>🔗 <a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hox5oh87bvu08t1u0frstto7z">https://reisen-ww.github.io/hot-pages/openhot/items/hox5oh87bvu08t1u0frstto7z</a></p>]]></description>
-      <category>基础设施</category>
-      <pubDate>Fri, 13 Nov 2026 19:58:42 GMT</pubDate>
-      <guid isPermaLink="false">hox5oh87bvu08t1u0frstto7z</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Kildall's 算法在 Lisp 编译器中的应用]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xnlfqopl7tyfp9z6xnbrkev5k</link>
-      <description><![CDATA[<p>开发者正在编写一个新的 Lisp 编译器 Cleavir，它是 Dr. Robert Strandh 项目 SICL 的一部分。Cleavir 将 Lisp 程序编译成中间表示形式 MIR，然后由 Clasp 项目进一步编译成 LLVM-IR 并生成机器代码。此过程旨在平衡编译速度和代码安全性。</p>
-<p>🔗 <a href="https://bike.github.io/posts/kildall.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xnlfqopl7tyfp9z6xnbrkev5k">https://reisen-ww.github.io/hot-pages/openhot/items/xnlfqopl7tyfp9z6xnbrkev5k</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Fri, 13 Nov 2026 19:34:28 GMT</pubDate>
-      <guid isPermaLink="false">xnlfqopl7tyfp9z6xnbrkev5k</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[某研究者提出PTOP模型解析技术搜索机制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fmhhfrxzu09dzp82kok512uxx</link>
-      <description><![CDATA[<p>PTOP模型将技术发展视为高维搜索空间，通过模块化设计（如分阶段验证组件）和现象触发机制（如利用物理定律组合实现目标）大幅缩小可行方案数量。实验显示，模块化搜索可将1亿种可能压缩至1300次尝试，而引入并行现象（如光 bulb 的温度与热膨胀协同）则需权衡不同性能指标。研究对比了有性/无性繁殖策略在技术迭代中的效率差异，证明后者能将研发周期从2000代缩短至100代。</p>
-<p>🔗 <a href="https://www.construction-physics.com/p/technology-as-a-search-problem">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fmhhfrxzu09dzp82kok512uxx">https://reisen-ww.github.io/hot-pages/openhot/items/fmhhfrxzu09dzp82kok512uxx</a></p>]]></description>
-      <pubDate>Fri, 13 Nov 2026 19:27:15 GMT</pubDate>
-      <guid isPermaLink="false">fmhhfrxzu09dzp82kok512uxx</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[FM-1 Workbench]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rng3jkaozzkgvsgcjs4o7af8h</link>
-      <description><![CDATA[<p>FM-1 V15恢复固件由M-VAVE发布，基于Apache-2.0许可证。该项目包含多个开源组件，如Open303、DaisySP等，各自遵循MIT许可证。M-VAVE授予用户非独占权限，用于开发和使用FM1设备固件，并允许商业和非商业再分发。</p>
-<p>🔗 <a href="https://open.m-vave.com/fm1-workbench">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rng3jkaozzkgvsgcjs4o7af8h">https://reisen-ww.github.io/hot-pages/openhot/items/rng3jkaozzkgvsgcjs4o7af8h</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Fri, 13 Nov 2026 19:14:02 GMT</pubDate>
-      <guid isPermaLink="false">rng3jkaozzkgvsgcjs4o7af8h</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[基于 Rust 的 Qwen3.6 高性能推理方案开源]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/tf0ub0ichb1fhjbghxb79md8q</link>
-      <description><![CDATA[<p>某团队开源 Rust 写的向量数据库 Lightreason，实现 Qwen3.6 模型在单台 RTX 4090 上的 6-11 倍性能提升。仓库包含 BF16 权重优化、CUDA 图形计算、注意力缓存压缩等实现细节，并提供 Python/JS/SQL 基准测试工具。需安装 PyTorch 2.9.1 + CUDA 12.8，完整复现流程见文档。</p>
-<p>🔗 <a href="https://github.com/me-farza/lightreason/tree/main">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/tf0ub0ichb1fhjbghxb79md8q">https://reisen-ww.github.io/hot-pages/openhot/items/tf0ub0ichb1fhjbghxb79md8q</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Fri, 13 Nov 2026 18:40:37 GMT</pubDate>
-      <guid isPermaLink="false">tf0ub0ichb1fhjbghxb79md8q</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>

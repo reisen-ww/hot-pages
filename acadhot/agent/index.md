@@ -1,6 +1,6 @@
 # 学术热点 静态读取说明
 
-快照时间：2026-11-16T21:03:26.137Z；版本：dbf090b1-c3e2-4bfc-9134-5f5fa5a823e2。仅包含当前允许公开的内容。
+快照时间：2026-11-17T00:24:30.548Z；版本：36f49e7a-4f82-413f-b26d-a0f76b0ff680。仅包含当前允许公开的内容。
 
 - [当前 manifest](https://reisen-ww.github.io/hot-pages/acadhot/data/manifest.json)：文件使用 SHA-256 内容地址；读取方须绑定同一版本并验证字节。
 - catalog 与 bodyShards 仅覆盖当前在线文章窗口，分别用于标题摘要与获许可的全文搜索。全部历史报告保留。availability 将超窗（outside-window）与不再公开区分；缺少详情不代表来源撤回。

@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Three.js光照管线优化：G缓冲、SSR与SSGI整合方案及性能对比]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo</link>
+      <description><![CDATA[<p>Three.js维护者通过优化G缓冲、动态光照探针和屏幕空间反射（SSR/SSGI）等组件，将4K分辨率下的内存占用从626MB降至322MB。</p>
+<p>🔗 <a href="https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo">https://reisen-ww.github.io/hot-pages/openhot/items/ya19v5tqy6npwd9ft1vua42oo</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Mon, 16 Nov 2026 21:07:43 GMT</pubDate>
+      <guid isPermaLink="false">ya19v5tqy6npwd9ft1vua42oo</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Perses 发布 v0.55.0 版本，支持多种数据源与 DevOps 场景]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/p24rex7qppzx9nuhskrbg12n8</link>
       <description><![CDATA[<p>Perses v0.55.0 新增对 Prometheus、Tempo、Loki 和 Pyroscope 的支持，提供全面的静态验证和插件架构，适合 DevOps 场景。</p>
@@ -50,17 +61,6 @@
       <category>Web 与前端</category>
       <pubDate>Tue, 10 Nov 2026 22:54:17 GMT</pubDate>
       <guid isPermaLink="false">ugdjwbkivkjuwxjxjdqugdauk</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[PyPI 重构项目页面并增强安全信号，正式上线]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/uirzlv8lat5tx1mkxv41dmuxk</link>
-      <description><![CDATA[<p>PyPI 在 2026 年 11 月 6 日完成用户界面升级，新增安全标签页展示包文件的可追溯性（Provenance）状态，包括完整可验证记录、警告提示（如文件延迟上传、来源不一致等），并优化了元数据展示方式。开发者可通过该功能直接验证包文件的来源和完整性，降低恶意攻击风险。</p>
-<p>🔗 <a href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/uirzlv8lat5tx1mkxv41dmuxk">https://reisen-ww.github.io/hot-pages/openhot/items/uirzlv8lat5tx1mkxv41dmuxk</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Mon, 09 Nov 2026 21:45:49 GMT</pubDate>
-      <guid isPermaLink="false">uirzlv8lat5tx1mkxv41dmuxk</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>

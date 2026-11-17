@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>金融热点 (https://reisen-ww.github.io/hot-pages/cryptohot/agent)</generator>
     <item>
+      <title><![CDATA[Google向日本政府及关键基础设施运营商提供前沿AI网络安全早期访问]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/pmktzlbgtn3fcct6wg7ntuxfq</link>
+      <description><![CDATA[<p>Google向日本政府及关键基础设施运营商提供前沿AI模型的早期访问权限，以应对激增的网络攻击。日本政府已拨款63亿美元用于AI防御技术，Google的访问权限与日本2026年启动的&apos;主动网络防御&apos;框架直接关联。此前Google与日本国立信息通信技术研究所（NICT）合作开发AI漏洞检测技术，此次扩展了合作范围至更多关键设施运营商。</p>
+<p>🔗 <a href="https://cryptobriefing.com/google-japan-frontier-ai-cybersecurity-access/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/pmktzlbgtn3fcct6wg7ntuxfq">https://reisen-ww.github.io/hot-pages/cryptohot/items/pmktzlbgtn3fcct6wg7ntuxfq</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 21:10:25 GMT</pubDate>
+      <guid isPermaLink="false">pmktzlbgtn3fcct6wg7ntuxfq</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用Safe钱包角色模块漏洞盗取640万美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/wal6x0g4tzhd667q7ynf5zkdq</link>
+      <description><![CDATA[<p>黑客通过Safe钱包的Zodiac角色模块漏洞，于周一凌晨转移约640万美元（含439万美元USDC和206万美元syrupUSDC）。资金经Morpho借贷协议转至Hyperliquid交易所的XMR1代币。Zodiac称攻击源于角色密钥泄露，Safe则否认系统漏洞并称仅单 multisig 被影响。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/hacker-uses-a-safe-wallets-own-back-door-to-drain-6-4-million/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/wal6x0g4tzhd667q7ynf5zkdq">https://reisen-ww.github.io/hot-pages/cryptohot/items/wal6x0g4tzhd667q7ynf5zkdq</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 20:09:53 GMT</pubDate>
+      <guid isPermaLink="false">wal6x0g4tzhd667q7ynf5zkdq</guid>
+      <author>noreply@reisen-ww.github.io (Unchained)</author>
+    </item>
+    <item>
       <title><![CDATA[以太坊链上交易所Lighter发生安全漏洞致超百万美元USDC被盗]]></title>
       <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ifyf70b7tbbu5a7ixxdghjqih</link>
       <description><![CDATA[<p>2026年11月16日，以太坊链上交易所Lighter发生安全漏洞，导致约103.9万美元USDC被盗。交易所通过触发智能合约机制追回约50万美元USDC并恢复运营，但仍有约155万美元未追回。事件调查显示漏洞源于API密钥泄露及签名代码中nonce重复使用问题，导致攻击者可推导私钥。该事件导致其原生代币LIT日内跌幅超10%。</p>
@@ -84,6 +106,17 @@
       <pubDate>Mon, 16 Nov 2026 14:35:48 GMT</pubDate>
       <guid isPermaLink="false">vdt9irotv2oh3ggfd37woabg2</guid>
       <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[Sky创始人关联钱包在游戏公司破产前借出100万美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/w167u37mcu1sa1oiri6dcrfu0</link>
+      <description><![CDATA[<p>Sky创始人关联钱包在游戏公司破产前借出100万美元，导致稳定币借贷池资金耗尽。该钱包已欠 Sky 存款池超7600万美元，且自2022年起创始人 Christensen 对 MakerDAO（现Sky）的决策权被多次质疑。破产前一周内该钱包完成最后一次1万美元借贷，而池内可用资金在万圣节前夜（10月31日）归零。</p>
+<p>🔗 <a href="https://protos.com/wallet-tied-to-sky-founder-borrowed-1m-days-before-his-company-collapsed/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/w167u37mcu1sa1oiri6dcrfu0">https://reisen-ww.github.io/hot-pages/cryptohot/items/w167u37mcu1sa1oiri6dcrfu0</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Mon, 16 Nov 2026 14:06:18 GMT</pubDate>
+      <guid isPermaLink="false">w167u37mcu1sa1oiri6dcrfu0</guid>
+      <author>noreply@reisen-ww.github.io (Protos)</author>
     </item>
     <item>
       <title><![CDATA[西联汇款接入Solana，通过DAN和USDPT支持跨境汇款至180个国家和地区]]></title>
@@ -237,28 +270,6 @@
       <category>DeFi 与链上</category>
       <pubDate>Sat, 14 Nov 2026 16:02:30 GMT</pubDate>
       <guid isPermaLink="false">hjnpmk53p1lx0evmvhtnim9vn</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[Kava链桥遭攻击致代币暴跌40% 三大交易所暂停KAVA服务]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/zaeymawau8n52oklcjnlwb4vx</link>
-      <description><![CDATA[<p>Kava链桥遭安全漏洞攻击致代币价格单日暴跌41%，Upbit、Bithumb、Coinone暂停KAVA提款和桥服务。事件源于异常跨链转账及BNB链上的KAVA抛售，Kava官方已暂停Axelar桥并承诺发布完整报告。</p>
-<p>🔗 <a href="https://cryptobriefing.com/kava-token-incident-bridge-shutdown/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/zaeymawau8n52oklcjnlwb4vx">https://reisen-ww.github.io/hot-pages/cryptohot/items/zaeymawau8n52oklcjnlwb4vx</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Sat, 14 Nov 2026 14:35:09 GMT</pubDate>
-      <guid isPermaLink="false">zaeymawau8n52oklcjnlwb4vx</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Kava暂停通过Axelar桥的跨链资产提现]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/haa1p2ykktvgu5y7ceehui3gd</link>
-      <description><![CDATA[<p>Kava宣布暂停通过Axelar桥的跨链资产提现，此前KAVA代币24小时跌幅超46%，Kava回应称已控制异常跨链与出售行为，并将发布完整事件报告。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1da6e-8d2a-771f-8a46-1e3b30866561">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/haa1p2ykktvgu5y7ceehui3gd">https://reisen-ww.github.io/hot-pages/cryptohot/items/haa1p2ykktvgu5y7ceehui3gd</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Sat, 14 Nov 2026 14:20:44 GMT</pubDate>
-      <guid isPermaLink="false">haa1p2ykktvgu5y7ceehui3gd</guid>
       <author>noreply@reisen-ww.github.io (PANews)</author>
     </item>
     <item>

@@ -1,127 +1,151 @@
-# 金融与加密日报 · 2026-11-16
+# 金融与加密日报 · 2026-11-17
 
-- 期号：第 39 期
-- 发布：2026-11-17 00:59（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/daily/2026-11-16)
+- 期号：第 40 期
+- 发布：2026-11-17 08:00（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/cryptohot/daily/2026-11-17)
 
 ## 头条
 
-Trezor Safe 5 硬件植入事件及经销商网络削减 80%
+纽交所交易平台完成Solana链上代币接收准备
 
 ## 加密货币
 
-1. [Trezor Safe 5 硬件植入事件及经销商网络削减 80%](https://reisen-ww.github.io/hot-pages/cryptohot/items/c8oyxs3zymyzlr7utqc5xstrc)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-15 08:00（北京时间） · 一手
-   摘要：Trezor 官方确认 3 台 Safe 5 存在硬件植入漏洞，经销商网络缩减约 80%。同步数据显示同期比特币下跌 6.1%，以太坊下跌 8.3%，加密恐慌贪婪指数从 21 降至 12。
-   原文：[打开原文](https://www.chaincatcher.com/article/2304815)
+1. [Lighter交易所因API密钥泄露致超1500万美元资金外流](https://reisen-ww.github.io/hot-pages/cryptohot/items/mkw6ewgq4wc736wfbt45qydro)
+   来源：Unchained · 发布时间：2026-11-16 21:25（北京时间） · 另有 4 家信源报道
+   摘要：Lighter交易所于11月16日披露遭遇API密钥泄露事件，攻击者于10:11:47 UTC通过智能合约提现10,390,000 USDC，经CoW Swap兑换5,760 ETH后转至Hyperliquid。未确认的细节包括：1）是否涉及2个市场做市商账户（$15.5M）；2）资金是否用于购买Monero（XMR）；3）Lighter交易所是否已升级智能合约。
+   相关：
+   - [Lighter API密钥泄露事件疑似关联Abraxas Capital，Hyperliquid空头仓位缩至7000万美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/rbxp5vo7a7afzer1aw31yktk6) · PANews · 2026-11-16 21:17（北京时间）
+   - [Lighter交易所宣布启动安全事件调查并暂停取款及资金池创建](https://reisen-ww.github.io/hot-pages/cryptohot/items/hoxx961hq7enyte30rpfytctg) · PANews · 2026-11-16 19:06（北京时间）
+   - [永续合约平台 Lighter 暂停提现及资金池创建，称遭单一外部方入侵调查](https://reisen-ww.github.io/hot-pages/cryptohot/items/el268e310he62llfh2lh8k965) · 链捕手 ChainCatcher · 2026-11-16 19:06（北京时间）
+   - [Lighter宣布恢复提款并新增钱包签名要求](https://reisen-ww.github.io/hot-pages/cryptohot/items/rkofoy5ojzic38r3g9foqb13w) · The Defiant · 2026-11-17 05:26（北京时间）
+   - [Lighter交易所因API密钥漏洞导致约500万美元USDC被盗，已恢复提现并追回部分资金](https://reisen-ww.github.io/hot-pages/cryptohot/items/ul5rz7eql50xma4u6notdcxzf) · Crypto Briefing · 2026-11-17 03:09（北京时间）
+   原文：[打开原文](https://unchainedcrypto.com/lighter-pins-drain-on-traders-leaked-api-key-says-contracts-were-not-hit/)
 
-2. [多名巨鲸趁低吸纳ETH，Erik Voorhees关联钱包单笔买入1.25亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/o13cwmn2aqz1wth6cymvskwpk)
-   来源：PANews · 发布时间：2026-11-15 09:23（北京时间） · 一手
-   摘要：Erik Voorhees关联钱包斥资1.25亿美元以平均价$1972买入63,540枚ETH，同时7 Siblings（6,088万美元）、王纯（币安提现10,997枚，$2188万）和58bro.eth（OKX提现10,501枚，$2077万）也大额增持。
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1dccd-26bb-728e-aa55-73bdb159eb74)
+2. [Ledger为Solana生态引入清晰签名功能，结束盲签时代](https://reisen-ww.github.io/hot-pages/cryptohot/items/tvurlhy5gni2yq74vb3exmrbb)
+   来源：Decrypt · 发布时间：2026-11-16 21:12（北京时间）
+   摘要：Ledger为Solana生态引入清晰签名功能，覆盖九大应用及18项常见操作。用户现在可预览Jupiter等平台交易的具体内容（发送/接收金额、协议方信息），避免盲签风险。该功能由Solana基金会与Anza合作开发，Atom设备将首次搭载Solana Seeker应用商店（含1500+应用）。
+   原文：[打开原文](https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps)
 
-3. [Vestige DeFi 平台宣布 12 月 31 日停运](https://reisen-ww.github.io/hot-pages/cryptohot/items/rczuyu5n3wwvtcpeyuaganwa7)
-   来源：PANews · 发布时间：2026-11-15 08:08（北京时间） · 一手
-   摘要：Vestige宣布将于12月31日关闭主站、API及交易聚合器服务，因Algorand生态交易量不足导致长期亏损。用户钱包资产不受影响，但存入金库的资产需通过旧版前端访问，平台将销毁全部VEST代币及流动性凭证。
-   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1dc88-b00e-7770-89eb-7aeda51fe1b9)
-
-4. [币安因比特币价格下跌导致空头清算金额接近8000万美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/sflm4s1ie9bkf84z5nzhg2oss)
-   来源：The Defiant · 发布时间：2026-11-15 09:24（北京时间）
-   摘要：币安因比特币价格下跌导致空头清算金额接近8000万美元。CoinGlass 记录全市场清算金额达2.05亿美元，其中币安清算占比显著，且清算主要针对做多比特币的合约。
-   原文：[打开原文](https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks)
-
-5. [比特币价格逼近63,000美元触发市场清算超19亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/dhm09n5tw4qeweql5bkoa41hs)
-   来源：Crypto Briefing · 发布时间：2026-11-15 08:17（北京时间）
-   摘要：比特币价格跌破63,000美元触发24小时超19亿美元清算，以太坊、BNB等主流代币均下跌超10%。CoinShares分析师Butterfill指出，美联储加息预期与科技股疲软可能压制比特币上行空间，同时通胀数据回升引发市场对利率调整的担忧。
-   原文：[打开原文](https://cryptobriefing.com/crypto-market-liquidations-bitcoin-slide/)
-
-6. [比特币、以太坊反弹后市场十天内蒸发571亿美元抛售加速](https://reisen-ww.github.io/hot-pages/cryptohot/items/w8nankzw9pbffyirjk0ixf665)
-   来源：The Defiant · 发布时间：2026-11-15 10:21（北京时间）
-   摘要：加密货币市场十天内蒸发571亿美元，比特币、以太坊反弹后抛售加速，11月12日价格跌破7.2万美元触发新一轮抛售。
-   原文：[打开原文](https://thedefiant.io/news/markets/crypto-sheds-571-billion-in-ten-days-as-losses-deepen)
-
-7. [Strategy公司比特币持仓浮亏扩大至111.4亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/lum2eed70pznh70ih54p9e8ex)
-   来源：链捕手 ChainCatcher · 发布时间：2026-11-15 09:54（北京时间） · 一手
-   摘要：Strategy公司提交SEC 8-K文件披露，其持有850,364枚BTC（比特币），总成本641.6亿美元，当前浮亏达111.4亿美元。
-   原文：[打开原文](https://www.chaincatcher.com/article/2304838)
+3. [Solana交易所 Jupiter 推出许可制借贷市场，支持 Bullish 代币化股票抵押](https://reisen-ww.github.io/hot-pages/cryptohot/items/b9r8dp3ruzgm5zb3b7p05xuag)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-17 01:10（北京时间） · 一手 · 另有 1 家信源报道
+   摘要：Solana 交易所 Jupiter 宣布推出许可制借贷市场，首批支持纽约证券交易所上市的 Bullish 代币化股票作为抵押品。用户可通过链上清算机制借入资产，该市场目前仅在部分司法辖区开放。
+   相关：
+   - [Jupiter交易所上线Bullish股票代币化抵押市场](https://reisen-ww.github.io/hot-pages/cryptohot/items/o2q90qgawqw0jaswygu6bw9xi) · Decrypt · 2026-11-17 01:09（北京时间）
+   原文：[打开原文](https://www.chaincatcher.com/article/2305314)
 
 ## 政策与宏观
 
-1. [SpaceX星舰完成轨道回收测试 马斯克称这是估值逻辑验证](https://reisen-ww.github.io/hot-pages/cryptohot/items/qgakdxs7qs3wyrzq5fbri9drv)
-   来源：华尔街见闻 · 发布时间：2026-11-15 09:30（北京时间） · 一手
-   摘要：SpaceX星舰上级首次被发射塔机械臂捕获，完成全球首次轨道返回回收。摩根士丹利指出该里程碑将降低轨道数据中心建设成本，支撑其万亿估值。但助推器因发动机提前关机未能回收，SpaceX股价较IPO价仅高出3%。星舰若实现双级完全回收，将使Starlink部署成本降低90%，同时为AI算力基础设施提供新路径。
-   原文：[打开原文](https://wallstreetcn.com/articles/3785950)
+1. [纽交所交易平台完成Solana链上代币接收准备](https://reisen-ww.github.io/hot-pages/cryptohot/items/q50hbdm8vhmj9bc4oh4kqkr6i)
+   来源：PANews · 发布时间：2026-11-16 21:23（北京时间） · 一手 · 另有 2 家信源报道
+   摘要：纽交所交易平台完成Solana链上代币接收准备 ICE高管宣布，纽约证券交易所（NYSE）交易平台已完成技术准备，可接收Solana链上发行的代币，标志着传统证券基础设施与区块链资产对接的新进展。
+   相关：
+   - [ICE 清算与纽交所 ATS 完成对 Solana 代币的接入准备](https://reisen-ww.github.io/hot-pages/cryptohot/items/cmlnrgihivf6rvt3m9tprsamd) · 链捕手 ChainCatcher · 2026-11-16 21:21（北京时间）
+   - [ICE（纽约证券交易所母公司）考虑加入Solana验证者网络](https://reisen-ww.github.io/hot-pages/cryptohot/items/z4zuqifzs00yus0wc3tmbi3lm) · The Defiant · 2026-11-16 22:21（北京时间）
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e486-ee38-7385-bdb0-b5b5ab058e39)
 
-2. [鲸鱼平台理财资金无法提现引监管介入，涉案金额超5亿元](https://reisen-ww.github.io/hot-pages/cryptohot/items/tkvlvqx33hwap5e6jsnv0l523)
-   来源：经济观察网 · 发布时间：2026-11-15 09:17（北京时间）
-   摘要：鲸鱼平台理财资金无法提现，涉案金额超5亿元，警方已立案调查。平台运营公司吉才神无金融牌照，涉嫌非法吸收公众存款，且存在偷税记录，部分资金已被冻结。投资者正通过法律途径追讨损失。
-   原文：[打开原文](http://www.eeo.com.cn/2026/1115/1093393.shtml)
+2. [美国商务部发布规定限制人工智能芯片远程访问](https://reisen-ww.github.io/hot-pages/cryptohot/items/fb5lt1mpwk4ie180dbfv8hti7)
+   来源：PANews · 发布时间：2026-11-16 21:28（北京时间） · 一手 · 另有 2 家信源报道
+   摘要：美国商务部发布规定限制人工智能芯片远程访问，旨在防止通过第三方数据中心规避监管。涉及远程访问限制，影响技术访问合规。
+   相关：
+   - [美国商务部针对Nvidia中国数据中心的漏洞发布新规](https://reisen-ww.github.io/hot-pages/cryptohot/items/yazbaq6l0qv5agt5u50gxhlzm) · CNBC Top News · 2026-11-17 00:51（北京时间）
+   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e48b-acaa-7171-bf90-b44ba76d1027)
+
+3. [CFTC批准tZERO区块链衍生品交易所及清算所](https://reisen-ww.github.io/hot-pages/cryptohot/items/ptxvcng76phw80093t4496pem)
+   来源：Crypto Briefing · 发布时间：2026-11-17 05:44（北京时间）
+   摘要：CFTC于2026年11月16日批准tZERO集团旗下两家子公司分别成为衍生品清算组织（DCO）和指定合约市场（DCM），这是美国首个合规的区块链衍生品交易清算平台。
+   原文：[打开原文](https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/)
+
+4. [台湾拟规定银行主导稳定币发行](https://reisen-ww.github.io/hot-pages/cryptohot/items/bqm8889vbxly62gb6ktyvi01j)
+   来源：Crypto Briefing · 发布时间：2026-11-17 01:35（北京时间）
+   摘要：台湾金融监理委员会（FSC）发布稳定币发行草案，规定仅银行及指定实体可发行，需满足3000万新台币资本、100%储备且禁止支付利息。公众评论期至2026年12月3日，最终规则预计2027年第一季度生效。
+   原文：[打开原文](https://cryptobriefing.com/taiwan-stablecoin-rules-bank-controlled-issuers/)
+
+5. [日本第三季度GDP意外收缩至0.1% 主要受能源成本上升拖累](https://reisen-ww.github.io/hot-pages/cryptohot/items/chpl5cp4a8h0r1i0jxoekutji)
+   来源：CNBC Markets · 发布时间：2026-11-16 10:56（北京时间） · 一手
+   摘要：日本第三季度GDP同比收缩0.1%，主要受能源成本上升影响，导致消费和净出口下滑。日经225指数下跌0.62%，10年期国债收益率升至2.885%，日元兑美元汇率跌至159.76。State Street经济学家指出实际国内最终销售同比降幅达2.1%，创疫情后最大跌幅；Capital Economics仍预计日本央行12月将加息25基点。
+   原文：[打开原文](https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html)
+
+6. [伊朗军方宣布霍尔木兹海峡关闭条件及长期关闭意向](https://reisen-ww.github.io/hot-pages/cryptohot/items/ehew595h1p8oxyrh6bre9lxq3)
+   来源：界面新闻 · 发布时间：2026-11-17 07:06（北京时间）
+   摘要：伊朗军方发言人阿克拉米尼亚于11月16日晚宣布，若美国不接受伊朗设定的条件，霍尔木兹海峡将继续关闭。此外，外国军队在波斯湾和阿曼湾的存在被指威胁地区安全，伊朗军方强调海峡将不会恢复战前状态。
+   原文：[打开原文](https://www.jiemian.com/article/15338972.html)
 
 ## 股票市场
 
-1. [英伟达CEO黄仁勋被撤换 股价创14年最长连跌纪录市值蒸发超5700亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/wl6re9bl6wdt0qoeygv8fcwfh)
-   来源：东方财富 · 发布时间：2026-11-15 02:12（北京时间）
-   摘要：英伟达CEO黄仁勋被董事会撤换，股价连续六周下跌创14年最长连跌纪录，单周市值蒸发超5700亿美元。本周至少13名华尔街分析师调降英伟达评等，目前持有评等占比15%为2023年以来最高。超5.6万人联署请愿要求恢复黄仁勋职务，马斯克等科技高管参与声援。英伟达原定11月17日公布季度财报。
-   原文：[打开原文](http://finance.eastmoney.com/news/1351,202611153931382830.html)
+1. [20家A股公司同日披露回购计划 涉及金额上限超30亿元](https://reisen-ww.github.io/hot-pages/cryptohot/items/qgeq5f1xosq2qvki98gzexn0k)
+   来源：东方财富 · 发布时间：2026-11-17 00:00（北京时间）
+   摘要：20家A股上市公司于11月16日同日披露回购计划，涉及金额上限超30亿元，其中盛屯矿业拟回购4-5亿元。部分公司如宏和科技、奕瑞科技、中科蓝讯已首次实施回购，支付金额分别为4001.31万元、508.93万元、1204万元，回购股份占公司总股本比例分别为0.0649%、0.02%、0.11%。
+   原文：[打开原文](http://finance.eastmoney.com/news/1354,202611163932150943.html)
 
-2. [文艺复兴科技清仓减持英伟达等科技股，加仓半导体上游标的](https://reisen-ww.github.io/hot-pages/cryptohot/items/eje17cth0vh46psurwbfs968v)
-   来源：东方财富 · 发布时间：2026-11-15 04:40（北京时间）
-   摘要：文艺复兴科技减持英伟达股票99.7%（从709万股降至2.317万股）、Meta股票99.9%（从202万股降至1577股），同步增持美光（持股+618.7%至152万股）、AMD（持股+140%）、闪迪（持股+5451%），持仓市值占比分别达2.2%、1.8%、0.7%。东吴证券分析称，当前市场恐慌情绪可能已充分释放，部分优质科技资产或现配置价值，建议关注半导体等上游产业链标的。
-   原文：[打开原文](http://finance.eastmoney.com/news/1354,202611143931379261.html)
+2. [百度第三季度净利润 14 亿元，去年同期亏损 112.3 亿元](https://reisen-ww.github.io/hot-pages/cryptohot/items/zpeggrwciso1icatrztmmiwcj)
+   来源：链捕手 ChainCatcher · 发布时间：2026-11-16 17:06（北京时间） · 一手
+   摘要：百度 2026 年第三季度净利润为 14 亿元，上年同期净亏损 112.3 亿元。
+   原文：[打开原文](https://www.chaincatcher.com/article/2305153)
 
-3. [下周12项关键财经事件：APEC峰会、Anthropic IPO定价及纳斯达克上市、英伟达财报与中概股四巨头财报披露](https://reisen-ww.github.io/hot-pages/cryptohot/items/l9llaentvtfzri4n2dscokxip)
-   来源：华尔街见闻 · 发布时间：2026-11-15 10:10（北京时间） · 一手
-   摘要：华尔街见闻汇总下周12项关键财经事件，包括APEC领导人非正式会议、Anthropic 18日定价19日纳斯达克上市、英伟达18日盘后发布财报（市场关注千亿美元营收指引及管理层变动影响）、百度/京东/腾讯/阿里四家连续四天披露财报（检验国内AI成色关键窗口）。另含美联储10月会议纪要、微软开发者大会、美股机构13F持仓集中披露等事件。
-   原文：[打开原文](https://wallstreetcn.com/articles/3785932)
+3. [Anthropic IPO期权交易激增 看涨情绪占主导](https://reisen-ww.github.io/hot-pages/cryptohot/items/bgh0285fx7ukyd6dzdoruv6kv)
+   来源：CNBC Top News · 发布时间：2026-11-17 03:06（北京时间） · 一手
+   摘要：DXYZ基金期权交易量激增超10倍，看涨合约占比超98%；市场预期Anthropic周四纳斯达克上市价或达$98，较招股书区间价显著上涨；历史数据显示类似IPO前基金曾单日暴涨150%后回落。
+   原文：[打开原文](https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html)
 
 ## 快讯
 
-- [药明巨诺CAR-T疗法倍诺达®首登国家医保目录](https://reisen-ww.github.io/hot-pages/cryptohot/items/gs2zjf204sulzvc6dybzhhwrl)
-  来源：东方财富 · 发布时间：2026-11-15 00:32（北京时间）
-  摘要：药明巨诺CAR-T疗法倍诺达®首登国家医保目录，患者自付部分降至10万元以内。国产化慢病毒载体使成本大幅压缩，该产品此前需进口美国BMS的同类原料。医保政策调整后，1710家医疗机构配备、近3万人次用药，首版商保目录已拉动药品销售近6亿元。
-  原文：[打开原文](http://insurance.eastmoney.com/news/1215,202611143931380987.html)
+- [Lighter平台两家做市商API密钥泄露致1550万美元被盗](https://reisen-ww.github.io/hot-pages/cryptohot/items/r6pik868prlp4n1uxa969eu37)
+  来源：PANews · 发布时间：2026-11-16 19:15（北京时间） · 一手 · 另有 3 家信源报道
+  摘要：Lighter平台两家做市商API密钥泄露致1550万美元被盗，攻击者资金转入Hyperliquid并用于购买XMR。
+  相关：
+  - [Lighter 公布安全事件更新：API密钥泄露致提现暂停](https://reisen-ww.github.io/hot-pages/cryptohot/items/dbmw5e3n06n635cnpmdrfo80a) · 链捕手 ChainCatcher · 2026-11-16 20:57（北京时间）
+  - [Lighter交易所API密钥泄露事件致超1500万美元资金异常流动](https://reisen-ww.github.io/hot-pages/cryptohot/items/mwg8jg3qk73iiwkq24009d2gu) · 链捕手 ChainCatcher · 2026-11-16 19:12（北京时间）
+  - [Tether关联 Abraxas 因 Lighter API泄露或损失1700万美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/cfyuod72nll65m5oif9cf1noz) · Protos · 2026-11-17 00:39（北京时间）
+  - [以太坊链上交易所Lighter发生安全漏洞致超百万美元USDC被盗](https://reisen-ww.github.io/hot-pages/cryptohot/items/ifyf70b7tbbu5a7ixxdghjqih) · Crypto Briefing · 2026-11-17 03:33（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e411-5a22-71fa-9b2f-85db9dfd114f)
 
-- [国家发改委、能源局发布新型储能'十五五'实施方案](https://reisen-ww.github.io/hot-pages/cryptohot/items/aqt9byhkwi6ctk6c1up8hlq8o)
-  来源：东方财富 · 发布时间：2026-11-15 00:01（北京时间）
-  摘要：国家发改委、能源局联合印发《'十五五'新型储能实施方案》，明确到2030年全国新型储能装机规模达3亿千瓦，平均储能时长3小时。方案将'构建多元应用场景'列为首位任务，部署电源侧、电网侧、创新场景三类应用方向。
-  原文：[打开原文](http://finance.eastmoney.com/news/1355,202611143931368823.html)
+- [Lighter遭黑客攻击：640枚ETH转入Hyperliquid并购买2240枚XMR](https://reisen-ww.github.io/hot-pages/cryptohot/items/jd7cu0m32tfczeqz2teltz2ne)
+  来源：PANews · 发布时间：2026-11-16 20:00（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：派盾监测到黑客攻击事件，攻击者将640枚ETH（价值约112万美元）转入Hyperliquid并购买2240枚XMR。
+  相关：
+  - [Lighter 攻击者通过 Hyperliquid 买入 2240 枚 XMR](https://reisen-ww.github.io/hot-pages/cryptohot/items/b76loshhrkvgjzyprf0efwwh6) · 链捕手 ChainCatcher · 2026-11-16 20:03（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e43b-3532-70f2-8992-395fdc2b54b3)
 
-- [B站旗下BLG电竞战队首夺S赛冠军 融资与赞助商营销全解析](https://reisen-ww.github.io/hot-pages/cryptohot/items/o36r65c9ency7oyefx78wirdp)
-  来源：东方财富 · 发布时间：2026-11-15 08:07（北京时间）
-  摘要：BLG电子竞技俱乐部夺得2026年英雄联盟全球总决赛冠军，连续击败HLE、DK、T1和Gen.G四支LCK队伍，队史首座S赛冠军。B站电竞分部2021年完成1.8亿元首轮融资（投后估值超8亿元），赛事直播带动B站2026年上半年营收154.1亿元（同比增长7.5%），增值服务与广告收入分别达58.8亿和57.2亿。
-  原文：[打开原文](http://finance.eastmoney.com/news/1354,202611153931390544.html)
+- [美联储主席沃什：模拟AI对经济的三种影响情景预案](https://reisen-ww.github.io/hot-pages/cryptohot/items/dz9nrg37a5d0ekqmthrdqa3a5)
+  来源：PANews · 发布时间：2026-11-17 01:31（北京时间） · 一手
+  摘要：美联储主席杰罗姆·沃什表示，工作人员正推演AI对经济的三种情景：增长共享、生产率提升被就业流失抵消、AI不及预期致经济放缓。强调这些为应对预案，已成立生产率与就业工作组，但未就货币政策发表意见。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e569-b352-7322-a40f-ed43e96a74f0)
 
-- [美联储重磅报告：AI热推高估值与债务规模](https://reisen-ww.github.io/hot-pages/cryptohot/items/sap32qdg267ihfdohfaa0bbow)
-  来源：东方财富 · 发布时间：2026-11-15 00:00（北京时间） · 跟进：2026-11-14 的日报报道过这件事，这里是新进展
-  摘要：美联储2026年下半年度《金融稳定报告》指出，先进计算相关债务发行规模五年内激增5倍（2023年1300亿→2026年10月超6800亿），且87%受访者将其列为金融体系首要风险（较春季调查上升37个百分点）。报告同时警示AI技术降低网络攻击门槛，并指出债务结构已从公司债转向超大规模企业担保的混合模式，可能引发系统性风险。
-  原文：[打开原文](http://forex.eastmoney.com/news/1131,202611143931369119.html)
+- [Coinbase与Broadridge合作推出链上股东通信开放标准](https://reisen-ww.github.io/hot-pages/cryptohot/items/f6v4juohno54c9j4bwr149rpf)
+  来源：PANews · 发布时间：2026-11-16 20:16（北京时间） · 一手
+  摘要：Coinbase与Broadridge联合提出链上股东通信开放标准，支持在Base、以太坊等链上实现代币化股票股东投票及信息披露，下一步将推动链上代理投票功能落地。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e449-34cb-7452-96c9-daafd66a51cf)
 
-- [欧易OKX比特币价格跌破63000美元 日内跌幅4.21%](https://reisen-ww.github.io/hot-pages/cryptohot/items/bfentzvru9rj6y16n5iasi6rz)
-  来源：PANews · 发布时间：2026-11-15 09:02（北京时间） · 一手
-  摘要：欧易OKX行情显示，比特币现报62979.20美元/枚，日内下跌4.21%跌破63000美元。巨鲸Loracle持有BTC等多资产多头仓位累计浮亏2670万美元。分析师指出凌晨急跌或因周末流动性差时集中卖出引发的连环踩踏。
-  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1dcba-7ed2-7656-8934-5afb121cc187)
+- [Strive增持251枚比特币至总持仓43,404枚](https://reisen-ww.github.io/hot-pages/cryptohot/items/fai4joiygdfotqy3mwyq2i2sj)
+  来源：PANews · 发布时间：2026-11-16 21:03（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：Strive宣布增持251枚比特币，总持仓升至43,404枚。其中1000万美元来自ESATS ATM发行，优先股股息覆盖期达133个月。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e474-a19c-754f-8e1b-90b01110a3f9)
 
-- [香港七旬老人遭YouTube广告诈骗损失1800万港元](https://reisen-ww.github.io/hot-pages/cryptohot/items/t23nn4tim29b0ovp6xms5ba3n)
-  来源：Crypto Briefing · 发布时间：2026-11-15 08:33（北京时间）
-  摘要：香港一名七旬老人因回应YouTube投资广告诈骗，损失约1800万港元USDT和ETH。警方披露该案为近期最大个人诈骗案例，同期记录40余起同类案件，总损失近5000万港元。
-  原文：[打开原文](https://cryptobriefing.com/hong-kong-man-loses-hk18m-youtube-crypto-scam/)
+- [Backpack交易所获美国CFTC指定为合约市场，同步取得交易与清算资质](https://reisen-ww.github.io/hot-pages/cryptohot/items/of92fjd7xertrz096aej4o5rf)
+  来源：PANews · 发布时间：2026-11-17 06:27（北京时间） · 一手
+  摘要：Backpack交易所获美国CFTC指定为合约市场，同步取得交易与清算资质。CFTC主席Michael Selig同日声明，该机构采用区块链架构执行和结算衍生品合约。
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e678-e650-7731-b961-b8c6f459753c)
 
-- [美国交通部全国停飞事故调查及500亿美元改造拨款申请](https://reisen-ww.github.io/hot-pages/cryptohot/items/y5s0ujn5174zpnxnex6w2whk4)
-  来源：东方财富 · 发布时间：2026-11-15 02:20（北京时间）
-  摘要：美国交通部长达菲在事故发布会披露：一次偏远站点铜线改光纤施工引发全国停飞，系统因老旧TDM架构和备用设备不足导致连锁故障。达菲要求国会紧急追加500亿美元改造资金，称现有125亿美元拨款不足以完成全美空管系统升级（69%网络已换光纤，469站点完成改造）。事故后资金需求从301亿增至500亿，显示系统现代化进程的紧迫性。
-  原文：[打开原文](http://global.eastmoney.com/news/1959,202611153931384446.html)
+- [贝莱德向Coinbase Prime转入2,082.58枚BTC，价值约1.3456亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/noyz5aqrje5d3ogj8xjjpktvy)
+  来源：PANews · 发布时间：2026-11-16 20:04（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：贝莱德向Coinbase Prime转入2,082.58枚BTC，价值约1.3456亿美元，比特币价格跌破64,500美元。贝莱德旗下比特币ETF钱包资金流出增加，目前持有约78.427万枚BTC，价值506亿美元。
+  相关：
+  - [贝莱德向Coinbase Prime转入2082.58枚BTC，价值约1.3456亿美元](https://reisen-ww.github.io/hot-pages/cryptohot/items/huu0az93ajxp7pj2x2l9kwzfx) · 链捕手 ChainCatcher · 2026-11-16 20:06（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e43e-4a66-7670-b3a5-ccfbb9df2e5a)
 
-- [JPYC发行一周年：日本企业支付场景拓展但面临单次100万日元上限限制](https://reisen-ww.github.io/hot-pages/cryptohot/items/smy8pw1rz8b0kwhguwz7ko5ns)
-  来源：链捕手 ChainCatcher · 发布时间：2026-11-15 10:16（北京时间） · 一手
-  摘要：JPYC发行一周年流通规模仅达目标四分之一，应用场景拓展至零售支付、企业付款及海外交易。但单次100万日元上限成为增长障碍，兑换及交易规则尚不明确，Upbit上币曾引发向上脱锚考验。
-  原文：[打开原文](https://www.chaincatcher.com/article/2304843)
+- [香港政府计划年底前提交数字资产监管法案](https://reisen-ww.github.io/hot-pages/cryptohot/items/majarzd11dvdo8ydv3nj3bnzc)
+  来源：PANews · 发布时间：2026-11-16 18:05（北京时间） · 一手 · 另有 1 家信源报道
+  摘要：香港政府宣布计划于2026年底前提交法案，将数字资产交易、投资建议、资产管理及托管服务纳入牌照监管范围。首轮36家数字资产申请者中已有2家于4月获发牌照并推出港元稳定币，代币化基金规模在一年内增长约7倍。
+  相关：
+  - [香港代币化基金公众发售规模一年增长7倍 财政司司长陈茂波披露监管条例进展](https://reisen-ww.github.io/hot-pages/cryptohot/items/z99twtiwl3isom59q6iakccny) · 链捕手 ChainCatcher · 2026-11-16 16:48（北京时间）
+  原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e3d1-6d4b-700e-8eaa-8c0ae8f1e066)
 
-- [交易员0xc05b 10小时内被清算7次 总亏损1647万美元 涉及比特币和以太坊仓位](https://reisen-ww.github.io/hot-pages/cryptohot/items/jmr1j51fege2acj13coqq34au)
-  来源：链捕手 ChainCatcher · 发布时间：2026-11-15 09:41（北京时间） · 一手
-  摘要：交易员0xc05b在过去10小时内累计遭遇7次清算，总亏损约1647万美元，其中172枚比特币和2984枚以太坊仓位价值分别占1103万美元和544万美元。
-  原文：[打开原文](https://www.chaincatcher.com/article/2304833)
+- [DeFi Development 上周增持 9,482 枚 SOL，持仓总量升至约 262 万枚](https://reisen-ww.github.io/hot-pages/cryptohot/items/tgbw5rgwo5d7x31eyomljorgi)
+  来源：链捕手 ChainCatcher · 发布时间：2026-11-16 23:31（北京时间） · 一手
+  摘要：DeFi Development Corp.（DFDV）上周增持 9,482 枚 Solana 代币，持仓总量升至约 262 万枚，实现连续第 10 周增长。此外，其 CHAD 优先股已连续 31 个工作日支付股息，当前浮动年化股息率为 14%（每股年化股息 1.40 美元）。
+  原文：[打开原文](https://www.chaincatcher.com/article/2305293)
 
-- [某巨鲸持有3万枚ETH空单 浮盈1560万美元成Hyperliquid最高账户](https://reisen-ww.github.io/hot-pages/cryptohot/items/mxsaktf7vsnrf41gybiskt79w)
-  来源：链捕手 ChainCatcher · 发布时间：2026-11-15 10:11（北京时间） · 一手
-  摘要：某巨鲸持有3万枚ETH空单 浮盈1560万美元成Hyperliquid最高账户。此前该地址做多ETH和BTC获利1777.7万美元，总盈利达3587万美元。
-  原文：[打开原文](https://www.chaincatcher.com/article/2304841)
+- [美联储官员警示：AI自动转账或引发分钟级银行挤兑](https://reisen-ww.github.io/hot-pages/cryptohot/items/yxvg9chx33ocj030f8e1ompht)
+  来源：华尔街见闻 · 发布时间：2026-11-16 20:02（北京时间） · 一手
+  摘要：美联储理事Michael Barr警告AI代理可能通过即时检测市场信号并自主转移客户存款，在数分钟内引发银行挤兑，传统监管机制难以应对。主要银行已检测到AI代理未经授权操作零售账户的案例，并指出AI基础设施的循环融资可能形成系统性风险。Barr建议建立授权验证机制、技术控制手段和双重约束框架应对挑战。
+  原文：[打开原文](https://wallstreetcn.com/articles/3786022)

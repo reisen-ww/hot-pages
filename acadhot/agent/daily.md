@@ -1,112 +1,127 @@
-# 学术日报 · 2026-11-15
+# 学术日报 · 2026-11-17
 
-- 期号：第 36 期
-- 发布：2026-11-15 08:00（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/acadhot/daily/2026-11-15)
+- 期号：第 37 期
+- 发布：2026-11-17 08:00（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/acadhot/daily/2026-11-17)
 
 ## 头条
 
-国家医保局发布2026年版医保药品目录，新增107种药品
+基于NRF2响应的NMRAL2P长非编码RNA靶向调控改变非小细胞肺癌增殖的机制研究
+
+## AI 与计算
+
+1. [MIT Technology Review 提出通过设定硬边界而非预测来建立AI信任](https://reisen-ww.github.io/hot-pages/acadhot/items/e17l0m5g6wtgqi6ez298k6eb5)
+   来源：MIT Technology Review · 发布时间：2026-11-17 00:04（北京时间）
+   摘要：MIT Technology Review 提出通过设定硬边界而非预测来建立AI信任，强调需在架构层面定义AI的权限、责任与安全阈值。文章指出传统AI信任建立依赖可预测性，但AI的自主决策使可预测性失效，需通过硬约束（如权限隔离、执行审批）控制行为边界。
+   原文：[打开原文](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)
+
+2. [某团队发布新型NanoShield陷阱柱在低输入蛋白质组学中的基准测试结果](https://reisen-ww.github.io/hot-pages/acadhot/items/el5f8v6nza4d5hgozg1qmb2sg)
+   来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+   摘要：某团队在预印本平台 bioRxiv 发布新型 NanoShield 陷阱柱的基准测试结果，对比了 5 cm 和 1.2 cm 床长版本在 LC-MS 流程中的样本加载时间、正向冲洗性能缺陷及定量精度表现，发现缩短床长可消除显著性能差距，1.2 cm 版本接近直接注射水平。研究还展示了新一代更大孔径固定相的 NanoShield 进一步优化了正向冲洗性能。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766175v1?rss=1)
 
 ## 生命与医学
 
-1. [国家医保局发布2026年版医保药品目录，新增107种药品](https://reisen-ww.github.io/hot-pages/acadhot/items/eixs0z0j0q9ck2hdh44acr83p)
-   来源：36氪 · 发布时间：2026-11-14 10:47（北京时间）
-   摘要：国家医保局联合人力资源社会保障部发布2026年版国家医保药品目录，新增107种药品（含51种1类创新药），调出34种临床价值有限药品，总药品数达3331个
-   相关：
-   - [国家医保局发布2026年版医保药品目录，新增51个一类新药及12种重大创新药](https://reisen-ww.github.io/hot-pages/acadhot/items/gc74kdl6ywqzb1cuu763dlw4v) · 36氪 · 2026-11-14 11:05（北京时间）
-   原文：[打开原文](https://36kr.com/newsflashes/4069006049350530?f=rss)
+1. [基于NRF2响应的NMRAL2P长非编码RNA靶向调控改变非小细胞肺癌增殖的机制研究](https://reisen-ww.github.io/hot-pages/acadhot/items/deufaghtncwgz314bsrecu0h9)
+   来源：bioRxiv · 发布时间：2026-11-14 08:00（北京时间） · 一手
+   摘要：研究证实NMRAL2P通过调控细胞粘附和MAPK信号通路促进非小细胞肺癌增殖，靶向抑制可增强化疗敏感性。实验采用SHAPE-MaP技术识别NMRAL2P可及性区域并设计反义缺口寡核苷酸，发现敲低NMRAL2P使肺癌细胞增殖受阻且对顺铂敏感性提升。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.765723v1?rss=1)
 
-2. [某团队在 bioRxiv 发表单AAV递送碱基编辑改善心肌肥厚的体内研究](https://reisen-ww.github.io/hot-pages/acadhot/items/cq1hjje3w9tbx6r8hq5xde3mu)
-   来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-   摘要：某团队在 bioRxiv 发表针对 Dutch founder 突变（MYBPC3 c.2827C&gt;T）的体内研究，通过筛选高效启动子6C2实现心肌细胞特异性碱基编辑，剂量仅为双AAV方法的20分之一，并验证了递送系统在工程人类心肌组织中的有效性。
-   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.765297v1?rss=1)
+2. [IEEE单日撤回1417篇论文：学术会议沦为论文工厂新温床](https://reisen-ww.github.io/hot-pages/acadhot/items/zy2agdt9uoia6jppwkna1y4h9)
+   来源：知识分子 · 发布时间：2026-11-16 03:47（北京时间）
+   摘要：2026年10月28日，IEEE宣布撤回1417篇论文，研究团队通过社交媒体广告与论文比对发现，这些论文涉及2062篇问题文章，其中93%署名包含印度学者。会议审稿周期短至3天，且IEEE将会议论文列为‘其他出版物’仅要求‘可读’标准，导致造假产业转向会议平台。
+   原文：[打开原文](http://www.zhishifenzi.com/news/multiple/10765.html)
 
-3. [分散基因位点协同表达扩展双肽细菌素功能库](https://reisen-ww.github.io/hot-pages/acadhot/items/s07yqa5vf2p7yu1ettrfuggz8)
-   来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-   摘要：Lanca 等团队在 bioRxiv 发表预印本，发现分散基因位点编码的双肽细菌素可通过非同源配对增强抗菌活性。通过体外合成47种肽对并测试组合活性，发现54种有效配对（其中跨位点组合占比更高）。
-   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766112v1?rss=1)
+3. [某研究团队发表HPV疫苗接种间接影响的贝叶斯分层模型研究](https://reisen-ww.github.io/hot-pages/acadhot/items/rho4x99bdktxce3648lscdy3h)
+   来源：medRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+   摘要：某研究团队发现HPV疫苗接种的间接保护效应随时间、覆盖率及年龄呈现动态变化。基于11个高收入地区2007-2025年HPV16/18流行率数据，采用贝叶斯分层模型与XGBoost分析显示。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.13.26367966v1?rss=1)
 
-4. [圣保罗大都市区城市化导致溪流生态系统崩溃](https://reisen-ww.github.io/hot-pages/acadhot/items/firr02ypr20x1wqip9ihky35y)
-   来源：Phys.org · 发布时间：2026-11-15 06:00（北京时间）
-   摘要：圣保罗大都市区城市化导致溪流生态系统崩溃，能量流动减少超1000倍，威胁2200万居民用水安全。研究通过对比30个微流域的采样，发现完全城市化区域食物网复杂度从190降至3，且破坏发生在城市化初期阶段。建议优先保护未受破坏的溪流，对已受损区域需加强污水处理和植被恢复。研究首次将食物网复杂度量化与能量流动模型结合，为城市生态修复提供新视角。
-   原文：[打开原文](https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html)
+4. [加州与俄勒冈州芬太尼烟吸现象研究](https://reisen-ww.github.io/hot-pages/acadhot/items/xc6kzx4fmu9g0h8tn3whb979n)
+   来源：medRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+   摘要：某研究团队通过田野调查与药物检测数据分析发现，108名受访者中96%（104人）使用烟吸方式摄入芬太尼，其中87%（81人）明确采用大麻零售设备进行烟吸。研究显示烟吸方式因隐蔽性强、起效快且耐受性上升迅速而流行，但伴随设备损伤风险。该成果为药物滥用监测与临床问诊提供了新数据维度。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.13.26367858v1?rss=1)
 
-5. [23andMe研究团队发表吸烟启动遗传架构性别与代际差异研究](https://reisen-ww.github.io/hot-pages/acadhot/items/jcewty4eb1bnljq3uhdd3lzgh)
-   来源：medRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-   摘要：23andMe研究团队通过横跨欧洲、东亚等四大族群的近700万样本开展基因组关联研究（GWAS），发现性别和代际显著调节吸烟启动的遗传因素，鉴定出1717个关联位点，其中45个为性别特异性，7个为代际特异性。性别和代际特异性关联位点及因果变异数据揭示社会文化因素对遗传架构的动态影响，为多组学健康行为研究提供可迁移的方法参考。
-   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.11.26367842v1?rss=1)
+5. [上海交通大学医学院研究员因基因编辑试验致儿童死亡被解雇](https://reisen-ww.github.io/hot-pages/acadhot/items/c08qvui76aveslu5pw96dxtz0)
+   来源：Nature · 发布时间：2026-11-16 08:00（北京时间） · 一手
+   摘要：上海交通大学医学院研究员Qiu因在2025年3月对一名患Snijders Blok–Campeau综合征的6岁女孩实施AAV病毒载体基因编辑疗法导致其死亡被解雇。
+   原文：[打开原文](https://www.nature.com/articles/d41586-026-03752-2)
 
-6. [La Trobe大学发布ACL术后运动疗法临床试验结果](https://reisen-ww.github.io/hot-pages/acadhot/items/u7kxeyqflabzuhudlyhzmtl9a)
-   来源：ScienceDaily 健康医学 · 发布时间：2026-11-14 20:14（北京时间）
-   摘要：La Trobe大学主导的SUPER-Knee临床试验显示，术后9个月开始的结构化运动疗法联合教育可改善年轻患者的膝关节健康、肌肉力量及生活质量，且不加速软骨损伤或早期骨关节炎发展。患者Ruby Cumming在参与该试验后疼痛显著缓解，证实长期康复计划的有效性。该研究为国际临床实践指南更新提供了证据支持，且方案易在现有医疗体系中实施。
-   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261112025538.htm)
+6. [Rockefeller University 在 Cell 发表精氨酸补充增强免疫识别能力的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/bmc1gi4z1oh4ejf1hild8o9rc)
+   来源：ScienceDaily 综合 · 发布时间：2026-11-15 20:36（北京时间）
+   摘要：Rockefeller University 研究发现精氨酸补充可减少小鼠结肠癌肿瘤形成并缓解流感及新冠感染症状。机制显示低精氨酸导致MHC-I蛋白合成受阻，免疫识别能力下降；研究建议未来可结合免疫疗法进行临床试验。
+   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261113232000.htm)
 
-7. [GLP-1 基础疗法治疗肥胖成人的每日饮食噪音、渴望与饱腹感：一项前瞻性真实世界研究](https://reisen-ww.github.io/hot-pages/acadhot/items/c2afkve7t5op5y7c1ifhvbrju)
-   来源：medRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-   摘要：某研究团队发布了一项前瞻性真实世界研究，显示每周注射GLP-1基础疗法治疗肥胖成人的每日饮食噪音、渴望和食欲呈现周期性波动。研究纳入237名受试者，持续6周每日评估，发现食欲在给药日最高（39.9/100），第2天降至31.1，第7天回升至41.6；饱腹感波动较小（62.0-69.8/100）。该研究通过每日电子日记收集数据，为评估GLP-1半衰期延长疗法的影响提供新视角。
-   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.13.26367932v1?rss=1)
-
-8. [荣昌生物R7059-DXD ADC在克服耐药性及肿瘤渗透方面展现突破性疗效](https://reisen-ww.github.io/hot-pages/acadhot/items/omlz3wzu9exohtop519dk59z8)
-   来源：科学网博客 · 发布时间：2026-11-14 09:06（北京时间）
-   摘要：荣昌生物团队在《Antibody Therapeutics》发表研究，证实R7059-DXD ADC在乳腺癌、肺癌等实体瘤模型中克服耐药突变并保持稳定结合。该抗体通过识别TROP2 N端独特表位，实现更均匀的肿瘤组织渗透，并激活旁观者效应。
-   原文：[打开原文](http://blog.sciencenet.cn/home.php?mod=space&uid=563591&do=blog&id=1561091)
+7. [巴西圣卡塔琳娜州Rã-Bugio自然遗产保护区树蛙因 ranavirus 病毒导致种群下降83%](https://reisen-ww.github.io/hot-pages/acadhot/items/fz2gbui00i6n76sz44gn7uio7)
+   来源：Phys.org · 发布时间：2026-11-17 01:40（北京时间）
+   摘要：巴西圣卡塔琳娜州Rã-Bugio自然遗产保护区的树蛙因 ranavirus 病毒导致种群下降83%。研究通过组织病理学分析证实病毒是死因，发现病毒载量高达近10亿拷贝/微升，并指出湿度下降至65%可能促进病毒复制和爆发。
+   原文：[打开原文](https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html)
 
 ## 物质与量子
 
-1. [NASA宣布‘旅行者1号’即将抵达首个光日，创星际探测新纪录](https://reisen-ww.github.io/hot-pages/acadhot/items/oxfz5qy1xb38kil9m7grf6fwe)
-   来源：Phys.org · 发布时间：2026-11-15 02:37（北京时间）
-   摘要：NASA宣布‘旅行者1号’探测器将于2026年11月14日抵达首个光日（约16亿英里/26亿公里），创下星际空间探测新纪录。该探测器自1977年发射以来持续传回科学数据，包括磁场强度、宇宙尘埃及辐射等，为未来深空探索提供关键参考。
-   原文：[打开原文](https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html)
+1. [Skoltech 团队首次直接观测光子自旋霍尔效应，推动纳米光子学与先进雷达/激光雷达发展](https://reisen-ww.github.io/hot-pages/acadhot/items/ratgrbhicm264xvy5pc8300l5)
+   来源：Phys.org · 发布时间：2026-11-17 03:20（北京时间）
+   摘要：Skoltech 研究团队首次直接观测到光子自旋霍尔效应，使用微波辐射的陶瓷颗粒验证了其可扩展性。该成果为纳米光子学技术、高精度雷达/激光雷达系统及光控纳米天线开发提供了新路径。
+   原文：[打开原文](https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html)
 
-2. [Regensburg大学等团队在 Nature 发表量子跃迁实时观测成果](https://reisen-ww.github.io/hot-pages/acadhot/items/rkpi3hvc1r5zxygt7bms28k67)
-   来源：ScienceDaily 综合 · 发布时间：2026-11-14 09:13（北京时间）
-   摘要：德国Regensburg大学、马堡大学及Jülich研究中心团队在《自然》发表研究，首次通过光电子动量显微镜实时观测到石墨烯中电子的量子跃迁现象。实验采用原子级纯石墨烯，结合新型慢动作电子成像技术，发现强光场下电子可100%概率跨越 forbidden 能隙，其机制与常规量子隧穿不同。该成果为光控电子器件开发提供了新方法，未来或可应用于高速半导体材料设计。
-   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261112025523.htm)
+2. [ESA Euclid望远镜发现宇宙黎明期31个类星体，创红移7.77新纪录](https://reisen-ww.github.io/hot-pages/acadhot/items/bmuuop3hc8as7lmfmhc8vyqfi)
+   来源：ScienceDaily 综合 · 发布时间：2026-11-15 09:52（北京时间）
+   摘要：ESA Euclid团队宣布发现31个宇宙黎明期类星体，其中EUCL J172902.75+641018.1（红移7.77）和EUCL J125308.55+705432.3（红移7.69）刷新最古老类星体记录。该望远镜通过大范围天空扫描（覆盖1/3天空）和红外深空探测技术，一年内发现数量超过此前十年总和，为研究首代星系与超大质量黑洞演化提供关键数据集。
+   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261112230504.htm)
+
+3. [美国联邦法官F. Dennis Saylor IV裁定禁止缩短外国学生签证期限](https://reisen-ww.github.io/hot-pages/acadhot/items/mkcgtvfftcw2klmiyj9k3smv3)
+   来源：STAT News · 发布时间：2026-11-17 03:59（北京时间）
+   摘要：美国联邦法官F. Dennis Saylor IV于2026年11月16日发布终审判决，裁定禁止缩短外国研究生和博士后学者签证期限的政策。该法官此前已在政策生效前一日暂缓执行该规定。判决指出原政策缺乏法律依据，违反行政程序。该裁决可能缓解美国高校对国际人才吸引力下降的担忧，但政府仍可提出上诉。
+   原文：[打开原文](https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss)
 
 ## 快讯
 
-- [某团队在 bioRxiv 发布噬菌体蛋白进化保守片段研究](https://reisen-ww.github.io/hot-pages/acadhot/items/k2861v40z0splul2sjr2tozko)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某团队通过大规模比较分析，构建了13,035个进化保守片段（ECFs），覆盖噬菌体代表蛋白的50%。ECFs包含子域、复合区域等异质结构，在受体结合蛋白中细分已知域并识别新结构元素，为研究病毒蛋白的组装与功能组织提供新框架。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765650v1?rss=1)
+- [某团队在 bioRxiv 发布司美格鲁肽改善窦房结功能障碍的长期作用](https://reisen-ww.github.io/hot-pages/acadhot/items/o5vsew366zvd9adusau3izq6q)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：某团队在 bioRxiv 发布司美格鲁肽改善窦房结功能障碍的长期作用。急性期数据显示，受试者心率（372.76±11.06 vs 312.64±22.28 beats/min；P&lt;0.0001）和窦房结恢复时间（ADSNRT 4.22±2.75 vs 20.68±1.60 s；P=0.0009）显著优于对照组。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766590v1?rss=1)
 
-- [Aoki等发表mRNA疫苗重复接种后T细胞记忆动态变化研究](https://reisen-ww.github.io/hot-pages/acadhot/items/v2iljhj9uc6a09uu1a855rev9)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某研究团队通过TIRTL-seq测序技术，在38名健康捐赠者中分析了mRNA疫苗重复接种后的T细胞受体克隆动态变化，确认了15个SARS-CoV-2 spike蛋白特异性靶点，并发现记忆T细胞谱系从低亲和力克隆向高亲和力克隆转变。该成果为疫苗设计提供了分子层面的优化方向。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.763997v1?rss=1)
+- [某团队在bioRxiv发表：R5L和R5H突变通过削弱tau-tau协同性影响微管表面tau凝聚](https://reisen-ww.github.io/hot-pages/acadhot/items/ahlcz2qhw5cwtyp8vfqehk9yi)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：某团队通过TIRF显微术和单分子测量，发现R5L和R5H突变均降低tau蛋白在微管表面的凝聚密度（较野生型减少约15%-20%），且两者在裸微管上的行为保持不变，证实其机制与微管结合无关。研究进一步表明，R5K替代保留野生型行为，而R5I替代则类似突变体，证实正电荷的重要性。pH依赖性实验支持该机制，并首次揭示PSP与FTD突变存在共同作用路径。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766512v1?rss=1)
 
-- [喀麦隆Mfou地区疟原虫遗传多样性及其对按蚊感染性的关联研究](https://reisen-ww.github.io/hot-pages/acadhot/items/i4hd1jxkksaq3dlg8rakr7du0)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：在喀麦隆Mfou地区12所小学开展横断面调查，筛查2807名3-17岁儿童，发现75.2%感染疟原虫（其中P. falciparum占多数）。研究通过qPCR和7个微卫星标记分析发现P. falciparum遗传多样性（He=0.82）显著高于P. malariae（He=0.61），且与Anopheles coluzzii感染率呈正相关（p=0.003）。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.09.765288v1?rss=1)
+- [色氨酸代谢通过AhR信号通路驱动TSC2缺乏细胞的巨胞吞作用与肿瘤发生](https://reisen-ww.github.io/hot-pages/acadhot/items/mos06620ig09c2k8ufayg9rk0)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：本研究发现色氨酸代谢通过AhR信号通路促进TSC2缺乏细胞的巨胞吞作用和肿瘤生长，并证实AhR拮抗剂StemRegenin 1和CH-223191在体内实验中显著缩小肿瘤体积（分别达70%和90%）。TSC2缺陷细胞中IDO1和TDO2的上调被rapamycin抑制，而AhR拮抗剂使AhR从核区转移至胞质。该机制为TSC和LAM治疗提供新靶点，相关数据已发布于bioRxiv平台。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.765182v1?rss=1)
 
-- [某研究团队通过外泌体标志物分析区分 ME/CFS、纤维肌痛和长新冠](https://reisen-ww.github.io/hot-pages/acadhot/items/b96l7h2k8db6x5b8x11ee5uuz)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某研究团队在 bioRxiv 发布预印本，通过纳米粒子追踪分析和AlphaScreen技术检测外泌体表面标志物CD9、CD41、CD61、CD74、CX3CR1和ACE1的表达水平。结果显示长新冠（LC-19）患者CD9/CD74、CD9/CX3CR1及CD9/ACE1阳性外泌体显著增加，同时整体颗粒浓度降低。ME/CFS和纤维肌痛患者则在CD9/CD41/CD61阳性外泌体方面呈现统计学差异。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765688v1?rss=1)
+- [SERGA 团队揭示灰飞虱 Wolbachia 生殖隔离机制受宿主抑制基因调控](https://reisen-ww.github.io/hot-pages/acadhot/items/ynqcdsek3zq3xy0ifk3efhaqj)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：SERGA 团队通过杂交实验和基因组分析发现，灰飞虱 Wolbachia 的生殖隔离强度受宿主抑制基因影响（实验显示宿主抑制基因通过影响早期有丝分裂分离缺陷来掩盖 Wolbachia 的生殖隔离效应），而非 Wolbachia 浓度或基因组差异。研究解释了为何携带 Wolbachia 的灰飞虱未表现出生殖隔离现象，为生物防治策略优化提供了理论依据。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766142v1?rss=1)
 
-- [Akshintala 等在 bioRxiv 发布超增强子的动态重绕研究](https://reisen-ww.github.io/hot-pages/acadhot/items/p8usdr2ni44c1owhsqxjaql5z)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某研究团队通过高分辨率Hi-C和HiChIP数据，揭示了分化过程中超增强子与普通增强子的拓扑重组差异。具体分析三种分化系统（PMA诱导K562分化、h9心肌细胞分化、原代 foreskin 角蛋白细胞分化）的增强子-启动子网络，发现超增强子通过连接细胞身份决定的启动子重塑染色质通讯网络，而普通增强子主要关联代谢和应激响应基因。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766071v1?rss=1)
+- [某研究团队在 bioRxiv 发表光激活ROS生成器以精准操控细胞功能](https://reisen-ww.github.io/hot-pages/acadhot/items/cnhhz4pam5p56hwkirypnn7p6)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：某研究团队开发出基于FAST技术的光激活ROS生成器，可精准操控线粒体功能并诱导DNA损伤。该工具通过荧光标记与ROS生成双重特性实现光控，需添加ROSgen才能激活，已验证可特异性抑制蛋白质活性或造成局部DNA氧化损伤，展示了分子工具在细胞过程精准操控中的多功能性。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766124v1?rss=1)
 
-- [基于肝脏免疫的疫苗抗原捕获平台 L-VAC 在小鼠中的验证](https://reisen-ww.github.io/hot-pages/acadhot/items/puku1arc86s6f34lvfmid8tax)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某研究团队在 bioRxiv 发表预印本，提出基于肝脏的疫苗抗原捕获平台 L-VAC。该平台通过抗体筛选和体内可视化技术，在小鼠中鉴定出多个人体血液细菌的穿透性蛋白抗原（如 Streptococcus pneumoniae），多价制剂可诱导广谱血清型保护。空间分析表明，只有位于胶囊表面附近的蛋白才能有效被肝脏窦状隙捕获。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.765860v1?rss=1)
+- [四味黄连物种比较基因组学研究揭示根茎发育与生物碱合成机制](https://reisen-ww.github.io/hot-pages/acadhot/items/gs8ahxi9q3raa8vff9zf1l095)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：四味黄连物种的比较基因组学研究首次公开了多组学数据库，揭示了根茎发育与生物碱合成的关键基因家族。研究显示青藏高原抬升与欧亚板块碰撞显著影响该类群进化，德尔托叶黄连呈现B亚基因组表达优势，欧眉叶黄连存在NLR抗病基因串联重复。根茎膨大与 brassinosteroid 合成与信号通路激活密切相关。研究为黄连基因组演化、适应机制及分子育种提供新资源。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765818v1?rss=1)
 
-- [某团队在bioRxiv发表HER2靶向CCNK分子胶降解剂-抗体偶联物研究](https://reisen-ww.github.io/hot-pages/acadhot/items/p5x5ejifvhqhnghiezyec1i2s)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某团队在breast cancer细胞中验证了SAS1001分子胶降解剂与trastuzumab（Tz）结合后增强HER2阳性细胞靶向降解效果（较阴性细胞和同型对照抗体偶联物提升3.2倍）。全蛋白组分析显示CCNK耗竭及下游转录调控相关变化，在CR8/DS18嘌呤系列中溶剂暴露位点的优化使降解效率提升至12.5%。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.760175v1?rss=1)
+- [某研究团队发现碳氮代谢驱动产黄单胞菌与大肠杆菌的捕食动态](https://reisen-ww.github.io/hot-pages/acadhot/items/mbmhlxf1nzy9ismnwic84ezoj)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：该研究通过共培养实验发现：大肠杆菌通过磷酸烯醇式丙酮酸依赖性糖代谢转移系统（PTS）和柠檬酸介导的离子螯合作用，快速酸化环境抑制产黄单胞菌（EGB）捕食；EGB则通过释放挥发性氨气实现环境碱化以抵消酸化效应，同时利用土壤中的酿酒酵母和黄单胞菌代谢葡萄糖和柠檬酸。碳氮代谢互作与菌群密度及碳氮源变化共同导致捕食者与猎物种群振荡，最终达到稳定平衡。该成果为土壤微生物食物网中的代谢互作机制提供了直接证据。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.14.766615v1?rss=1)
 
-- [Ousselin等在红树林土壤中发现降解氯代农药的关键菌群特征](https://reisen-ww.github.io/hot-pages/acadhot/items/sf3nuinkh6zoq7aip5euivzo1)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某研究团队在加勒比海小安的列斯群岛红树林土壤中发现降解氯代农药的关键菌群，其中 Dehalogenimonas 和 Desulfomonile 两种菌属在低浓度氯代农药区域占比达60%-90%。功能分析显示这些菌群携带维生素 B12 合成通路，且与土壤氯代农药浓度（&lt;5-118.8 g kg-1）无显著相关性。研究证实红树林土壤具备天然降解氯代农药的潜力，为污染治理提供新思路。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766228v1?rss=1)
+- [基于广泛基因组学的细胞多样性表征：多药耐药外源性致病大肠杆菌ST744的族系分析](https://reisen-ww.github.io/hot-pages/acadhot/items/knvpuht7oj5sbimy7rld4uhp3)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：研究分析了131,610株大肠杆菌的基因组多样性，发现ST744菌株平均携带最多抗生素耐药基因（ARGs），并与毒力相关基因（VAGs）呈负相关。后续表型分析显示，不同菌株的细胞形态、核区组织及细胞周期时间存在显著差异，即使近亲克隆菌株间也呈现多样性。该成果为解析ExPEC中基因组变异与表型差异的关系提供了新框架。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766372v1?rss=1)
 
-- [小鼠机械卸载与运动量对肠道菌群及基因表达的影响](https://reisen-ww.github.io/hot-pages/acadhot/items/hkhddboluqkc89jyxauv53e2s)
-  来源：bioRxiv · 发布时间：2026-11-13 08:00（北京时间） · 一手
-  摘要：某研究团队在小鼠中发现机械卸载显著降低肠道菌群多样性，且低运动量干预产生更广泛的菌群分类学变化。实验通过16S rRNA测序结合LinDA分析发现，机械卸载组（HL）菌群丰富度下降，优势菌群包括链球菌科（Streptococcaceae）和螺旋体纲（Spirochaetota）。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.11.765836v1?rss=1)
+- [某团队在arXiv发表裸盖菇素对小鼠脑神经活动急性及持续效应的追踪研究](https://reisen-ww.github.io/hot-pages/acadhot/items/lblpdhf7c6enkasdy98jmmalm)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：某团队通过慢性植入Neuropixels探针首次直接证据显示，单次裸盖菇素注射可导致小鼠前额叶和海马区神经元活动急性变化及持续抑制（24 h后神经元放电量较对照组下降）。研究发现晚期急性反应（24 h内）可预测神经元后续活动状态，但早期峰值反应无此关联。该研究追踪了1692个神经元，揭示了致幻剂作用的双向调控机制及时间特异性神经信号传递规律。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.14.766632v1?rss=1)
+
+- [某团队在 bioRxiv 发布中风后清除性凋亡转录读出的解耦评估框架](https://reisen-ww.github.io/hot-pages/acadhot/items/ymsju07wxrm1052ysnt9f1f1h)
+  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
+  摘要：某团队提出解耦评估框架，通过多组学数据验证中风后清除机制与炎症反应的关联。研究显示清除能力差异在三个队列中分别为+0.473（95%CI 0.350-0.588）、+0.014、未检出；PBMCs数据不支持清除能力差异，但人脑微胶质细胞比例显著增加（0.371 vs 0.199）；能量供应影响清除效率（oxidative phosphorylation +1.512）。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766327v1?rss=1)

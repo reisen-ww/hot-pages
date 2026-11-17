@@ -1,6 +1,6 @@
-# FDA拒绝批准Summit Therapeutics新肺癌药物
+# FDA 拒绝批准 Summit Therapeutics 的肺癌药物，公司股价下跌
 
-> 原标题：The FDA declined to approve one of biotech’s most closely watched cancer drugs
+> 原标题：The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.
 
 - 来源：MarketWatch Top Stories
 - 发布时间：2026-11-16T15:06:00.000Z
@@ -9,8 +9,4 @@
 
 ## 摘要
 
-FDA拒绝批准Summit Therapeutics提交的肺癌药物，要求在临床试验中证明其能延长患者生存期。Summit Therapeutics已提交药物，但需进一步验证长期疗效数据。
-
-## 推荐理由
-
-原文指出FDA要求Summit Therapeutics证明其肺癌药物能延长患者生存期，反映监管机构对药物疗效的严格评估标准。
+FDA 告知 Summit Therapeutics，其肺癌药物需证明能延长患者寿命。公司股价因此下跌。
