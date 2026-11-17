@@ -184,16 +184,5 @@
       <guid isPermaLink="false">mabd3ryeggddzea44lb4nq9b5</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
-    <item>
-      <title><![CDATA[AWS Quick 发布技能与智能体协作机制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/mszs73k8adremghcp5xumjxt8</link>
-      <description><![CDATA[<p>AWS Quick 官方博客发布技能与智能体协作机制详解。技能通过 SKILL.md 文件定义，支持自动化报告生成、跨平台数据整合等场景，并内置测试框架和错误处理机制。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mszs73k8adremghcp5xumjxt8">https://reisen-ww.github.io/hot-pages/aihot/items/mszs73k8adremghcp5xumjxt8</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Tue, 10 Nov 2026 00:21:34 GMT</pubDate>
-      <guid isPermaLink="false">mszs73k8adremghcp5xumjxt8</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
   </channel>
 </rss>

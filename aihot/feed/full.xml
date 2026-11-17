@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[NVIDIA DGX Spark开发者套件发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o</link>
+      <description><![CDATA[<p>NVIDIA发布DGX Spark开发者套件，支持本地运行四节点集群（512GB内存/20TB存储），可部署700B参数模型如DeepSeek V4.1，减少11小时集群排队时间。套件包含NVIDIA HPC SDK开发工具链，合作伙伴包括Acer/ASUS/Dell等。已验证应用包括LAMMPS（材料模拟）、NAMD（分子动力学）及OpenFold3（蛋白质结构预测）。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o">https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 16 Nov 2026 23:00:05 GMT</pubDate>
+      <guid isPermaLink="false">mmgqncxck1r8niglpnxmild8o</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Duco利用Amazon Bedrock AgentCore实现金融数据处理自动化]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/i9kb88jmzi689gjsirxepr199</link>
       <description><![CDATA[<p>Duco基于Amazon Bedrock和AgentCore构建智能体平台，实现金融数据处理自动化，部署速度提升10倍，成本降低70%。</p>
@@ -18,6 +29,17 @@
       <pubDate>Mon, 16 Nov 2026 22:06:08 GMT</pubDate>
       <guid isPermaLink="false">i9kb88jmzi689gjsirxepr199</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[英伟达财报发布会将回应高管丑闻、合规调查及中国业务政策调整]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e2rop5fjjjmz5v5leujw06j1l</link>
+      <description><![CDATA[<p>英伟达财报发布会将回应高管丑闻、合规调查及中国业务政策调整。Nvidia CFO Colette Kress首次独立主持财报，需说明黄仁勋持续影响力、Megaspeed芯片走私指控调查进展、新加坡收入数据异常原因，以及中美AI芯片出口政策立场变化。特别关注其是否披露芯片流向追踪机制，并回应美国国会及民主党的监管质疑。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e2rop5fjjjmz5v5leujw06j1l">https://reisen-ww.github.io/hot-pages/aihot/items/e2rop5fjjjmz5v5leujw06j1l</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 22:03:02 GMT</pubDate>
+      <guid isPermaLink="false">e2rop5fjjjmz5v5leujw06j1l</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
     <item>
       <title><![CDATA[Constellation Energy 与微软、亚马逊、谷歌达成数据中心供电协议，CEO回应民主党政策影响]]></title>
@@ -75,9 +97,20 @@
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
     <item>
-      <title><![CDATA[FBI警告Artex开源AI渗透工具遭黑客利用致多国企业数据泄露]]></title>
+      <title><![CDATA[Sam Altman谈Nvidia无黄仁勋时代：AI行业仍将运转]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/w5qatyzar9x8ghz9215cfutvj</link>
+      <description><![CDATA[<p>OpenAI CEO Sam Altman表示AI行业在Nvidia CEO黄仁勋离职后仍将运转。他提到Nvidia为OpenAI Ohio数据中心提供1050亿美元担保，并指出Nvidia作为行业巨头仍受信任。Altman认为黄仁勋的雄心推动了行业，但未认同外界对离职影响的担忧。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/w5qatyzar9x8ghz9215cfutvj">https://reisen-ww.github.io/hot-pages/aihot/items/w5qatyzar9x8ghz9215cfutvj</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 18:11:10 GMT</pubDate>
+      <guid isPermaLink="false">w5qatyzar9x8ghz9215cfutvj</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[FBI警告Artex开源工具遭大规模网络攻击]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg</link>
-      <description><![CDATA[<p>FBI警告Artex开源AI渗透工具被黑客用于在3小时内突破企业网络防御。攻击案例包括韩国金融机构68,000人数据泄露和ConnectWise客户微软云环境入侵，黑客通过Artex扫描网络漏洞并利用弱密码等安全缺陷。开发者已将Artex转为闭源以阻止攻击，但旧版仍广泛流通。研究显示Artex系统存在未授权暴露，攻击者可借此获取渗透能力。</p>
+      <description><![CDATA[<p>FBI警告Artex开源工具被用于多国网络攻击，导致至少68,000人数据泄露及微软云环境入侵。攻击者通过Artex连接Anthropic、OpenAI等LLM实现快速渗透，利用暴露凭证和弱防护漏洞在3小时内完成系统入侵。</p>
 <p>🔗 <a href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg">https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg</a></p>]]></description>
       <category>行业动态</category>
@@ -520,39 +553,6 @@
       <pubDate>Thu, 12 Nov 2026 20:51:55 GMT</pubDate>
       <guid isPermaLink="false">wqzyvhddgymc7gqv8jiicmf19</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nvidia私下承认芯片追踪技术可行性引发争议]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j3jgnahbfqlw9mvtuhgrjkptj</link>
-      <description><![CDATA[<p>Nvidia私下承认芯片追踪技术可行性，但公开质疑法案可行性。法案要求GPS定位或信号验证，Nvidia的Fleet Intelligence工具可显示芯片位置，但未明确用于防走私。事件引发美国议员推动更严格立法，要求GPU需验证许可证方可联网。</p>
-<p>🔗 <a href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j3jgnahbfqlw9mvtuhgrjkptj">https://reisen-ww.github.io/hot-pages/aihot/items/j3jgnahbfqlw9mvtuhgrjkptj</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Thu, 12 Nov 2026 20:16:24 GMT</pubDate>
-      <guid isPermaLink="false">j3jgnahbfqlw9mvtuhgrjkptj</guid>
-      <author>noreply@reisen-ww.github.io (MIT Technology Review · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Amplitude 如何用 OpenAI 模型在1-2天内完成产品迭代]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</link>
-      <description><![CDATA[<p>Amplitude 通过 OpenAI 模型在1-2天内完成产品迭代，其智能体 Wave 负责识别开发方向、协调代码生成，并量化改进效果。该案例展示了企业级 AI 智能体在敏捷开发中的实际应用</p>
-<p>🔗 <a href="https://openai.com/business/customer-stories/amplitude">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp">https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">gitdqwbzd1409kmzhl20r88bp</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Amplitude 如何与 OpenAI 合作实现 1-2 天内快速迭代产品功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</link>
-      <description><![CDATA[<p>Amplitude 通过集成 OpenAI 模型，利用智能体 Wave 实现了 1-2 天内快速迭代产品功能，并引入了代码智能体辅助开发流程。该方案包含需求识别、开发执行和效果测量三个环节，展示了 AI 智能体在 SaaS 产品迭代中的落地应用。</p>
-<p>🔗 <a href="https://openai.com/index/amplitude">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx">https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bgjccsz52d0x5gr14wqhlr4sx</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
   </channel>
 </rss>

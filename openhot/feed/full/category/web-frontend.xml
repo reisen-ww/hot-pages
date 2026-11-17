@@ -31,6 +31,17 @@
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[ParadeDB 0.26.4发布：三表搜索查询性能提升1000倍]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mupwsjr5on2m9ga9hnbwhz1we</link>
+      <description><![CDATA[<p>ParadeDB 0.26.4版本通过Rank Join和聚合优化技术，将三表Top-K搜索查询时间从118秒降至100毫秒，并展示自托管数据库在复杂查询中的优势。</p>
+<p>🔗 <a href="https://www.paradedb.com/blog/joins">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mupwsjr5on2m9ga9hnbwhz1we">https://reisen-ww.github.io/hot-pages/openhot/items/mupwsjr5on2m9ga9hnbwhz1we</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Fri, 13 Nov 2026 15:31:50 GMT</pubDate>
+      <guid isPermaLink="false">mupwsjr5on2m9ga9hnbwhz1we</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[GraphQL 基金会发布 HTTP 规范，解决互操作与可观测性难题]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/mm71surul71wuo6w5qblycb5l</link>
       <description><![CDATA[<p>GraphQL 基金会发布 HTTP 规范，明确200 Not OK等状态码使用规则，新增GraphQL over HTTP媒体类型，解决代理缓存响应混淆问题。规范还规划了支持QUERY HTTP动词和持久化文档标准化，现有主流框架已适配新规。</p>

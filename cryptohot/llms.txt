@@ -1,6 +1,6 @@
 # 金融热点 静态读取说明
 
-快照时间：2026-11-17T00:03:53.124Z；版本：1fb45776-d457-4a8e-9923-9fb194a9823a。仅包含当前允许公开的内容。
+快照时间：2026-11-17T14:43:48.568Z；版本：cac47107-ebce-418c-ab09-9b42a6c913e2。仅包含当前允许公开的内容。
 
 - [当前 manifest](https://reisen-ww.github.io/hot-pages/cryptohot/data/manifest.json)：文件使用 SHA-256 内容地址；读取方须绑定同一版本并验证字节。
 - catalog 与 bodyShards 仅覆盖当前在线文章窗口，分别用于标题摘要与获许可的全文搜索。全部历史报告保留。availability 将超窗（outside-window）与不再公开区分；缺少详情不代表来源撤回。

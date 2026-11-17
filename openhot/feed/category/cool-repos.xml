@@ -107,27 +107,5 @@
       <guid isPermaLink="false">n8gnxujcsec9cpa6as9cryntt</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[Anchor Notes v0.18.0发布：移动端应用上线及全平台设计重做]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fv6owqx9m5zdut7w2h5gp2zrg</link>
-      <description><![CDATA[<p>Anchor Notes v0.18.0发布，Android应用上线Google Play，iOS测试版开放，全平台设计重做并新增分享功能。用户提交的漏洞修复贡献显著，GitHub星数两周内增长1400+。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fv6owqx9m5zdut7w2h5gp2zrg">https://reisen-ww.github.io/hot-pages/openhot/items/fv6owqx9m5zdut7w2h5gp2zrg</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 05:45:12 GMT</pubDate>
-      <guid isPermaLink="false">fv6owqx9m5zdut7w2h5gp2zrg</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队通过形式化验证发现CPython存在418个漏洞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/v0b2zlifsd154eu1r4wuqgaav</link>
-      <description><![CDATA[<p>某团队使用AI agents在Lean中复现并验证CPython 3.15.2，发现418个漏洞，其中55个可能导致崩溃或内存损坏。测试覆盖5万条边界输入，包含内存分配、错误处理、多版本实现差异等场景。</p>
-<p>🔗 <a href="https://broyojo.com/python-formalization/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/v0b2zlifsd154eu1r4wuqgaav">https://reisen-ww.github.io/hot-pages/openhot/items/v0b2zlifsd154eu1r4wuqgaav</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 01:56:48 GMT</pubDate>
-      <guid isPermaLink="false">v0b2zlifsd154eu1r4wuqgaav</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
   </channel>
 </rss>

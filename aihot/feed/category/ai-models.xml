@@ -118,16 +118,5 @@
       <guid isPermaLink="false">dc3q76bpl3hujn1ajt1wr2tq6</guid>
       <author>noreply@reisen-ww.github.io (Latent Space)</author>
     </item>
-    <item>
-      <title><![CDATA[Meta AI 发布 Muse Ember 模型：效率与成本最优平衡]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/sto1f6eb93h31mwcpng7easkd</link>
-      <description><![CDATA[<p>Meta AI 发布 Muse Ember 模型，定位为效率与成本最优平衡的AI工具。原文对比了Muse Ember与GPT-6 Luna、Claude Haiku 5.5的价格差异（$0.10-1.50/million tokens），并指出其运行在帕累托前沿，同时通过六级推理测试展示 pelican 骑自行车等可视化成果。与Muse Wonder相比，Ember在40倍价格下提供相近质量输出。</p>
-<p>🔗 <a href="https://simonwillison.net/2026/Nov/10/muse-ember/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sto1f6eb93h31mwcpng7easkd">https://reisen-ww.github.io/hot-pages/aihot/items/sto1f6eb93h31mwcpng7easkd</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Tue, 10 Nov 2026 07:28:21 GMT</pubDate>
-      <guid isPermaLink="false">sto1f6eb93h31mwcpng7easkd</guid>
-      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
-    </item>
   </channel>
 </rss>

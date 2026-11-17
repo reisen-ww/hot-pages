@@ -114,7 +114,7 @@
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-08</link>
       <description><![CDATA[<p>Meridian是一款基于Rust和GPUI的实验性浏览器，支持无JavaScript或布局复杂度低的网页浏览，并提供了Nix运行方式。其技术架构采用Servo管理网页状态，GPUI渲染界面，通过gpui-servo库实现两者交互。主要功能包括地址栏联想、垂直水平标签页、书签历史管理、分页缩放、音视频播放和阅读模式。项目在Tangled平台开发，欢迎贡献者查看开放问题列表</p>
 <p><strong>工具与项目</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/kchsblmyurhq85xape3sydd83">Meridian——基于Rust和GPUI的实验性浏览器发布</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/jrfg73epq75kzo3gubses2mgw">mr-andreas2 开源自托管图像存储方案 Replycant，支持 Git 多节点复制与端到端加密</a></li></ul>
+<ul><li><a href="https://op.tngl.io/meridian/">Meridian——基于Rust和GPUI的实验性浏览器发布</a></li><li><a href="https://www.reddit.com/r/selfhosted/comments/1xq4uhp/replycant_selfhosted_image_storage/">mr-andreas2 开源自托管图像存储方案 Replycant，支持 Git 多节点复制与端到端加密</a></li></ul>
 <p><strong>应用与安全</strong></p>
 <ul><li><a href="https://pwn.ai/blog/firecracker-escape">Firecracker 虚拟机逃逸漏洞利用方法及验证</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/qsxad3u93sk40fr05oz1jf2d7">TideCloak 开源发布：基于Keycloak的去中心化身份管理与加密架构</a></li><li><a href="https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.5">Tailwind CSS 发布 v4.3.5 版本</a></li></ul>
 <p><strong>模型与数据</strong></p>

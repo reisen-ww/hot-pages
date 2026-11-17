@@ -9,103 +9,136 @@
     <ttl>30</ttl>
     <generator>金融热点 (https://reisen-ww.github.io/hot-pages/cryptohot/agent)</generator>
     <item>
-      <title><![CDATA[Google向日本政府及关键基础设施运营商提供前沿AI网络安全早期访问]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/pmktzlbgtn3fcct6wg7ntuxfq</link>
-      <description><![CDATA[<p>Google向日本政府及关键基础设施运营商提供前沿AI模型的早期访问权限，以应对激增的网络攻击。日本政府已拨款63亿美元用于AI防御技术，Google的访问权限与日本2026年启动的&apos;主动网络防御&apos;框架直接关联。此前Google与日本国立信息通信技术研究所（NICT）合作开发AI漏洞检测技术，此次扩展了合作范围至更多关键设施运营商。</p>
-<p>🔗 <a href="https://cryptobriefing.com/google-japan-frontier-ai-cybersecurity-access/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/pmktzlbgtn3fcct6wg7ntuxfq">https://reisen-ww.github.io/hot-pages/cryptohot/items/pmktzlbgtn3fcct6wg7ntuxfq</a></p>]]></description>
+      <title><![CDATA[Lighter交易所恢复提款并退还约500万美元USDC]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/guu045dgenugxd167r3016u9v</link>
+      <description><![CDATA[<p>Lighter交易所恢复提款并退还约500万美元USDC给受影响的交易者。该事件涉及交易所API密钥泄露，平台已采取补救措施。</p>
+<p>🔗 <a href="https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/guu045dgenugxd167r3016u9v">https://reisen-ww.github.io/hot-pages/cryptohot/items/guu045dgenugxd167r3016u9v</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 21:10:25 GMT</pubDate>
-      <guid isPermaLink="false">pmktzlbgtn3fcct6wg7ntuxfq</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+      <pubDate>Tue, 17 Nov 2026 12:00:41 GMT</pubDate>
+      <guid isPermaLink="false">guu045dgenugxd167r3016u9v</guid>
+      <author>noreply@reisen-ww.github.io (The Block)</author>
     </item>
     <item>
-      <title><![CDATA[黑客利用Safe钱包角色模块漏洞盗取640万美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/wal6x0g4tzhd667q7ynf5zkdq</link>
-      <description><![CDATA[<p>黑客通过Safe钱包的Zodiac角色模块漏洞，于周一凌晨转移约640万美元（含439万美元USDC和206万美元syrupUSDC）。资金经Morpho借贷协议转至Hyperliquid交易所的XMR1代币。Zodiac称攻击源于角色密钥泄露，Safe则否认系统漏洞并称仅单 multisig 被影响。</p>
-<p>🔗 <a href="https://unchainedcrypto.com/hacker-uses-a-safe-wallets-own-back-door-to-drain-6-4-million/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/wal6x0g4tzhd667q7ynf5zkdq">https://reisen-ww.github.io/hot-pages/cryptohot/items/wal6x0g4tzhd667q7ynf5zkdq</a></p>]]></description>
+      <title><![CDATA[Lighter交易所因API密钥泄露导致50万美元USDC被盗事件处理进展]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/pkzd31j4xsoeq6sw5muw24jo3</link>
+      <description><![CDATA[<p>Lighter交易所宣布已恢复提款并向被盗账户返还500万美元USDC。技术复盘显示漏洞源于用户自行开发的非官方SDK代码中重复使用nonce（编号），导致攻击者通过公共签名推导出API密钥。交易所已实施强制钱包签名、API密钥使用限制及异常检测机制，并建议用户升级至官方SDK。事件涉及两个做市商账户共约155万美元损失，其中50万美元由交易所先行赔付。</p>
+<p>🔗 <a href="https://unchainedcrypto.com/lighter-reopens-withdrawals-hands-5-million-usdc-back-to-drained-trader/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/pkzd31j4xsoeq6sw5muw24jo3">https://reisen-ww.github.io/hot-pages/cryptohot/items/pkzd31j4xsoeq6sw5muw24jo3</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 20:09:53 GMT</pubDate>
-      <guid isPermaLink="false">wal6x0g4tzhd667q7ynf5zkdq</guid>
+      <pubDate>Tue, 17 Nov 2026 11:30:10 GMT</pubDate>
+      <guid isPermaLink="false">pkzd31j4xsoeq6sw5muw24jo3</guid>
       <author>noreply@reisen-ww.github.io (Unchained)</author>
     </item>
     <item>
-      <title><![CDATA[以太坊链上交易所Lighter发生安全漏洞致超百万美元USDC被盗]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ifyf70b7tbbu5a7ixxdghjqih</link>
-      <description><![CDATA[<p>2026年11月16日，以太坊链上交易所Lighter发生安全漏洞，导致约103.9万美元USDC被盗。交易所通过触发智能合约机制追回约50万美元USDC并恢复运营，但仍有约155万美元未追回。事件调查显示漏洞源于API密钥泄露及签名代码中nonce重复使用问题，导致攻击者可推导私钥。该事件导致其原生代币LIT日内跌幅超10%。</p>
-<p>🔗 <a href="https://cryptobriefing.com/lighter-returns-5m-usdc-security-incident/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ifyf70b7tbbu5a7ixxdghjqih">https://reisen-ww.github.io/hot-pages/cryptohot/items/ifyf70b7tbbu5a7ixxdghjqih</a></p>]]></description>
+      <title><![CDATA[Gate交易所推出PoSEC安全证明机制，冷存储覆盖率104.58%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/utgwdnub87738n2jgtud25yv7</link>
+      <description><![CDATA[<p>Gate交易所通过DefiLlama Research发布的深度报告，推出PoSEC安全证明机制。数据显示其冷存储覆盖率达104.58%，总储备金86.9亿美元，储备金率118.49%。该机制首次将冷存储覆盖率作为可量化指标，为交易所安全评估提供新标准，并计划公开第三方审计结果。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e92f-91d7-703a-bf57-bd9e658e115c">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/utgwdnub87738n2jgtud25yv7">https://reisen-ww.github.io/hot-pages/cryptohot/items/utgwdnub87738n2jgtud25yv7</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 19:33:33 GMT</pubDate>
-      <guid isPermaLink="false">ifyf70b7tbbu5a7ixxdghjqih</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+      <pubDate>Tue, 17 Nov 2026 11:06:13 GMT</pubDate>
+      <guid isPermaLink="false">utgwdnub87738n2jgtud25yv7</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
     </item>
     <item>
-      <title><![CDATA[Chainlink官员称银行进入DeFi仅是开始，合作案例与工具发布]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/od3xi7psdfim5vyv1v9idjfw0</link>
-      <description><![CDATA[<p>Chainlink官员指出银行进入DeFi仅是开始，合作案例与工具发布。银行正从探索转向实施，聚焦代币化、抵押品管理及可编程资产三大领域，Chainlink推出与Aave合作的24/7数据流及跨链协议CCIP，并与Swift、Euroclear、DTCC、JPMorgan等机构合作推进。</p>
-<p>🔗 <a href="https://cryptobriefing.com/chainlink-executive-banks-defi-interest/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/od3xi7psdfim5vyv1v9idjfw0">https://reisen-ww.github.io/hot-pages/cryptohot/items/od3xi7psdfim5vyv1v9idjfw0</a></p>]]></description>
+      <title><![CDATA[以太坊核心开发者 Vitalik 解析 EIP-8037 争议：安全扩容方案的技术必要性及开发者注意事项]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ygu1udhsh94mvn9c6td8onrra</link>
+      <description><![CDATA[<p>以太坊核心开发者 Vitalik 解析 EIP-8037 争议，指出该提案通过提高 Gas 成本实现扩容，并回应开发者对合约兼容性的担忧。原文详细说明 EIP-8037 的技术运作机制、与其他扩容方案的取舍，以及开发者需在升级前完成的修复工作。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2305190">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ygu1udhsh94mvn9c6td8onrra">https://reisen-ww.github.io/hot-pages/cryptohot/items/ygu1udhsh94mvn9c6td8onrra</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 19:18:45 GMT</pubDate>
-      <guid isPermaLink="false">od3xi7psdfim5vyv1v9idjfw0</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Lighter交易所因API密钥漏洞导致约500万美元USDC被盗，已恢复提现并追回部分资金]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ul5rz7eql50xma4u6notdcxzf</link>
-      <description><![CDATA[<p>Lighter交易所因API密钥漏洞导致约500万美元USDC被盗，已恢复提现并追回部分资金。事件源于用户使用非官方SDK时重复使用加密非ces，攻击者通过公开签名重构私钥，利用公共池转移资产。交易所已实施钱包签名、API密钥非公开等新措施，并建议用户切换至官方SDK。</p>
-<p>🔗 <a href="https://cryptobriefing.com/lighter-api-key-security-exploit/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ul5rz7eql50xma4u6notdcxzf">https://reisen-ww.github.io/hot-pages/cryptohot/items/ul5rz7eql50xma4u6notdcxzf</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 19:09:25 GMT</pubDate>
-      <guid isPermaLink="false">ul5rz7eql50xma4u6notdcxzf</guid>
-      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[Solana交易所 Jupiter 推出许可制借贷市场，支持 Bullish 代币化股票抵押]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/b9r8dp3ruzgm5zb3b7p05xuag</link>
-      <description><![CDATA[<p>Solana 交易所 Jupiter 宣布推出许可制借贷市场，首批支持纽约证券交易所上市的 Bullish 代币化股票作为抵押品。用户可通过链上清算机制借入资产，该市场目前仅在部分司法辖区开放。</p>
-<p>🔗 <a href="https://www.chaincatcher.com/article/2305314">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/b9r8dp3ruzgm5zb3b7p05xuag">https://reisen-ww.github.io/hot-pages/cryptohot/items/b9r8dp3ruzgm5zb3b7p05xuag</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 17:10:42 GMT</pubDate>
-      <guid isPermaLink="false">b9r8dp3ruzgm5zb3b7p05xuag</guid>
+      <pubDate>Tue, 17 Nov 2026 10:00:43 GMT</pubDate>
+      <guid isPermaLink="false">ygu1udhsh94mvn9c6td8onrra</guid>
       <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
     </item>
     <item>
-      <title><![CDATA[Jupiter交易所上线Bullish股票代币化抵押市场]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/o2q90qgawqw0jaswygu6bw9xi</link>
-      <description><![CDATA[<p>Jupiter宣布在Lend平台推出首个专用权限市场，允许用户以代币化形式抵押NYSE上市的BLSH股票。该市场将接入合规托管机构，支持全链上清算。同步发布Jupiter Global Passport身份验证服务，以及流动性服务帮助发行方设计市场机制。目前该市场仅限部分司法管辖区，计划于2027年1月1日关闭。</p>
-<p>🔗 <a href="https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/o2q90qgawqw0jaswygu6bw9xi">https://reisen-ww.github.io/hot-pages/cryptohot/items/o2q90qgawqw0jaswygu6bw9xi</a></p>]]></description>
+      <title><![CDATA[Lighter API密钥泄露致500万美元USDC被盗，官方追回并升级安全措施]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/g8f5buvgzlq6wefuchmkgbn6n</link>
+      <description><![CDATA[<p>Lighter 官方披露 API 密钥泄露事件导致约500万美元 USDC 被盗，已通过智能合约 Guardian 暂停提现并追回资金。安全措施包括 API 密钥 IP 白名单、权限分级配置及 Nonce 重复使用监测，建议用户优先使用官方 SDK 避免风险。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e8ea-333b-779c-a8a4-63cb4080b439">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/g8f5buvgzlq6wefuchmkgbn6n">https://reisen-ww.github.io/hot-pages/cryptohot/items/g8f5buvgzlq6wefuchmkgbn6n</a></p>]]></description>
       <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 17:09:28 GMT</pubDate>
-      <guid isPermaLink="false">o2q90qgawqw0jaswygu6bw9xi</guid>
-      <author>noreply@reisen-ww.github.io (Decrypt)</author>
-    </item>
-    <item>
-      <title><![CDATA[DTCC与Barclays合作上线Solana资产代币化服务，释放闲置抵押品价值]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/m6033n56ei8e03azrbb10mooe</link>
-      <description><![CDATA[<p>DTCC与Barclays宣布合作推出Solana链资产代币化服务，计划2027年第二季度上线。服务初期将代币化Russell 1000股票、指数ETF和美国国债，通过抵押品24小时流动管理提升机构资金使用效率，预计释放数百万至数十亿美元流动性。Barclays高管表示已开始实践，并希望推动更多中央证券登记机构接入Solana网络构建跨大洲基础设施层。</p>
-<p>🔗 <a href="https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/m6033n56ei8e03azrbb10mooe">https://reisen-ww.github.io/hot-pages/cryptohot/items/m6033n56ei8e03azrbb10mooe</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 16:11:31 GMT</pubDate>
-      <guid isPermaLink="false">m6033n56ei8e03azrbb10mooe</guid>
-      <author>noreply@reisen-ww.github.io (Decrypt)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic收紧漏洞披露政策：期限从90天缩短至30天]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/vdt9irotv2oh3ggfd37woabg2</link>
-      <description><![CDATA[<p>Anthropic宣布将漏洞披露期限从90天缩短至30天，并将在15天后调整问题上报流程。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e4c9-0de4-752d-b634-a158b1be497b">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/vdt9irotv2oh3ggfd37woabg2">https://reisen-ww.github.io/hot-pages/cryptohot/items/vdt9irotv2oh3ggfd37woabg2</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 14:35:48 GMT</pubDate>
-      <guid isPermaLink="false">vdt9irotv2oh3ggfd37woabg2</guid>
+      <pubDate>Tue, 17 Nov 2026 09:50:28 GMT</pubDate>
+      <guid isPermaLink="false">g8f5buvgzlq6wefuchmkgbn6n</guid>
       <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek实施C端对话额度限制，战略聚焦AGI研发]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/hwvprc7nb5b91v9xaj44baoor</link>
+      <description><![CDATA[<p>DeepSeek实施C端对话额度限制以管理算力需求，但未提及付费计划。分析显示，其核心逻辑是优先保障API服务与AGI研发，C端免费策略仍为长期方向。2026年10月完成1055亿元融资，资金主要用于乌兰察布GW级数据中心建设及华为昇腾芯片适配，预计2027年底算力提升后Pro版价格将大幅下调。</p>
+<p>🔗 <a href="https://www.tmtpost.com/8207729.html">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/hwvprc7nb5b91v9xaj44baoor">https://reisen-ww.github.io/hot-pages/cryptohot/items/hwvprc7nb5b91v9xaj44baoor</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Tue, 17 Nov 2026 09:21:49 GMT</pubDate>
+      <guid isPermaLink="false">hwvprc7nb5b91v9xaj44baoor</guid>
+      <author>noreply@reisen-ww.github.io (钛媒体)</author>
+    </item>
+    <item>
+      <title><![CDATA[加密协议收入集中度达47%：为何多数龙头代币跑输BTC]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/e8np1pwjxwfw1ufq18bfrnq0o</link>
+      <description><![CDATA[<p>加密协议收入集中度达47%，但多数龙头代币跑输BTC。核心差异在于：1）协议收入与代币持有者现金流分配（如Hyperliquid年手续费8.95亿美元但未向持币者分配）；2）潜在市场规模（如Derive链上期权名义交易量142亿美元）；3）叙事驱动（如Zcash因隐私需求上涨592%，Pearl通过PoUW切入AI算力市场）。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2305483">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/e8np1pwjxwfw1ufq18bfrnq0o">https://reisen-ww.github.io/hot-pages/cryptohot/items/e8np1pwjxwfw1ufq18bfrnq0o</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Tue, 17 Nov 2026 06:09:53 GMT</pubDate>
+      <guid isPermaLink="false">e8np1pwjxwfw1ufq18bfrnq0o</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[Dragonfly 与 NEAR 协议合作领投种子轮融资]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/o3ue68pcp0im908f4i87krjij</link>
+      <description><![CDATA[<p>Dragonfly 与 NEAR 协议合作领投种子轮融资。Dragonfly 管理合伙人 Haseeb Qureshi 原质疑 NEAR 协议存在扩展性缺陷，次日 NEAR 联创人 Illia Polosukhin 发送修复版本后，双方达成领投意向。</p>
+<p>🔗 <a href="https://www.chaincatcher.com/article/2305482">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/o3ue68pcp0im908f4i87krjij">https://reisen-ww.github.io/hot-pages/cryptohot/items/o3ue68pcp0im908f4i87krjij</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Tue, 17 Nov 2026 05:59:47 GMT</pubDate>
+      <guid isPermaLink="false">o3ue68pcp0im908f4i87krjij</guid>
+      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
+    </item>
+    <item>
+      <title><![CDATA[MiniMax推出H3 Max视频生成模型 开源策略助力企业服务收入占比超六成]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/gnir44vfulsixvubfchq8k0s7</link>
+      <description><![CDATA[<p>MiniMax推出H3 Max视频生成模型，开源策略助力企业服务收入占比超六成。对比字节跳动等闭源策略，MiniMax通过降低推理成本（3倍速度/70%成本下降）实现商业增长，并探讨中美AI生态差异（美国封闭系统 vs 中国效率驱动协作体系）。2026上半年企业服务收入7390万美元（+703%），ARR超8亿美元，但研发投入2.969亿美元仍致净亏损2.93亿美元。</p>
+<p>🔗 <a href="https://www.tmtpost.com/8207380.html">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/gnir44vfulsixvubfchq8k0s7">https://reisen-ww.github.io/hot-pages/cryptohot/items/gnir44vfulsixvubfchq8k0s7</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Tue, 17 Nov 2026 04:03:52 GMT</pubDate>
+      <guid isPermaLink="false">gnir44vfulsixvubfchq8k0s7</guid>
+      <author>noreply@reisen-ww.github.io (钛媒体)</author>
+    </item>
+    <item>
+      <title><![CDATA[以太坊Glamsterdam升级测试发现支付漏洞：主交易成功但内部操作可能失败]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/nfnuaapa9oir3yf2cc67shrjq</link>
+      <description><![CDATA[<p>以太坊Glamsterdam升级测试中发现，部分交易虽主流程成功，但内部支付操作可能失败。测试案例显示NFT持有成功但资金未支付，或用户提取资金时手续费未被扣除。问题根源在于Gas消耗导致try/catch机制异常，主网测试未复现该漏洞。</p>
+<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e79e-88d7-707b-9c2b-5b01f16be4fa">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/nfnuaapa9oir3yf2cc67shrjq">https://reisen-ww.github.io/hot-pages/cryptohot/items/nfnuaapa9oir3yf2cc67shrjq</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Tue, 17 Nov 2026 03:48:11 GMT</pubDate>
+      <guid isPermaLink="false">nfnuaapa9oir3yf2cc67shrjq</guid>
+      <author>noreply@reisen-ww.github.io (PANews)</author>
+    </item>
+    <item>
+      <title><![CDATA[谷歌发布自主网络攻击研究报告：首个全自动化漏洞利用框架曝光]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/qo3x3j7iy5afchds0cks6q3rd</link>
+      <description><![CDATA[<p>谷歌威胁情报团队（GTIG）在2026年第四季度报告中披露，发现名为exploit_agent的首个完全自动化漏洞发现与利用框架。该框架可自主连接大型语言模型并分析网页应用漏洞，已成功实施针对法国媒体、娱乐及教育行业的定向攻击，并遗留后门脚本和暴力破解工具。报告预测，此类自动化攻击将在1-3个月内普及低级版本，3-6个月内出现更复杂变种。</p>
+<p>🔗 <a href="https://cryptobriefing.com/google-warns-autonomous-cyberattacks-arrived/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/qo3x3j7iy5afchds0cks6q3rd">https://reisen-ww.github.io/hot-pages/cryptohot/items/qo3x3j7iy5afchds0cks6q3rd</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Tue, 17 Nov 2026 01:57:22 GMT</pubDate>
+      <guid isPermaLink="false">qo3x3j7iy5afchds0cks6q3rd</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia Vera Rubin AI训练硬件在MLPerf v6.1七项测试中均夺冠]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/ee1mmt7ildkm8wvpx0zopgnnr</link>
+      <description><![CDATA[<p>Nvidia宣布其Vera Rubin AI训练硬件在MLPerf v6.1七项测试中均夺冠。核心数据包括：在DeepSeek-V3 671B模型训练中，使用1024块GPU仅耗时4.14分钟，较GB300系统效率提升近2倍；在Kimi K3模型测试中，能效比达到GB300系统的10倍。硬件采用HBM4内存和第六代NVLink互联技术</p>
+<p>🔗 <a href="https://cryptobriefing.com/nvidia-vera-rubin-mlperf-training-benchmarks/">阅读原文</a></p>
+<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/ee1mmt7ildkm8wvpx0zopgnnr">https://reisen-ww.github.io/hot-pages/cryptohot/items/ee1mmt7ildkm8wvpx0zopgnnr</a></p>]]></description>
+      <category>DeFi 与链上</category>
+      <pubDate>Tue, 17 Nov 2026 01:16:54 GMT</pubDate>
+      <guid isPermaLink="false">ee1mmt7ildkm8wvpx0zopgnnr</guid>
+      <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
     </item>
     <item>
       <title><![CDATA[Sky创始人关联钱包在游戏公司破产前借出100万美元]]></title>
@@ -117,28 +150,6 @@
       <pubDate>Mon, 16 Nov 2026 14:06:18 GMT</pubDate>
       <guid isPermaLink="false">w167u37mcu1sa1oiri6dcrfu0</guid>
       <author>noreply@reisen-ww.github.io (Protos)</author>
-    </item>
-    <item>
-      <title><![CDATA[西联汇款接入Solana，通过DAN和USDPT支持跨境汇款至180个国家和地区]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/vlz3phg4ub8ugzjt6kelat51z</link>
-      <description><![CDATA[<p>西联汇款宣布接入Solana网络，通过DAN代币和USDPT稳定币支持向全球180个国家和地区提供跨境汇款服务，覆盖约40万个线下兑换网点。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e4a4-ac0f-705a-9fd4-1063f4b5d135">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/vlz3phg4ub8ugzjt6kelat51z">https://reisen-ww.github.io/hot-pages/cryptohot/items/vlz3phg4ub8ugzjt6kelat51z</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 13:56:03 GMT</pubDate>
-      <guid isPermaLink="false">vlz3phg4ub8ugzjt6kelat51z</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[Lighter交易所因API密钥泄露致超1500万美元资金外流]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/mkw6ewgq4wc736wfbt45qydro</link>
-      <description><![CDATA[<p>Lighter交易所于11月16日披露遭遇API密钥泄露事件，攻击者于10:11:47 UTC通过智能合约提现10,390,000 USDC，经CoW Swap兑换5,760 ETH后转至Hyperliquid。未确认的细节包括：1）是否涉及2个市场做市商账户（$15.5M）；2）资金是否用于购买Monero（XMR）；3）Lighter交易所是否已升级智能合约。</p>
-<p>🔗 <a href="https://unchainedcrypto.com/lighter-pins-drain-on-traders-leaked-api-key-says-contracts-were-not-hit/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/mkw6ewgq4wc736wfbt45qydro">https://reisen-ww.github.io/hot-pages/cryptohot/items/mkw6ewgq4wc736wfbt45qydro</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 13:25:22 GMT</pubDate>
-      <guid isPermaLink="false">mkw6ewgq4wc736wfbt45qydro</guid>
-      <author>noreply@reisen-ww.github.io (Unchained)</author>
     </item>
     <item>
       <title><![CDATA[Ledger为Solana生态引入清晰签名功能，结束盲签时代]]></title>
@@ -163,17 +174,6 @@
       <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
     </item>
     <item>
-      <title><![CDATA[Lighter 攻击者通过 Hyperliquid 买入 2240 枚 XMR]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/b76loshhrkvgjzyprf0efwwh6</link>
-      <description><![CDATA[<p>派盾监测到 Lighter 遭遇约1000万美元攻击，攻击者通过 Hyperliquid 转入640枚ETH并买入2240枚XMR。</p>
-<p>🔗 <a href="https://www.chaincatcher.com/article/2305213">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/b76loshhrkvgjzyprf0efwwh6">https://reisen-ww.github.io/hot-pages/cryptohot/items/b76loshhrkvgjzyprf0efwwh6</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 12:03:26 GMT</pubDate>
-      <guid isPermaLink="false">b76loshhrkvgjzyprf0efwwh6</guid>
-      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
-    </item>
-    <item>
       <title><![CDATA[Lighter遭黑客攻击：640枚ETH转入Hyperliquid并购买2240枚XMR]]></title>
       <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/jd7cu0m32tfczeqz2teltz2ne</link>
       <description><![CDATA[<p>派盾监测到黑客攻击事件，攻击者将640枚ETH（价值约112万美元）转入Hyperliquid并购买2240枚XMR。</p>
@@ -182,94 +182,6 @@
       <category>DeFi 与链上</category>
       <pubDate>Mon, 16 Nov 2026 12:00:51 GMT</pubDate>
       <guid isPermaLink="false">jd7cu0m32tfczeqz2teltz2ne</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[三菱日联、三井住友与瑞穗银行计划发行日元稳定币]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/z29bdcg3yiwe29806h6sf5o3i</link>
-      <description><![CDATA[<p>三菱日联、三井住友与瑞穗银行计划发行日元稳定币，预计2027年3月上线。该稳定币旨在简化跨境支付并提升日元使用，当前市场美元稳定币占比超97%。</p>
-<p>🔗 <a href="https://www.chaincatcher.com/article/2305179">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/z29bdcg3yiwe29806h6sf5o3i">https://reisen-ww.github.io/hot-pages/cryptohot/items/z29bdcg3yiwe29806h6sf5o3i</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 10:17:21 GMT</pubDate>
-      <guid isPermaLink="false">z29bdcg3yiwe29806h6sf5o3i</guid>
-      <author>noreply@reisen-ww.github.io (链捕手 ChainCatcher)</author>
-    </item>
-    <item>
-      <title><![CDATA[Chain Games质押合约遭攻击致损失2万美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/r8nhk9ea40a46pvylfneiqyfv</link>
-      <description><![CDATA[<p>Chain Games质押合约遭攻击致损失2万美元，攻击者通过360次循环提款放大份额。合约在份额转移时未同步奖励检查点，使新创建的接收合约能重复领取历史奖励。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1e3dc-1f31-70ca-82e9-743e64d1b491">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/r8nhk9ea40a46pvylfneiqyfv">https://reisen-ww.github.io/hot-pages/cryptohot/items/r8nhk9ea40a46pvylfneiqyfv</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 10:16:58 GMT</pubDate>
-      <guid isPermaLink="false">r8nhk9ea40a46pvylfneiqyfv</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[以太坊联合创始人支持 leanPCS 方案加速量子安全升级]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/rpoogdutcgf9sc2hozucuh9up</link>
-      <description><![CDATA[<p>以太坊联合创始人 Vitalik Buterin 支持 leanPCS 方案，提出通过聚合量子安全签名和证明实现快速升级。该方案对比 leanSPHINCS（单类型签名，成本约 3,000 gas）和 leanSTARK（需新编程语言），强调 leanPCS 可减少 98% 链上数据存储，且无需协议层变更。</p>
-<p>🔗 <a href="https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/rpoogdutcgf9sc2hozucuh9up">https://reisen-ww.github.io/hot-pages/cryptohot/items/rpoogdutcgf9sc2hozucuh9up</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 09:54:55 GMT</pubDate>
-      <guid isPermaLink="false">rpoogdutcgf9sc2hozucuh9up</guid>
-      <author>noreply@reisen-ww.github.io (Decrypt)</author>
-    </item>
-    <item>
-      <title><![CDATA[CoW Swap 在 Solana 启动直接交易功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/olshu53nphkj0kt0d4asg29tc</link>
-      <description><![CDATA[<p>CoW Swap 在 Solana 启动直接交易功能，此前仅支持跨链交易。该平台是 Layer2 交易协议，其 Solana 主网部署将降低交易Gas费成本约 30%。</p>
-<p>🔗 <a href="https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/olshu53nphkj0kt0d4asg29tc">https://reisen-ww.github.io/hot-pages/cryptohot/items/olshu53nphkj0kt0d4asg29tc</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Mon, 16 Nov 2026 09:05:02 GMT</pubDate>
-      <guid isPermaLink="false">olshu53nphkj0kt0d4asg29tc</guid>
-      <author>noreply@reisen-ww.github.io (The Block)</author>
-    </item>
-    <item>
-      <title><![CDATA[Vestige DeFi 平台宣布 12 月 31 日停运]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/rczuyu5n3wwvtcpeyuaganwa7</link>
-      <description><![CDATA[<p>Vestige宣布将于12月31日关闭主站、API及交易聚合器服务，因Algorand生态交易量不足导致长期亏损。用户钱包资产不受影响，但存入金库的资产需通过旧版前端访问，平台将销毁全部VEST代币及流动性凭证。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1dc88-b00e-7770-89eb-7aeda51fe1b9">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/rczuyu5n3wwvtcpeyuaganwa7">https://reisen-ww.github.io/hot-pages/cryptohot/items/rczuyu5n3wwvtcpeyuaganwa7</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Sun, 15 Nov 2026 00:08:29 GMT</pubDate>
-      <guid isPermaLink="false">rczuyu5n3wwvtcpeyuaganwa7</guid>
-      <author>noreply@reisen-ww.github.io (PANews)</author>
-    </item>
-    <item>
-      <title><![CDATA[Kava Lend遭黑客攻击致KAVA代币跌近40%]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/z29ssycmuhz0oa36mh5tdei78</link>
-      <description><![CDATA[<p>Kava Lend因黑客攻击损失约380万美元，导致KAVA代币价格下跌近40%。事件中约4.92亿KAVA通过LayerZero跨链至BNB Chain并兑换为约210万美元的BNB和USDT。</p>
-<p>🔗 <a href="https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/z29ssycmuhz0oa36mh5tdei78">https://reisen-ww.github.io/hot-pages/cryptohot/items/z29ssycmuhz0oa36mh5tdei78</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Sat, 14 Nov 2026 23:07:35 GMT</pubDate>
-      <guid isPermaLink="false">z29ssycmuhz0oa36mh5tdei78</guid>
-      <author>noreply@reisen-ww.github.io (The Block)</author>
-    </item>
-    <item>
-      <title><![CDATA[Aztec V6升级：隐私协议如何抵御北朝鲜Lazarus集团资金渗透]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/hwqo1o8bv7ley18rd80lvqoj5</link>
-      <description><![CDATA[<p>Aztec宣布V6升级，通过隐私协议设计防止北朝鲜Lazarus集团资金混入。AI审计发现其加密库漏洞，并采用Zcash式Turnstile机制防止隐蔽双重支付，同时支持用户向IRS共享交易记录而不暴露全局审计密钥。新功能包括zk.money数字银行、隐私AI推理市场和匿名社交网络。</p>
-<p>🔗 <a href="https://unchainedcrypto.com/can-private-protocols-keep-north-korea-out-aztecs-zac-williamson-thinks-so/">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/hwqo1o8bv7ley18rd80lvqoj5">https://reisen-ww.github.io/hot-pages/cryptohot/items/hwqo1o8bv7ley18rd80lvqoj5</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Sat, 14 Nov 2026 21:00:24 GMT</pubDate>
-      <guid isPermaLink="false">hwqo1o8bv7ley18rd80lvqoj5</guid>
-      <author>noreply@reisen-ww.github.io (Unchained)</author>
-    </item>
-    <item>
-      <title><![CDATA[Polkadot社区投票通过dotUSD战略升级]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/hjnpmk53p1lx0evmvhtnim9vn</link>
-      <description><![CDATA[<p>Polkadot社区投票通过dotUSD战略升级。该战略将发展重心转向消费者应用和数字支付，采用Liquity模式允许用户将DOT抵押铸造dotUSD，并简化日常支付流程。战略由Polkadot社区基金会（PCF）提出，包含隐私保护、用户控制及移动优先方案，后续将进行独立审计和风险管理。</p>
-<p>🔗 <a href="https://www.panewslab.com/zh/articles/01a1dacb-be7e-736e-9382-bef0dbf94905">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/hjnpmk53p1lx0evmvhtnim9vn">https://reisen-ww.github.io/hot-pages/cryptohot/items/hjnpmk53p1lx0evmvhtnim9vn</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Sat, 14 Nov 2026 16:02:30 GMT</pubDate>
-      <guid isPermaLink="false">hjnpmk53p1lx0evmvhtnim9vn</guid>
       <author>noreply@reisen-ww.github.io (PANews)</author>
     </item>
     <item>
@@ -392,17 +304,6 @@
       <pubDate>Tue, 10 Nov 2026 14:51:30 GMT</pubDate>
       <guid isPermaLink="false">p7f69144jhg3kha2qt5nhi0kg</guid>
       <author>noreply@reisen-ww.github.io (Crypto Briefing)</author>
-    </item>
-    <item>
-      <title><![CDATA[XRP Ledger 制定量子抗性账户路线图，2028 年完成全面升级]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/cryptohot/items/w6c7k9hy5trhxn2386cef93l4</link>
-      <description><![CDATA[<p>XRP Ledger 宣布将量子抗性账户纳入技术路线图，计划于 2028 年完成全面升级。该设计允许账户持有者添加量子抗性密钥并停用旧密钥，且无额外手续费。</p>
-<p>🔗 <a href="https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users">阅读原文</a></p>
-<p>via 金融热点 · <a href="https://reisen-ww.github.io/hot-pages/cryptohot/items/w6c7k9hy5trhxn2386cef93l4">https://reisen-ww.github.io/hot-pages/cryptohot/items/w6c7k9hy5trhxn2386cef93l4</a></p>]]></description>
-      <category>DeFi 与链上</category>
-      <pubDate>Tue, 10 Nov 2026 04:51:20 GMT</pubDate>
-      <guid isPermaLink="false">w6c7k9hy5trhxn2386cef93l4</guid>
-      <author>noreply@reisen-ww.github.io (CoinDesk)</author>
     </item>
   </channel>
 </rss>

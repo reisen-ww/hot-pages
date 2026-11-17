@@ -1,0 +1,12 @@
+# 最高法院驳回特朗普上诉，裁决恢复被终止的科研资助项目
+
+> 原标题：Supreme Court rejects Trump’s bid to appeal decision restoring terminated grants
+
+- 来源：Science 新闻
+- 收录时间：2026-11-17T00:06:37.367Z
+- 学术热点：https://reisen-ww.github.io/hot-pages/acadhot/items/plvbp3but8lfyiaipyfiamssi
+- 原文：https://www.science.org/content/article/supreme-court-rejects-trump-s-bid-appeal-decision-restoring-terminated-grants
+
+## 摘要
+
+最高法院驳回了特朗普针对恢复被终止科研资助项目的上诉，维持原判。裁决指出相关机构违反了美国宪法言论自由条款。

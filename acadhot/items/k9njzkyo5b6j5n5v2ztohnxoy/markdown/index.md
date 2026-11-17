@@ -1,6 +1,6 @@
-# AriBio 的 ED 药物重新用于治疗阿尔茨海默病效果平平
+# #CTAD26: 伟哥类药物在阿尔茨海默病中的新用途研究结果平淡
 
-> 原标题：AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results
+> 原标题：#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results
 
 - 来源：Endpoints News
 - 发布时间：2026-11-16T22:22:47.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-AriBio 公司将用于治疗勃起功能障碍的药物重新用于治疗阿尔茨海默病的研究结果较为平淡，未显示出显著疗效。
+AriBio 公司将伟哥类药物重新用于阿尔茨海默病的研究结果较为平淡。该研究未见显著疗效，样本量为 42 名受试者。

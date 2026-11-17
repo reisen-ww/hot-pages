@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[NVIDIA DGX Spark开发者套件发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o</link>
+      <description><![CDATA[<p>NVIDIA发布DGX Spark开发者套件，支持本地运行四节点集群（512GB内存/20TB存储），可部署700B参数模型如DeepSeek V4.1，减少11小时集群排队时间。套件包含NVIDIA HPC SDK开发工具链，合作伙伴包括Acer/ASUS/Dell等。已验证应用包括LAMMPS（材料模拟）、NAMD（分子动力学）及OpenFold3（蛋白质结构预测）。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o">https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Mon, 16 Nov 2026 23:00:05 GMT</pubDate>
+      <guid isPermaLink="false">mmgqncxck1r8niglpnxmild8o</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Duco利用Amazon Bedrock AgentCore实现金融数据处理自动化]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/i9kb88jmzi689gjsirxepr199</link>
       <description><![CDATA[<p>Duco基于Amazon Bedrock和AgentCore构建智能体平台，实现金融数据处理自动化，部署速度提升10倍，成本降低70%。</p>
@@ -381,83 +392,6 @@
       <pubDate>Tue, 10 Nov 2026 15:00:39 GMT</pubDate>
       <guid isPermaLink="false">r4qgfb3yitsita3y66f2axfe1</guid>
       <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Adobe MAX 2026：发布AI智能体及创意工具升级]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/zbyhdvgkbk3xypj76yoevvbe4</link>
-      <description><![CDATA[<p>Adobe MAX 2026 发布 AI 智能体及创意工具升级，包括图像编辑工具（局部对象修改）、视频合成功能（支持多元素拼接）和 Model Context Protocol（MCP）协议开放。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/zbyhdvgkbk3xypj76yoevvbe4">https://reisen-ww.github.io/hot-pages/aihot/items/zbyhdvgkbk3xypj76yoevvbe4</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 14:05:10 GMT</pubDate>
-      <guid isPermaLink="false">zbyhdvgkbk3xypj76yoevvbe4</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Adobe Max 2026：Photoshop、Premiere 等新增 AI 自动移除功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/y763bvwwrg1lag54qvu5wzn43</link>
-      <description><![CDATA[<p>Adobe Max 2026宣布Photoshop、Premiere等新增AI自动移除工具。Premiere Beta版推出Generative Remove功能，可自动擦除视频中的 boom mics 和背景杂乱，同时保留周围画面。Firefly新增Design联合创作空间和Graph工作流工具，支持图像编辑、动画及网页原型设计。Lightroom桌面版新增一键祛斑功能。</p>
-<p>🔗 <a href="https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/y763bvwwrg1lag54qvu5wzn43">https://reisen-ww.github.io/hot-pages/aihot/items/y763bvwwrg1lag54qvu5wzn43</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">y763bvwwrg1lag54qvu5wzn43</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Adobe全面拥抱AI智能体：集成第三方工具并扩展视频编辑功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/s7upo2w01hv7t9x7yejnba8vw</link>
-      <description><![CDATA[<p>Adobe宣布将AI智能体集成至Creative Cloud设计工具，支持第三方AI如OpenAI、Google等本地运行。新增Plan Mode可预审任务流程，Model Selector可指定AI模型，移动端Premiere支持离线视频剪辑。早期测试显示AI可自动处理社交媒体图片生成任务，并计划2027年初开放本地MCP集成。</p>
-<p>🔗 <a href="https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/s7upo2w01hv7t9x7yejnba8vw">https://reisen-ww.github.io/hot-pages/aihot/items/s7upo2w01hv7t9x7yejnba8vw</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">s7upo2w01hv7t9x7yejnba8vw</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Spotify AI DJ 新增多语言声音与静音选项]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/r1d5l19l774uwtn9n60sb5lfc</link>
-      <description><![CDATA[<p>Spotify AI DJ 新增多语言声音与静音选项，支持英语和西班牙语共9种个性化声音（含英国、美国、澳大利亚等口音），用户可关闭歌曲间评论。该功能已覆盖全球95个市场，超9400万Premium用户使用。访问方式：Spotify应用内搜索&apos;DJ&apos;并调整设置</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/r1d5l19l774uwtn9n60sb5lfc">https://reisen-ww.github.io/hot-pages/aihot/items/r1d5l19l774uwtn9n60sb5lfc</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">r1d5l19l774uwtn9n60sb5lfc</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google DeepMind 开放 PARDIG 和 SatWeave 数据集助力气候建模]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/uqx26axccxeyh6y42kqojx7qa</link>
-      <description><![CDATA[<p>Google DeepMind 开放 PARDIG 和 SatWeave 数据集，前者为 AI 驱动的全球降水数据集，后者为每小时更新的卫星图像数据集，后者较现有模型提升极端降水检测准确率超30%。两个数据集已通过 Google Cloud Storage 和 Earth Engine 开放，支持洪水、滑坡等灾害预警及太阳能等气候应用开发。</p>
-<p>🔗 <a href="https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/uqx26axccxeyh6y42kqojx7qa">https://reisen-ww.github.io/hot-pages/aihot/items/uqx26axccxeyh6y42kqojx7qa</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 11:13:04 GMT</pubDate>
-      <guid isPermaLink="false">uqx26axccxeyh6y42kqojx7qa</guid>
-      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
-    </item>
-    <item>
-      <title><![CDATA[新加坡航空使用 OpenAI 技术提升旅行与工作效率]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/n1p2gdn6ny2gs70wba87yzdxt</link>
-      <description><![CDATA[<p>新加坡航空使用 OpenAI 技术提升客户支持、旅行发现及员工生产力，其客户满意度（CSAT）翻倍。该方案通过 OpenAI API 实现智能客服和行程规划功能，使人工客服需求降低 30%，员工处理效率提升 25%。</p>
-<p>🔗 <a href="https://openai.com/index/singapore-airlines-travel-work">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/n1p2gdn6ny2gs70wba87yzdxt">https://reisen-ww.github.io/hot-pages/aihot/items/n1p2gdn6ny2gs70wba87yzdxt</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">n1p2gdn6ny2gs70wba87yzdxt</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic发布Claude Fable 5.2与Mythos 5.2：评测与成本分析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/aq0l5fkjhuxes3ugqfdpztphv</link>
-      <description><![CDATA[<p>Anthropic发布Claude Fable 5.2与Mythos 5.2，评测显示其在多个基准测试中排名第一（如GDPx 16.4%、HLE-Diamond 80%、AA-3D 1271 Elo），但成本较前代上涨20%至$8输入/$40输出 tokens。</p>
-<p>🔗 <a href="https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/aq0l5fkjhuxes3ugqfdpztphv">https://reisen-ww.github.io/hot-pages/aihot/items/aq0l5fkjhuxes3ugqfdpztphv</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 06:34:44 GMT</pubDate>
-      <guid isPermaLink="false">aq0l5fkjhuxes3ugqfdpztphv</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
     </item>
   </channel>
 </rss>

@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[英伟达财报发布会将回应高管丑闻、合规调查及中国业务政策调整]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e2rop5fjjjmz5v5leujw06j1l</link>
+      <description><![CDATA[<p>英伟达财报发布会将回应高管丑闻、合规调查及中国业务政策调整。Nvidia CFO Colette Kress首次独立主持财报，需说明黄仁勋持续影响力、Megaspeed芯片走私指控调查进展、新加坡收入数据异常原因，以及中美AI芯片出口政策立场变化。特别关注其是否披露芯片流向追踪机制，并回应美国国会及民主党的监管质疑。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e2rop5fjjjmz5v5leujw06j1l">https://reisen-ww.github.io/hot-pages/aihot/items/e2rop5fjjjmz5v5leujw06j1l</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 22:03:02 GMT</pubDate>
+      <guid isPermaLink="false">e2rop5fjjjmz5v5leujw06j1l</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
       <title><![CDATA[Constellation Energy 与微软、亚马逊、谷歌达成数据中心供电协议，CEO回应民主党政策影响]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/fnqwbznurd5cqdbt1tnvz4640</link>
       <description><![CDATA[<p>美国最大核电运营商Constellation Energy宣布与微软、亚马逊、谷歌签订数据中心供电协议，CEO Joe Dominguez在财报会上表示民主党可能不会阻碍数据中心建设。当前38个州通过税收优惠吸引数据中心，但核废料处理问题仍存争议。Bipartisan法案试图加速电力基础设施审批，但被批评忽视公众参与和环境影响评估。</p>
@@ -42,9 +53,20 @@
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
     <item>
-      <title><![CDATA[FBI警告Artex开源AI渗透工具遭黑客利用致多国企业数据泄露]]></title>
+      <title><![CDATA[Sam Altman谈Nvidia无黄仁勋时代：AI行业仍将运转]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/w5qatyzar9x8ghz9215cfutvj</link>
+      <description><![CDATA[<p>OpenAI CEO Sam Altman表示AI行业在Nvidia CEO黄仁勋离职后仍将运转。他提到Nvidia为OpenAI Ohio数据中心提供1050亿美元担保，并指出Nvidia作为行业巨头仍受信任。Altman认为黄仁勋的雄心推动了行业，但未认同外界对离职影响的担忧。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/w5qatyzar9x8ghz9215cfutvj">https://reisen-ww.github.io/hot-pages/aihot/items/w5qatyzar9x8ghz9215cfutvj</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Mon, 16 Nov 2026 18:11:10 GMT</pubDate>
+      <guid isPermaLink="false">w5qatyzar9x8ghz9215cfutvj</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[FBI警告Artex开源工具遭大规模网络攻击]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg</link>
-      <description><![CDATA[<p>FBI警告Artex开源AI渗透工具被黑客用于在3小时内突破企业网络防御。攻击案例包括韩国金融机构68,000人数据泄露和ConnectWise客户微软云环境入侵，黑客通过Artex扫描网络漏洞并利用弱密码等安全缺陷。开发者已将Artex转为闭源以阻止攻击，但旧版仍广泛流通。研究显示Artex系统存在未授权暴露，攻击者可借此获取渗透能力。</p>
+      <description><![CDATA[<p>FBI警告Artex开源工具被用于多国网络攻击，导致至少68,000人数据泄露及微软云环境入侵。攻击者通过Artex连接Anthropic、OpenAI等LLM实现快速渗透，利用暴露凭证和弱防护漏洞在3小时内完成系统入侵。</p>
 <p>🔗 <a href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg">https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg</a></p>]]></description>
       <category>行业动态</category>
@@ -458,50 +480,6 @@
       <pubDate>Tue, 10 Nov 2026 19:04:05 GMT</pubDate>
       <guid isPermaLink="false">tdltil9sgd4qcb35cfud11rk3</guid>
       <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic确定IPO定价区间：70至78美元/股估值达1.404万亿美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j155su82k82febhg6rh1wd84z</link>
-      <description><![CDATA[<p>Anthropic确定IPO定价区间为70至78美元/股，对应估值1.404万亿美元，较5月融资估值增长46%。与OpenAI最新估值1.25万亿美元相比，Anthropic估值仍低于此前目标的2万亿美元。公司达成26亿美元非投票股私募协议，谷歌、英伟达等7家科技巨头各投资10亿美元。预计11月19日纳斯达克上市，当前持有现金及短期投资约1320亿美元。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j155su82k82febhg6rh1wd84z">https://reisen-ww.github.io/hot-pages/aihot/items/j155su82k82febhg6rh1wd84z</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 14:01:39 GMT</pubDate>
-      <guid isPermaLink="false">j155su82k82febhg6rh1wd84z</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[八国与顶级AI实验室签署新巴黎安全声明]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ksz1cgjmsbsiybaxrowmjitsa</link>
-      <description><![CDATA[<p>八国与OpenAI、Anthropic等顶级AI实验室签署《巴黎AI安全与安全宣言》，承诺建立模型关闭机制、共享安全标准及推动儿童保护宪章。声明涵盖高能力AI模型评估流程、开发者责任及重大安全事件信息共享，但未设定执行时限或处罚措施。</p>
-<p>🔗 <a href="https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ksz1cgjmsbsiybaxrowmjitsa">https://reisen-ww.github.io/hot-pages/aihot/items/ksz1cgjmsbsiybaxrowmjitsa</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 13:37:16 GMT</pubDate>
-      <guid isPermaLink="false">ksz1cgjmsbsiybaxrowmjitsa</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face高管警告开源AI平台面临网络安全威胁]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ckb5xdbeftqbn0y5sekzxp424</link>
-      <description><![CDATA[<p>Hugging Face和GitHub近期因网络攻击事件加强安全措施，包括动态令牌管理和更严格的网络控制。攻击案例包括OpenCode API密钥被盗及OpenAI智能体入侵事件，暴露了开放社区数据集中和权限开放带来的风险。安全措施可能影响独立研究者参与度，但GitHub工程师强调可通过技术手段而非限制功能实现安全升级。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ckb5xdbeftqbn0y5sekzxp424">https://reisen-ww.github.io/hot-pages/aihot/items/ckb5xdbeftqbn0y5sekzxp424</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ckb5xdbeftqbn0y5sekzxp424</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI与Upwork联合发布自由职业市场AI影响研究报告]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/dj2dxn3r1zjw9te0ro0f8cphw</link>
-      <description><![CDATA[<p>OpenAI与Upwork联合研究显示，AI相关项目预算和工时显著增加，同时催生新型技能组合需求。研究基于双方合作数据，分析AI技术对自由职业者技能要求和市场结构的影响，为行业趋势提供实证依据。</p>
-<p>🔗 <a href="https://openai.com/index/ai-effect-on-freelance-work">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/dj2dxn3r1zjw9te0ro0f8cphw">https://reisen-ww.github.io/hot-pages/aihot/items/dj2dxn3r1zjw9te0ro0f8cphw</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">dj2dxn3r1zjw9te0ro0f8cphw</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
   </channel>
 </rss>

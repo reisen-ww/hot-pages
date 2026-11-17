@@ -1,6 +1,6 @@
-# FBI警告Artex开源AI渗透工具遭黑客利用致多国企业数据泄露
+# FBI警告Artex开源工具遭大规模网络攻击
 
-> 原标题：FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’
+> 原标题：FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’
 
 - 来源：TechCrunch · AI
 - 发布时间：2026-11-16T17:36:43.000Z
@@ -9,8 +9,8 @@
 
 ## 摘要
 
-FBI警告Artex开源AI渗透工具被黑客用于在3小时内突破企业网络防御。攻击案例包括韩国金融机构68,000人数据泄露和ConnectWise客户微软云环境入侵，黑客通过Artex扫描网络漏洞并利用弱密码等安全缺陷。开发者已将Artex转为闭源以阻止攻击，但旧版仍广泛流通。研究显示Artex系统存在未授权暴露，攻击者可借此获取渗透能力。
+FBI警告Artex开源工具被用于多国网络攻击，导致至少68,000人数据泄露及微软云环境入侵。攻击者通过Artex连接Anthropic、OpenAI等LLM实现快速渗透，利用暴露凭证和弱防护漏洞在3小时内完成系统入侵。
 
 ## 推荐理由
 
-黑客利用Artex开源AI渗透工具在3小时内突破企业网络防御，导致韩国金融机构68,000人数据泄露和ConnectWise客户微软云环境入侵，揭示AI工具滥用风险与防御难点。
+原文揭示了Artex开源工具被用于多国网络攻击的具体案例及影响，读者可从中了解AI工具滥用风险及防御漏洞。

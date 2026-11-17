@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[MyHOT 日报 · 2026-11-17 — Microsoft Research 开源插件 TokenEconomizer：通过历史会话学习降低AI编码代理成本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-17</link>
+      <description><![CDATA[<p>微软研究开源插件 TokenEconomizer，通过学习历史会话使AI编码代理平均降低18.4-30.9%的token成本，且不影响任务成功率。该插件通过微技能记录、工具剪枝和失败循环干预三种机制实现，已在六个仓库的277个真实bug修复任务中验证效果。</p>
+<p><strong>产品发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/oexmmgi0lwau0tnut99wymd12">MoEngage 如何基于 Amazon Bedrock 和 AgentCore 构建智能客户互动系统</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/i9kb88jmzi689gjsirxepr199">Duco利用Amazon Bedrock AgentCore实现金融数据处理自动化</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/yg5196pwsvj8u37xjf59nmliy">Claude 新增 HTML-in-Canvas 功能：在画布中构建交互式网站，重现 Flash 时代</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/lnr2vpvae8e5y8dy2i5x5914e">NVIDIA发布CUDA-X工具包，赋能AI智能体加速科学发现</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/blht07s2jta8osqoxwjdg8e32">NVIDIA Slurm扩展支持量子计算融入超算集群</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/wolzalgt1en1rcsm9gsg9t2sa">Microsoft Research 开源插件 TokenEconomizer：通过历史会话学习降低AI编码代理成本</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/nwxdimkjabfr1179y6pnbo9ez">Google警告：全自动化网络攻击已出现且将加速恶化</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/sivcfwv9rksooyiur4wqsm8dg">FBI警告Artex开源AI渗透工具遭黑客利用致多国企业数据泄露</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/mbab65j3wygtk3nz0i8stryg6">OpenAI 发布对抗儿童色情内容的新图像分类器与ChatGPT警告机制</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/fnqwbznurd5cqdbt1tnvz4640">Constellation Energy 与微软、亚马逊、谷歌达成数据中心供电协议，CEO回应民主党政策影响</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/bny41s6zz8yf9v06tjmilhwuu">英伟达CEO黄仁勋丑闻辞职致股价暴跌14%，牵连中国芯片供应与国会调查</a></li></ul>
+<p><strong>技巧与观点</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/wtlgbbnrl4wavxfe17mp5a1iz">AI信任机制：通过边界设定而非预测建立可信度</a></li></ul>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-17">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-17</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:32 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-17</guid>
+      <author>noreply@reisen-ww.github.io (MyHOT)</author>
+    </item>
+    <item>
       <title><![CDATA[MyHOT 日报 · 2026-11-15 — Antigravity发布/teamwork与Gemini 4协作工具，解决多项数学与工程难题]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-15</link>
       <description><![CDATA[<p>Antigravity发布新的多智能体协作工具/teamwork和(boost)，与Gemini 4模型合作解决了数学证明（如解决2013年Courtade–Kumar猜想）、量子计算、系统优化等领域多项长期未解问题，并已应用于Google生产基础设施优化。工具通过并行探索与专用验证器（如Lean 4证明器、未修改软件测试套件）自动验证解决方案，同时通过上下文分区防止多日任务中信息丢失。</p>
@@ -455,19 +470,6 @@
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-13">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-13</a></p>]]></description>
       <pubDate>Tue, 13 Oct 2026 00:00:23 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-13</guid>
-      <author>noreply@reisen-ww.github.io (MyHOT)</author>
-    </item>
-    <item>
-      <title><![CDATA[MyHOT 日报 · 2026-10-12 — Epoch AI 的 InnovationEval 发现 AI 智能体远未实现自主研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-12</link>
-      <description><![CDATA[<p>Epoch AI 通过 InnovationEval 测试 Claude Fable 5 和 GPT-5.6 Sol 独立提出、实现并改进语言模型训练方法，发现两者主要复用了已知技术，未接近人工设计的 SDPO 参考方法。</p>
-<p><strong>行业动态</strong></p>
-<ul><li><a href="https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/">arXiv因AI论文激增将投稿限制为每人每月两篇</a></li></ul>
-<p><strong>论文研究</strong></p>
-<ul><li><a href="https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/">Epoch AI 的 InnovationEval 发现 AI 智能体远未实现自主研究</a></li></ul>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-12">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-12</a></p>]]></description>
-      <pubDate>Mon, 12 Oct 2026 00:00:39 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-12</guid>
       <author>noreply@reisen-ww.github.io (MyHOT)</author>
     </item>
   </channel>

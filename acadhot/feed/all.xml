@@ -9,545 +9,530 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
-      <title><![CDATA[美联储主席沃什提出AI经济影响的三重情景推演框架]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rifqnmbbby4o6tu7x40h72bfj</link>
-      <description><![CDATA[<p>美联储主席凯文·沃什在旧金山联储活动讲话中提出AI经济影响的三重情景推演框架，包括经济增长与共享收益、经济活动增加但被大规模失业抵消、技术未达预期引发股市下跌和经济放缓三种情形。沃什强调这些情景仅为应对未知因素的政策参考，而非预测。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073060983051395?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rifqnmbbby4o6tu7x40h72bfj">https://reisen-ww.github.io/hot-pages/acadhot/items/rifqnmbbby4o6tu7x40h72bfj</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 23:38:47 GMT</pubDate>
-      <guid isPermaLink="false">rifqnmbbby4o6tu7x40h72bfj</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
+      <title><![CDATA[团队延长量子比特寿命，无需测量即纠正错误]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/brgf1rq4cpjxqvqnt8vdz94j6</link>
+      <description><![CDATA[<p>量子技术利用量子力学原理处理、存储或收集信息，但在环境干扰下易出错。研究团队通过新方法延长了量子比特的寿命，并在无需测量的情况下纠正了错误。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-team-qubit-lifetime-errors.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/brgf1rq4cpjxqvqnt8vdz94j6">https://reisen-ww.github.io/hot-pages/acadhot/items/brgf1rq4cpjxqvqnt8vdz94j6</a></p>]]></description>
+      <category>量子与物理</category>
+      <pubDate>Tue, 17 Nov 2026 14:00:11 GMT</pubDate>
+      <guid isPermaLink="false">brgf1rq4cpjxqvqnt8vdz94j6</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
     </item>
     <item>
-      <title><![CDATA[TensorWave与OpenAI签署六年协议，提供457兆瓦AMD AI算力基础设施]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ww2ashtsindo4xsdnw0rcsvut</link>
-      <description><![CDATA[<p>TensorWave宣布与OpenAI签署为期六年的协议，将在美国多个数据中心提供总计457兆瓦的AMD AI算力，采用AMD Instinct MI455X GPU，预计2027年上半年开始交付，2028年初全部部署完成。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073058071712648?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ww2ashtsindo4xsdnw0rcsvut">https://reisen-ww.github.io/hot-pages/acadhot/items/ww2ashtsindo4xsdnw0rcsvut</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:36:51 GMT</pubDate>
-      <guid isPermaLink="false">ww2ashtsindo4xsdnw0rcsvut</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
+      <title><![CDATA[南美十国航空公司研究发现创始伙伴遗留不同战略遗产]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/mbcggpymywnewlgnskg5kcyxr</link>
+      <description><![CDATA[<p>研究显示，南美10国在1919至1984年间成立的航空公司中，创始合作伙伴可能留下截然不同的战略遗产。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-airlines-countries-reveal-founding-partners.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/mbcggpymywnewlgnskg5kcyxr">https://reisen-ww.github.io/hot-pages/acadhot/items/mbcggpymywnewlgnskg5kcyxr</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 14:00:01 GMT</pubDate>
+      <guid isPermaLink="false">mbcggpymywnewlgnskg5kcyxr</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
     </item>
     <item>
-      <title><![CDATA[Corvex签署1.03亿美元英伟达Blackwell算力保底采购协议]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/gj8uohrc1a5gp462sxvqan7zo</link>
-      <description><![CDATA[<p>AI云计算公司Corvex与大型AI推理平台客户签署为期三年的1.03亿美元算力服务协议，采用“照付不议”模式。部署成本预计为7800万美元，其中客户预付款2600万美元，贷款融资3800万美元。相关设备预计于2027年第一季度投入服务，届时Corvex美国中大西洋1号数据中心的年度合同经常性收入将增至约5600万美元。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073061194699911?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/gj8uohrc1a5gp462sxvqan7zo">https://reisen-ww.github.io/hot-pages/acadhot/items/gj8uohrc1a5gp462sxvqan7zo</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:32:06 GMT</pubDate>
-      <guid isPermaLink="false">gj8uohrc1a5gp462sxvqan7zo</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
+      <title><![CDATA[新理论框架突破粒子物理对称性限制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/jyz56npb7tdr1nuvka2ss24gn</link>
+      <description><![CDATA[<p>研究提出了一种无幽灵不稳定性的新理论框架，扩展了粒子物理中对称性的可能性。该框架不受Coleman–Mandula定理及其超对称扩展Haag–Łopuszański–Sohnius定理的限制。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-theoretical-framework-free-ghostlike-instabilities.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/jyz56npb7tdr1nuvka2ss24gn">https://reisen-ww.github.io/hot-pages/acadhot/items/jyz56npb7tdr1nuvka2ss24gn</a></p>]]></description>
+      <category>量子与物理</category>
+      <pubDate>Tue, 17 Nov 2026 13:40:06 GMT</pubDate>
+      <guid isPermaLink="false">jyz56npb7tdr1nuvka2ss24gn</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
     </item>
     <item>
-      <title><![CDATA[OpenAI曾洽谈以超50亿美元收购解析AI思考机制的初创公司]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/c5k94sgzeftdjvv1lcnav0fzt</link>
-      <description><![CDATA[<p>知情人士透露OpenAI今年夏天与Goodfire就收购达成多次会谈，拟支付超50亿美元（Goodfire 2月融资估值为12.5亿美元），该初创公司技术聚焦解析AI模型行为机制及失控防范。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073050840732548?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/c5k94sgzeftdjvv1lcnav0fzt">https://reisen-ww.github.io/hot-pages/acadhot/items/c5k94sgzeftdjvv1lcnav0fzt</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:28:30 GMT</pubDate>
-      <guid isPermaLink="false">c5k94sgzeftdjvv1lcnav0fzt</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[AI等硬科技企业密集赴港上市，商业化能力成估值关键]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/oit986bldnvc0aop6bdouaaa2</link>
-      <description><![CDATA[<p>随着港交所18C特专科技机制落地，一批大模型、AI算力芯片、自动驾驶、机器人等硬科技企业赴港上市，市场呈现冷热分化。具备稳定订单和标准化产品的标的更容易获得溢价，而纯概念、收入单薄、持续大额烧钱的标的估值承压。港股正迎来对商业化能力、现金流和客户结构的严格检验。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073055644160905?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oit986bldnvc0aop6bdouaaa2">https://reisen-ww.github.io/hot-pages/acadhot/items/oit986bldnvc0aop6bdouaaa2</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:26:27 GMT</pubDate>
-      <guid isPermaLink="false">oit986bldnvc0aop6bdouaaa2</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[SAP完成对TechWolf的收购，整合其AI技术至SuccessFactors]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/e2egxz9vkb8zm9hp9wuwzigyy</link>
-      <description><![CDATA[<p>SAP宣布已完成对TechWolf的收购，将后者的工作上下文图谱技术整合至SuccessFactors产品组合，旨在提高Token使用效率，降低劳动力智能体的部署成本，并增强AI在人力资源场景中的应用能力。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073048166290560?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/e2egxz9vkb8zm9hp9wuwzigyy">https://reisen-ww.github.io/hot-pages/acadhot/items/e2egxz9vkb8zm9hp9wuwzigyy</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:24:47 GMT</pubDate>
-      <guid isPermaLink="false">e2egxz9vkb8zm9hp9wuwzigyy</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 扩大面向学术研究人员的 ChatGPT 计划]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/bdlcefuajnbygn4mviaf4keuz</link>
-      <description><![CDATA[<p>OpenAI 将为全球最多 20 万名研究人员提供免费使用 ChatGPT 的权限，新一轮申请将于 11 月 23 日开放。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073042371286153?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/bdlcefuajnbygn4mviaf4keuz">https://reisen-ww.github.io/hot-pages/acadhot/items/bdlcefuajnbygn4mviaf4keuz</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:20:51 GMT</pubDate>
-      <guid isPermaLink="false">bdlcefuajnbygn4mviaf4keuz</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[梦想号大洋钻探船完成海试刷新国际纪录]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rd2lbblrz7bdeu26u9tlorlve</link>
-      <description><![CDATA[<p>梦想号大洋钻探船近日完成开路泥浆循环系统海试，刷新国际最大作业水深纪录。该船具备11000米钻探能力，已成功应用4种钻探模式，完成9个航次任务。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073040509637511?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rd2lbblrz7bdeu26u9tlorlve">https://reisen-ww.github.io/hot-pages/acadhot/items/rd2lbblrz7bdeu26u9tlorlve</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 23:18:00 GMT</pubDate>
-      <guid isPermaLink="false">rd2lbblrz7bdeu26u9tlorlve</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[谷歌云公布第七代Ironwood TPU测试结果]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/nm31t2yzqo8lbcqeelqw5u3tc</link>
-      <description><![CDATA[<p>谷歌云展示了第七代Ironwood TPU在前沿预训练及智能体强化学习方面的10项测试结果。在智能体强化学习中，640块Ironwood TPU在18.02分钟内达到目标模型基准准确率，训练芯片等待时间低于3%。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073043468178307?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/nm31t2yzqo8lbcqeelqw5u3tc">https://reisen-ww.github.io/hot-pages/acadhot/items/nm31t2yzqo8lbcqeelqw5u3tc</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:14:04 GMT</pubDate>
-      <guid isPermaLink="false">nm31t2yzqo8lbcqeelqw5u3tc</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[戴尔升级AI工厂平台，推出数据编排及基础设施管理新工具]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/yg8d3q6mq3muij99lty6ueany</link>
-      <description><![CDATA[<p>戴尔科技宣布升级与英伟达合作的Dell AI Factory平台，推出Agentic Data Gateway和OpenManage Rack Scale等新功能，帮助企业将AI应用规模化生产。目前已有超过6500家客户使用该平台，部分升级功能将于2026年12月推出。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073033653097350?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/yg8d3q6mq3muij99lty6ueany">https://reisen-ww.github.io/hot-pages/acadhot/items/yg8d3q6mq3muij99lty6ueany</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:10:00 GMT</pubDate>
-      <guid isPermaLink="false">yg8d3q6mq3muij99lty6ueany</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[英伟达推出面向高性能计算的Vera CPU机架级平台]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/xhf7a7nn4ro0roa0k5ad2c9st</link>
-      <description><![CDATA[<p>英伟达推出Vera CPU机架级平台，提升智能体科学性能，能效比x86 CPU提高一倍。该平台将由戴尔科技、HPE、联想和Supermicro提供。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073032184157060?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/xhf7a7nn4ro0roa0k5ad2c9st">https://reisen-ww.github.io/hot-pages/acadhot/items/xhf7a7nn4ro0roa0k5ad2c9st</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 23:08:31 GMT</pubDate>
-      <guid isPermaLink="false">xhf7a7nn4ro0roa0k5ad2c9st</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[AMD完成对World Labs的收购，李飞飞出任执行副总裁兼首席科学家]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/hpg723gnbov7a8m11m1guw1xj</link>
-      <description><![CDATA[<p>AMD宣布完成对AI研究公司World Labs的收购，以增强其在AI模型领域的研发能力。World Labs创始人李飞飞加入AMD，担任执行副总裁兼首席科学家，直接向AMD董事长兼首席执行官苏姿丰汇报。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073035851912068?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/hpg723gnbov7a8m11m1guw1xj">https://reisen-ww.github.io/hot-pages/acadhot/items/hpg723gnbov7a8m11m1guw1xj</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 23:06:19 GMT</pubDate>
-      <guid isPermaLink="false">hpg723gnbov7a8m11m1guw1xj</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[黑石数字基础设施信托收购亚马逊数据中心资产包]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/lwxfcy8c3itclz48y2kyfvhyh</link>
-      <description><![CDATA[<p>黑石数字基础设施信托以约50亿美元收购亚马逊一处数据中心资产包75%的股权，涉及13座新建机房壳体，租期最长可达32年。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073033941914753?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/lwxfcy8c3itclz48y2kyfvhyh">https://reisen-ww.github.io/hot-pages/acadhot/items/lwxfcy8c3itclz48y2kyfvhyh</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 23:04:23 GMT</pubDate>
-      <guid isPermaLink="false">lwxfcy8c3itclz48y2kyfvhyh</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[美股三大指数集体收跌，大型科技股集体走弱]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/q5rp4wdj8dg2mpqa6dwte2q8m</link>
-      <description><![CDATA[<p>美股三大指数集体下跌，纳指跌2.49%，标普500跌1.92%，道指跌1.41%；大型科技股普遍下跌，Lumentum跌8.1%，美光科技、英特尔跌超7%，英伟达、谷歌跌超4%，苹果小幅下跌。</p>
-<p>🔗 <a href="https://36kr.com/newsflashes/4073022035284865?f=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/q5rp4wdj8dg2mpqa6dwte2q8m">https://reisen-ww.github.io/hot-pages/acadhot/items/q5rp4wdj8dg2mpqa6dwte2q8m</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 23:00:00 GMT</pubDate>
-      <guid isPermaLink="false">q5rp4wdj8dg2mpqa6dwte2q8m</guid>
-      <author>noreply@reisen-ww.github.io (36氪)</author>
-    </item>
-    <item>
-      <title><![CDATA[AriBio 的 ED 药物重新用于治疗阿尔茨海默病效果平平]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/k9njzkyo5b6j5n5v2ztohnxoy</link>
-      <description><![CDATA[<p>AriBio 公司将用于治疗勃起功能障碍的药物重新用于治疗阿尔茨海默病的研究结果较为平淡，未显示出显著疗效。</p>
-<p>🔗 <a href="https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/k9njzkyo5b6j5n5v2ztohnxoy">https://reisen-ww.github.io/hot-pages/acadhot/items/k9njzkyo5b6j5n5v2ztohnxoy</a></p>]]></description>
+      <title><![CDATA[NIH 的传染病单位终于有了新主任]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/k9u29jh850h06zma2jsnvy51i</link>
+      <description><![CDATA[<p>NIH 的传染病单位自 2025 年以来一直空缺，现在由约翰·波尔斯三世接任。波尔斯曾担任该机构的代理主任，并在一篇论文中建议 NIAID 应从专注于 HIV 和大流行病准备转向更广泛的传染病和免疫学领域。</p>
+<p>🔗 <a href="https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/k9u29jh850h06zma2jsnvy51i">https://reisen-ww.github.io/hot-pages/acadhot/items/k9u29jh850h06zma2jsnvy51i</a></p>]]></description>
       <category>临床医学</category>
-      <pubDate>Mon, 16 Nov 2026 22:22:47 GMT</pubDate>
-      <guid isPermaLink="false">k9njzkyo5b6j5n5v2ztohnxoy</guid>
-      <author>noreply@reisen-ww.github.io (Endpoints News)</author>
-    </item>
-    <item>
-      <title><![CDATA[大学应承担气候债务并支持社区自主研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/pa0n5nrk1speo2yus48p87e5n</link>
-      <description><![CDATA[<p>在 COP31 上，各国讨论了气候损害赔偿资金问题，发达国家如加拿大和美国的承诺远低于所需。大学在碳密集型经济发展中扮演了重要角色，应对其气候债务负责，通过社区主导的研究支持适应气候变化。 Tremembé da Barra do Mundaú 印第安社区正在制定环境管理计划，旨在保护传统知识和实践，确保未来世代的生活质量。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-universities-communities-climate.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/pa0n5nrk1speo2yus48p87e5n">https://reisen-ww.github.io/hot-pages/acadhot/items/pa0n5nrk1speo2yus48p87e5n</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 21:40:06 GMT</pubDate>
-      <guid isPermaLink="false">pa0n5nrk1speo2yus48p87e5n</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[UCLA Samueli 工程学院与奥本大学在超薄半导体中首次观测量子自旋与声学振动关联]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/cfxhn7toli63o47mudxgvai20</link>
-      <description><![CDATA[<p>美国加州大学洛杉矶分校（UCLA）与奥本大学的研究团队首次在超薄半导体中观测到量子自旋与热声振动之间的关联。实验通过原子振动测量技术，证实了量子自旋特性对声学振动模式的调控作用，相关成果可能推动量子计算器件的小型化与高效化发展。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-reveal-link-quantum-vibrations-ultrathin.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/cfxhn7toli63o47mudxgvai20">https://reisen-ww.github.io/hot-pages/acadhot/items/cfxhn7toli63o47mudxgvai20</a></p>]]></description>
-      <category>量子与物理</category>
-      <pubDate>Mon, 16 Nov 2026 21:40:01 GMT</pubDate>
-      <guid isPermaLink="false">cfxhn7toli63o47mudxgvai20</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[南非面临超级厄尔尼诺影响，牧草作物播种时间至关重要]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/cohi99eo6rdkyimd2yry85m6i</link>
-      <description><![CDATA[<p>南非将面临因超级厄尔尼诺现象导致的潜在困难夏季，全球天气模式受影响，带来极端天气。世界气象组织预计厄尔尼诺现象将在2026年底加强，影响可能持续至2027年初。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-super-el-nio-south-africa.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/cohi99eo6rdkyimd2yry85m6i">https://reisen-ww.github.io/hot-pages/acadhot/items/cohi99eo6rdkyimd2yry85m6i</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 21:30:01 GMT</pubDate>
-      <guid isPermaLink="false">cohi99eo6rdkyimd2yry85m6i</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[湿润气候助力玉米向墨西哥高地传播与杂交]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/edrqm12a3kwohrvj7ov10jgoh</link>
-      <description><![CDATA[<p>研究表明，约9000年前，玉米在墨西哥低地被驯化，随后约3000年才传播到高地。最新研究发现，湿润气候促进了玉米向墨西哥高地的传播与杂交，几乎所有现代玉米都源自低地与高地玉米的杂交品种。通过对墨西哥中部山谷中出土的动物骨骼进行分析，研究人员确认了这一时期气候条件有利于玉米生长。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-climate-corn-mexican-highlands-crossbreed.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/edrqm12a3kwohrvj7ov10jgoh">https://reisen-ww.github.io/hot-pages/acadhot/items/edrqm12a3kwohrvj7ov10jgoh</a></p>]]></description>
-      <category>生命科学</category>
-      <pubDate>Mon, 16 Nov 2026 21:20:07 GMT</pubDate>
-      <guid isPermaLink="false">edrqm12a3kwohrvj7ov10jgoh</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[AI工具的错误检查成为工作负担]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/h9er30j2mlo31hcfb9hv9ibot</link>
-      <description><![CDATA[<p>使用AI工具进行行程和简报的起草后，一位执行助理发现需要花费额外时间检查不准确和偏见问题，这已成为工作流程中的瓶颈。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-ai-mental-burden-productivity.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/h9er30j2mlo31hcfb9hv9ibot">https://reisen-ww.github.io/hot-pages/acadhot/items/h9er30j2mlo31hcfb9hv9ibot</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 21:00:07 GMT</pubDate>
-      <guid isPermaLink="false">h9er30j2mlo31hcfb9hv9ibot</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[马丁·路德大学与马克斯·普朗克研究所发现抗铁磁材料中界面层干扰问题]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/k0mgh75jgw0uks35ihsry06rn</link>
-      <description><![CDATA[<p>马丁·路德大学与马克斯·普朗克研究所团队在抗铁磁材料中发现界面层干扰现象，并通过调整制备工艺解决了测量误差问题。研究使用超短激光脉冲在铂/镍铁合金与Mn3Sn层间测量电信号，发现未预处理的界面层会形成新铁磁化合物导致信号失真。改进后制备工艺使材料性能测量效率达铂基的10%，为开发超快电子器件提供了新路径。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-chiral-electronics-disruptive-interlayer-material.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/k0mgh75jgw0uks35ihsry06rn">https://reisen-ww.github.io/hot-pages/acadhot/items/k0mgh75jgw0uks35ihsry06rn</a></p>]]></description>
-      <category>量子与物理</category>
-      <pubDate>Mon, 16 Nov 2026 21:00:01 GMT</pubDate>
-      <guid isPermaLink="false">k0mgh75jgw0uks35ihsry06rn</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[瑞士罗氏公司新型乳腺癌药物获FDA批准，为特定患者提供新治疗选择]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/awi2ufk5nyqvdvlqkm2vmngmr</link>
-      <description><![CDATA[<p>瑞士罗氏公司口服选择性雌激素受体降解剂（SERD）giredestrant获FDA批准，用于HR阳性、HER2阴性且携带ESR1基因突变的晚期乳腺癌患者。该药物基于evERA临床试验结果，为这类患者提供了新的治疗选择。</p>
-<p>🔗 <a href="https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/awi2ufk5nyqvdvlqkm2vmngmr">https://reisen-ww.github.io/hot-pages/acadhot/items/awi2ufk5nyqvdvlqkm2vmngmr</a></p>]]></description>
-      <category>药物与疗法</category>
-      <pubDate>Mon, 16 Nov 2026 20:56:47 GMT</pubDate>
-      <guid isPermaLink="false">awi2ufk5nyqvdvlqkm2vmngmr</guid>
+      <pubDate>Tue, 17 Nov 2026 13:27:01 GMT</pubDate>
+      <guid isPermaLink="false">k9u29jh850h06zma2jsnvy51i</guid>
       <author>noreply@reisen-ww.github.io (STAT News)</author>
     </item>
     <item>
-      <title><![CDATA[两个转录因子再现EB病毒蛋白的抗肿瘤免疫效应]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/pbj8mm3fiss4tgfm7ikmyq9qo</link>
-      <description><![CDATA[<p>研究人员发现，EB病毒蛋白LMP1可通过激活Spi-B和IRF1转录因子增强肿瘤细胞的免疫原性，无需使用病毒蛋白本身。在小鼠实验中，表达Spi-B和IRF1显著增强了CD8+ T细胞反应并抑制了肿瘤生长。这一发现可能为增强免疫系统识别和激活T细胞提供新策略。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-transcription-factors-beneficial-side-jekyll.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/pbj8mm3fiss4tgfm7ikmyq9qo">https://reisen-ww.github.io/hot-pages/acadhot/items/pbj8mm3fiss4tgfm7ikmyq9qo</a></p>]]></description>
-      <category>药物与疗法</category>
-      <pubDate>Mon, 16 Nov 2026 20:40:04 GMT</pubDate>
-      <guid isPermaLink="false">pbj8mm3fiss4tgfm7ikmyq9qo</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[年度水质报告未能全面揭示饮用水中的秘密污染物]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/gz9j7o0kseuezoz836duw1giu</link>
-      <description><![CDATA[<p>年度水质报告通常仅列出可能存在于水中的化合物，并总结检测结果是否符合政府标准，但未能涵盖所有可检测的污染物及其健康影响。研究发现，如PFAS（“永久化学物质”）等污染物对人体健康有长期影响，而这些信息未在报告中体现。水处理过程中形成的消毒副产物也是潜在的致癌物质，需进一步处理才能安全饮用。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-annual-waterquality-dont-full-story.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/gz9j7o0kseuezoz836duw1giu">https://reisen-ww.github.io/hot-pages/acadhot/items/gz9j7o0kseuezoz836duw1giu</a></p>]]></description>
+      <title><![CDATA[学校禁止手机是否有助于学生学习？目前效果有限]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/m9txky2lfdbbco1194dpfdatw</link>
+      <description><![CDATA[<p>禁止学校使用手机的论点是减少干扰，使学生能够专注于课堂并提高学习效果。然而，目前的研究显示，这种做法带来的提升是“适度的”。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-school-students-gains-modest.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/m9txky2lfdbbco1194dpfdatw">https://reisen-ww.github.io/hot-pages/acadhot/items/m9txky2lfdbbco1194dpfdatw</a></p>]]></description>
       <category>临床医学</category>
-      <pubDate>Mon, 16 Nov 2026 20:40:01 GMT</pubDate>
-      <guid isPermaLink="false">gz9j7o0kseuezoz836duw1giu</guid>
+      <pubDate>Tue, 17 Nov 2026 13:20:01 GMT</pubDate>
+      <guid isPermaLink="false">m9txky2lfdbbco1194dpfdatw</guid>
       <author>noreply@reisen-ww.github.io (Phys.org)</author>
     </item>
     <item>
-      <title><![CDATA[中国科学院新疆生态与地理研究所揭示超干旱地区植树造林中根系与菌丝体的碳动态作用]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/pxpzqoywud3lz56sn2buw6zuq</link>
-      <description><![CDATA[<p>中国科学院新疆生态与地理研究所（XIEG）在《新植物学家》发表研究，揭示超干旱地区植树造林中，根系主导土壤有机碳积累（贡献77.19%-85.05%），菌丝体通过分解与稳定碳的平衡作用（净损失0.03-0.08 g kg⁻¹ yr⁻¹）。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-root-mycelium-pathways-soil-carbon.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/pxpzqoywud3lz56sn2buw6zuq">https://reisen-ww.github.io/hot-pages/acadhot/items/pxpzqoywud3lz56sn2buw6zuq</a></p>]]></description>
-      <category>生命科学</category>
-      <pubDate>Mon, 16 Nov 2026 20:30:01 GMT</pubDate>
-      <guid isPermaLink="false">pxpzqoywud3lz56sn2buw6zuq</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[宾夕法尼亚大学研究团队在Environmental Science & Technology发表 wildfire smoke 污染叠加效应研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/m0bneteb7p1thkur1oybc2i89</link>
-      <description><![CDATA[<p>宾夕法尼亚大学研究团队发现PM2.5与臭氧叠加污染风险在美东地区显著上升，研究覆盖2004-2023年数据，揭示2012、2018、2021、2023为全国污染物叠加峰值年。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-combined-pollutants-wildfire-exacerbate-health.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/m0bneteb7p1thkur1oybc2i89">https://reisen-ww.github.io/hot-pages/acadhot/items/m0bneteb7p1thkur1oybc2i89</a></p>]]></description>
-      <category>临床医学</category>
-      <pubDate>Mon, 16 Nov 2026 20:20:02 GMT</pubDate>
-      <guid isPermaLink="false">m0bneteb7p1thkur1oybc2i89</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[图宾根大学与马克斯·普朗克研究所联合发表：技术进步未必提升生活标准]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/zc0gllcs8m6tn16g1ayggnrbh</link>
-      <description><![CDATA[<p>该研究基于18,457具欧亚大陆骸骨（覆盖45国），通过股骨长度估算身高变化，发现技术进步与生活标准无必然关联。例如中国11世纪引入高产水稻技术，虽维持帝国主导地位，但人口密度增加导致人均蛋白质摄入下降，身高反而降低至19世纪1.48米（女性）和1.60米（男性）。研究同时指出，欧洲和亚洲部分地区中世纪后身高出现下降趋势，可能与农业模式变化相关。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/zc0gllcs8m6tn16g1ayggnrbh">https://reisen-ww.github.io/hot-pages/acadhot/items/zc0gllcs8m6tn16g1ayggnrbh</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 20:00:26 GMT</pubDate>
-      <guid isPermaLink="false">zc0gllcs8m6tn16g1ayggnrbh</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[如何通过沙丘揭示行星风速的秘密]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/kt58nag0kmtiptf3pwfvbr6kq</link>
-      <description><![CDATA[<p>Stanford大学研究人员发现，地球和火星上的沙丘形成速度主要取决于沙粒大小，从而推断出风速。这项研究发表在《美国国家科学院院刊》上。通过分析全球24个不同形状、大小和位置的沙丘场的数据，研究人员证明了沙丘形成风速与沙粒大小密切相关，这一发现适用于现代和古代沙丘。该研究将帮助科学家更好地重建地球和火星上不同时期的风速和气候，验证古大气循环模型。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-written-sand-dunes-reveal-secrets.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/kt58nag0kmtiptf3pwfvbr6kq">https://reisen-ww.github.io/hot-pages/acadhot/items/kt58nag0kmtiptf3pwfvbr6kq</a></p>]]></description>
-      <category>量子与物理</category>
-      <pubDate>Mon, 16 Nov 2026 20:00:23 GMT</pubDate>
-      <guid isPermaLink="false">kt58nag0kmtiptf3pwfvbr6kq</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[某研究团队在 PNAS 发表木鸮演化的跨洋扩散与岛屿灭绝研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/oyc92n1wqu4bj8fy7bv595iuf</link>
-      <description><![CDATA[<p>某研究团队通过 DNA 测序发现木鸮和 snipe 的跨洋扩散及岛屿灭绝导致多样性形成。研究利用 Field Museum 收藏标本的皮肤组织样本测序，构建了该类群家谱，确认海地化石为 snipe 而非木鸮。该成果为岛屿生态保护提供了分子证据，揭示气候变迁对候鸟栖息地的影响机制。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-woodcocks-evolved-weird-cousins-family.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oyc92n1wqu4bj8fy7bv595iuf">https://reisen-ww.github.io/hot-pages/acadhot/items/oyc92n1wqu4bj8fy7bv595iuf</a></p>]]></description>
-      <category>生命科学</category>
-      <pubDate>Mon, 16 Nov 2026 20:00:14 GMT</pubDate>
-      <guid isPermaLink="false">oyc92n1wqu4bj8fy7bv595iuf</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[不同听众对同一类型或年代音乐的记忆相似]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/p23cksawf2uk10ymc2xq6p1ox</link>
-      <description><![CDATA[<p>研究人员在《美国国家科学院院刊》上发表的研究显示，不同听众对同一类型或年代音乐的记忆相似，且这些记忆随音乐类型和年代而变化。普林斯顿大学的研究团队播放了流行、乡村和嘻哈音乐的30秒片段，并分析了参与者描述的记忆，发现同一类型或年代的音乐能唤起相似的记忆。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-songs-genre-era-evoke-similar.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/p23cksawf2uk10ymc2xq6p1ox">https://reisen-ww.github.io/hot-pages/acadhot/items/p23cksawf2uk10ymc2xq6p1ox</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 20:00:11 GMT</pubDate>
-      <guid isPermaLink="false">p23cksawf2uk10ymc2xq6p1ox</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[某研究团队在arXiv发表利用月食阴影与太阳能板电压导航深空论文]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/l92fa163vo2gvi2i82rak9r0x</link>
-      <description><![CDATA[<p>某研究团队提出利用月食阴影和太阳能板电压变化实现深空导航，误差控制在15秒内。方法基于22,000条历史月食数据建立地球阴影映射模型，并通过CAPSTONE任务实测验证。该技术无需额外硬件（zero-SWaP），可为深空任务提供低成本导航备选方案。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-lunar-orbit-shadows-power-meter.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/l92fa163vo2gvi2i82rak9r0x">https://reisen-ww.github.io/hot-pages/acadhot/items/l92fa163vo2gvi2i82rak9r0x</a></p>]]></description>
+      <title><![CDATA[MIT Technology Review：探索认知永生的圆桌讨论]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ls6pwfhizskyf7z8wtyez75v1</link>
+      <description><![CDATA[<p>今天，麻省理工科技评论将举办一场关于认知永生的圆桌讨论，探讨突破人类大脑限制的前沿技术，包括逐步大脑替换和记忆上传云端等方法。研究人员认为，实现认知永生可能已经接近现实。</p>
+<p>🔗 <a href="https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ls6pwfhizskyf7z8wtyez75v1">https://reisen-ww.github.io/hot-pages/acadhot/items/ls6pwfhizskyf7z8wtyez75v1</a></p>]]></description>
       <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 20:00:01 GMT</pubDate>
-      <guid isPermaLink="false">l92fa163vo2gvi2i82rak9r0x</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[美国联邦法官F. Dennis Saylor IV裁定禁止缩短外国学生签证期限]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/mkcgtvfftcw2klmiyj9k3smv3</link>
-      <description><![CDATA[<p>美国联邦法官F. Dennis Saylor IV于2026年11月16日发布终审判决，裁定禁止缩短外国研究生和博士后学者签证期限的政策。该法官此前已在政策生效前一日暂缓执行该规定。判决指出原政策缺乏法律依据，违反行政程序。该裁决可能缓解美国高校对国际人才吸引力下降的担忧，但政府仍可提出上诉。</p>
-<p>🔗 <a href="https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/mkcgtvfftcw2klmiyj9k3smv3">https://reisen-ww.github.io/hot-pages/acadhot/items/mkcgtvfftcw2klmiyj9k3smv3</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 19:59:14 GMT</pubDate>
-      <guid isPermaLink="false">mkcgtvfftcw2klmiyj9k3smv3</guid>
-      <author>noreply@reisen-ww.github.io (STAT News)</author>
-    </item>
-    <item>
-      <title><![CDATA[路易斯维尔大学研究揭示免疫细胞吞噬阿米巴原虫能力]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ikt3j86vy8uos4w15sa02gofu</link>
-      <description><![CDATA[<p>路易斯维尔大学研究团队发现人类巨噬细胞和中性粒细胞能有效吞噬两种阿米巴原虫（Acanthamoeba polyphaga和Vermamoeba vermiformis），并揭示Entamoeba histolytica通过‘接吻并逃跑’策略逃避免疫攻击。研究采用扫描电镜观察细胞吞噬过程，发表于mBio期刊（DOI:10.1128/mbio.02294-26）。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-reveals-immune-cells-ability-engulf.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ikt3j86vy8uos4w15sa02gofu">https://reisen-ww.github.io/hot-pages/acadhot/items/ikt3j86vy8uos4w15sa02gofu</a></p>]]></description>
-      <category>生命科学</category>
-      <pubDate>Mon, 16 Nov 2026 19:40:16 GMT</pubDate>
-      <guid isPermaLink="false">ikt3j86vy8uos4w15sa02gofu</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[KRICT与KOREATECH合作发表：AI与实验揭示废塑料裂解油中杂质抑制催化性能的机制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/girf7n6hn54vzeg9ya153r3tv</link>
-      <description><![CDATA[<p>韩国科研团队在ACS Catalysis发表研究，通过实验与AI计算化学揭示废塑料裂解油中氮杂质显著抑制催化性能。研究发现特定氮化合物（如2-甲基吡啶）会占据催化剂活性位点，导致轻质烯烃产量下降，而硫、氯、氧杂质影响较小。研究还表明催化剂再生可有效恢复性能，并建议根据原料杂质类型优化预处理工艺和反应条件，为废塑料回收工业化提供理论支撑。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/girf7n6hn54vzeg9ya153r3tv">https://reisen-ww.github.io/hot-pages/acadhot/items/girf7n6hn54vzeg9ya153r3tv</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 19:40:07 GMT</pubDate>
-      <guid isPermaLink="false">girf7n6hn54vzeg9ya153r3tv</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[Skoltech 团队首次直接观测光子自旋霍尔效应，推动纳米光子学与先进雷达/激光雷达发展]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ratgrbhicm264xvy5pc8300l5</link>
-      <description><![CDATA[<p>Skoltech 研究团队首次直接观测到光子自旋霍尔效应，使用微波辐射的陶瓷颗粒验证了其可扩展性。该成果为纳米光子学技术、高精度雷达/激光雷达系统及光控纳米天线开发提供了新路径。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ratgrbhicm264xvy5pc8300l5">https://reisen-ww.github.io/hot-pages/acadhot/items/ratgrbhicm264xvy5pc8300l5</a></p>]]></description>
-      <category>量子与物理</category>
-      <pubDate>Mon, 16 Nov 2026 19:20:05 GMT</pubDate>
-      <guid isPermaLink="false">ratgrbhicm264xvy5pc8300l5</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[AstraZeneca 和 Alexion 的重症肌无力治疗药物 Klygefa 获 FDA 批准]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/i1k7k7ksesapjoy0h2ptxhf80</link>
-      <description><![CDATA[<p>AstraZeneca 和 Alexion 的重症肌无力治疗药物 Klygefa（gefurulimab）获 FDA 批准，作为每周一次的自我注射药物进入市场。</p>
-<p>🔗 <a href="https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/i1k7k7ksesapjoy0h2ptxhf80">https://reisen-ww.github.io/hot-pages/acadhot/items/i1k7k7ksesapjoy0h2ptxhf80</a></p>]]></description>
-      <category>药物与疗法</category>
-      <pubDate>Mon, 16 Nov 2026 19:17:34 GMT</pubDate>
-      <guid isPermaLink="false">i1k7k7ksesapjoy0h2ptxhf80</guid>
-      <author>noreply@reisen-ww.github.io (Endpoints News)</author>
-    </item>
-    <item>
-      <title><![CDATA[摩根ing是今年的年度词汇——男性自古以来一直在做这件事]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ktkm0h3dd5ztrsllm1jnwq9q1</link>
-      <description><![CDATA[<p>Collins English Dictionary 将“摩根ing”选为 2026 年的年度词汇，该词最初源于“群体中的阿尔法男”（AMOG）的缩写，但现已进入主流语言，意指超越或压过他人。新研究发现，男性试图展示优越性的行为可追溯至莎士比亚时代，当时人们通过行动和举止来彰显自己的地位。研究发表在《英语文学复兴》期刊上，展示了早期现代男性如何通过姿态和步伐展示文化资本。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-mogging-word-year-men-shakespearean.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ktkm0h3dd5ztrsllm1jnwq9q1">https://reisen-ww.github.io/hot-pages/acadhot/items/ktkm0h3dd5ztrsllm1jnwq9q1</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 19:00:01 GMT</pubDate>
-      <guid isPermaLink="false">ktkm0h3dd5ztrsllm1jnwq9q1</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[FDA 创建新监管类别为 NAC 补充剂正名]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/bhjmrjengem1mjh19tf4wehj2</link>
-      <description><![CDATA[<p>FDA 提出将 N-acetyl-L-cysteine (NAC) 列为“膳食成分不被排除在膳食补充剂定义之外”的新分类，使其正式成为补充剂，解决了其长期存在的法律模糊地带。此前，NAC 已被 FDA 批准为药物，导致其无法归类为补充剂。</p>
-<p>🔗 <a href="https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/bhjmrjengem1mjh19tf4wehj2">https://reisen-ww.github.io/hot-pages/acadhot/items/bhjmrjengem1mjh19tf4wehj2</a></p>]]></description>
-      <category>药物与疗法</category>
-      <pubDate>Mon, 16 Nov 2026 18:54:06 GMT</pubDate>
-      <guid isPermaLink="false">bhjmrjengem1mjh19tf4wehj2</guid>
-      <author>noreply@reisen-ww.github.io (STAT News)</author>
-    </item>
-    <item>
-      <title><![CDATA[亚速尔火山柱可能形成大西洋多个火山链]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/z8yl0pftsgs11k63dli3mmaw9</link>
-      <description><![CDATA[<p>中国地震局 Liu 等在 Science Advances 发表研究，提出亚速尔火山柱可能形成大西洋多个火山链。通过模拟地球地幔热物质流动，发现该火山柱在7千万年前转向西北方向，与板块运动结合导致不同海域形成火山链。研究重新诠释了热点带形成机制，并揭示远洋板块（如法拉利安板块）下沉产生的压力差是改变火山柱流向的关键因素。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-plume-atlantic-volcanic-chains.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/z8yl0pftsgs11k63dli3mmaw9">https://reisen-ww.github.io/hot-pages/acadhot/items/z8yl0pftsgs11k63dli3mmaw9</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 18:50:01 GMT</pubDate>
-      <guid isPermaLink="false">z8yl0pftsgs11k63dli3mmaw9</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[北大西洋露脊鲸种群数量下降至382头，引发科学家担忧]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/uvmx2z2ohcd2jbgnvrik7qdlo</link>
-      <description><![CDATA[<p>某研究团队发布数据显示，北大西洋露脊鲸种群数量较去年下降2%，降至382头。科学家指出海洋变暖导致食物链迁移，叠加捕捞和船舶碰撞威胁，种群恢复困难。NOAA数据显示近九年该物种受伤死亡数量创纪录，目前仅存73头育龄雌鲸，种群再生面临挑战。环保组织Oceana反对推迟2035年新保护政策，认为最新数据凸显亟需减少人为威胁。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-rare-north-atlantic-whale-population.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/uvmx2z2ohcd2jbgnvrik7qdlo">https://reisen-ww.github.io/hot-pages/acadhot/items/uvmx2z2ohcd2jbgnvrik7qdlo</a></p>]]></description>
-      <category>临床医学</category>
-      <pubDate>Mon, 16 Nov 2026 18:49:55 GMT</pubDate>
-      <guid isPermaLink="false">uvmx2z2ohcd2jbgnvrik7qdlo</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[保护公园外的森林有助于保护鸟类]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/xwg9kgob71h3va4xne16w18x2</link>
-      <description><![CDATA[<p>一项发表在《景观生态学》期刊上的研究发现，保护北美鸟类的关键不仅在于国家公园内的森林质量，更在于公园周边的森林状况。研究团队分析了2006年至2023年间美国东北部八个公园的鸟类监测数据，发现公园外的大片成熟森林和开阔的林下植被对多种鸟类的栖息更为重要。研究强调，保护公园周边的自然环境同样关键。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-forests-benefits-birds.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/xwg9kgob71h3va4xne16w18x2">https://reisen-ww.github.io/hot-pages/acadhot/items/xwg9kgob71h3va4xne16w18x2</a></p>]]></description>
-      <category>临床医学</category>
-      <pubDate>Mon, 16 Nov 2026 18:40:23 GMT</pubDate>
-      <guid isPermaLink="false">xwg9kgob71h3va4xne16w18x2</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[城市乌鸦与乡村乌鸦看待世界的方式不同]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/o7lu3coa7bq20s6x1vug39lsb</link>
-      <description><![CDATA[<p>一项新研究发现，城市乌鸦比乡村乌鸦更害怕新事物。在纽约伊萨卡及其周边地区的城市与乡村乌鸦家庭中进行的实验表明，城市乌鸦对新物体表现出更大的畏怯，而乡村乌鸦则对人类更为警惕。研究还揭示，乌鸦的社交行为和适应策略有助于它们在城市环境中寻找有用的信息。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-city-crows-country-dont-world.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/o7lu3coa7bq20s6x1vug39lsb">https://reisen-ww.github.io/hot-pages/acadhot/items/o7lu3coa7bq20s6x1vug39lsb</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 18:40:12 GMT</pubDate>
-      <guid isPermaLink="false">o7lu3coa7bq20s6x1vug39lsb</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[Jensen Huang 回归争议：新研究与监管规则挑战开放源代码AI运动]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/eo5or98x1jkg01ewsxggckx3m</link>
-      <description><![CDATA[<p>一项新研究显示，中国AI公司可能获得了Nvidia的先进芯片，而美国商务部周一宣布的新规则可能限制中国公司使用Nvidia芯片训练模型。这些发展使Jensen Huang回归CEO职位的前景更加复杂。Hugging Face等机构的高层支持者认为，集中AI技术在少数大公司手中将损害其他公司利益。</p>
-<p>🔗 <a href="https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/eo5or98x1jkg01ewsxggckx3m">https://reisen-ww.github.io/hot-pages/acadhot/items/eo5or98x1jkg01ewsxggckx3m</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 18:38:47 GMT</pubDate>
-      <guid isPermaLink="false">eo5or98x1jkg01ewsxggckx3m</guid>
+      <pubDate>Tue, 17 Nov 2026 13:10:00 GMT</pubDate>
+      <guid isPermaLink="false">ls6pwfhizskyf7z8wtyez75v1</guid>
       <author>noreply@reisen-ww.github.io (MIT Technology Review)</author>
     </item>
     <item>
-      <title><![CDATA[Helus Pharma 抑郁症治疗III期临床试验成功]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/nr6brl2g63kcsjsfatdui8kfs</link>
-      <description><![CDATA[<p>Helus Pharma 抑郁症治疗III期临床试验显示药物组症状改善优于安慰剂组，但投资者反应谨慎。研究纳入528名患者，随访12个月，主要终点为HAMD-17评分降低≥30%。原文链接：https://endpoints.news/helus-pharma-notches-successful-phase-3-depression-readout/</p>
-<p>🔗 <a href="https://endpoints.news/helus-pharma-notches-successful-phase-3-depression-readout/">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/nr6brl2g63kcsjsfatdui8kfs">https://reisen-ww.github.io/hot-pages/acadhot/items/nr6brl2g63kcsjsfatdui8kfs</a></p>]]></description>
+      <title><![CDATA[DNA 揭示东中国海 Bombay 蛇鲻数量增加之谜]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/a0jhk2uiteg6ktedfjm6c7tvf</link>
+      <description><![CDATA[<p>研究发现，东中国海 Bombay 蛇鲻数量增加与当地环境变化和遗传多样性提升有关。基因分析显示，该区域的 Bombay 蛇鲻种群在过去十年中显著增长，可能得益于海洋生态系统的变化。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-dna-clues-bombay-duck-east.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/a0jhk2uiteg6ktedfjm6c7tvf">https://reisen-ww.github.io/hot-pages/acadhot/items/a0jhk2uiteg6ktedfjm6c7tvf</a></p>]]></description>
+      <category>生命科学</category>
+      <pubDate>Tue, 17 Nov 2026 13:00:08 GMT</pubDate>
+      <guid isPermaLink="false">a0jhk2uiteg6ktedfjm6c7tvf</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
+      <title><![CDATA[格里菲斯大学发表钓鱼诈骗语言模式研究：揭示紧迫性与权威性话术]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/f8gndg22ip0tt3p06k2u6qsx0</link>
+      <description><![CDATA[<p>格里菲斯大学研究团队在《Humanities &amp; Social Sciences Communications》发表论文，通过对比诈骗短信与真实组织通知的语言特征，发现诈骗信息普遍使用&apos;立即验证&apos;、&apos;否则账户将被冻结&apos;等紧迫性（&apos;immediately&apos;&apos;now&apos;）、权威性（&apos;官方账户&apos;&apos;必须处理&apos;）和压力性（&apos;不处理将失去访问权限&apos;）话术。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-account-suspension-language-phishing.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/f8gndg22ip0tt3p06k2u6qsx0">https://reisen-ww.github.io/hot-pages/acadhot/items/f8gndg22ip0tt3p06k2u6qsx0</a></p>]]></description>
+      <category>神经科学</category>
+      <pubDate>Tue, 17 Nov 2026 13:00:02 GMT</pubDate>
+      <guid isPermaLink="false">f8gndg22ip0tt3p06k2u6qsx0</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
+      <title><![CDATA[热门中概股美股盘前多数下跌，京东跌超4%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rb9yzd6477n8s8ans5is8ram6</link>
+      <description><![CDATA[<p>截至发稿，热门中概股美股盘前多数下跌，京东跌超4%，阿里巴巴和哔哩哔哩分别跌超2%，百度跌超1%；蔚来和理想汽车则有所上涨。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073848730817668?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rb9yzd6477n8s8ans5is8ram6">https://reisen-ww.github.io/hot-pages/acadhot/items/rb9yzd6477n8s8ans5is8ram6</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 12:53:13 GMT</pubDate>
+      <guid isPermaLink="false">rb9yzd6477n8s8ans5is8ram6</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[好未来财报揭示AI投资收益与学习机业务困境]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/la9g7b0ojy3yfwuac2j2jy5az</link>
+      <description><![CDATA[<p>好未来2027财年第二季度归母净利润3.61亿美元，同比增长132.1%，主要因AI投资收益；但学习机业务因市场萎缩单季亏损，毛利率提升至59.8%。公司通过裁员优化（涉及30%-50%部门）、投资智谱等AI企业实现盈利反转，同时面临硬件业务增长瓶颈。财报指出芯片成本上涨与消费者偏好变化导致学习机业务拖累整体增长。</p>
+<p>🔗 <a href="https://36kr.com/p/4073822871147394?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/la9g7b0ojy3yfwuac2j2jy5az">https://reisen-ww.github.io/hot-pages/acadhot/items/la9g7b0ojy3yfwuac2j2jy5az</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 12:49:16 GMT</pubDate>
+      <guid isPermaLink="false">la9g7b0ojy3yfwuac2j2jy5az</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[就业非歧视法降低制造业浪费]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/tjcgxjgkof0nxvbsbs9jlrg9u</link>
+      <description><![CDATA[<p>就业非歧视法（ENDAs）不仅改善了社会和文化环境，还降低了制造业的浪费，提高了员工的留存率和生产效率与创新能力。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-employment-nondiscrimination-reductions.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/tjcgxjgkof0nxvbsbs9jlrg9u">https://reisen-ww.github.io/hot-pages/acadhot/items/tjcgxjgkof0nxvbsbs9jlrg9u</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 12:40:07 GMT</pubDate>
+      <guid isPermaLink="false">tjcgxjgkof0nxvbsbs9jlrg9u</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
+      <title><![CDATA[商务部回应美国限制远程获取先进半导体措施]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/qej1hd4nwnu5549ato4wlnezo</link>
+      <description><![CDATA[<p>中方对美国商务部限制远程获取先进半导体措施表示强烈不满和坚决反对，认为此举破坏市场规则和国际经贸秩序，冲击全球半导体产业链供应链稳定。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073829944169346?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/qej1hd4nwnu5549ato4wlnezo">https://reisen-ww.github.io/hot-pages/acadhot/items/qej1hd4nwnu5549ato4wlnezo</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 12:34:07 GMT</pubDate>
+      <guid isPermaLink="false">qej1hd4nwnu5549ato4wlnezo</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[长鑫科技：4F²架构将为公司未来市场拓展和营收作出贡献]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/nc5itxhu80zekospmsbwuzjsb</link>
+      <description><![CDATA[<p>长鑫科技高管表示，4F²架构是公司面向下一代技术的重要布局，将推动未来市场拓展和营收增长。该架构优先应用于服务器等高附加值产品，并逐步扩展至其他品类。规模量产将根据客户验证和市场需求逐步推进。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073826187482246?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/nc5itxhu80zekospmsbwuzjsb">https://reisen-ww.github.io/hot-pages/acadhot/items/nc5itxhu80zekospmsbwuzjsb</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 12:30:17 GMT</pubDate>
+      <guid isPermaLink="false">nc5itxhu80zekospmsbwuzjsb</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[印第安纳大学凯利商学院学者等在《Journal of Marketing》发表研究：消费者权力距离信念显著影响优惠券使用率]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/u5l6amdmer6nqk5zdu3gcmo1o</link>
+      <description><![CDATA[<p>该研究揭示消费者权力距离信念水平与优惠券使用率呈负相关，并建议企业通过价格匹配保证和透明沟通提升使用率。基于八项研究的数据分析，发现南方各州因高权力距离信念导致优惠券使用率较低，而纽约和加州等地区因低权力距离信念使用率较高。研究还指出，信任建立策略如价格匹配承诺可缩小优惠券使用率差距。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-shoppers-coupons.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/u5l6amdmer6nqk5zdu3gcmo1o">https://reisen-ww.github.io/hot-pages/acadhot/items/u5l6amdmer6nqk5zdu3gcmo1o</a></p>]]></description>
       <category>临床医学</category>
-      <pubDate>Mon, 16 Nov 2026 18:30:34 GMT</pubDate>
-      <guid isPermaLink="false">nr6brl2g63kcsjsfatdui8kfs</guid>
+      <pubDate>Tue, 17 Nov 2026 12:20:09 GMT</pubDate>
+      <guid isPermaLink="false">u5l6amdmer6nqk5zdu3gcmo1o</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
+      <title><![CDATA[加州大学圣地亚哥分校团队在《天体物理期刊快报》提出宇宙偏振旋转验证新方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/bdos2xw8qe0h580cd0k0yi4dg</link>
+      <description><![CDATA[<p>加州大学圣地亚哥分校团队提出通过对比多组探测器偏振角校准差异验证宇宙偏振旋转的新方法，并基于欧洲航天局Planck卫星数据与Minami-Komatsu分析结果一致。该技术可辅助区分仪器误差与早期宇宙引力波效应，为暗物质与暗能量研究提供新工具。</p>
+<p>🔗 <a href="https://www.sciencedaily.com/releases/2026/11/261116023348.htm">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/bdos2xw8qe0h580cd0k0yi4dg">https://reisen-ww.github.io/hot-pages/acadhot/items/bdos2xw8qe0h580cd0k0yi4dg</a></p>]]></description>
+      <category>量子与物理</category>
+      <pubDate>Tue, 17 Nov 2026 12:14:04 GMT</pubDate>
+      <guid isPermaLink="false">bdos2xw8qe0h580cd0k0yi4dg</guid>
+      <author>noreply@reisen-ww.github.io (ScienceDaily 综合)</author>
+    </item>
+    <item>
+      <title><![CDATA[正泰电源拟投建2GWh高功率UPS电源项目]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/i6yxtyug2e7x4925xwzfgyucd</link>
+      <description><![CDATA[<p>正泰电源计划以全资子公司正泰数能为实施主体，投资8.21亿元建设年产2GWh高功率UPS电源项目，建设期为2年。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073806532367232?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/i6yxtyug2e7x4925xwzfgyucd">https://reisen-ww.github.io/hot-pages/acadhot/items/i6yxtyug2e7x4925xwzfgyucd</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Tue, 17 Nov 2026 12:10:18 GMT</pubDate>
+      <guid isPermaLink="false">i6yxtyug2e7x4925xwzfgyucd</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[芬兰Jyväskylä大学追踪儿童8年发现：屏幕时间与认知能力呈正相关]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/srm5ds8x2z8362c66ws36cylp</link>
+      <description><![CDATA[<p>芬兰Jyväskylä大学一项为期8年的追踪研究发现，儿童期屏幕时间与青少年认知处理能力呈正相关（样本量260人，男女分组分析），但需注意：1）问卷显示非自主身体活动与认知正相关，可穿戴设备未捕捉到差异；2）认知测试使用CogState电池；3）结论为相关性非因果性，需干预研究验证；4）建议平衡屏幕时间与主动思考型活动，性别差异需进一步探索。</p>
+<p>🔗 <a href="https://www.sciencedaily.com/releases/2026/11/261116014725.htm">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/srm5ds8x2z8362c66ws36cylp">https://reisen-ww.github.io/hot-pages/acadhot/items/srm5ds8x2z8362c66ws36cylp</a></p>]]></description>
+      <category>神经科学</category>
+      <pubDate>Tue, 17 Nov 2026 12:03:58 GMT</pubDate>
+      <guid isPermaLink="false">srm5ds8x2z8362c66ws36cylp</guid>
+      <author>noreply@reisen-ww.github.io (ScienceDaily 综合)</author>
+    </item>
+    <item>
+      <title><![CDATA[Roche 获 FDA 批准进入 SERD 乳腺癌市场]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/t7e0cp96xciyomvdf5x2ux772</link>
+      <description><![CDATA[<p>Roche 的乳腺癌药物 giredestrant 获得 FDA 的晚期乳腺癌治疗批准。该药物此前正等待两项 FDA 批准决定。</p>
+<p>🔗 <a href="https://endpoints.news/roche-enters-the-serd-market-with-fda-approval-in-late-stage-breast-cancer/">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/t7e0cp96xciyomvdf5x2ux772">https://reisen-ww.github.io/hot-pages/acadhot/items/t7e0cp96xciyomvdf5x2ux772</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Tue, 17 Nov 2026 12:00:39 GMT</pubDate>
+      <guid isPermaLink="false">t7e0cp96xciyomvdf5x2ux772</guid>
       <author>noreply@reisen-ww.github.io (Endpoints News)</author>
     </item>
     <item>
-      <title><![CDATA[明尼苏达大学研究团队发表AI追踪入侵物种叶状刺苜蓿的论文]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/fye37g2tela9i6jt4mgwdggii</link>
-      <description><![CDATA[<p>明尼苏达大学研究团队利用AI和Landsat卫星影像追踪叶状刺苜蓿20年，发现其数量570%增长，并预测未来扩散区域。研究结合社区科学数据和深度学习模型，提出通过道路管理策略抑制入侵。摘要包含$1亿经济损失数据、570%增长率和卫星影像检测方法。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/fye37g2tela9i6jt4mgwdggii">https://reisen-ww.github.io/hot-pages/acadhot/items/fye37g2tela9i6jt4mgwdggii</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 18:20:15 GMT</pubDate>
-      <guid isPermaLink="false">fye37g2tela9i6jt4mgwdggii</guid>
+      <title><![CDATA[乔治梅森大学团队在《运营管理》发表供应链风险与银行信贷成本关联研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/jh3oo560umij3elalb9z7fxv5</link>
+      <description><![CDATA[<p>乔治梅森大学团队在《运营管理》发表供应链风险与银行信贷成本关联研究，发现供应链风险每增加一个标准差，贷款成本上升6.51个基点（相当于年均额外利息30万美元），证实银行风险定价能力优于企业自身评估。研究基于9422笔贷款合同数据，显示非替代供应商受自然灾害影响时，企业融资成本显著上升，且银行通过分析师覆盖和风险条款设计更精准识别风险。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-companies-laser-focused-chain-lenders.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/jh3oo560umij3elalb9z7fxv5">https://reisen-ww.github.io/hot-pages/acadhot/items/jh3oo560umij3elalb9z7fxv5</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Tue, 17 Nov 2026 12:00:04 GMT</pubDate>
+      <guid isPermaLink="false">jh3oo560umij3elalb9z7fxv5</guid>
       <author>noreply@reisen-ww.github.io (Phys.org)</author>
     </item>
     <item>
-      <title><![CDATA[亚利桑那大学 Charlotte Pearson 团队在 PNAS 发表研究，通过古树轮与冰芯数据确定巴比伦王国灭亡时间为公元前1587年]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/a2j8dumzccrrsim7hn26ykcsa</link>
-      <description><![CDATA[<p>亚利桑那大学 Charlotte Pearson 团队通过分析土耳其出土古树轮的碳定年数据，结合冰芯中 Aniakchak 火山（1628–1627 BC）的硫化物记录，确定巴比伦王国灭亡时间为公元前1587年。研究还发现公元前1228–1188年期间存在异常干旱，可能与哈吐莎古城被毁事件相关，为其他历史时期的时间线校准提供了新方法。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-ancient-tree-ice-cores-pin.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/a2j8dumzccrrsim7hn26ykcsa">https://reisen-ww.github.io/hot-pages/acadhot/items/a2j8dumzccrrsim7hn26ykcsa</a></p>]]></description>
+      <title><![CDATA[DESI 首次精确测定银河系质量]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/q8b3ugzwbikul7vea739698b6</link>
+      <description><![CDATA[<p>该研究利用 DESI 仪器追踪银河系内天体运动，首次在可见物质之外明确量化了银河系暗物质占比，为宇宙学模型提供了关键修正依据。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-desi-milky-precisely.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/q8b3ugzwbikul7vea739698b6">https://reisen-ww.github.io/hot-pages/acadhot/items/q8b3ugzwbikul7vea739698b6</a></p>]]></description>
       <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 18:20:12 GMT</pubDate>
-      <guid isPermaLink="false">a2j8dumzccrrsim7hn26ykcsa</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:01 GMT</pubDate>
+      <guid isPermaLink="false">q8b3ugzwbikul7vea739698b6</guid>
       <author>noreply@reisen-ww.github.io (Phys.org)</author>
     </item>
     <item>
-      <title><![CDATA[专家警告：新型GLP-1药物可能成为低收入国家药物可及性新战场]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/yma5sa0rigb5n332r672t1ywq</link>
-      <description><![CDATA[<p>伦敦经济学院教授Ken Shadlen警告，新型GLP-1药物可能成为低收入国家药物可及性的新战场。尽管这些药物更有效、副作用更少或更易于使用，但它们可能导致这些国家的药物可及性问题加剧。</p>
-<p>🔗 <a href="https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/yma5sa0rigb5n332r672t1ywq">https://reisen-ww.github.io/hot-pages/acadhot/items/yma5sa0rigb5n332r672t1ywq</a></p>]]></description>
+      <title><![CDATA[Sellas公司III期临床试验显示其血液癌症免疫疗法降低死亡风险41%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/y0f2t6zc4h4ocqdmqhbu245w2</link>
+      <description><![CDATA[<p>Sellas Life Sciences的III期临床试验显示，其实验性血液癌症免疫疗法galinpepimut-S将死亡风险降低41%，达到主要终点。此前作者预测该疗法可能失败。受试者为进展期急性髓系白血病（AML）患者，标准治疗对照组数据未在摘要中完整披露。</p>
+<p>🔗 <a href="https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/y0f2t6zc4h4ocqdmqhbu245w2">https://reisen-ww.github.io/hot-pages/acadhot/items/y0f2t6zc4h4ocqdmqhbu245w2</a></p>]]></description>
       <category>临床医学</category>
-      <pubDate>Mon, 16 Nov 2026 18:18:25 GMT</pubDate>
-      <guid isPermaLink="false">yma5sa0rigb5n332r672t1ywq</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">y0f2t6zc4h4ocqdmqhbu245w2</guid>
       <author>noreply@reisen-ww.github.io (STAT News)</author>
     </item>
     <item>
-      <title><![CDATA[堪萨斯大学法学院教授提出‘循环伦理’应对环境治理中的问题转移]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ieggeymahuo16ym60m6ctcgbj</link>
-      <description><![CDATA[<p>该论文提出‘循环伦理’概念，建议通过小规模试验而非行政命令解决环境治理中的问题转移现象。研究以渔业管理和碳治理为案例，指出传统方法如‘最大可持续产量’虽未有效遏制渔业资源枯竭，反而将限制转嫁给小国和原住民，同时允许大型商业舰队过度捕捞。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-ethical-approach-environmental-issues-problem.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ieggeymahuo16ym60m6ctcgbj">https://reisen-ww.github.io/hot-pages/acadhot/items/ieggeymahuo16ym60m6ctcgbj</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 18:00:20 GMT</pubDate>
-      <guid isPermaLink="false">ieggeymahuo16ym60m6ctcgbj</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[ETH Zurich与WSL研究所联合发表欧洲同步森林火灾研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/nyrkiavm355hsrx0j4ks9hjs7</link>
-      <description><![CDATA[<p>ETH Zurich与WSL研究所联合发表欧洲同步森林火灾研究，揭示特定高压天气模式导致跨国界火灾同步发生。研究基于2001-2020年卫星数据，排除城市和农业用地火灾，发现夏季北欧高压影响意大利和巴尔干火灾，春季北欧低压影响伊比利亚半岛火灾。2026年夏季法国和西班牙火灾实例验证了结论，证明天气系统与火灾时空分布的关联性。</p>
-<p>🔗 <a href="https://phys.org/news/2026-11-forest-simultaneously-europe.html">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/nyrkiavm355hsrx0j4ks9hjs7">https://reisen-ww.github.io/hot-pages/acadhot/items/nyrkiavm355hsrx0j4ks9hjs7</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Mon, 16 Nov 2026 18:00:14 GMT</pubDate>
-      <guid isPermaLink="false">nyrkiavm355hsrx0j4ks9hjs7</guid>
-      <author>noreply@reisen-ww.github.io (Phys.org)</author>
-    </item>
-    <item>
-      <title><![CDATA[NIAID 新任永久主任 John Powers III 上任]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/y7pykspiy0uu5q75ga6hsh8hl</link>
-      <description><![CDATA[<p>NIAID 宣布 John Powers III 将成为永久主任，接替自 2025 年 3 月以来的代理主任职务。Powers 于 1999 年起在 NIAID 担任多个临床研究相关职务。近期 NIAID 领导层经历了多次变动。</p>
-<p>🔗 <a href="https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/y7pykspiy0uu5q75ga6hsh8hl">https://reisen-ww.github.io/hot-pages/acadhot/items/y7pykspiy0uu5q75ga6hsh8hl</a></p>]]></description>
-      <pubDate>Mon, 16 Nov 2026 17:47:11 GMT</pubDate>
-      <guid isPermaLink="false">y7pykspiy0uu5q75ga6hsh8hl</guid>
+      <title><![CDATA[Marrow Therapeutics 获 1.73 亿美元启动治疗镰状细胞病的新公司]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/dn5iq718527jkkgp3eysjs1ci</link>
+      <description><![CDATA[<p>Marrow Therapeutics 获得 1.73 亿美元投资，由 Scion Life Sciences、venBio、OrbiMed 等公司支持，旨在开发一种与基因疗法同样有效的治疗镰状细胞病的输液疗法。公司创始人 Romesh Subramanian 表示，该疗法有望在患者中达到与基因疗法相同的效果，但需要进一步验证。</p>
+<p>🔗 <a href="https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/dn5iq718527jkkgp3eysjs1ci">https://reisen-ww.github.io/hot-pages/acadhot/items/dn5iq718527jkkgp3eysjs1ci</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">dn5iq718527jkkgp3eysjs1ci</guid>
       <author>noreply@reisen-ww.github.io (STAT News)</author>
+    </item>
+    <item>
+      <title><![CDATA[华电能源：煤价是现阶段对公司盈利影响最直接的变量]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/hd5rywxh34qrtyvep5z6zv8e7</link>
+      <description><![CDATA[<p>华电能源在2026年第三季度业绩说明会上表示，煤价是影响公司盈利最直接的因素；容量电价、现货限价规则和新能源机制电量折价等外部变量也对公司盈利有重要影响。公司将继续跟踪政策与市场变化，优化经营策略。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073784228500358?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/hd5rywxh34qrtyvep5z6zv8e7">https://reisen-ww.github.io/hot-pages/acadhot/items/hd5rywxh34qrtyvep5z6zv8e7</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 11:53:47 GMT</pubDate>
+      <guid isPermaLink="false">hd5rywxh34qrtyvep5z6zv8e7</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 最新招股文件：IPO 发行价区间维持每股70至78美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/y518g77252zum9kcyaa7vadkq</link>
+      <description><![CDATA[<p>Anthropic 本次IPO发行价区间仍定为每股70至78美元，拟发行8.0135亿股，投资方同步出让2365万股。发行及私募配售后，亚马逊将持有Anthropic 33.9%的N类股份、14.7%的流通总股本。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073790221456258?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/y518g77252zum9kcyaa7vadkq">https://reisen-ww.github.io/hot-pages/acadhot/items/y518g77252zum9kcyaa7vadkq</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Tue, 17 Nov 2026 11:53:42 GMT</pubDate>
+      <guid isPermaLink="false">y518g77252zum9kcyaa7vadkq</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[密西西比大学研究揭示反社会人格语言模式颠覆传统认知]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/fdx58hfhkdx5bm8ya26416zc2</link>
+      <description><![CDATA[<p>密西西比大学研究团队通过分析450名参与者的个人叙事，发现反社会人格的boldness、meanness、disinhibition三个维度与语言模式存在差异化关联。</p>
+<p>🔗 <a href="https://www.sciencedaily.com/releases/2026/11/261116023346.htm">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/fdx58hfhkdx5bm8ya26416zc2">https://reisen-ww.github.io/hot-pages/acadhot/items/fdx58hfhkdx5bm8ya26416zc2</a></p>]]></description>
+      <category>神经科学</category>
+      <pubDate>Tue, 17 Nov 2026 11:51:35 GMT</pubDate>
+      <guid isPermaLink="false">fdx58hfhkdx5bm8ya26416zc2</guid>
+      <author>noreply@reisen-ww.github.io (ScienceDaily 综合)</author>
+    </item>
+    <item>
+      <title><![CDATA[飞凯材料拟回购股份5000万至1亿元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/aatvmoqkctnha2q9rin38x91m</link>
+      <description><![CDATA[<p>飞凯材料宣布拟以5000万元至1亿元回购股份，全部用于注销并减少注册资本，回购价格不超过38元/股。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073781908067457?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/aatvmoqkctnha2q9rin38x91m">https://reisen-ww.github.io/hot-pages/acadhot/items/aatvmoqkctnha2q9rin38x91m</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 11:45:15 GMT</pubDate>
+      <guid isPermaLink="false">aatvmoqkctnha2q9rin38x91m</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[体重管理药物可能对大脑有益]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/z6qcz9kgnznw7jfjan0bl2lae</link>
+      <description><![CDATA[<p>研究者从乌普萨拉大学和哥本哈根大学审查了现有证据，发现GLP-1药物如赛美格鲁肽和替利塞普肽可能改善认知功能，尤其是在肥胖或糖尿病患者中。尽管这些药物在减缓阿尔茨海默病进展方面效果有限，但它们可能通过改善代谢健康间接保护大脑。研究人员呼吁开展临床试验，评估这些药物对记忆、注意力等认知能力的影响，以确定哪些患者可能从中受益。</p>
+<p>🔗 <a href="https://www.sciencedaily.com/releases/2026/11/261116023401.htm">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/z6qcz9kgnznw7jfjan0bl2lae">https://reisen-ww.github.io/hot-pages/acadhot/items/z6qcz9kgnznw7jfjan0bl2lae</a></p>]]></description>
+      <category>临床医学</category>
+      <pubDate>Tue, 17 Nov 2026 11:39:45 GMT</pubDate>
+      <guid isPermaLink="false">z6qcz9kgnznw7jfjan0bl2lae</guid>
+      <author>noreply@reisen-ww.github.io (ScienceDaily 健康医学)</author>
+    </item>
+    <item>
+      <title><![CDATA[商务部新闻发言人就中加经贸磋商成果答记者问]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/gn4n4vxgedp4o0jwjjq2h5yc6</link>
+      <description><![CDATA[<p>双方在相互尊重、合作共赢的基础上，延长了初步联合安排的相关豁免措施2年，并进一步扩大了对中国钢铝产品的豁免范围。中方将调整对加方部分农水产品的反歧视措施，双方在电子商务合作、中资银行在加设立分支机构等方面达成积极共识，将推动相关成果尽早落地。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073775988675459?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/gn4n4vxgedp4o0jwjjq2h5yc6">https://reisen-ww.github.io/hot-pages/acadhot/items/gn4n4vxgedp4o0jwjjq2h5yc6</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 11:39:13 GMT</pubDate>
+      <guid isPermaLink="false">gn4n4vxgedp4o0jwjjq2h5yc6</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[谷歌与Quaise Energy签署电力协议，布局地热技术]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/toedfjyeo8ville18rn3a6qt6</link>
+      <description><![CDATA[<p>谷歌将从Quaise Energy在俄勒冈州中部开发的地热项目采购50兆瓦电力，该项目总投资约3.5亿美元，计划成为全球首个利用高温岩层发电的项目。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073773055186050?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/toedfjyeo8ville18rn3a6qt6">https://reisen-ww.github.io/hot-pages/acadhot/items/toedfjyeo8ville18rn3a6qt6</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Tue, 17 Nov 2026 11:36:14 GMT</pubDate>
+      <guid isPermaLink="false">toedfjyeo8ville18rn3a6qt6</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[百利天恒子公司收到BMS第二笔2.5亿美元里程碑付款]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/grhcc44j0lv2hidwff4ufvkk2</link>
+      <description><![CDATA[<p>百利天恒全资子公司SystImmune收到百时美施贵宝支付的第二笔2.5亿美元里程碑付款，截至目前已收到共计13亿美元。根据合作协议，公司还有资格在达到特定里程碑后获得最高71亿美元的额外付款。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073769043809410?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/grhcc44j0lv2hidwff4ufvkk2">https://reisen-ww.github.io/hot-pages/acadhot/items/grhcc44j0lv2hidwff4ufvkk2</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Tue, 17 Nov 2026 11:32:10 GMT</pubDate>
+      <guid isPermaLink="false">grhcc44j0lv2hidwff4ufvkk2</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[欧科亿拟定增募资9.5亿元用于多个项目]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ayptr1vl25rn5obi6f5tw26j3</link>
+      <description><![CDATA[<p>欧科亿拟向特定对象发行股票募资不超过9.5亿元，主要用于数控刀具产业园产能提升及技术升级、高精密磨制刀片升级、AI PCB钻针用超细硬质合金棒材研发与工程化平台及补充流动资金。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073757672100742?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ayptr1vl25rn5obi6f5tw26j3">https://reisen-ww.github.io/hot-pages/acadhot/items/ayptr1vl25rn5obi6f5tw26j3</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 11:20:36 GMT</pubDate>
+      <guid isPermaLink="false">ayptr1vl25rn5obi6f5tw26j3</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[第十六届香港国际金融论坛暨第七届领航「9+2」粤港澳大湾区发展论坛启幕]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/j1l8cw18h00m0ruapjarpyb0l</link>
+      <description><![CDATA[<p>11月23日，第十六届香港国际金融论坛暨第七届领航「9+2」粤港澳大湾区发展论坛·香港国际具身智能峰会启幕，汇聚国内顶尖具身智能企业，依托香港的国际化场景与全球资本网络，推动中国具身智能技术验证走向全球部署，促进品牌出海。</p>
+<p>🔗 <a href="https://36kr.com/p/4073736741344384?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/j1l8cw18h00m0ruapjarpyb0l">https://reisen-ww.github.io/hot-pages/acadhot/items/j1l8cw18h00m0ruapjarpyb0l</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 11:17:37 GMT</pubDate>
+      <guid isPermaLink="false">j1l8cw18h00m0ruapjarpyb0l</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[瀛通通讯发布股票交易异常波动公告]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/xfg01il36cet4r4y411cl8dhi</link>
+      <description><![CDATA[<p>瀛通通讯公告表示，公司智能眼镜领域仅涉及少量代工业务，相关收入占营业收入比例不足1%，未来市场拓展存在较大不确定性。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073754732270464?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/xfg01il36cet4r4y411cl8dhi">https://reisen-ww.github.io/hot-pages/acadhot/items/xfg01il36cet4r4y411cl8dhi</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 11:17:36 GMT</pubDate>
+      <guid isPermaLink="false">xfg01il36cet4r4y411cl8dhi</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[杭萧钢构拟回购股份用于减少注册资本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/mks3e6r4fwlsto629qd0saoni</link>
+      <description><![CDATA[<p>杭萧钢构计划以1亿至2亿元回购股份，回购价格不超过3.50元/股，用于注销并减少公司注册资本。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073752005071749?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/mks3e6r4fwlsto629qd0saoni">https://reisen-ww.github.io/hot-pages/acadhot/items/mks3e6r4fwlsto629qd0saoni</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 11:14:50 GMT</pubDate>
+      <guid isPermaLink="false">mks3e6r4fwlsto629qd0saoni</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI签署协议引入外部AI评估机构]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/d4ljynau7u8ozp7rt6x3yfk68</link>
+      <description><![CDATA[<p>OpenAI已与阿波罗研究院、METR、Transluce及Goodfire四家机构签署协议，开放部分内部资料，由这些机构评估其模型与安全防护机制的风险。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073737333838723?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/d4ljynau7u8ozp7rt6x3yfk68">https://reisen-ww.github.io/hot-pages/acadhot/items/d4ljynau7u8ozp7rt6x3yfk68</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Tue, 17 Nov 2026 10:59:54 GMT</pubDate>
+      <guid isPermaLink="false">d4ljynau7u8ozp7rt6x3yfk68</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[新北洋控股子公司中标农业银行超级柜台项目]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/az6veb11r1pwr7u3errprv2gh</link>
+      <description><![CDATA[<p>新北洋控股子公司威海新北洋荣鑫科技股份有限公司中标中国农业银行超级柜台项目，预计中标金额约3亿元。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073735578669960?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/az6veb11r1pwr7u3errprv2gh">https://reisen-ww.github.io/hot-pages/acadhot/items/az6veb11r1pwr7u3errprv2gh</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:58:07 GMT</pubDate>
+      <guid isPermaLink="false">az6veb11r1pwr7u3errprv2gh</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[惠科股份提议回购股份用于员工激励]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/beyz1ucny681zjo3fa3iogql1</link>
+      <description><![CDATA[<p>惠科股份实际控制人提议以7500万元至1.5亿元回购股份，用于员工持股计划或股权激励，以维护公司价值及股东权益。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073731860042627?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/beyz1ucny681zjo3fa3iogql1">https://reisen-ww.github.io/hot-pages/acadhot/items/beyz1ucny681zjo3fa3iogql1</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:54:20 GMT</pubDate>
+      <guid isPermaLink="false">beyz1ucny681zjo3fa3iogql1</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[格灵深瞳：拟回购股份3000万—6000万元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/fkg3v8og6nywzpwncr99vl96u</link>
+      <description><![CDATA[<p>格灵深瞳公告拟以3000万元—6000万元回购股份，回购价格不超过25元/股。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073724893451141?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/fkg3v8og6nywzpwncr99vl96u">https://reisen-ww.github.io/hot-pages/acadhot/items/fkg3v8og6nywzpwncr99vl96u</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:47:15 GMT</pubDate>
+      <guid isPermaLink="false">fkg3v8og6nywzpwncr99vl96u</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[ESA Hera探测器开始绕双小行星系统飞行，验证NASA DART撞击效果]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/y3e4a53w6znkvpq60es33l5ts</link>
+      <description><![CDATA[<p>ESA Hera探测器已抵达目标区域，开始以约25-30公里距离绕行双小行星系统（Didymos与Dimorphos），其矩形轨道导航策略基于ESA Rosetta彗星任务经验。</p>
+<p>🔗 <a href="https://www.sciencedaily.com/releases/2026/11/261115085545.htm">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/y3e4a53w6znkvpq60es33l5ts">https://reisen-ww.github.io/hot-pages/acadhot/items/y3e4a53w6znkvpq60es33l5ts</a></p>]]></description>
+      <category>量子与物理</category>
+      <pubDate>Tue, 17 Nov 2026 10:45:41 GMT</pubDate>
+      <guid isPermaLink="false">y3e4a53w6znkvpq60es33l5ts</guid>
+      <author>noreply@reisen-ww.github.io (ScienceDaily 综合)</author>
+    </item>
+    <item>
+      <title><![CDATA[日本探测器因发动机故障更改目标]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/evft9cb5o4f16zrz8b6j8hi40</link>
+      <description><![CDATA[<p>日本探测器Hayabusa-2因发动机老化问题更改了其延伸任务的目标，原计划飞往1998 KY26小行星，现改为飞往2015 BM510小行星，预计2028年飞掠。新目标是直径17至74米的小行星，旋转周期为49分钟。此次调整有助于未来的小行星防御任务。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-japan-space-probe.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/evft9cb5o4f16zrz8b6j8hi40">https://reisen-ww.github.io/hot-pages/acadhot/items/evft9cb5o4f16zrz8b6j8hi40</a></p>]]></description>
+      <category>量子与物理</category>
+      <pubDate>Tue, 17 Nov 2026 10:38:13 GMT</pubDate>
+      <guid isPermaLink="false">evft9cb5o4f16zrz8b6j8hi40</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
+      <title><![CDATA[鸿海拟以72.4亿日元收购索尼半导体车载相机模组事业]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/j67wa63lqvq9rdc9koo80s1l7</link>
+      <description><![CDATA[<p>鸿海科技集团宣布以72.4亿日元收购索尼半导体解决方案公司旗下车载相机模组业务，预计2027年4月底前完成交割。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073714127786884?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/j67wa63lqvq9rdc9koo80s1l7">https://reisen-ww.github.io/hot-pages/acadhot/items/j67wa63lqvq9rdc9koo80s1l7</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:36:18 GMT</pubDate>
+      <guid isPermaLink="false">j67wa63lqvq9rdc9koo80s1l7</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[北京市经济和信息化局出台零碳工厂培育方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/sr6hh7p3247mfwor4ltartsri</link>
+      <description><![CDATA[<p>北京市经济和信息化局发布《北京市零碳工厂培育建设工作方案（2026—2030年）》，重点支持汽车、锂电池等领域的单位构建全链条降碳体系，目标到2030年培育100家零碳工厂。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073708188865668?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/sr6hh7p3247mfwor4ltartsri">https://reisen-ww.github.io/hot-pages/acadhot/items/sr6hh7p3247mfwor4ltartsri</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:30:15 GMT</pubDate>
+      <guid isPermaLink="false">sr6hh7p3247mfwor4ltartsri</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[顺网科技：董事长提议回购股份5000万至1亿元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/q2yb7qarkn05wt1bthzdoypur</link>
+      <description><![CDATA[<p>顺网科技控股股东提议以5000万元至1亿元回购股份用于注销并减少注册资本。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073703008097410?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/q2yb7qarkn05wt1bthzdoypur">https://reisen-ww.github.io/hot-pages/acadhot/items/q2yb7qarkn05wt1bthzdoypur</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:24:59 GMT</pubDate>
+      <guid isPermaLink="false">q2yb7qarkn05wt1bthzdoypur</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[长鑫科技：2026年四季度公司毛利率将保持稳定]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ga88c5mufvsccmrmk0qt9cymv</link>
+      <description><![CDATA[<p>长鑫科技高管预计，由于DRAM产品供给紧缺格局延续及公司通过精益生产管理提升高毛利产品占比，2026年四季度公司毛利率将保持稳定。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073700863792001?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ga88c5mufvsccmrmk0qt9cymv">https://reisen-ww.github.io/hot-pages/acadhot/items/ga88c5mufvsccmrmk0qt9cymv</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:22:48 GMT</pubDate>
+      <guid isPermaLink="false">ga88c5mufvsccmrmk0qt9cymv</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[加州理工数学教授不再根据作业打分，因AI可轻松完成]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/kn87noc4l3so5fuip6xtispq1</link>
+      <description><![CDATA[<p>加州理工教授 Yi Ni 停止根据数学作业的正确性打分，因学生可用 AI 完成作业。Ni 教授现仅根据作业是否完成打分，因 AI 在数学题目上表现优异。</p>
+<p>🔗 <a href="https://www.solidot.org/story?sid=85914">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/kn87noc4l3so5fuip6xtispq1">https://reisen-ww.github.io/hot-pages/acadhot/items/kn87noc4l3so5fuip6xtispq1</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Tue, 17 Nov 2026 10:22:40 GMT</pubDate>
+      <guid isPermaLink="false">kn87noc4l3so5fuip6xtispq1</guid>
+      <author>noreply@reisen-ww.github.io (奇客 Solidot)</author>
+    </item>
+    <item>
+      <title><![CDATA[领克发布900L SPA Evo数字架构]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/kb3uwylvh40oe5aulmhe48rfl</link>
+      <description><![CDATA[<p>领克在安全公开课上宣布领克安全基本法2.0已在全车系落地，并发布了900L SPA Evo数字架构，展示了车辆在复杂场景下的安全性能。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073699186496392?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/kb3uwylvh40oe5aulmhe48rfl">https://reisen-ww.github.io/hot-pages/acadhot/items/kb3uwylvh40oe5aulmhe48rfl</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:21:06 GMT</pubDate>
+      <guid isPermaLink="false">kb3uwylvh40oe5aulmhe48rfl</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[润达医疗拟非公开发行不超过15亿元公司债券]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/boy1itkl27rzpas0zf0xancc1</link>
+      <description><![CDATA[<p>润达医疗计划非公开发行不超过15亿元的公司债券，募集资金将用于偿还有息债务、补充流动资金及其他监管部门认可的用途。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073698141394049?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/boy1itkl27rzpas0zf0xancc1">https://reisen-ww.github.io/hot-pages/acadhot/items/boy1itkl27rzpas0zf0xancc1</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:20:02 GMT</pubDate>
+      <guid isPermaLink="false">boy1itkl27rzpas0zf0xancc1</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[机构今日买入凡拓数创等15股，卖出景旺电子12.57亿元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/oym99123167ipa94fn7zdakse</link>
+      <description><![CDATA[<p>11月17日龙虎榜显示，机构净买入凡拓数创、锋龙股份和青岛食品，金额分别为1.71亿元、1.09亿元和4273万元；同时，机构净卖出景旺电子12.57亿元，生益科技和翱捷科技分别被卖出7亿元和3.75亿元。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073694464988034?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oym99123167ipa94fn7zdakse">https://reisen-ww.github.io/hot-pages/acadhot/items/oym99123167ipa94fn7zdakse</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:16:18 GMT</pubDate>
+      <guid isPermaLink="false">oym99123167ipa94fn7zdakse</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[长鑫科技已与多家头部客户协商长期供货协议]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/egm12eb9i0ozqfwboituzj8ss</link>
+      <description><![CDATA[<p>长鑫科技已与多家头部客户协商长期供货协议，锁定中长期需求，助力成为人工智能时代的核心内存制造商。稳定的客户合作是穿越周期的重要保障。</p>
+<p>🔗 <a href="https://36kr.com/newsflashes/4073687703147392?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/egm12eb9i0ozqfwboituzj8ss">https://reisen-ww.github.io/hot-pages/acadhot/items/egm12eb9i0ozqfwboituzj8ss</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:09:25 GMT</pubDate>
+      <guid isPermaLink="false">egm12eb9i0ozqfwboituzj8ss</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
+      <title><![CDATA[结构空间探测：在无边无际的分子宇宙中寻找宝藏]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/r9146zsc7v52rifr8zk9v9k5y</link>
+      <description><![CDATA[<p>结构空间是包含所有符合化学成键规律的分子的庞大空间。化学家通过合成、研究性质和开发功能三步曲，不断发现高价值分子，如药物和新材料。新技术如人工智能辅助逆合成和高通量筛选正加速这一进程，未来仍有无数潜在的“高价值分子”等待发现。</p>
+<p>🔗 <a href="http://blog.sciencenet.cn/home.php?mod=space&amp;uid=3380716&amp;do=blog&amp;id=1561579">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/r9146zsc7v52rifr8zk9v9k5y">https://reisen-ww.github.io/hot-pages/acadhot/items/r9146zsc7v52rifr8zk9v9k5y</a></p>]]></description>
+      <category>生命科学</category>
+      <pubDate>Tue, 17 Nov 2026 10:08:49 GMT</pubDate>
+      <guid isPermaLink="false">r9146zsc7v52rifr8zk9v9k5y</guid>
+      <author>noreply@reisen-ww.github.io (科学网博客)</author>
     </item>
   </channel>
 </rss>

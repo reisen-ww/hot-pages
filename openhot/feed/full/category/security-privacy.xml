@@ -96,27 +96,5 @@
       <guid isPermaLink="false">rcb4nwugi5czhd7h4o71jgej0</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[IBM i 程序验证值（PVV）机制解析与绕过测试]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/r0hhlb2deubof4r1vivhw50p6</link>
-      <description><![CDATA[<p>作者通过自行开发的 pvv-ibmi 工具，解析了 IBM i 系统中 PVV 的计算流程（含 32 字节描述符生成、HMAC-SHA-256 计算、四值比对机制）。</p>
-<p>🔗 <a href="https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/r0hhlb2deubof4r1vivhw50p6">https://reisen-ww.github.io/hot-pages/openhot/items/r0hhlb2deubof4r1vivhw50p6</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 14:48:26 GMT</pubDate>
-      <guid isPermaLink="false">r0hhlb2deubof4r1vivhw50p6</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google DeepMind 开源 Rust 写的 Signal 协议形式验证框架]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru</link>
-      <description><![CDATA[<p>Google DeepMind 开源 Rust 写的 Signal 协议形式验证框架，AI 代理验证代码效率提升 90%。研究团队使用多LLM框架，人类专家与AI协作制定数学规范，AI生成六百万行 Lean 代码进行验证，仅1%代码需人工复核，四周完成传统需数年的工作，工具已开源。</p>
-<p>🔗 <a href="https://deepmind.google/blog/introducing-alphaproof-code/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru">https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 12:11:12 GMT</pubDate>
-      <guid isPermaLink="false">tdhmmbc4vi6r88pje71mfdpru</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
   </channel>
 </rss>

@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[uv 0.13.9 发布：优化锁文件与支持新PEP标准]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn</link>
+      <description><![CDATA[<p>uv 0.13.9 版本发布，优化锁文件大小和读取速度（#23184），新增 PEP 832 支持（#21822）及 HTTP/2 连接管理功能（#23236），同时将 Rust 依赖版本提升至 1.98（#23263）。支持多平台预构建包（ARM64/PPC64LE/RISC-V 等），可通过 GitHub CLI 验证发布包完整性（#23185）</p>
+<p>🔗 <a href="https://github.com/astral-sh/uv/releases/tag/0.13.9">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn">https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Tue, 17 Nov 2026 09:57:55 GMT</pubDate>
+      <guid isPermaLink="false">wj5k3wnh6t3kpd3va6rwyzzsn</guid>
+      <author>noreply@reisen-ww.github.io (uv 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[开源Rust BRep内核vcad：支持参数化设计的精确导数计算]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/xefh0w14xg6ujgt69pemn3sku</link>
+      <description><![CDATA[<p>某团队在 GitHub 公开该数据库仓库，给出查询延迟、内存占用与依赖要求，并说明当前支持的平台与许可证。</p>
+<p>🔗 <a href="https://muni.works/research/vcad">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/xefh0w14xg6ujgt69pemn3sku">https://reisen-ww.github.io/hot-pages/openhot/items/xefh0w14xg6ujgt69pemn3sku</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Fri, 13 Nov 2026 18:24:54 GMT</pubDate>
+      <guid isPermaLink="false">xefh0w14xg6ujgt69pemn3sku</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[WebKit 修复 Promise 构造函数 Symbol.species 获取异常导致的执行阻塞问题]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/lqxw4wq37xyv27ju4yfd0q8v2</link>
       <description><![CDATA[<p>WebKit 修复 Promise 构造函数 Symbol.species 获取异常导致的执行阻塞问题。对比 Safari/Bun引擎在 Promise 处理中的行为差异，分析 JavaScript 规范中 resolve 函数的实现逻辑及修复方案。</p>
@@ -84,17 +106,6 @@
       <pubDate>Tue, 10 Nov 2026 16:15:43 GMT</pubDate>
       <guid isPermaLink="false">h2fvksxj68w2xeccfd71uj20v</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[JetBrains RustRover 2026.3 发布：集成 AI 调试功能提升 Rust 开发效率]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cj1ue0wbx97kvqqavheubwk0b</link>
-      <description><![CDATA[<p>JetBrains 在 RustRover 2026.3 版本中集成 AI 调试功能，允许 Codex 等模型自动设置断点、执行调试步骤并修复代码问题。对比传统调试方法（如 println!</p>
-<p>🔗 <a href="https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cj1ue0wbx97kvqqavheubwk0b">https://reisen-ww.github.io/hot-pages/openhot/items/cj1ue0wbx97kvqqavheubwk0b</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 10 Nov 2026 11:10:32 GMT</pubDate>
-      <guid isPermaLink="false">cj1ue0wbx97kvqqavheubwk0b</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>
