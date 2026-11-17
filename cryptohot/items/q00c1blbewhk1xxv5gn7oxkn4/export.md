@@ -1,6 +1,6 @@
-# NVIDIA 警告市场动荡：我应卖出股票还是挺过动荡？
+# 黄金海岸房产或成投资新机遇
 
-> 原标题：‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?
+> 原标题：‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?
 
 - 来源：MarketWatch Top Stories
 - 发布时间：2026-11-17T10:15:00.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-NVIDIA 警告市场动荡，表示房地产在佛罗里达州似乎提供了有趣的机会。
+一位投资者表示，鉴于 NVIDIA 股价波动，正考虑出售股票转投佛罗里达州房地产。

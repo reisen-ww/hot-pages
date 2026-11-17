@@ -1,6 +1,6 @@
-# 迪士尼股价预盘上升，季度业绩超预期
+# NVIDIA 股价周二下跌，等待第三季度财报
 
-> 原标题：Stocks making the biggest moves premarket: Disney, Home Depot, Nvidia & more
+> 原标题：Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more
 
 - 来源：CNBC Top News
 - 发布时间：2026-11-17T12:15:35.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-迪士尼股价在预盘中上涨，该公司公布的季度业绩超出分析师预期。
+NVIDIA 股价周二下跌，市场正密切关注该公司即将发布的第三季度财报。

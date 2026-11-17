@@ -1,4 +1,4 @@
-# Tepper与Loeb基金管理公司提前加仓英伟达等科技股应对10月回撤
+# 泰佩与洛布基金在十月回撤前加仓Nvidia等科技巨头股
 
 > 原标题：Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown
 
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-根据SEC 13-F文件，Tepper与Loeb等基金管理公司在AI交易激增背景下，于10月回撤前夕大量增持英伟达等科技巨头股票，部分持仓显示其策略可能面临短期波动风险。
+泰佩与洛布基金在十月的市场回撤前大量增持英伟达（NVIDIA）等科技巨头股票。根据SEC备案的13-F持仓数据，部分机构持仓变化显示其试图规避AI交易激增带来的六周市场震荡风险。

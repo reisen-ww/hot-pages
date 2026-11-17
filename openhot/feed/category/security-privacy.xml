@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Phrack 73 期发布：23篇安全技术研究论文与历史案例分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</link>
+      <description><![CDATA[<p>Phrack 73 期发布，包含23篇技术论文及8篇额外文章，涵盖容器逃逸、Windows智能卡架构、静态污点分析等安全研究主题，并附有历史案例与未来趋势分析</p>
+<p>🔗 <a href="https://phrack.org/issues/73/introduction_md.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w">https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 17:40:32 GMT</pubDate>
+      <guid isPermaLink="false">gddk3fga0rdlu1wu0ud7fv75w</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[uBlock Origin 存在可被网站驱动的元素选择器 XSS 漏洞]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/vmvo81vgo78w2fx4e2r4uezvt</link>
       <description><![CDATA[<p>uBlock Origin 存在一个可被恶意网站利用的元素选择器 XSS 漏洞，攻击者可通过伪造可信过滤器注入任意 JavaScript 代码。漏洞利用机制涉及窃取扩展 UUID、劫持元素选择器界面、绕过过滤类型限制。修复方案包括验证消息令牌和限制元素选择器权限。</p>
@@ -84,17 +95,6 @@
       <pubDate>Tue, 10 Nov 2026 21:42:50 GMT</pubDate>
       <guid isPermaLink="false">o4qkmmpnrvm7opyoxv6nxgmf7</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Mozilla Firefox 143发布浏览器指纹防护，识别率降46%]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rcb4nwugi5czhd7h4o71jgej0</link>
-      <description><![CDATA[<p>Mozilla基于2500万Firefox用户数据，发布浏览器指纹防护方案，将唯一识别用户比例从75%降至46%，同时保持网页兼容性。研究显示浏览器指纹的独特性主要由屏幕分辨率、字体列表等8-9项核心指标决定，防护方案通过标准化和随机化技术实现。用户可通过交互测试验证自身浏览器指纹风险，数据集已开源但删除原始记录以防止追踪。</p>
-<p>🔗 <a href="https://fingerprinting.study/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rcb4nwugi5czhd7h4o71jgej0">https://reisen-ww.github.io/hot-pages/openhot/items/rcb4nwugi5czhd7h4o71jgej0</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 19:14:08 GMT</pubDate>
-      <guid isPermaLink="false">rcb4nwugi5czhd7h4o71jgej0</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

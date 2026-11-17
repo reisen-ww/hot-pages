@@ -22,12 +22,12 @@
 
 ## 生命与医学
 
-1. [基于NRF2响应的NMRAL2P长非编码RNA靶向调控改变非小细胞肺癌增殖的机制研究](https://reisen-ww.github.io/hot-pages/acadhot/items/deufaghtncwgz314bsrecu0h9)
+1. [基于NRF2响应的NMRAL2P长非编码RNA靶向调控改变非小细胞肺癌增殖的机制研究](https://www.biorxiv.org/content/10.64898/2026.11.13.765723v1?rss=1)
    来源：bioRxiv · 发布时间：2026-11-14 08:00（北京时间） · 一手
    摘要：研究证实NMRAL2P通过调控细胞粘附和MAPK信号通路促进非小细胞肺癌增殖，靶向抑制可增强化疗敏感性。实验采用SHAPE-MaP技术识别NMRAL2P可及性区域并设计反义缺口寡核苷酸，发现敲低NMRAL2P使肺癌细胞增殖受阻且对顺铂敏感性提升。
    原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.765723v1?rss=1)
 
-2. [IEEE单日撤回1417篇论文：学术会议沦为论文工厂新温床](https://reisen-ww.github.io/hot-pages/acadhot/items/zy2agdt9uoia6jppwkna1y4h9)
+2. [IEEE单日撤回1417篇论文：学术会议沦为论文工厂新温床](http://www.zhishifenzi.com/news/multiple/10765.html)
    来源：知识分子 · 发布时间：2026-11-16 03:47（北京时间）
    摘要：2026年10月28日，IEEE宣布撤回1417篇论文，研究团队通过社交媒体广告与论文比对发现，这些论文涉及2062篇问题文章，其中93%署名包含印度学者。会议审稿周期短至3天，且IEEE将会议论文列为‘其他出版物’仅要求‘可读’标准，导致造假产业转向会议平台。
    原文：[打开原文](http://www.zhishifenzi.com/news/multiple/10765.html)
@@ -42,12 +42,12 @@
    摘要：某研究团队通过田野调查与药物检测数据分析发现，108名受访者中96%（104人）使用烟吸方式摄入芬太尼，其中87%（81人）明确采用大麻零售设备进行烟吸。研究显示烟吸方式因隐蔽性强、起效快且耐受性上升迅速而流行，但伴随设备损伤风险。该成果为药物滥用监测与临床问诊提供了新数据维度。
    原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.13.26367858v1?rss=1)
 
-5. [上海交通大学医学院研究员因基因编辑试验致儿童死亡被解雇](https://reisen-ww.github.io/hot-pages/acadhot/items/c08qvui76aveslu5pw96dxtz0)
+5. [上海交通大学医学院研究员因基因编辑试验致儿童死亡被解雇](https://www.nature.com/articles/d41586-026-03752-2)
    来源：Nature · 发布时间：2026-11-16 08:00（北京时间） · 一手
    摘要：上海交通大学医学院研究员Qiu因在2025年3月对一名患Snijders Blok–Campeau综合征的6岁女孩实施AAV病毒载体基因编辑疗法导致其死亡被解雇。
    原文：[打开原文](https://www.nature.com/articles/d41586-026-03752-2)
 
-6. [Rockefeller University 在 Cell 发表精氨酸补充增强免疫识别能力的研究](https://reisen-ww.github.io/hot-pages/acadhot/items/bmc1gi4z1oh4ejf1hild8o9rc)
+6. [Rockefeller University 在 Cell 发表精氨酸补充增强免疫识别能力的研究](https://www.sciencedaily.com/releases/2026/11/261113232000.htm)
    来源：ScienceDaily 综合 · 发布时间：2026-11-15 20:36（北京时间）
    摘要：Rockefeller University 研究发现精氨酸补充可减少小鼠结肠癌肿瘤形成并缓解流感及新冠感染症状。机制显示低精氨酸导致MHC-I蛋白合成受阻，免疫识别能力下降；研究建议未来可结合免疫疗法进行临床试验。
    原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261113232000.htm)
@@ -64,7 +64,7 @@
    摘要：Skoltech 研究团队首次直接观测到光子自旋霍尔效应，使用微波辐射的陶瓷颗粒验证了其可扩展性。该成果为纳米光子学技术、高精度雷达/激光雷达系统及光控纳米天线开发提供了新路径。
    原文：[打开原文](https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html)
 
-2. [ESA Euclid望远镜发现宇宙黎明期31个类星体，创红移7.77新纪录](https://reisen-ww.github.io/hot-pages/acadhot/items/bmuuop3hc8as7lmfmhc8vyqfi)
+2. [ESA Euclid望远镜发现宇宙黎明期31个类星体，创红移7.77新纪录](https://www.sciencedaily.com/releases/2026/11/261112230504.htm)
    来源：ScienceDaily 综合 · 发布时间：2026-11-15 09:52（北京时间）
    摘要：ESA Euclid团队宣布发现31个宇宙黎明期类星体，其中EUCL J172902.75+641018.1（红移7.77）和EUCL J125308.55+705432.3（红移7.69）刷新最古老类星体记录。该望远镜通过大范围天空扫描（覆盖1/3天空）和红外深空探测技术，一年内发现数量超过此前十年总和，为研究首代星系与超大质量黑洞演化提供关键数据集。
    原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261112230504.htm)
@@ -81,7 +81,7 @@
   摘要：某团队在 bioRxiv 发布司美格鲁肽改善窦房结功能障碍的长期作用。急性期数据显示，受试者心率（372.76±11.06 vs 312.64±22.28 beats/min；P&lt;0.0001）和窦房结恢复时间（ADSNRT 4.22±2.75 vs 20.68±1.60 s；P=0.0009）显著优于对照组。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766590v1?rss=1)
 
-- [某团队在bioRxiv发表：R5L和R5H突变通过削弱tau-tau协同性影响微管表面tau凝聚](https://reisen-ww.github.io/hot-pages/acadhot/items/ahlcz2qhw5cwtyp8vfqehk9yi)
+- [某团队在bioRxiv发表：R5L和R5H突变通过削弱tau-tau协同性影响微管表面tau凝聚](https://www.biorxiv.org/content/10.64898/2026.11.13.766512v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
   摘要：某团队通过TIRF显微术和单分子测量，发现R5L和R5H突变均降低tau蛋白在微管表面的凝聚密度（较野生型减少约15%-20%），且两者在裸微管上的行为保持不变，证实其机制与微管结合无关。研究进一步表明，R5K替代保留野生型行为，而R5I替代则类似突变体，证实正电荷的重要性。pH依赖性实验支持该机制，并首次揭示PSP与FTD突变存在共同作用路径。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766512v1?rss=1)
@@ -96,7 +96,7 @@
   摘要：SERGA 团队通过杂交实验和基因组分析发现，灰飞虱 Wolbachia 的生殖隔离强度受宿主抑制基因影响（实验显示宿主抑制基因通过影响早期有丝分裂分离缺陷来掩盖 Wolbachia 的生殖隔离效应），而非 Wolbachia 浓度或基因组差异。研究解释了为何携带 Wolbachia 的灰飞虱未表现出生殖隔离现象，为生物防治策略优化提供了理论依据。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766142v1?rss=1)
 
-- [某研究团队在 bioRxiv 发表光激活ROS生成器以精准操控细胞功能](https://reisen-ww.github.io/hot-pages/acadhot/items/cnhhz4pam5p56hwkirypnn7p6)
+- [某研究团队在 bioRxiv 发表光激活ROS生成器以精准操控细胞功能](https://www.biorxiv.org/content/10.64898/2026.11.12.766124v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
   摘要：某研究团队开发出基于FAST技术的光激活ROS生成器，可精准操控线粒体功能并诱导DNA损伤。该工具通过荧光标记与ROS生成双重特性实现光控，需添加ROSgen才能激活，已验证可特异性抑制蛋白质活性或造成局部DNA氧化损伤，展示了分子工具在细胞过程精准操控中的多功能性。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766124v1?rss=1)

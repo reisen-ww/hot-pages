@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS Bedrock AgentCore与Snowflake MCP的OAuth配置方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/xzs9fsro14bfbae4u01wsmd6d</link>
+      <description><![CDATA[<p>本文详细介绍了三种OAuth配置方案：Pattern1（Snowflake内置OAuth，适合用户级审计）、Pattern2（第三方IdP的三重认证，适合企业SSO整合）、Pattern3（机器认证，适合无人工流程）。所有配置均通过Amazon Bedrock AgentCore Gateway实现，并附有GitHub参考实现链接。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/xzs9fsro14bfbae4u01wsmd6d">https://reisen-ww.github.io/hot-pages/aihot/items/xzs9fsro14bfbae4u01wsmd6d</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Tue, 17 Nov 2026 20:25:23 GMT</pubDate>
+      <guid isPermaLink="false">xzs9fsro14bfbae4u01wsmd6d</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS Transform + Bedrock 实现老式 mainframe 汇编到 Java 的系统化转换]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/w5jlqfhb0hutbmd7ejryutqu9</link>
       <description><![CDATA[<p>AWS Transform 与 Bedrock 联合实现 mainframe 汇编到 Java 的系统化转换，通过分阶段验证确保业务逻辑完整性。</p>

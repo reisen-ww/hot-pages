@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[RunAnywhere 开源 Trainium LLM 推理引擎 TrnRT 上线]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9</link>
+      <description><![CDATA[<p>RunAnywhere 在 GitHub 公开 TrnRT 仓库，支持 GLM-5.3-Flash 模型，提供 Docker 构建命令、编译缓存机制、双引擎部署方案及性能测试数据（单机 trn2.48xlarge 支持 32 并行请求，1M tokens 上下文，成本对比从 $0.061/百万 tokens 到 $0.040）</p>
+<p>🔗 <a href="https://github.com/RunanywhereAI/trnrt">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9">https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Tue, 17 Nov 2026 16:01:04 GMT</pubDate>
+      <guid isPermaLink="false">wieiohja07pxzgnyyqef4ams9</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[基于 Rust 的 Qwen3.6 高性能推理方案开源]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/tf0ub0ichb1fhjbghxb79md8q</link>
       <description><![CDATA[<p>某团队开源 Rust 写的向量数据库 Lightreason，实现 Qwen3.6 模型在单台 RTX 4090 上的 6-11 倍性能提升。仓库包含 BF16 权重优化、CUDA 图形计算、注意力缓存压缩等实现细节，并提供 Python/JS/SQL 基准测试工具。需安装 PyTorch 2.9.1 + CUDA 12.8，完整复现流程见文档。</p>

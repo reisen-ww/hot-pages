@@ -9,9 +9,97 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
-      <title><![CDATA[NVIDIA DGX Spark开发者套件发布]]></title>
+      <title><![CDATA[AWS Forward Deployed Engineering（FDE）助力全球企业将AI从演示落地至生产]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/c6mco6d7y8akvf166tyt2h2ll</link>
+      <description><![CDATA[<p>AWS Forward Deployed Engineering（FDE）通过基础设施、工作流自动化和治理三层次方案，帮助客户将AI从原型快速落地至生产环境。 Marsh保险通过FDE实现流程效率提升70%，部分步骤耗时从小时级缩短至秒级。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/c6mco6d7y8akvf166tyt2h2ll">https://reisen-ww.github.io/hot-pages/aihot/items/c6mco6d7y8akvf166tyt2h2ll</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 19:05:22 GMT</pubDate>
+      <guid isPermaLink="false">c6mco6d7y8akvf166tyt2h2ll</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google 将 Spark AI 助手重命名为 Tasks 并免费开放]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j56uj9rpf4jrq4ni0q6nib6cc</link>
+      <description><![CDATA[<p>Google 将 Spark AI 助手重命名为 Tasks 并免费开放，适用于美国、加拿大、日本、韩国、澳大利亚和印度用户。新功能包括创建餐单、管理日历、自动检查邮件费用，以及通过邮件或短信指令执行任务。</p>
+<p>🔗 <a href="https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j56uj9rpf4jrq4ni0q6nib6cc">https://reisen-ww.github.io/hot-pages/aihot/items/j56uj9rpf4jrq4ni0q6nib6cc</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 18:58:01 GMT</pubDate>
+      <guid isPermaLink="false">j56uj9rpf4jrq4ni0q6nib6cc</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS Bedrock AgentCore + SMART工具套件：在WhatsApp上构建AI代理的完整指南]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/oya9e6bnewgt5t5n0brfcto7i</link>
+      <description><![CDATA[<p>SMART工具套件简化了在WhatsApp上部署AI代理的复杂集成，提供基础设施和工具链，用户只需关注代理逻辑。支持消息处理、会话记忆、定时任务、媒体处理等功能，部署步骤包括克隆仓库、初始化项目、本地测试、AWS资源部署及管理控制台。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/oya9e6bnewgt5t5n0brfcto7i">https://reisen-ww.github.io/hot-pages/aihot/items/oya9e6bnewgt5t5n0brfcto7i</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 18:48:50 GMT</pubDate>
+      <guid isPermaLink="false">oya9e6bnewgt5t5n0brfcto7i</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS SageMaker JumpStart 推出 OpenTSLM 时序语言模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ry9z70xdptybx102ia5u8swq4</link>
+      <description><![CDATA[<p>AWS 在 SageMaker JumpStart 中推出 OpenTSLM 时序语言模型，支持企业通过设备传感器数据与上下文结合分析异常问题。材料展示了如何部署模型、通过 ARFBench 数据集微调并实现与 IT 支持系统的联动，例如 Nexthink 的 Spark 智能体利用该模型识别设备性能下降并指导用户操作。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ry9z70xdptybx102ia5u8swq4">https://reisen-ww.github.io/hot-pages/aihot/items/ry9z70xdptybx102ia5u8swq4</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 18:06:44 GMT</pubDate>
+      <guid isPermaLink="false">ry9z70xdptybx102ia5u8swq4</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Proton Lumo 桌面版发布：本地AI任务与隐私保护方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e75wijoz0jshw9g7uk2wmvr13</link>
+      <description><![CDATA[<p>Proton发布Lumo桌面版，主打本地AI任务自动化与隐私保护，采用瑞士法律加密、无服务器日志，并支持与邮箱、Confluence等工具集成。与OpenAI、Anthropic等竞品相比，Lumo强调用户对AI权限的精细控制（如自动/审批/禁止三级权限）及数据不用于广告或模型训练。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e75wijoz0jshw9g7uk2wmvr13">https://reisen-ww.github.io/hot-pages/aihot/items/e75wijoz0jshw9g7uk2wmvr13</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 17:32:25 GMT</pubDate>
+      <guid isPermaLink="false">e75wijoz0jshw9g7uk2wmvr13</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[LoanPro基于Amazon Bedrock AgentCore构建智能贷款服务助手]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/a0mo2824av3xf5pdan4ufks88</link>
+      <description><![CDATA[<p>LoanPro与AWS合作开发多智能体AI助手，通过Amazon Bedrock调用Claude Sonnet/Haiku/Opus模型，结合Strands Agents SDK实现数据检索与行动推荐。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/a0mo2824av3xf5pdan4ufks88">https://reisen-ww.github.io/hot-pages/aihot/items/a0mo2824av3xf5pdan4ufks88</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 17:01:08 GMT</pubDate>
+      <guid isPermaLink="false">a0mo2824av3xf5pdan4ufks88</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google Gemini 用户数据控制升级：可自主选择不贡献训练数据]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/vrh07h5gsc2ivao7rw7wnd735</link>
+      <description><![CDATA[<p>Google Gemini 新增用户数据控制选项，允许用户自主选择不贡献聊天记录用于AI训练。设置路径：Gemini 应用内「活动」→「数据与隐私」→「我的活动」→「Gemini 应用活动」，历史记录可单独设置保留期限。此前用户需关闭全部历史才能避免数据被用于训练，新功能实现隐私与功能平衡。</p>
+<p>🔗 <a href="https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/vrh07h5gsc2ivao7rw7wnd735">https://reisen-ww.github.io/hot-pages/aihot/items/vrh07h5gsc2ivao7rw7wnd735</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 16:50:10 GMT</pubDate>
+      <guid isPermaLink="false">vrh07h5gsc2ivao7rw7wnd735</guid>
+      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[ArisGlobal 在 Amazon Bedrock 上实现生成式AI推理规模化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/hd0wr7mx7331q05jblouzeguq</link>
+      <description><![CDATA[<p>ArisGlobal 通过调整prompt顺序和缓存策略，在AWS Bedrock上实现生成式AI推理规模化。核心成果：65%输入token来自共享prefix缓存，有效成本降低50%，月度支出减少40%，同时支持15%更多企业租户。关键设计将稳定prefix前置并设置缓存点，在保持EU跨区域推理不变的前提下优化成本结构。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/hd0wr7mx7331q05jblouzeguq">https://reisen-ww.github.io/hot-pages/aihot/items/hd0wr7mx7331q05jblouzeguq</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 15:57:09 GMT</pubDate>
+      <guid isPermaLink="false">hd0wr7mx7331q05jblouzeguq</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA DGX Spark开发者套件：桌面即超级计算实验室]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o</link>
-      <description><![CDATA[<p>NVIDIA发布DGX Spark开发者套件，支持本地运行四节点集群（512GB内存/20TB存储），可部署700B参数模型如DeepSeek V4.1，减少11小时集群排队时间。套件包含NVIDIA HPC SDK开发工具链，合作伙伴包括Acer/ASUS/Dell等。已验证应用包括LAMMPS（材料模拟）、NAMD（分子动力学）及OpenFold3（蛋白质结构预测）。</p>
+      <description><![CDATA[<p>NVIDIA在SC26发布DGX Spark开发者套件，支持四节点本地运行700B参数大模型（如DeepSeek V4.1），通过NVFP4量化技术减少对中心服务器的依赖。</p>
 <p>🔗 <a href="https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o">https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o</a></p>]]></description>
       <category>AI 产品</category>
@@ -119,9 +207,9 @@
       <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
     <item>
-      <title><![CDATA[NVIDIA Jetson Orin NX 等技术赋能医疗AI落地]]></title>
+      <title><![CDATA[NVIDIA 技术赋能医疗AI：多场景应用与效率提升]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/tonp3xfmdh11wknipj1feh2z2</link>
-      <description><![CDATA[<p>NVIDIA Jetson Orin NX 等技术被Artisight、Sword、Dyania Health等医疗公司用于提升护理效率与诊断准确率。</p>
+      <description><![CDATA[<p>NVIDIA 技术被多家医疗公司用于提升效率，包括Proximie的手术室周转率提高45%、ConcertAI的3倍速度匹配临床试验、Artisight的防跌倒设备节省护士时间，以及Dyania Health的Synapsis AI系统分析患者记录。</p>
 <p>🔗 <a href="https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tonp3xfmdh11wknipj1feh2z2">https://reisen-ww.github.io/hot-pages/aihot/items/tonp3xfmdh11wknipj1feh2z2</a></p>]]></description>
       <category>AI 产品</category>
@@ -326,72 +414,6 @@
       <pubDate>Tue, 10 Nov 2026 23:34:05 GMT</pubDate>
       <guid isPermaLink="false">iyzb489lxsolx3xb1f21oakbp</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 4 Carbon宣布价格调整并开放给更广泛用户]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/a66rrswlvnedf3xr8w45ihhk7</link>
-      <description><![CDATA[<p>Gemini 4 Carbon宣布对价格进行调整（$2/million输入→$4/million输入，$10/million输出→$20/million输出）并开放给更广泛用户。</p>
-<p>🔗 <a href="https://simonwillison.net/2026/Nov/10/llm-gemini/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/a66rrswlvnedf3xr8w45ihhk7">https://reisen-ww.github.io/hot-pages/aihot/items/a66rrswlvnedf3xr8w45ihhk7</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 20:09:44 GMT</pubDate>
-      <guid isPermaLink="false">a66rrswlvnedf3xr8w45ihhk7</guid>
-      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic发布Claude智能会议功能，集成白板协作与数据追踪工具]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/x3j2py9ahpvge7clopqswnz21</link>
-      <description><![CDATA[<p>Anthropic发布Claude智能会议功能，集成白板协作与数据追踪工具。该功能允许团队在视频会议中实时创建任务计划、白板图表及数据追踪表格，并与Adobe、Atlassian等外部应用无缝集成。此前OpenAI和Meta也推出了类似办公套件工具，Claude新功能目前仅限付费版测试。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/x3j2py9ahpvge7clopqswnz21">https://reisen-ww.github.io/hot-pages/aihot/items/x3j2py9ahpvge7clopqswnz21</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">x3j2py9ahpvge7clopqswnz21</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 发布 AI 办公套件 Claude Meetings/Sheets/Whiteboards]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/a2mgke7ecqs3bptbrikuejex4</link>
-      <description><![CDATA[<p>Anthropic 推出 AI 办公套件 Claude Meetings/Sheets/Whiteboards，支持会议记录、表格编辑和协作白板功能，并开放与 HubSpot、Adobe 等应用的集成。测试版已上线，前两工具开放给付费用户，会议功能需企业版订阅。此前工具 Claude Cowork 主要面向非技术用户的工程师部分需求，现扩展至全体知识工作者。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/a2mgke7ecqs3bptbrikuejex4">https://reisen-ww.github.io/hot-pages/aihot/items/a2mgke7ecqs3bptbrikuejex4</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="false">a2mgke7ecqs3bptbrikuejex4</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[TCS基于AWS Bedrock AgentCore构建智能测试编排器]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ix35wo7zztw5ptiu7svb2ej4t</link>
-      <description><![CDATA[<p>TCS基于AWS Bedrock AgentCore构建智能测试编排器，将BFSI行业测试效率提升88%。该方案通过分阶段专用代理（生成场景、代码验证、执行等）实现需求到证据的全流程自动化，采用租户级隔离（独立Kubernetes命名空间、S3桶、KMS密钥）保障金融安全，并利用AWS EKS/ECS/CloudFront等基础设施实现弹性执行与可视化监控。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ix35wo7zztw5ptiu7svb2ej4t">https://reisen-ww.github.io/hot-pages/aihot/items/ix35wo7zztw5ptiu7svb2ej4t</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 16:59:43 GMT</pubDate>
-      <guid isPermaLink="false">ix35wo7zztw5ptiu7svb2ej4t</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 4 Carbon 正式发布]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/b17qplkj65asiboo8lp1eb3po</link>
-      <description><![CDATA[<p>Google DeepMind正式发布Gemini 4 Carbon模型，提升安全防护、科学推理及工程任务效率。在CursorBench 4.0、WANDR等测试中成本较次优模型低2倍，支持多智能体协作开发。</p>
-<p>🔗 <a href="https://deepmind.google/blog/gemini-4-carbon-is-now-available/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/b17qplkj65asiboo8lp1eb3po">https://reisen-ww.github.io/hot-pages/aihot/items/b17qplkj65asiboo8lp1eb3po</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 16:03:47 GMT</pubDate>
-      <guid isPermaLink="false">b17qplkj65asiboo8lp1eb3po</guid>
-      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
-    </item>
-    <item>
-      <title><![CDATA[DeepMind发布Gemini Robotics 2.5并开源安全基准测试ASIMOV-jailbreak]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/r4qgfb3yitsita3y66f2axfe1</link>
-      <description><![CDATA[<p>DeepMind发布Gemini Robotics 2.5并开源安全基准测试ASIMOV-jailbreak。该版本在200多项实验室级精细操作任务中表现提升，包括用夹子递送食物和移液管操作，同时与Apptronik Apollo 2机器人协同展示了系带打结能力。</p>
-<p>🔗 <a href="https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/r4qgfb3yitsita3y66f2axfe1">https://reisen-ww.github.io/hot-pages/aihot/items/r4qgfb3yitsita3y66f2axfe1</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 15:00:39 GMT</pubDate>
-      <guid isPermaLink="false">r4qgfb3yitsita3y66f2axfe1</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
     </item>
   </channel>
 </rss>

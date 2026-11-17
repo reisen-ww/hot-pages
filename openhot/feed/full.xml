@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Phrack 73 期发布：23篇安全技术研究论文与历史案例分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</link>
+      <description><![CDATA[<p>Phrack 73 期发布，包含23篇技术论文及8篇额外文章，涵盖容器逃逸、Windows智能卡架构、静态污点分析等安全研究主题，并附有历史案例与未来趋势分析</p>
+<p>🔗 <a href="https://phrack.org/issues/73/introduction_md.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w">https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 17:40:32 GMT</pubDate>
+      <guid isPermaLink="false">gddk3fga0rdlu1wu0ud7fv75w</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[RunAnywhere 开源 Trainium LLM 推理引擎 TrnRT 上线]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9</link>
+      <description><![CDATA[<p>RunAnywhere 在 GitHub 公开 TrnRT 仓库，支持 GLM-5.3-Flash 模型，提供 Docker 构建命令、编译缓存机制、双引擎部署方案及性能测试数据（单机 trn2.48xlarge 支持 32 并行请求，1M tokens 上下文，成本对比从 $0.061/百万 tokens 到 $0.040）</p>
+<p>🔗 <a href="https://github.com/RunanywhereAI/trnrt">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9">https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Tue, 17 Nov 2026 16:01:04 GMT</pubDate>
+      <guid isPermaLink="false">wieiohja07pxzgnyyqef4ams9</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[uv 0.13.9 发布：优化锁文件与支持新PEP标准]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn</link>
       <description><![CDATA[<p>uv 0.13.9 版本发布，优化锁文件大小和读取速度（#23184），新增 PEP 832 支持（#21822）及 HTTP/2 连接管理功能（#23236），同时将 Rust 依赖版本提升至 1.98（#23263）。支持多平台预构建包（ARM64/PPC64LE/RISC-V 等），可通过 GitHub CLI 验证发布包完整性（#23185）</p>
@@ -534,28 +556,6 @@
       <pubDate>Tue, 10 Nov 2026 11:10:32 GMT</pubDate>
       <guid isPermaLink="false">cj1ue0wbx97kvqqavheubwk0b</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[亚马逊通过替换 Sonnet 4.6 为 Strands Decider 节省数百万美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dlvsvy1n7mon1015e2w6ubpns</link>
-      <description><![CDATA[<p>亚马逊将内部票务系统使用的 Claude Sonnet 4.6 模型替换为自研的 Strands Decider E4B，节省 98% 的 token 成本。测试显示 E4B 在响应时间（640 ms）和单票成本（$0.0005）上显著优于 Sonnet，且通过调整提示词和标签描述优化了模型效率。技术实现基于 AWS SageMaker、Lambda 和 SQS，并通过三阶段配置验证效果。</p>
-<p>🔗 <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dlvsvy1n7mon1015e2w6ubpns">https://reisen-ww.github.io/hot-pages/openhot/items/dlvsvy1n7mon1015e2w6ubpns</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Tue, 10 Nov 2026 06:01:08 GMT</pubDate>
-      <guid isPermaLink="false">dlvsvy1n7mon1015e2w6ubpns</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anchor Notes v0.18.0发布：移动端应用上线及全平台设计重做]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fv6owqx9m5zdut7w2h5gp2zrg</link>
-      <description><![CDATA[<p>Anchor Notes v0.18.0发布，Android应用上线Google Play，iOS测试版开放，全平台设计重做并新增分享功能。用户提交的漏洞修复贡献显著，GitHub星数两周内增长1400+。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fv6owqx9m5zdut7w2h5gp2zrg">https://reisen-ww.github.io/hot-pages/openhot/items/fv6owqx9m5zdut7w2h5gp2zrg</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 10 Nov 2026 05:45:12 GMT</pubDate>
-      <guid isPermaLink="false">fv6owqx9m5zdut7w2h5gp2zrg</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>
 </rss>

@@ -31,6 +31,50 @@
       <author>noreply@reisen-ww.github.io (36氪)</author>
     </item>
     <item>
+      <title><![CDATA[某团队在 medRxiv 发布加拿大流感季节性预测的AI模型实践评估]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/yx0tv75hp8flnnu2oq3388bg3</link>
+      <description><![CDATA[<p>某团队发布加拿大流感季节性预测的AI模型实践评估，结果显示GRU、Transformer和Chronos模型在阿尔伯塔等四省MAE低于CEM，但Prophet和PINN表现不佳。数据 pooling 策略使深度学习模型效果提升，Chronos在BC省实现零样本预测。研究指出AI模型在可解释性、计算成本和实施门槛方面仍逊于传统模型，应作为补充而非替代方案。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.14.26368122v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/yx0tv75hp8flnnu2oq3388bg3">https://reisen-ww.github.io/hot-pages/acadhot/items/yx0tv75hp8flnnu2oq3388bg3</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">yx0tv75hp8flnnu2oq3388bg3</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[Saraei 等提出基于物理指导的潜在扩散模型用于阿尔茨海默病多标记染色分解]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/xw0ut7eab1hw6ouayhueqp81u</link>
+      <description><![CDATA[<p>Saraei 等提出基于物理指导的潜在扩散模型（MorphoStain）用于阿尔茨海默病多标记染色分解，在 9,908 个 SEA-AD 数据集验证中实现 140.1 FPS 实时处理。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.15.26368147v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/xw0ut7eab1hw6ouayhueqp81u">https://reisen-ww.github.io/hot-pages/acadhot/items/xw0ut7eab1hw6ouayhueqp81u</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">xw0ut7eab1hw6ouayhueqp81u</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[Kim, H. B., Kim, K.-e. 发布改进型 Casanovo-TMT 质谱测序模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rw1fxt5q706ckc7wyt8u2f3aw</link>
+      <description><![CDATA[<p>Kim, H. B., Kim, K.-e. 在 bioRxiv 发布改进型 Casanovo-TMT 质谱测序模型，测试集精度达 84.7%，公开数据集表现分别为 87.4% 和 79.6%。优化后精度提升至 95%，同时保留 81.7% 的测试样本。该模型在磷酸肽测序中识别率超过 69%，部分结果优于传统数据库搜索工具。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.15.766634v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rw1fxt5q706ckc7wyt8u2f3aw">https://reisen-ww.github.io/hot-pages/acadhot/items/rw1fxt5q706ckc7wyt8u2f3aw</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rw1fxt5q706ckc7wyt8u2f3aw</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[Carabba 等在 bioRxiv 发表嵌入核方法解析生物序列-功能关系]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/lzcitgv1arfg7wc26vzyk6acm</link>
+      <description><![CDATA[<p>Carabba 等提出基于嵌入核的高斯过程回归方法，用于解析生物序列与功能的关系。该方法在数万条测量数据集上实现GPU加速，验证了其预测性能优于传统核方法，并成功解析了RNA碱基配对等复杂生物学机制。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.15.766687v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/lzcitgv1arfg7wc26vzyk6acm">https://reisen-ww.github.io/hot-pages/acadhot/items/lzcitgv1arfg7wc26vzyk6acm</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lzcitgv1arfg7wc26vzyk6acm</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[N/T基因框架揭示癌症分子分型与进展规律]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/lx9f9zcxykvwb7cuxspubm1s5</link>
       <description><![CDATA[<p>某团队提出N/T基因框架，用于分析癌症中通路的失调程度，并揭示分子亚型分类与进展规律。该方法在前列腺癌（PRAD，n=499）、肺腺癌（LUAD）、肝细胞癌（LIHC）和胶质瘤（GBM）中验证，通过有效激活频率量化通路异常，结合层次聚类和最小生成树分析，发现6类主要分子亚型（占比81.4%），并建立跨癌症的通路失调图谱。</p>
@@ -40,6 +84,17 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">lx9f9zcxykvwb7cuxspubm1s5</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[乌干达团队开发肺结核筛查AI模型，简化6区超声扫描流程]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/k4uvhmkjf78dkxb06fohtqb6j</link>
+      <description><![CDATA[<p>乌干达团队在2023-2025年开展前瞻性研究，开发并验证了结合肺超声图像和临床数据的深度学习模型用于肺结核筛查。测试集显示临床模型AUC 0.88，纯超声模型0.93-0.95，联合模型0.91-0.93。简化至6个超声区的协议在90%敏感性下特异性达82.2%-91.1%。研究通过Mulago医院和Rutgers大学伦理审查，数据将公开存档。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.14.26368125v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/k4uvhmkjf78dkxb06fohtqb6j">https://reisen-ww.github.io/hot-pages/acadhot/items/k4uvhmkjf78dkxb06fohtqb6j</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">k4uvhmkjf78dkxb06fohtqb6j</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[BioRxiv 预印本：Vecmatch 算法实现多组别协变量平衡]]></title>
@@ -139,28 +194,6 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">el5f8v6nza4d5hgozg1qmb2sg</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 medRxiv 发表时间嵌入3D ECG重建QRS波的研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/d50t76irz76y9f7u98wv6kyhr</link>
-      <description><![CDATA[<p>某团队在 medRxiv 发表研究，提出固定 V1/V6 投影的时序嵌入 3D ECG QRS 波重建方法，并通过 118 名患者验证。结果显示该方法在 V3 和 V4 导联的误差减少达 3.23 和 2.85 百分点，但 V2 改进不显著（误差减少 0.35 百分点，置信区间 -0.35 至 1.05）。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.14.26368083v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/d50t76irz76y9f7u98wv6kyhr">https://reisen-ww.github.io/hot-pages/acadhot/items/d50t76irz76y9f7u98wv6kyhr</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d50t76irz76y9f7u98wv6kyhr</guid>
-      <author>noreply@reisen-ww.github.io (medRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[x0-diffusion模型在少量标注血管造影图像分割中的高效性验证]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/f1d8avq0bk1ck5th70tiozf05</link>
-      <description><![CDATA[<p>x0-diffusion模型在16张标注数据下达到最高Dice系数0.882和IoU 0.795，校正后外科医生标注时间减少37-45%。模型在32/80张标注数据下表现与ResNet-ViT等卷积模型接近（0.923 vs 0.910）。研究使用Dr-SAM开源数据集（https://github.com/vazgenzohranyan/Dr.SAM），未采集新患者数据。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.13.26368001v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/f1d8avq0bk1ck5th70tiozf05">https://reisen-ww.github.io/hot-pages/acadhot/items/f1d8avq0bk1ck5th70tiozf05</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f1d8avq0bk1ck5th70tiozf05</guid>
-      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[鱼转移图谱：系统分析癌症在不同器官中的特异性转移模式]]></title>
