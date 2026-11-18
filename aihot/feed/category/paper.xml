@@ -52,16 +52,5 @@
       <guid isPermaLink="false">dt3urf5lbe93e756rbg2xvyv2</guid>
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
-    <item>
-      <title><![CDATA[AWS发布UAEF框架：支持多框架AI代理闭环评估的开源系统]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0</link>
-      <description><![CDATA[<p>AWS推出开源评估框架UAEF，支持LangGraph、LangChain等框架的AI代理进行多维度指标（工具调用、响应质量、推理能力等）评估。系统通过适配器统一处理不同框架的执行轨迹，存储结果至DynamoDB/S3，生成对比报告和LLM辅助分析。案例显示企业客户通过该框架检测退化、优化提示词和模型，实现闭环迭代。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0">https://reisen-ww.github.io/hot-pages/aihot/items/h8p3jjqnri7gxeo113jxngsz0</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Wed, 11 Nov 2026 15:50:55 GMT</pubDate>
-      <guid isPermaLink="false">h8p3jjqnri7gxeo113jxngsz0</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
   </channel>
 </rss>

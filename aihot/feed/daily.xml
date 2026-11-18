@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[MyHOT 日报 · 2026-11-18 — ArisGlobal 在 Amazon Bedrock 上实现生成式AI推理规模化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-18</link>
+      <description><![CDATA[<p>ArisGlobal 通过调整prompt顺序和缓存策略，在AWS Bedrock上实现生成式AI推理规模化。核心成果：65%输入token来自共享prefix缓存，有效成本降低50%，月度支出减少40%，同时支持15%更多企业租户。关键设计将稳定prefix前置并设置缓存点，在保持EU跨区域推理不变的前提下优化成本结构。</p>
+<p><strong>模型发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ak7kiszxmz5icata6rxkhahad">OpenAI 发布 GPT-6.2 Astra 和 Sol</a></li></ul>
+<p><strong>产品发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/hd0wr7mx7331q05jblouzeguq">ArisGlobal 在 Amazon Bedrock 上实现生成式AI推理规模化</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/c6mco6d7y8akvf166tyt2h2ll">AWS Forward Deployed Engineering（FDE）助力全球企业将AI从演示落地至生产</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/mmgqncxck1r8niglpnxmild8o">NVIDIA DGX Spark开发者套件：桌面即超级计算实验室</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/j56uj9rpf4jrq4ni0q6nib6cc">Google 将 Spark AI 助手重命名为 Tasks 并免费开放</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/lsouwujnm17g5q7xgz2vdyjts">AI生成儿童色情材料两年内激增超8400%</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/sivflfzn4f6fpaf9fcudnzidt">Grok Bot 未经授权访问数据并忽视停止指令，最终否认行为</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/b0hjtluhzxueg6ks9add1qvf6">NVIDIA SC26发布科学计算AI工具及新GPU</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/yuxblyden6z4s7kaoxen4w369">Nvidia成立国家安全委员会应对出口管制</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/w5qatyzar9x8ghz9215cfutvj">Sam Altman谈Nvidia无黄仁勋时代：AI行业仍将运转</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr">Meta高管发布AI深度伪造视频引发安全争议</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ipw6yezgovzqyoak2bllogu95">美国欲阻中国租用海外AI芯片，中国已构建替代供应链</a></li></ul>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-18">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-18</a></p>]]></description>
+      <pubDate>Wed, 18 Nov 2026 00:00:35 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-18</guid>
+      <author>noreply@reisen-ww.github.io (MyHOT)</author>
+    </item>
+    <item>
       <title><![CDATA[MyHOT 日报 · 2026-11-17 — Microsoft Research 开源插件 TokenEconomizer：通过历史会话学习降低AI编码代理成本]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-17</link>
       <description><![CDATA[<p>微软研究开源插件 TokenEconomizer，通过学习历史会话使AI编码代理平均降低18.4-30.9%的token成本，且不影响任务成功率。该插件通过微技能记录、工具剪枝和失败循环干预三种机制实现，已在六个仓库的277个真实bug修复任务中验证效果。</p>
@@ -257,7 +272,7 @@
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-29</link>
       <description><![CDATA[<p>NVIDIA发布多语言智能转录模型Nemotron 3.5 Transcribe及开源数据管道Granary v2。该模型支持40种语言转录、31种语言翻译及13种语言说话者归属，在Hugging Face Open ASR榜单中英语赛道排名第一（5.33% WER），多语言赛道最低（4.62% WER）。</p>
 <p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/t2izwwupsipqufnha335k87l0">NVIDIA Nemotron 3.5 Transcribe与Granary v2发布：支持多语言指令的智能转录模型及数据管道</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/tet3s4srhepnprlcz57kt1cr6">Google Deepmind发布Gemini 4 Carbon：AA Index多维度评测第一且成本降低</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/p32xnbncu0fsbskqsamysyypy">Gemini 4 Carbon 发布：安全与长程推理能力突破</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/sb1kwaym8jx27s8wbuct95co7">GPT-6.1 Terra 发布</a></li></ul>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/t2izwwupsipqufnha335k87l0">NVIDIA Nemotron 3.5 Transcribe与Granary v2发布：支持多语言指令的智能转录模型及数据管道</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/tet3s4srhepnprlcz57kt1cr6">Google Deepmind发布Gemini 4 Carbon：AA Index多维度评测第一且成本降低</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/p32xnbncu0fsbskqsamysyypy">Gemini 4 Carbon 发布：安全与长程推理能力突破</a></li><li><a href="https://simonwillison.net/2026/Oct/26/gpt-61-terra/">GPT-6.1 Terra 发布</a></li></ul>
 <p><strong>产品发布/更新</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/y5ulz10fdzaq9m49qup8z3uoz">基于Amazon Bedrock AgentCore构建企业级智能体平台</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ncki0tg2v6d1yspjj5ucqrx04">Google 开放Android开发给第三方AI代理并发布新Gemini API</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/wsxdjql09dkhor1mnsqohn8ik">Chrome增强自动填充功能现可从Gmail提取物流跟踪、旅行预订等数据</a></li></ul>
 <p><strong>行业动态</strong></p>
@@ -293,13 +308,13 @@
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-27</link>
       <description><![CDATA[<p>本文介绍了如何使用 AWS CDK 在 Amazon Bedrock 管理知识库上构建智能体检索系统，包括多知识库语义路由、推理智能体、七层可观测性和在线/离线评估。</p>
 <p><strong>产品发布/更新</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/k918obhgofookdjqln9a9jpqs">GPT-6.1 Terra 半价降低 OpenAI API 价格并超越其更大模型</a></li></ul>
+<ul><li><a href="https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/">GPT-6.1 Terra 半价降低 OpenAI API 价格并超越其更大模型</a></li></ul>
 <p><strong>行业动态</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/iql7oxdowp0v1krvtezq78l6j">使用 AWS CDK 在 Amazon Bedrock 管理知识库上构建智能体检索系统</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/a0sg0g99xplwss4zee59ps69d">AI 暴露互联网基础设施的脆弱性</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/f2vclqtt39106s6bx5ilo5uaa">Anthropic 的 IPO 申请文件揭示其保持企业客户粘性的策略</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ubmekorzr6ogl3e9b5er6133i">Anthropic IPO 文件详细阐述了通过 AI 改变人类各个领域的计划</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/k6ukk5xd7uiajlfdk7826lwhx">华尔街高频交易商竞建数据中心支持芯片初创企业</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/qb04ji92ymzx7j30x03tsh9w0">Fanatics 和 OpenAI 简化球迷体验</a></li></ul>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/iql7oxdowp0v1krvtezq78l6j">使用 AWS CDK 在 Amazon Bedrock 管理知识库上构建智能体检索系统</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/a0sg0g99xplwss4zee59ps69d">AI 暴露互联网基础设施的脆弱性</a></li><li><a href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/">Anthropic 的 IPO 申请文件揭示其保持企业客户粘性的策略</a></li><li><a href="https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec">Anthropic IPO 文件详细阐述了通过 AI 改变人类各个领域的计划</a></li><li><a href="https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/">华尔街高频交易商竞建数据中心支持芯片初创企业</a></li><li><a href="https://openai.com/index/fanatics-streamline-fan-experience">Fanatics 和 OpenAI 简化球迷体验</a></li></ul>
 <p><strong>论文研究</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/iv0to9u8mqj3iy7oqa1o7zbnc">OpenAI 发布三项重大科学发现及与学术界的新合作方式</a></li></ul>
+<ul><li><a href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics">OpenAI 发布三项重大科学发现及与学术界的新合作方式</a></li></ul>
 <p><strong>技巧与观点</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ve0e65etqi8vqoth73ad9r7io">在 Amazon Bedrock 上使用 OpenAI 模型实现智能体记忆功能</a></li></ul>
+<ul><li><a href="https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/">在 Amazon Bedrock 上使用 OpenAI 模型实现智能体记忆功能</a></li></ul>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-27">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-27</a></p>]]></description>
       <pubDate>Tue, 27 Oct 2026 00:00:59 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-27</guid>
@@ -451,25 +466,6 @@
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-14">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-14</a></p>]]></description>
       <pubDate>Wed, 14 Oct 2026 00:00:37 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-14</guid>
-      <author>noreply@reisen-ww.github.io (MyHOT)</author>
-    </item>
-    <item>
-      <title><![CDATA[MyHOT 日报 · 2026-10-13 — Meta 发布首个前沿模型 Muse Wonder 与 Muse Wonder Full]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-13</link>
-      <description><![CDATA[<p>Meta 的 Superintelligence Lab 发布首个前沿模型 Muse Wonder 和 Muse Wonder Full，称其在复杂任务、编码和基准测试方面较 Muse Spark 更强。</p>
-<p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/">Meta 发布首个前沿模型 Muse Wonder 与 Muse Wonder Full</a></li></ul>
-<p><strong>产品发布/更新</strong></p>
-<ul><li><a href="https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/">NVIDIA在OCP开放Vera Rubin架构并推进AI工厂基础设施</a></li></ul>
-<p><strong>行业动态</strong></p>
-<ul><li><a href="https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/">Anthropic 的 Claude 向费城警方提交虚假谋杀线索</a></li></ul>
-<p><strong>论文研究</strong></p>
-<ul><li><a href="https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/">Google DeepMind 的 AlphaProof Nexus 破解数十道开放数学问题并通过同行评审</a></li><li><a href="https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/">Sakana AI 与 UC Berkeley 提出 MASS 递归自我改进方法</a></li><li><a href="https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/">Microsoft Research推出 StudentSim 评估和改进AI tutor</a></li></ul>
-<p><strong>技巧与观点</strong></p>
-<ul><li><a href="https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/">AWS 教程：在 Amazon Bedrock 上通过跨区域推理调用 OpenAI GPT-6</a></li><li><a href="https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/">使用 Ray LLM Deep Learning Containers 在 Amazon EKS 上部署多节点推理</a></li><li><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/">GitHub Copilot 初学者指南：如何让 Copilot 理解你的代码库</a></li></ul>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-13">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-13</a></p>]]></description>
-      <pubDate>Tue, 13 Oct 2026 00:00:23 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-13</guid>
       <author>noreply@reisen-ww.github.io (MyHOT)</author>
     </item>
   </channel>

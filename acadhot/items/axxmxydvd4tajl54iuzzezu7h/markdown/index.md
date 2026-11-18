@@ -1,6 +1,6 @@
-# FDA在Summit抗癌药ivonescimab驳回信中警示VEGF相关安全风险
+# FDA拒批Summit与Akeso的抗癌药ivonescimab，安全性风险高于疗效
 
-> 原标题：FDA flags potential VEGF-related safety concern in Summit rejection letter
+> 原标题：FDA letter rejecting Summit cancer drug cites ‘modest’ benefit in data compared with toxicity risk
 
 - 来源：Endpoints News
 - 发布时间：2026-11-17T20:35:54.000Z
@@ -9,8 +9,4 @@
 
 ## 摘要
 
-FDA拒绝Summit与Akezo提交的ADC药物ivonescimab上市申请，指出需补充VEGF信号通路安全数据。ivonescimab针对实体瘤研发中，此前在II期临床试验显示客观缓解率45%。
-
-## 推荐理由
-
-FDA在拒绝信中明确要求补充VEGF相关安全数据，为后续ADC药物开发提供监管参考路径
+FDA在2026年11月17日拒批Summit与Akeso的抗癌药物ivonescimab，指出其疗效与毒性风险比不具优势。该决定基于ivonescimab的临床试验数据，但未提供具体疗效数值或不良反应案例。

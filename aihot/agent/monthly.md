@@ -56,7 +56,7 @@ Google 发布 Gemini 4 Argon，面向复杂任务全球开放
    摘要：Google Research 发布 Deep Review，一款可审查复杂技术文档的智能体 AI 系统，现已面向全球开放。用户每周可免费审查两份文档，也可接入 Gemini API key 提高使用限额并通过 API 集成；目前支持 PDF 和纯文本输入。
    原文：[打开原文](https://research.google/blog/analyzing-technical-documents-with-deep-review/)
 
-2. [GPT-6.1 Terra 半价降低 OpenAI API 价格并超越其更大模型](https://reisen-ww.github.io/hot-pages/aihot/items/k918obhgofookdjqln9a9jpqs)
+2. [GPT-6.1 Terra 半价降低 OpenAI API 价格并超越其更大模型](https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/)
    来源：The Decoder · 发布时间：2026-10-27 04:30（北京时间）
    摘要：OpenAI 发布 GPT-6.1 Terra，API 价格减半，性能提升显著。与 GPT-5.6 Terra 相比，输入和输出 token 价格分别降低至 1 美元和 5 美元，且在多个基准测试中表现更佳。
    原文：[打开原文](https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/)

@@ -39,20 +39,20 @@ Garside等团队发现基于UV激发自荧光的多拷贝 suppressor筛选方法
    来源：STAT News · 发布时间：2026-11-18 00:07（北京时间） · 另有 1 家信源报道
    摘要：美国失去麻疹消除状态，CDC数据显示2026年病例数超5000例创1991年以来新高。近20个州学龄前儿童疫苗接种率低于90%，专家指出成人感染比例上升显示防控漏洞。
    相关：
-   - [美国失去麻疹消除状态：疫苗接种率下降引发专家担忧](https://reisen-ww.github.io/hot-pages/acadhot/items/l25voe8x9b692okcoctfyrif0) · Nature · 2026-11-17 08:00（北京时间）
+   - [美国失去麻疹消除状态：疫苗接种率下降引发专家担忧](https://www.nature.com/articles/d41586-026-03747-z) · Nature · 2026-11-17 08:00（北京时间）
    原文：[打开原文](https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss)
 
-7. [Medicaid GLP-1处方量在四州取消体重管理覆盖后的变化分析](https://reisen-ww.github.io/hot-pages/acadhot/items/mb5nhpjbvy90kg3qgd8kni25w)
+7. [Medicaid GLP-1处方量在四州取消体重管理覆盖后的变化分析](https://www.medrxiv.org/content/10.64898/2026.11.15.26368150v1?rss=1)
    来源：medRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
    摘要：四州取消GLP-1体重管理医保覆盖后，处方量同比下降85%（2025 Q3至2026 Q1从1.06降至0.16 per 100 enrollee-months），而保留覆盖的州变化较小（0.90-0.82）。
    原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.15.26368150v1?rss=1)
 
-8. [某团队在 medRxiv 发表同种移植物加强 cyclodialysis 治疗难治性开角型青光眼的 12 个月结果](https://reisen-ww.github.io/hot-pages/acadhot/items/mzgl6ufrxcnzoxx6yskzxshbi)
+8. [某团队在 medRxiv 发表同种移植物加强 cyclodialysis 治疗难治性开角型青光眼的 12 个月结果](https://www.medrxiv.org/content/10.64898/2026.11.12.26367933v1?rss=1)
    来源：medRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
    摘要：47 只眼完成 12 个月随访，基线眼压 22.5 mmHg（使用 3.0 种降眼压药物），术后眼压降低 6.1 mmHg（p&lt;0.001），未增加药物负担或出现视力威胁性并发症。研究来自 CREST 多中心注册（NCT05506423），主要终点为眼压变化和再手术率。
    原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.12.26367933v1?rss=1)
 
-9. [CG Oncology 膀胱癌免疫疗法临床试验显示复发风险降低68%](https://reisen-ww.github.io/hot-pages/acadhot/items/clep10dzqbpxjtbfvsvahqzuo)
+9. [CG Oncology 膀胱癌免疫疗法临床试验显示复发风险降低68%](https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss)
    来源：STAT News · 发布时间：2026-11-16 21:00（北京时间）
    摘要：CG Oncology公布其冷病毒工程疗法在Ⅲ期临床试验中降低局部晚期膀胱癌患者复发风险68%的积极结果。该试验纳入367名中危患者，通过膀胱内灌注改造的常见感冒病毒靶向肿瘤突变细胞。数据显示，接受该疗法患者3个月随访中未出现复发的比例显著优于现有标准治疗。研究证实该疗法可延缓或预防术后复发，减少重复手术需求。
    原文：[打开原文](https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss)
@@ -96,27 +96,27 @@ Garside等团队发现基于UV激发自荧光的多拷贝 suppressor筛选方法
   摘要：Mannik 团队通过设计新型 FtsA 结合蛋白 L125，发现其阻断细菌分裂晚期蛋白聚集，并揭示了一种依赖 ZipA 的未知的收缩机制。实验显示 L125 处理的细胞形成无法完成分裂的宽浅收缩结构，该现象与 ZipA 介导的预隔膜细胞壁合成相关，此前该机制未被证实可导致收缩。研究为理解细菌分裂的分子调控提供了新视角，特别是发现 ZipA 可能参与两种不同收缩路径的调控。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.15.766819v1?rss=1)
 
-- [Chen 等在 bioRxiv 发表 SOX4 通过非 DNA 结合调控 HNRNPC-WNT5A 轴抑制血管钙化的新机制](https://reisen-ww.github.io/hot-pages/acadhot/items/pmc11dg6ps677fowuqcq7z0vk)
+- [Chen 等在 bioRxiv 发表 SOX4 通过非 DNA 结合调控 HNRNPC-WNT5A 轴抑制血管钙化的新机制](https://www.biorxiv.org/content/10.64898/2026.11.16.767198v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
   摘要：该研究首次揭示 SOX4 通过非 DNA 结合调控 HNRNPC-WNT5A 轴抑制血管钙化的分子机制，并发现 WNT5A 抑制剂 BOX5 可有效缓解小鼠主动脉钙化。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.767198v1?rss=1)
 
-- [Nimac 等在 bioRxiv 发表 TDP-43 时空互作图谱揭示压力后网络重塑持续存在](https://reisen-ww.github.io/hot-pages/acadhot/items/v99rrsrd1vs6499a4ed6zcm9g)
+- [Nimac 等在 bioRxiv 发表 TDP-43 时空互作图谱揭示压力后网络重塑持续存在](https://www.biorxiv.org/content/10.64898/2026.11.16.766431v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
   摘要：该研究通过APEX2近邻标记结合定量质谱，构建了野生型TDP-43及病理模拟突变体（TDP-43dNLS/CTF）在稳态、氧化应激及恢复期的互作网络图谱，发现清除应激颗粒后仍存在持续网络重塑，提示分子记忆效应。研究系统揭示了TDP-43蛋白互作网络的动态时空特征及其病理意义。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766431v1?rss=1)
 
-- [某研究团队发现肠道菌群影响神经母细胞瘤儿童GD2/GD3疫苗应答](https://reisen-ww.github.io/hot-pages/acadhot/items/y7cre8679jxay1ql1odgyoofx)
+- [某研究团队发现肠道菌群影响神经母细胞瘤儿童GD2/GD3疫苗应答](https://www.biorxiv.org/content/10.64898/2026.11.16.766479v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
   摘要：137名高危神经母细胞瘤儿童接受GD2/GD3疫苗联合口服β-葡聚糖后，抗生素暴露组无进展生存期（PFS）显著更差。首次复发患者中，肠道菌群α多样性升高与抗GD2 IgG1抗体应答增强相关，而拟杆菌门（含Blautia属）丰度增加同样促进抗体应答，而梭菌属丰度升高则与PFS改善相关。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766479v1?rss=1)
 
-- [某研究团队在 bioRxiv 发布神经发育中 mTORC1 信号通路磷酸蛋白组学研究成果](https://reisen-ww.github.io/hot-pages/acadhot/items/fjzn1kja4uau1q3zqaq17afcb)
+- [某研究团队在 bioRxiv 发布神经发育中 mTORC1 信号通路磷酸蛋白组学研究成果](https://www.biorxiv.org/content/10.64898/2026.11.16.766904v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
   摘要：某研究团队通过跨物种磷酸蛋白组学分析，首次发现 mTORC1 依赖性磷酸化调控 USP9X 并影响 mRNA 剪接，揭示神经发育新机制。该研究发布 PhosphoTargets 平台，整合小鼠与人类神经发育模型中 1000+ 蛋白及 10,000+ 磷酸化位点的数据，并验证 USP9X 作为 mTORC1 新底物的功能。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766904v1?rss=1)
 
-- [Rannou 等在 bioRxiv 发表杜氏肌营养不良中 cGAS-STING 通路致病机制研究](https://reisen-ww.github.io/hot-pages/acadhot/items/p1hdsyqg6mf2nu8s4ij9y9gqb)
+- [Rannou 等在 bioRxiv 发表杜氏肌营养不良中 cGAS-STING 通路致病机制研究](https://www.biorxiv.org/content/10.64898/2026.11.13.766546v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
   摘要：该研究揭示杜氏肌营养不良（DMD）患者巨噬细胞中胞内DNA水平升高且 TREX1 活性降低，导致 cGAS-STING 通路异常激活，抑制肌肉生成。合成非编码RNA药物 TY1 通过增强 TREX1 活性抑制该通路，在口服或静脉给药后有效延缓 mdx 小鼠的疾病进展并逆转心脏和骨骼肌肉病理。研究为 DMD 提供了新的治疗靶点（TREX1、cGAS、STING）。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766546v1?rss=1)

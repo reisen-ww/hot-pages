@@ -47,7 +47,7 @@
    摘要：佩雷拉-布恩兄弟因以太坊 MEV 欺诈指控被定罪但最终获无罪宣判。案件涉及 25 万美元，法官裁定检方未充分证明指控成立。
    相关：
    - [法院判决‘MEV兄弟’25万美元以太坊案件无罪](https://unchainedcrypto.com/judge-acquits-mev-brothers-in-25-million-ethereum-case-finding-no-misrepresentation/) · Unchained · 2026-11-17 18:45（北京时间）
-   - [以太坊‘MEV兄弟’利用漏洞获利25万美元后被判无罪](https://reisen-ww.github.io/hot-pages/cryptohot/items/uj9luwu8qig00erwmtoyzo46r) · Protos · 2026-11-18 01:41（北京时间）
+   - [以太坊‘MEV兄弟’利用漏洞获利25万美元后被判无罪](https://protos.com/code-is-law-judge-acquits-mev-brothers-over-25m-ethereum-exploit/) · Protos · 2026-11-18 01:41（北京时间）
    原文：[打开原文](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)
 
 ## 股票市场
@@ -74,8 +74,8 @@
    来源：The Defiant · 发布时间：2026-11-17 22:14（北京时间） · 另有 2 家信源报道
    摘要：Anthropic IPO定价预计在78美元或更高，并需等待监管审批。基础股份销售估值约644亿美元（未计费用），最终定价将于11月18日确定。
    相关：
-   - [Anthropic IPO定价料触及区间上限，募资规模有望超SpaceX创纪录](https://reisen-ww.github.io/hot-pages/cryptohot/items/fhnis5uugfjcrc8bsp6z1want) · 华尔街见闻 · 2026-11-17 22:28（北京时间）
-   - [Anthropic将IPO定价指引至区间上限或更高水平](https://reisen-ww.github.io/hot-pages/cryptohot/items/wwu43bfgcatup0tso89dcu55d) · PANews · 2026-11-17 21:59（北京时间）
+   - [Anthropic IPO定价料触及区间上限，募资规模有望超SpaceX创纪录](https://wallstreetcn.com/articles/3786120) · 华尔街见闻 · 2026-11-17 22:28（北京时间）
+   - [Anthropic将IPO定价指引至区间上限或更高水平](https://www.panewslab.com/zh/articles/01a1e9cd-d2c0-767c-b2e4-e82076c1df33) · PANews · 2026-11-17 21:59（北京时间）
    原文：[打开原文](https://thedefiant.io/frontier/ai/anthropic-said-to-guide-ipo-price-to-78-or-higher)
 
 5. [Altimeter CEO透露Anthropic IPO超购10-20倍](https://reisen-ww.github.io/hot-pages/cryptohot/items/bn57svdvklwo1vpblqrun0ush)
@@ -83,24 +83,24 @@
    摘要：Anthropic IPO超额认购10-20倍，Altimeter Capital申报认购50亿美元新股。
    原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e9bf-714e-7154-93e1-9d1dbbb4d355)
 
-6. [Bitwise推出首款非加密货币ETF ZDAY](https://reisen-ww.github.io/hot-pages/cryptohot/items/mqgrjd1aspxu2ryam8s0apytr)
+6. [Bitwise推出首款非加密货币ETF ZDAY](https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062)
    来源：The Block · 发布时间：2026-11-17 22:00（北京时间） · 一手 · 另有 2 家信源报道
    摘要：Bitwise宣布推出首款非加密货币ETF ZDAY，该基金在纽交所上市，管理费率0.75%，持仓覆盖10-30家AI网络安全公司（如CrowdStrike和Palo Alto）。
    相关：
-   - [Bitwise推出AI网络安全ETF ZDAY，首批重仓股包括Palo Alto Networks等](https://reisen-ww.github.io/hot-pages/cryptohot/items/kol69ou4ca0gf3gsx7h3xlwmt) · PANews · 2026-11-17 22:04（北京时间）
-   - [Bitwise推出首款非加密资产ETF ZDAY](https://reisen-ww.github.io/hot-pages/cryptohot/items/ctwhjcstolmwrd974y7jmbf41) · Crypto Briefing · 2026-11-18 00:45（北京时间）
+   - [Bitwise推出AI网络安全ETF ZDAY，首批重仓股包括Palo Alto Networks等](https://www.panewslab.com/zh/articles/01a1e9d2-c89a-7231-97a8-da226db02ccb) · PANews · 2026-11-17 22:04（北京时间）
+   - [Bitwise推出首款非加密资产ETF ZDAY](https://cryptobriefing.com/bitwise-launches-zday-ai-cyber-defense-etf/) · Crypto Briefing · 2026-11-18 00:45（北京时间）
    原文：[打开原文](https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062)
 
 ## 快讯
 
-- [Anthropic 在纳斯达克全球精选市场上市 A 类普通股（股票代码：ANT）](https://reisen-ww.github.io/hot-pages/cryptohot/items/sci0l3te57wz4vim96bkol0kw)
+- [Anthropic 在纳斯达克全球精选市场上市 A 类普通股（股票代码：ANT）](https://www.chaincatcher.com/article/2305572)
   来源：链捕手 ChainCatcher · 发布时间：2026-11-17 19:32（北京时间） · 一手 · 另有 4 家信源报道 · 跟进：2026-11-12 的日报报道过这件事，这里是新进展
   摘要：Anthropic 已获准在纳斯达克全球精选市场上市，股票代码为‘ANT’。该次上市采用 A 类普通股形式，具体上市细节需参考纳斯达克官方公告。
   相关：
   - [Anthropic IPO定价与表现将验证AI供应链投资逻辑](https://wallstreetcn.com/articles/3786067) · 华尔街见闻 · 2026-11-17 09:11（北京时间）
   - [市场宽幅震荡半导体产业链盘中反弹：英伟达财报与Anthropic上市影响分析](https://reisen-ww.github.io/hot-pages/cryptohot/items/vi427qr1xdggi4wdy7w4b3ahr) · 东方财富 · 2026-11-17 16:22（北京时间）
-  - [Anthropic 获得多笔超百亿美元规模 IPO 订单](https://reisen-ww.github.io/hot-pages/cryptohot/items/zvbapp9xmekymy5vwdr7e3lpx) · 链捕手 ChainCatcher · 2026-11-17 22:51（北京时间）
-  - [Anthropic IPO定价或高于当前区间$70-$78，CNBC消息源称](https://reisen-ww.github.io/hot-pages/cryptohot/items/f4y93qsf7lhlszg8bl6je5p5v) · CNBC Top News · 2026-11-17 22:34（北京时间）
+  - [Anthropic 获得多笔超百亿美元规模 IPO 订单](https://www.chaincatcher.com/article/2305634) · 链捕手 ChainCatcher · 2026-11-17 22:51（北京时间）
+  - [Anthropic IPO定价或高于当前区间$70-$78，CNBC消息源称](https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html) · CNBC Top News · 2026-11-17 22:34（北京时间）
   原文：[打开原文](https://www.chaincatcher.com/article/2305572)
 
 - [Lighter交易所恢复提现与存款，智能合约及基础设施未受影响](https://www.chaincatcher.com/article/2305375)
@@ -108,9 +108,9 @@
   摘要：Lighter交易所宣布恢复提现与存款功能，其智能合约及基础设施未受影响。事件源于攻击者利用泄露的API密钥和nonce推导机制转移资金，已通过Security Council返还约500万USDC。Guardian模式已关闭，当前待处理提现正在处理中。
   相关：
   - [Lighter API密钥泄露致500万美元USDC被盗，官方追回并升级安全措施](https://www.panewslab.com/zh/articles/01a1e8ea-333b-779c-a8a4-63cb4080b439) · PANews · 2026-11-17 17:50（北京时间）
-  - [Lighter交易所恢复提款并退还约500万美元USDC](https://reisen-ww.github.io/hot-pages/cryptohot/items/guu045dgenugxd167r3016u9v) · The Block · 2026-11-17 20:00（北京时间）
+  - [Lighter交易所恢复提款并退还约500万美元USDC](https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113) · The Block · 2026-11-17 20:00（北京时间）
   - [Lighter交易所安全漏洞致超千万USDC被盗，暴露提款控制外风险](https://reisen-ww.github.io/hot-pages/cryptohot/items/wxdbj5hcse5hxu7tv3ubtcv1s) · Cointelegraph · 2026-11-18 01:51（北京时间）
-  - [Lighter交易所因API密钥泄露导致50万美元USDC被盗事件处理进展](https://reisen-ww.github.io/hot-pages/cryptohot/items/pkzd31j4xsoeq6sw5muw24jo3) · Unchained · 2026-11-17 19:30（北京时间）
+  - [Lighter交易所因API密钥泄露导致50万美元USDC被盗事件处理进展](https://unchainedcrypto.com/lighter-reopens-withdrawals-hands-5-million-usdc-back-to-drained-trader/) · Unchained · 2026-11-17 19:30（北京时间）
   原文：[打开原文](https://www.chaincatcher.com/article/2305375)
 
 - [谷歌发布自主网络攻击研究报告：首个全自动化漏洞利用框架曝光](https://reisen-ww.github.io/hot-pages/cryptohot/items/qo3x3j7iy5afchds0cks6q3rd)
@@ -118,12 +118,12 @@
   摘要：谷歌威胁情报团队（GTIG）在2026年第四季度报告中披露，发现名为exploit\_agent的首个完全自动化漏洞发现与利用框架。该框架可自主连接大型语言模型并分析网页应用漏洞，已成功实施针对法国媒体、娱乐及教育行业的定向攻击，并遗留后门脚本和暴力破解工具。报告预测，此类自动化攻击将在1-3个月内普及低级版本，3-6个月内出现更复杂变种。
   原文：[打开原文](https://cryptobriefing.com/google-warns-autonomous-cyberattacks-arrived/)
 
-- [美银调查显示：科技股持仓创2006年以来最大降幅](https://reisen-ww.github.io/hot-pages/cryptohot/items/nmbf9tji91tm43j8tcff3ahw7)
+- [美银调查显示：科技股持仓创2006年以来最大降幅](https://www.panewslab.com/zh/articles/01a1e940-1763-7308-8dbc-72f6817e487a)
   来源：PANews · 发布时间：2026-11-17 19:24（北京时间） · 一手 · 另有 2 家信源报道
   摘要：美银调查显示，科技股持仓创2006年以来最大降幅，超配比例从10月的37%降至12%，38%受访者认为AI投资过度，52%预计年内有巨头削减支出。
   相关：
   - [美国银行调查显示基金管理人以2006年以来最快速度削减科技股配置](https://reisen-ww.github.io/hot-pages/cryptohot/items/iw55m810g9j12pdk31dm05jg3) · Crypto Briefing · 2026-11-18 00:10（北京时间）
-  - [美银调查显示基金经理20年来最大幅度削减科技股仓位](https://reisen-ww.github.io/hot-pages/cryptohot/items/qf8o7qye5c915axl9g8q1zdtc) · 华尔街见闻 · 2026-11-18 06:13（北京时间）
+  - [美银调查显示基金经理20年来最大幅度削减科技股仓位](https://wallstreetcn.com/articles/3786133) · 华尔街见闻 · 2026-11-18 06:13（北京时间）
   原文：[打开原文](https://www.panewslab.com/zh/articles/01a1e940-1763-7308-8dbc-72f6817e487a)
 
 - [Gate交易所上线infiniFi现货交易及质押活动](https://reisen-ww.github.io/hot-pages/cryptohot/items/a4sh15lrgcvzq1bsk4kvcuvze)
@@ -155,7 +155,7 @@
   摘要：Binance遭攻击者转移74,881枚ETH（价值1.37亿美元），相关地址中仍有价值23亿美元的BTC和ETH未完成洗白。
   相关：
   - [币安黑客转移7.49万枚ETH并通过THORChain兑换BTC](https://www.panewslab.com/zh/articles/01a1e904-0c51-7338-946e-668f93e5d812) · PANews · 2026-11-17 18:18（北京时间）
-  - [币安黑客钱包两星期后转移价值1.37亿美元以太坊](https://reisen-ww.github.io/hot-pages/cryptohot/items/m7scmxhy2d982yh3dno351fyz) · Decrypt · 2026-11-18 01:18（北京时间）
+  - [币安黑客钱包两星期后转移价值1.37亿美元以太坊](https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks) · Decrypt · 2026-11-18 01:18（北京时间）
   原文：[打开原文](https://www.chaincatcher.com/article/2305542)
 
 - [美联储主席哈马克重申加息节奏警告通胀失控或致加速提息](https://reisen-ww.github.io/hot-pages/cryptohot/items/b7oriwsxtyc3davp1t6kd6wnv)

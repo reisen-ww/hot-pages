@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[NGINX HTTP/2远程代码执行漏洞披露及修复建议]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5</link>
+      <description><![CDATA[<p>Wiz Research等团队发现NGINX两个CVE安全漏洞（CVE-2026-123633/CVE-2026-123007），可能导致未经身份验证的远程代码执行。</p>
+<p>🔗 <a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5">https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 18 Nov 2026 15:19:55 GMT</pubDate>
+      <guid isPermaLink="false">a3v8nkbd6ci3u9h8ueb0wlaq5</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Quad9因法国法律要求屏蔽盗版域名而退出该国]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2</link>
+      <description><![CDATA[<p>Quad9因法国法律要求屏蔽盗版域名而退出该国。法国法院以DNS服务需配合打击盗版为由，对Quad9等机构实施高额罚款，导致其无法继续运营。材料指出，DNS设计初衷并非内容过滤，强制屏蔽导致用户网络异常且无法区分正常故障与违规行为，可能引发更多隐私和安全问题。</p>
+<p>🔗 <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2">https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 18 Nov 2026 13:18:02 GMT</pubDate>
+      <guid isPermaLink="false">ua3cuq9cul1j139u5bpje36x2</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</link>
       <description><![CDATA[<p>Java4Shell漏洞利用方法：通过构造特定Base64编码触发OpenJDK 17.0.6+内存溢出，利用AVX-512硬件加速特性实现远程代码执行。受影响版本包括Oracle Java SE 8u511b33-perf及后续更新。PoC代码展示如何通过200万次Base64解码触发漏洞，并在内存中写入可控数据。修复建议包括禁用Base64硬件加速或AVX-512指令集。</p>
@@ -17,6 +39,17 @@
       <category>安全与隐私</category>
       <pubDate>Tue, 17 Nov 2026 21:11:28 GMT</pubDate>
       <guid isPermaLink="false">s06219w0ojwkjgo37ddgczjkj</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Phrack 73 期发布：23篇技术论文探讨 exploitation、AI 与硬件安全]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jtltpdmhm5w5z2wu7t3dih77h</link>
+      <description><![CDATA[<p>Phrack 73 期发布，包含23篇技术论文，涵盖 exploitation、reverse engineering、AI 与硬件安全，并回顾历史漏洞如 SSH1 CRC32 的问题，探讨AI后门与信任问题。杂志通过周年纪念活动，激励社区贡献新研究，并附有4篇开源历史文章，包括2003年Linux内核后门尝试的复盘。</p>
+<p>🔗 <a href="https://phrack.org/issues/73/introduction_md">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jtltpdmhm5w5z2wu7t3dih77h">https://reisen-ww.github.io/hot-pages/openhot/items/jtltpdmhm5w5z2wu7t3dih77h</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 18:31:25 GMT</pubDate>
+      <guid isPermaLink="false">jtltpdmhm5w5z2wu7t3dih77h</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
@@ -84,17 +117,6 @@
       <pubDate>Wed, 11 Nov 2026 18:16:01 GMT</pubDate>
       <guid isPermaLink="false">cc92w3d9y8vpvwqtxlwymi71o</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Mozilla Firefox 145版本发布：通过指纹识别研究显著提升用户隐私保护]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</link>
-      <description><![CDATA[<p>Mozilla Firefox 145版本发布，通过指纹识别研究显著提升用户隐私保护。基于近2500万Firefox用户的数据分析，研究团队在CCS 2026国际安全会议发表论文，并开放测试网站和工具。</p>
-<p>🔗 <a href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst">https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
-      <guid isPermaLink="false">valupcxo1s024tghy4cldjcst</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>
 </rss>

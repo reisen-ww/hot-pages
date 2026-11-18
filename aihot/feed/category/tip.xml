@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Prime Radiant 与 Simon Willison 发布安全代码执行沙盒工具（v86/容器/Quicksand）]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/psdyvx4w627c5ac6f5y861zj9</link>
+      <description><![CDATA[<p>Prime Radiant 与 Simon Willison 发布了三个安全代码执行沙盒工具（v86、容器、Quicksand），支持现有AI工具配置并控制API访问权限。</p>
+<p>🔗 <a href="https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/psdyvx4w627c5ac6f5y861zj9">https://reisen-ww.github.io/hot-pages/aihot/items/psdyvx4w627c5ac6f5y861zj9</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Tue, 17 Nov 2026 22:52:29 GMT</pubDate>
+      <guid isPermaLink="false">psdyvx4w627c5ac6f5y861zj9</guid>
+      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
+    </item>
+    <item>
       <title><![CDATA[Amazon Bedrock AgentCore 大JSON负载下降低token成本与延迟的优化实践]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/nssotndgv036yduu3soqhsyhb</link>
       <description><![CDATA[<p>在处理20MB+ JSON数据时，通过将大JSON数据持久化存储（Amazon S3）、分页加载（get_result_page_tool）和字典结构化压缩（_oversized_descriptor），将token消耗降低71%，平均响应延迟从15.4秒降至3.1秒。</p>
@@ -193,17 +204,6 @@
       <category>教程</category>
       <pubDate>Wed, 11 Nov 2026 19:19:21 GMT</pubDate>
       <guid isPermaLink="false">xyvokmcqey8oysculfp2gc9af</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Quick 推出AI驱动的产品开发全周期管理框架（AI-PDLC）]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/irfertyfoiwmo6ixtwx8o0qh5</link>
-      <description><![CDATA[<p>AWS推出AI驱动的产品开发全周期管理框架（AI-PDLC），整合企业数据并利用智能体加速开发流程。该框架包含Discover（需求发现）、Decide（优先级决策）、Design（规格生成）、Prototype（原型设计）四个阶段，通过六个专用智能体实现从分散信号到可执行规格的闭环管理，每个阶段均需人类审批确认决策依据。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/irfertyfoiwmo6ixtwx8o0qh5">https://reisen-ww.github.io/hot-pages/aihot/items/irfertyfoiwmo6ixtwx8o0qh5</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Wed, 11 Nov 2026 16:05:33 GMT</pubDate>
-      <guid isPermaLink="false">irfertyfoiwmo6ixtwx8o0qh5</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>

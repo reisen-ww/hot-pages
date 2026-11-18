@@ -9,6 +9,61 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[主流AI模型误判平民为军事目标：评测揭示安全漏洞]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tym161ld2neybwpxuvxpaomhm</link>
+      <description><![CDATA[<p>评测发现主流AI模型在模拟军事场景中误判平民为攻击目标，部分厂商已承诺改进安全措施。测试显示Claude Opus 5.5在真实卫星图像中将伊朗敏巴市小学标记为军事目标70%的案例，OpenAI模型在游戏模式下误标率高达41%。研究机构Vals AI指出，AI可通过生成3D战场和标注图像数据被滥用于训练自主武器系统，建议严格API安全过滤和模型对齐训练。</p>
+<p>🔗 <a href="https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tym161ld2neybwpxuvxpaomhm">https://reisen-ww.github.io/hot-pages/aihot/items/tym161ld2neybwpxuvxpaomhm</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Wed, 18 Nov 2026 15:47:49 GMT</pubDate>
+      <guid isPermaLink="false">tym161ld2neybwpxuvxpaomhm</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 首次开放 AI 系统供四家独立审计机构实地审查]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nt17g4j4yf2q61zagdzxfteoh</link>
+      <description><![CDATA[<p>OpenAI 首次开放 AI 系统供 Apollo Research、METR、Transluce 和 Goodfire 四家独立审计机构实地审查安全风险。审计范围包括未发布模型、源代码、训练数据及监控系统，允许与开发者保密沟通。OpenAI 与 Transluce 计划2027年1月启动为期八周的后续审查，由独立安全委员会全程监督并处理争议。</p>
+<p>🔗 <a href="https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nt17g4j4yf2q61zagdzxfteoh">https://reisen-ww.github.io/hot-pages/aihot/items/nt17g4j4yf2q61zagdzxfteoh</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Wed, 18 Nov 2026 14:36:42 GMT</pubDate>
+      <guid isPermaLink="false">nt17g4j4yf2q61zagdzxfteoh</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia因CEO更迭停止向中国销售H200芯片]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/kvwrrb9t57bc6du3hng6ksr0z</link>
+      <description><![CDATA[<p>Nvidia宣布停止向中国销售H200芯片，涉及美国25%关税政策调整。分析显示该决定可能使Nvidia明年在数据中心业务损失440亿至620亿美元，但公司称Grace Blackwell芯片需求仍强劲。中国科研机构正通过海外数据中心获取禁售芯片，新规要求海外数据中心必须证明不服务中国客户。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/kvwrrb9t57bc6du3hng6ksr0z">https://reisen-ww.github.io/hot-pages/aihot/items/kvwrrb9t57bc6du3hng6ksr0z</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Tue, 17 Nov 2026 23:37:48 GMT</pubDate>
+      <guid isPermaLink="false">kvwrrb9t57bc6du3hng6ksr0z</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia CEO黄仁勋离职后开放AI战略维持不变]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/stst24svg6fwuim4layta8w9r</link>
+      <description><![CDATA[<p>Nvidia在CEO黄仁勋离职后确认继续开放AI战略，已收购Hugging Face平台（开发者超1800万，企业客户20万家），其Nemotron开源模型现成为OpenRouter上最广泛使用的美国AI模型。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/stst24svg6fwuim4layta8w9r">https://reisen-ww.github.io/hot-pages/aihot/items/stst24svg6fwuim4layta8w9r</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Tue, 17 Nov 2026 23:04:35 GMT</pubDate>
+      <guid isPermaLink="false">stst24svg6fwuim4layta8w9r</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[亚马逊与谷歌将共同持有Anthropic近30%股权]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lwba5nov3yizkrb5pcsmidq5d</link>
+      <description><![CDATA[<p>亚马逊和谷歌在Anthropic IPO后将分别持有14.7%和13.7%的非投票股权，两者合计近30%。材料还提到亚马逊持有未转化的债券，若全部转换将持股近24%，而谷歌通过私募销售获得股份。AWS预计未来十年将投入超1000亿美元云计算服务。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lwba5nov3yizkrb5pcsmidq5d">https://reisen-ww.github.io/hot-pages/aihot/items/lwba5nov3yizkrb5pcsmidq5d</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Tue, 17 Nov 2026 22:29:05 GMT</pubDate>
+      <guid isPermaLink="false">lwba5nov3yizkrb5pcsmidq5d</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
       <title><![CDATA[Meta高管发布AI深度伪造视频引发安全争议]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr</link>
       <description><![CDATA[<p>Meta首席AI官Alexandr Wang发布AI生成视频，将Sam Altman与Muse吉祥物Jolly合成对话。Meta要求AI视频标注但静态图像无强制限制，此前OpenAI Sora上线后已出现大量冒用Altman的虚假视频。</p>
@@ -95,6 +150,17 @@
       <pubDate>Tue, 17 Nov 2026 14:00:29 GMT</pubDate>
       <guid isPermaLink="false">sivflfzn4f6fpaf9fcudnzidt</guid>
       <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Perplexity 2026年营收突破10亿美元，同比增4倍]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/hjzmk1ewsce1qhzy2kdig04ww</link>
+      <description><![CDATA[<p>Perplexity宣布2026年营收突破10亿美元，同比增长4倍，并推出智能体功能Computer和Teammates。根据行业对标，其估值可能达30-50亿美元（需验证经济模型）。同时，Alibaba将Qwen4-Max推理成本降至$3.27/任务，并优化了输出效率（较2025年9月版本成本降低68%）</p>
+<p>🔗 <a href="https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/hjzmk1ewsce1qhzy2kdig04ww">https://reisen-ww.github.io/hot-pages/aihot/items/hjzmk1ewsce1qhzy2kdig04ww</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Tue, 17 Nov 2026 09:24:56 GMT</pubDate>
+      <guid isPermaLink="false">hjzmk1ewsce1qhzy2kdig04ww</guid>
+      <author>noreply@reisen-ww.github.io (Latent Space)</author>
     </item>
     <item>
       <title><![CDATA[英伟达财报发布会将回应高管丑闻、合规调查及中国业务政策调整]]></title>
@@ -436,83 +502,6 @@
       <pubDate>Wed, 11 Nov 2026 19:35:11 GMT</pubDate>
       <guid isPermaLink="false">if66alm5quaptpzk0m266g4v9</guid>
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI单季度收入首次突破10亿美元]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fn9ifc2ks3c049342h52cq013</link>
-      <description><![CDATA[<p>OpenAI单季度收入首次突破10亿美元，同比增长近50%。但与Anthropic Q3收入17亿美元的规模相比，OpenAI在收入增速和云服务市场份额仍处追赶阶段。双方收入计算方式存在差异：OpenAI仅统计自身分成，而Anthropic包含合作伙伴收入。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fn9ifc2ks3c049342h52cq013">https://reisen-ww.github.io/hot-pages/aihot/items/fn9ifc2ks3c049342h52cq013</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 11 Nov 2026 16:14:44 GMT</pubDate>
-      <guid isPermaLink="false">fn9ifc2ks3c049342h52cq013</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic宣布AI技术可将AMD芯片切换时间从数月缩短至3天]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yg4hsr1iluhs6joj3azjsj22v</link>
-      <description><![CDATA[<p>Anthropic通过AI技术将AMD芯片的部署时间从数月缩短至3天，实现跨四类芯片架构的无缝切换。该成果基于自研AI模型Mythos的自动内核生成能力，使企业硬件切换成本降低。目前Anthropic与AMD达成战略投资，计划2027年部署2GW MI455X芯片集群，同时与Nvidia保持深度合作。</p>
-<p>🔗 <a href="https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yg4hsr1iluhs6joj3azjsj22v">https://reisen-ww.github.io/hot-pages/aihot/items/yg4hsr1iluhs6joj3azjsj22v</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 11 Nov 2026 14:25:20 GMT</pubDate>
-      <guid isPermaLink="false">yg4hsr1iluhs6joj3azjsj22v</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Plurai 发布AI智能体优化平台，获1300万美元种子轮融资]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/g59h5p8t778q2xu6y48oakyag</link>
-      <description><![CDATA[<p>Plurai 发布AI智能体优化平台，获1300万美元种子轮融资。通过模拟企业电子系统创建数字孪生环境，优化智能体多任务处理能力。测试显示其模型性能优于中端模型，成本降低多个数量级，并与Nvidia合作验证效果。联合创始人Ilan Kadar指出，现有通用模型无法适配企业特定政策和数据需求，Plurai通过小规模开放权重模型实现定制化部署。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/g59h5p8t778q2xu6y48oakyag">https://reisen-ww.github.io/hot-pages/aihot/items/g59h5p8t778q2xu6y48oakyag</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">g59h5p8t778q2xu6y48oakyag</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[xAI旗下Grok构建应用泄露患者数据及内部销售信息]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bthsmafmicxeqe7evxfk94kzd</link>
-      <description><![CDATA[<p>Grok构建的应用存在大规模数据泄露风险，包括患者记录和内部销售信息。Claroc报告显示94.7%的未授权访问应用来自SpaceXSI员工，涉及企业销售团队名单、广告提案等敏感数据。SpaceXSI虽已下线24个涉事内部应用，但未修复其他用户公开应用的安全漏洞。此前已发生Grok泄露370万对话记录和用户文件上传事件，爱尔兰数据保护机构正在调查。</p>
-<p>🔗 <a href="https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bthsmafmicxeqe7evxfk94kzd">https://reisen-ww.github.io/hot-pages/aihot/items/bthsmafmicxeqe7evxfk94kzd</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 11 Nov 2026 12:53:07 GMT</pubDate>
-      <guid isPermaLink="false">bthsmafmicxeqe7evxfk94kzd</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI企业销售推动季度营收达10亿美元但仍落后Anthropic]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/guk114ayhjdqmy2r31tocgq6k</link>
-      <description><![CDATA[<p>OpenAI 2026年第三季度营收达10亿美元（同比增长约50%），调整后运营亏损扩大至-109%，仍落后于计划IPO的Anthropic（Q3营收17亿美元，亏损567百万美元）。</p>
-<p>🔗 <a href="https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/guk114ayhjdqmy2r31tocgq6k">https://reisen-ww.github.io/hot-pages/aihot/items/guk114ayhjdqmy2r31tocgq6k</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 11 Nov 2026 12:12:47 GMT</pubDate>
-      <guid isPermaLink="false">guk114ayhjdqmy2r31tocgq6k</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[英国监管机构威胁对未采用AI防护考试形式的高校实施制裁]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/is28cob65a2xhrltq5hgsjnn6</link>
-      <description><![CDATA[<p>英国高等教育监管机构OfS威胁对未采用AI防护考试形式的高校实施制裁。OfS与第三方机构联合调查显示127所高校中超过300个教学单位存在学生使用AI完成论文且成绩与人工撰写无显著差异的问题，部分学生甚至通过ChatGPT完成整篇论文后无法回忆基础内容。</p>
-<p>🔗 <a href="https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/is28cob65a2xhrltq5hgsjnn6">https://reisen-ww.github.io/hot-pages/aihot/items/is28cob65a2xhrltq5hgsjnn6</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 11 Nov 2026 11:54:46 GMT</pubDate>
-      <guid isPermaLink="false">is28cob65a2xhrltq5hgsjnn6</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[AI模型评测与行业动态：Gemini Carbon、Claude Fable 5.2与Qwen 3.8对比]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gb2p8bzjvm9280vpinoffk2gg</link>
-      <description><![CDATA[<p>Mercor完成20亿美元估值D轮融资后，Google发布Gemini 4 Carbon并公布多模态应用场景。评测显示Carbon在CursorBench上领先Astra 6.2%，但存在幻觉问题；Claude Fable 5.2在生成游戏、Excel式应用等场景表现突出，但评测方法存在争议。</p>
-<p>🔗 <a href="https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gb2p8bzjvm9280vpinoffk2gg">https://reisen-ww.github.io/hot-pages/aihot/items/gb2p8bzjvm9280vpinoffk2gg</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 11 Nov 2026 09:34:28 GMT</pubDate>
-      <guid isPermaLink="false">gb2p8bzjvm9280vpinoffk2gg</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
     </item>
   </channel>
 </rss>

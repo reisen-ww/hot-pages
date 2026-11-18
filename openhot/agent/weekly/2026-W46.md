@@ -39,7 +39,7 @@
    摘要：PipesHub开源自托管向量数据库在EnterpriseRAG-Bench评测中排名第一，综合得分93.24，正确率95%。
    原文：[打开原文](https://www.reddit.com/r/selfhosted/comments/1xti468/self_hosted_glean_alternative_just_ranked_1_on/)
 
-6. [某团队开源Rust写的轻量级WhatsApp客户端，单机内存占用仅200MB](https://reisen-ww.github.io/hot-pages/openhot/items/tvtvems9d77vil064fo1hvz5v)
+6. [某团队开源Rust写的轻量级WhatsApp客户端，单机内存占用仅200MB](https://github.com/crmne/zapfast)
    来源：Hacker News 热榜 · 发布时间：2026-11-08 10:02（北京时间）
    摘要：某团队在GitHub开源Rust写的WhatsApp客户端ZapFast，Linux单机版内存占用仅200MB（对比Web版1.13GB），支持多语言界面与无浏览器引擎设计。安装指南包含macOS/Brew、Arch Linux/yay、Windows等平台的具体步骤，并强调本地加密存储与离线使用特性。
    原文：[打开原文](https://github.com/crmne/zapfast)

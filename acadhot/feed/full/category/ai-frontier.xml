@@ -9,6 +9,94 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
+      <title><![CDATA[中国水稻研究所王丹英、陈松团队与长江大学张运波教授合作提出水稻产量预测新模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/c33f03r7xp33xq0es00qgnanv</link>
+      <description><![CDATA[<p>中国水稻研究所王丹英、陈松团队与长江大学张运波教授合作，在《农业科学学报（英文）》（JIA）发表研究，提出基于跨时期注意力Transformer模型（riceCPAT）的多品种水稻产量预测方法，R²达74.39%，参数量减少66.7%，计算效率提升至2分21秒。模型在杭州、荆州、平湖三个独立试验中迁移验证，平均R²为67.20%，优于传统对齐方法。</p>
+<p>🔗 <a href="http://blog.sciencenet.cn/home.php?mod=space&amp;uid=3618084&amp;do=blog&amp;id=1561718">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/c33f03r7xp33xq0es00qgnanv">https://reisen-ww.github.io/hot-pages/acadhot/items/c33f03r7xp33xq0es00qgnanv</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 05:26:11 GMT</pubDate>
+      <guid isPermaLink="false">c33f03r7xp33xq0es00qgnanv</guid>
+      <author>noreply@reisen-ww.github.io (科学网博客)</author>
+    </item>
+    <item>
+      <title><![CDATA[伊利诺伊大学厄巴纳-香槟分校发表高分辨率三维排水模型]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/mlw8qsjicvx7f178vo8amd1m2</link>
+      <description><![CDATA[<p>伊利诺伊大学厄巴纳-香槟分校发表高分辨率三维排水模型，揭示农田排水系统对地表积水与地下水动态的影响。研究显示2米分辨率模型能保留局部积水与近管流结构，而40米分辨率模型平滑了这些细节。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-reveals-tile-farm-fields.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/mlw8qsjicvx7f178vo8amd1m2">https://reisen-ww.github.io/hot-pages/acadhot/items/mlw8qsjicvx7f178vo8amd1m2</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 03:20:07 GMT</pubDate>
+      <guid isPermaLink="false">mlw8qsjicvx7f178vo8amd1m2</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
+      <title><![CDATA[Bortecen团队提出新型归一化策略LPR，揭示eIF4A1/2与抑制剂silvestrol的差异化靶点]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/yhr2ltt7q5x4h15zvk1barz8m</link>
+      <description><![CDATA[<p>Bortecen团队提出LPR归一化策略，解决传统方法在全局蛋白质合成变化中的失真问题。该方法在环己酰亚胺处理中准确检测到57%的合成下降，并揭示eIF4A1耗竭导致的广泛翻译抑制，而silvestrol抑制剂则显示不同模式，提示存在次级效应。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.767045v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/yhr2ltt7q5x4h15zvk1barz8m">https://reisen-ww.github.io/hot-pages/acadhot/items/yhr2ltt7q5x4h15zvk1barz8m</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">yhr2ltt7q5x4h15zvk1barz8m</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队在bioRxiv发表Elflow：高维流式细胞术自动化质控与自监督表征学习框架]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/oso6wub2r5ehxyr8o2n8swvb8</link>
+      <description><![CDATA[<p>Elflow 是一个模块化、自监督的高维流式细胞术分析框架，整合了自动化质控、单细胞表征学习与患者级建模。在四个公开基准测试中，该工具能适应不同生物面板和临床目标，并在22通道光谱流式细胞术中保持T细胞功能分级的自监督嵌入，优于经典方法的不监督聚类，同时通过锚点引导复现了手动门控层次结构。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767309v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oso6wub2r5ehxyr8o2n8swvb8">https://reisen-ww.github.io/hot-pages/acadhot/items/oso6wub2r5ehxyr8o2n8swvb8</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">oso6wub2r5ehxyr8o2n8swvb8</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[FULL-seq 揭示单细胞中异构体特异性调控架构]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ob0olxdsqm1hrdmoj7ny1z7jv</link>
+      <description><![CDATA[<p>预印本研究提出单细胞多组学平台 FULL-seq，可同时分析染色质可及性与全长转录覆盖，精准定位基因异构体调控位点。在结直肠癌细胞中发现CALB1异构体激活与转移相关，并通过独立数据集验证。实验证实CRISPRi介导抑制该异构体可减少细胞迁移，为靶向异构体治疗提供新思路。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767299v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ob0olxdsqm1hrdmoj7ny1z7jv">https://reisen-ww.github.io/hot-pages/acadhot/items/ob0olxdsqm1hrdmoj7ny1z7jv</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ob0olxdsqm1hrdmoj7ny1z7jv</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[scUNVEIL 模型：通过测量增强学习单细胞RNA测序的细胞嵌入]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/nxlowqgqgkqwktpu9mgg79i15</link>
+      <description><![CDATA[<p>某团队开发scUNVEIL模型，通过测量增强学习单细胞RNA测序的细胞嵌入，显著提升计算效率并支持肿瘤反应预测。模型在88% fewer input UMIs per cell条件下匹配最强大模型的预测性能，其零样本表征在细粒度细胞类型注释任务中表现最佳，并可用于预测线粒体膜电位、细胞形态及治疗反应关联结果。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767296v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/nxlowqgqgkqwktpu9mgg79i15">https://reisen-ww.github.io/hot-pages/acadhot/items/nxlowqgqgkqwktpu9mgg79i15</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">nxlowqgqgkqwktpu9mgg79i15</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[Cross等团队在bioRxiv发表新型蛋白质Sidetrak，靶向kinesin-1抑制细胞运输调控]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/mz0c1l50nrmzbmcoz3rtetuab</link>
+      <description><![CDATA[<p>Cross等团队在bioRxiv发表新型蛋白质Sidetrak，通过靶向kinesin-1的coiled-coil结构抑制其与MAP7的相互作用。实验验证了Sidetrak对三种kinesin-1重链亚型的特异性结合，并发现其通过定量互作组学揭示了内源性kinesin-1复合物的选择性结合。该成果为通过设计蛋白调控细胞内运输提供了新方法，同时验证了AlphaFold3模型预测的局部几何结构。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.767073v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/mz0c1l50nrmzbmcoz3rtetuab">https://reisen-ww.github.io/hot-pages/acadhot/items/mz0c1l50nrmzbmcoz3rtetuab</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">mz0c1l50nrmzbmcoz3rtetuab</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队在arXiv预印本平台发布ARIPA系统：通过视觉语言模型实现病理图像核分割自动化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/bkz5sh6f5f3eaot231x4chqsu</link>
+      <description><![CDATA[<p>某团队开发ARIPA系统实现病理图像核分割自动化，无需训练即可通过视觉语言模型（VLM）优化专家反馈流程。在19例癌症患者来源器官oids的50,000个细胞核分割任务中，经专家反馈后F1分数提升14.68%（0.8380→0.9849），显著优于同类定制模型HoVer-Net（F1 0.4713）。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.767159v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/bkz5sh6f5f3eaot231x4chqsu">https://reisen-ww.github.io/hot-pages/acadhot/items/bkz5sh6f5f3eaot231x4chqsu</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bkz5sh6f5f3eaot231x4chqsu</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[SpaceX 在得克萨斯州星舰基地完成首次轨道星舰第二阶段捕获]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/nun57h08wpyg8h4yeopt201ib</link>
       <description><![CDATA[<p>SpaceX 在得克萨斯州星舰基地完成首次轨道星舰第二阶段捕获，飞行时长22.5小时，成功部署26颗星链卫星。星舰通过‘机械巨兽’机械臂完成回收，热防护层在再入大气层时耐受温度达3000华氏度。该成果为星链大规模部署和NASA 2028年载人登月计划奠定基础，此前因燃料系统警报导致的一次回收尝试失败。</p>
@@ -42,28 +130,6 @@
       <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[Saraei 等提出基于物理指导的潜在扩散模型用于阿尔茨海默病多标记染色分解]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/xw0ut7eab1hw6ouayhueqp81u</link>
-      <description><![CDATA[<p>Saraei 等提出基于物理指导的潜在扩散模型（MorphoStain）用于阿尔茨海默病多标记染色分解，在 9,908 个 SEA-AD 数据集验证中实现 140.1 FPS 实时处理。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.15.26368147v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/xw0ut7eab1hw6ouayhueqp81u">https://reisen-ww.github.io/hot-pages/acadhot/items/xw0ut7eab1hw6ouayhueqp81u</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">xw0ut7eab1hw6ouayhueqp81u</guid>
-      <author>noreply@reisen-ww.github.io (medRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Kim, H. B., Kim, K.-e. 发布改进型 Casanovo-TMT 质谱测序模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rw1fxt5q706ckc7wyt8u2f3aw</link>
-      <description><![CDATA[<p>Kim, H. B., Kim, K.-e. 在 bioRxiv 发布改进型 Casanovo-TMT 质谱测序模型，测试集精度达 84.7%，公开数据集表现分别为 87.4% 和 79.6%。优化后精度提升至 95%，同时保留 81.7% 的测试样本。该模型在磷酸肽测序中识别率超过 69%，部分结果优于传统数据库搜索工具。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.15.766634v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rw1fxt5q706ckc7wyt8u2f3aw">https://reisen-ww.github.io/hot-pages/acadhot/items/rw1fxt5q706ckc7wyt8u2f3aw</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">rw1fxt5q706ckc7wyt8u2f3aw</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
       <title><![CDATA[某团队在 bioRxiv 发布 SAM2 显微镜图像分割大模型]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/mgoovv3xe7cgkl2cqt6wvt6t5</link>
       <description><![CDATA[<p>某团队发布 SAM2 显微镜图像分割大模型，该模型在 2D 和 3D 光学/电子显微镜图像分割中达到最优性能，支持超过 2300 万细胞和核的标注数据训练。除基础分割功能外，SAM2 还具备像素/对象分类（仅需少量标注）和 2D/3D 时间序列细胞追踪能力，已集成至 SAM napari 插件。论文展示了该模型在发育生物学、类器官研究、心脏生理学和病理组织学中的跨领域应用案例</p>
@@ -75,61 +141,6 @@
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[Carabba 等在 bioRxiv 发表嵌入核方法解析生物序列-功能关系]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/lzcitgv1arfg7wc26vzyk6acm</link>
-      <description><![CDATA[<p>Carabba 等提出基于嵌入核的高斯过程回归方法，用于解析生物序列与功能的关系。该方法在数万条测量数据集上实现GPU加速，验证了其预测性能优于传统核方法，并成功解析了RNA碱基配对等复杂生物学机制。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.15.766687v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/lzcitgv1arfg7wc26vzyk6acm">https://reisen-ww.github.io/hot-pages/acadhot/items/lzcitgv1arfg7wc26vzyk6acm</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">lzcitgv1arfg7wc26vzyk6acm</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[N/T基因框架揭示癌症分子分型与进展规律]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/lx9f9zcxykvwb7cuxspubm1s5</link>
-      <description><![CDATA[<p>某团队提出N/T基因框架，用于分析癌症中通路的失调程度，并揭示分子亚型分类与进展规律。该方法在前列腺癌（PRAD，n=499）、肺腺癌（LUAD）、肝细胞癌（LIHC）和胶质瘤（GBM）中验证，通过有效激活频率量化通路异常，结合层次聚类和最小生成树分析，发现6类主要分子亚型（占比81.4%），并建立跨癌症的通路失调图谱。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.13.766402v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/lx9f9zcxykvwb7cuxspubm1s5">https://reisen-ww.github.io/hot-pages/acadhot/items/lx9f9zcxykvwb7cuxspubm1s5</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">lx9f9zcxykvwb7cuxspubm1s5</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[乌干达团队开发肺结核筛查AI模型，简化6区超声扫描流程]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/k4uvhmkjf78dkxb06fohtqb6j</link>
-      <description><![CDATA[<p>乌干达团队在2023-2025年开展前瞻性研究，开发并验证了结合肺超声图像和临床数据的深度学习模型用于肺结核筛查。测试集显示临床模型AUC 0.88，纯超声模型0.93-0.95，联合模型0.91-0.93。简化至6个超声区的协议在90%敏感性下特异性达82.2%-91.1%。研究通过Mulago医院和Rutgers大学伦理审查，数据将公开存档。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.14.26368125v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/k4uvhmkjf78dkxb06fohtqb6j">https://reisen-ww.github.io/hot-pages/acadhot/items/k4uvhmkjf78dkxb06fohtqb6j</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">k4uvhmkjf78dkxb06fohtqb6j</guid>
-      <author>noreply@reisen-ww.github.io (medRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[BioRxiv 预印本：Vecmatch 算法实现多组别协变量平衡]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/i1wkh4k11qboz5huphz1y46oq</link>
-      <description><![CDATA[<p>Kolek 和 Vogl 在 BioRxiv 发布了 Vecmatch 算法，支持超过两组的协变量平衡，包含随机搜索优化参数组合、可视化协变量分布、广义倾向得分估计等工具，并附后匹配质量评估函数。该 R 包适用于复杂观察性研究中的因果推断。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.06.764786v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/i1wkh4k11qboz5huphz1y46oq">https://reisen-ww.github.io/hot-pages/acadhot/items/i1wkh4k11qboz5huphz1y46oq</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">i1wkh4k11qboz5huphz1y46oq</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 bioRxiv 发表质谱代谢组学功能解析框架 Spec2Function]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/gtpfmi4h7lg2cdwkw6btzuuxl</link>
-      <description><![CDATA[<p>某团队在 bioRxiv 发表质谱代谢组学功能解析框架 Spec2Function，该框架通过整合质谱数据和功能文本，显著提高了代谢组学功能解析的准确性。在人类肝硬化和恒河猴衰老研究中，验证了其发现新功能模块的能力，其中涉及30个器官的代谢功能解析和独立人/鼠数据验证。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.766993v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/gtpfmi4h7lg2cdwkw6btzuuxl">https://reisen-ww.github.io/hot-pages/acadhot/items/gtpfmi4h7lg2cdwkw6btzuuxl</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">gtpfmi4h7lg2cdwkw6btzuuxl</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
       <title><![CDATA[某团队在 bioRxiv 发布基于超图神经网络的基因必需性预测新方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ewmsl6gc2opyugm9ir3zv4lzu</link>
       <description><![CDATA[<p>某团队提出基于超图神经网络的基因必需性预测方法 HyperGenie，在数据稀缺条件下保持高预测性能（PR-AUC &gt;90%）。实验验证显示该方法能纠正基准数据集中三个基因的必需性误标注，并与独立反应多层感知机（MLPGenie）在六种替代碳源环境中对比，证明其超图推理优势（平均PR-AUC提升2%-4%）。</p>
@@ -138,28 +149,6 @@
       <category>AI 前沿</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">ewmsl6gc2opyugm9ir3zv4lzu</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 medRxiv 发表呼吸道病毒预测模型改进研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/dy7e4hdrb99n2mocl9xgw5h2n</link>
-      <description><![CDATA[<p>某团队在澳大利亚五个司法管辖区验证的贝叶斯更新模型，将呼吸道病毒预测准确率提升15%-30%，并首次量化学校假期对传播率的影响（R(t)下降5-15%）。模型整合学校假期、公共假期及季节性变化因素，通过GitHub代码库（DOI:10.26188/34999054）实现，但原始病例数据需通过申请获取。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.15.26367964v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/dy7e4hdrb99n2mocl9xgw5h2n">https://reisen-ww.github.io/hot-pages/acadhot/items/dy7e4hdrb99n2mocl9xgw5h2n</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">dy7e4hdrb99n2mocl9xgw5h2n</guid>
-      <author>noreply@reisen-ww.github.io (medRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队开发新型活体组织空间转录组测序技术LIFE-seq]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/cjrup0fb94wv4t3xa4cb31sxk</link>
-      <description><![CDATA[<p>某团队开发新型活体组织空间转录组测序技术LIFE-seq，并验证其在小鼠创伤性脑损伤模型中的有效性。该方法结合高密度纳米森林阵列与定向转移至空间标记mRNA捕获芯片，实现活体组织纵向时空转录组分析。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.13.766339v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/cjrup0fb94wv4t3xa4cb31sxk">https://reisen-ww.github.io/hot-pages/acadhot/items/cjrup0fb94wv4t3xa4cb31sxk</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">cjrup0fb94wv4t3xa4cb31sxk</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>

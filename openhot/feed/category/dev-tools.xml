@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Zed 1.29.1版本发布：新增Git分支对比、Claude模型支持及多项功能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf</link>
+      <description><![CDATA[<p>Zed 1.29.1版本发布，新增Git分支对比模式、Claude Fable 5.2和Mythos 5.2模型支持，并修复了自动生成线程标题设置、文件打开路径问题（#66103/65436/66330）及终端链接跨系统兼容性（#66594）。</p>
+<p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.29.1">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf">https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 16:53:02 GMT</pubDate>
+      <guid isPermaLink="false">fsn8oifo8u424682gwa9rvetf</guid>
+      <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
       <title><![CDATA[uv 0.13.9 发布：优化锁文件与支持新PEP标准]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn</link>
       <description><![CDATA[<p>uv 0.13.9 版本发布，优化锁文件大小和读取速度（#23184），新增 PEP 832 支持（#21822）及 HTTP/2 连接管理功能（#23236），同时将 Rust 依赖版本提升至 1.98（#23263）。支持多平台预构建包（ARM64/PPC64LE/RISC-V 等），可通过 GitHub CLI 验证发布包完整性（#23185）</p>
@@ -18,6 +29,17 @@
       <pubDate>Tue, 17 Nov 2026 09:57:55 GMT</pubDate>
       <guid isPermaLink="false">wj5k3wnh6t3kpd3va6rwyzzsn</guid>
       <author>noreply@reisen-ww.github.io (uv 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[Unref 开源 Rust 编写的 Python 死代码查找器]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/osnn3oiqwa6lhsenqgyvr7p26</link>
+      <description><![CDATA[<p>团队开源 Rust 编写的 Python 死代码查找器 Unref，比 vulture 快 20 倍。支持 pytest、Pydantic、SQLAlchemy 等框架，配置在 pyproject.toml，提供预提交钩子集成方案，文档地址为 unref.readthedocs.io</p>
+<p>🔗 <a href="https://github.com/Apakottur/unref">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/osnn3oiqwa6lhsenqgyvr7p26">https://reisen-ww.github.io/hot-pages/openhot/items/osnn3oiqwa6lhsenqgyvr7p26</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 13:30:30 GMT</pubDate>
+      <guid isPermaLink="false">osnn3oiqwa6lhsenqgyvr7p26</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
       <title><![CDATA[开源Rust BRep内核vcad：支持参数化设计的精确导数计算]]></title>
@@ -73,17 +95,6 @@
       <pubDate>Thu, 12 Nov 2026 04:32:31 GMT</pubDate>
       <guid isPermaLink="false">it6ny6x8i4a7e7p2sho2ohilu</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rust项目公布2026年Google Summer of Code 13个成功项目成果]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</link>
-      <description><![CDATA[<p>Rust项目在GitHub发布2026年GSoC成果，13个项目全部通过终评。涉及Wild linker支持Linux内核模块链接（性能比BFD快2-4倍）、rust-analyzer迁移至SyntaxEditor减少内存占用、libc解决32/64位兼容性问题等。</p>
-<p>🔗 <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3">https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Wed, 11 Nov 2026 15:03:06 GMT</pubDate>
-      <guid isPermaLink="false">vx4mmrg94x1bh1fy6kygncwz3</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

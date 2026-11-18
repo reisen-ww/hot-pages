@@ -1,0 +1,16 @@
+# Backpack获美国期货佣金商批准，正式上线衍生品交易
+
+> 原标题：Backpack secures NFA approval for US derivatives launch
+
+- 来源：Crypto Briefing
+- 发布时间：2026-11-18T15:01:59.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/j3nslm4hc5feaezby5vh653xl
+- 原文：https://cryptobriefing.com/backpack-nfa-approval-us-derivatives/
+
+## 摘要
+
+Backpack获美国国家期货协会（NFA）批准，成为美国首个拥有完整衍生品交易牌照的区块链交易所。一周内其关联实体TLD Clearing（清算组织）和TLD Markets（指定合约市场）亦获CFTC批准，形成期货佣金商（FCM）、清算组织、指定合约市场三级合规架构。目前其代币BP在CFTC公告后上涨23%，但具体交易服务尚未开放。
+
+## 推荐理由
+
+原文指出这是美国首次批准区块链衍生品交易所，为合规运营提供关键基础设施，影响用户参与和行业监管标准。

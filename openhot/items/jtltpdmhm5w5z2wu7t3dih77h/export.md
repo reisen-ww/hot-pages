@@ -1,6 +1,6 @@
-# Phrack 73 发布
+# Phrack 73 期发布：23篇技术论文探讨 exploitation、AI 与硬件安全
 
-> 原标题：Phrack 73 Released
+> 原标题：Phrack 73
 
 - 来源：Hacker News 热榜
 - 发布时间：2026-11-17T18:31:25.000Z
@@ -9,4 +9,8 @@
 
 ## 摘要
 
-Phrack 73 是该杂志新团队的第三期发布，包含 23 篇主要论文和 8 篇 Line Noise 文章，主题涵盖漏洞利用、逆向工程、机器学习、硬件以及相关历史和文化。本期还包括 PhrackCTF 挑战和早期botnets故事等内容，旨在激发新的研究和讨论。
+Phrack 73 期发布，包含23篇技术论文，涵盖 exploitation、reverse engineering、AI 与硬件安全，并回顾历史漏洞如 SSH1 CRC32 的问题，探讨AI后门与信任问题。杂志通过周年纪念活动，激励社区贡献新研究，并附有4篇开源历史文章，包括2003年Linux内核后门尝试的复盘。
+
+## 推荐理由
+
+该杂志通过涵盖 exploitation、reverse engineering、AI 与硬件安全等23篇技术论文，激发读者实践与贡献，推动安全研究社区发展。

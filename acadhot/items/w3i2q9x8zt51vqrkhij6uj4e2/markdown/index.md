@@ -1,0 +1,12 @@
+# 浙江大学编委会圆满举办 Sensors 期刊研讨会
+
+> 原标题：Sensors 期刊浙江大学编委会圆满举办
+
+- 来源：科学网博客
+- 发布时间：2026-11-18T05:25:54.000Z
+- 学术热点：https://reisen-ww.github.io/hot-pages/acadhot/items/w3i2q9x8zt51vqrkhij6uj4e2
+- 原文：http://blog.sciencenet.cn/home.php?mod=space&uid=3516770&do=blog&id=1561717
+
+## 摘要
+
+2026年10月26日，Sensors 期刊编委会在浙江大学召开，与会专家围绕期刊发展、优质稿源拓展及学术活动合作等议题展开深入交流，为期刊高质量发展凝聚共识。期刊将继续优化收稿范畴，提升学术产出质量，并深化与高校及学界的合作，推动传感领域的科研突破。

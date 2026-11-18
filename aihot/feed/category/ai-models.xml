@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[OpenAI发布GPT-6.2 Astra与Sol：价格调整及性能对比]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/eq0p1uprzopcwwh6rq0l3k9c6</link>
+      <description><![CDATA[<p>OpenAI发布GPT-6.2 Astra（面向复杂项目）和GPT-6.2 Sol（日常场景），Astra输入价$8/MTok（较前代降20%）、输出价$40/MTok，缓存价格降至$0.40/百万（原价$1）。</p>
+<p>🔗 <a href="https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/eq0p1uprzopcwwh6rq0l3k9c6">https://reisen-ww.github.io/hot-pages/aihot/items/eq0p1uprzopcwwh6rq0l3k9c6</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Tue, 17 Nov 2026 22:38:52 GMT</pubDate>
+      <guid isPermaLink="false">eq0p1uprzopcwwh6rq0l3k9c6</guid>
+      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
+    </item>
+    <item>
       <title><![CDATA[OpenAI发布GPT-6.2 Astra和Sol：API价格降低，部分基准测试性能提升]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/p5cip2ebac62ahwfr7amiaqby</link>
       <description><![CDATA[<p>OpenAI发布面向专业场景的GPT-6.2 Astra和日常使用的GPT-6.2 Sol，Astra在Agents&apos; Last Exam基准测试中较前代提升5.2分且成本降低67%，在Harvey LAB-AA法律测试中通过率翻倍；Sol在编码基准中得分较前代下降3分但价格仅为其1/3。</p>
@@ -106,28 +117,6 @@
       <pubDate>Thu, 12 Nov 2026 12:09:43 GMT</pubDate>
       <guid isPermaLink="false">z8ecskpqxdj2jc98qan7ad24i</guid>
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[DeepMind发布AlphaGenome 2模型：解析细胞读取DNA机制以增进疾病理解]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm</link>
-      <description><![CDATA[<p>DeepMind发布AlphaGenome 2模型，通过单细胞生物学与人类遗传学结合，显著提升特定细胞类型基因表达预测精度（较前代因果变体识别率提高30%至16%，方向性基因效应识别率提升23%至43%）。该模型支持未见过的新细胞状态推断（如COVID-19 mRNA疫苗激活的T细胞），并首次整合DNA甲基化预测功能。现提供非商业API访问和商业预览，已包含107百万个体细胞数据训练。</p>
-<p>🔗 <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm">https://reisen-ww.github.io/hot-pages/aihot/items/lgk58pak7v504xjvk5iprvffm</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Wed, 11 Nov 2026 15:00:15 GMT</pubDate>
-      <guid isPermaLink="false">lgk58pak7v504xjvk5iprvffm</guid>
-      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
-    </item>
-    <item>
-      <title><![CDATA[DeepMind发布AlphaGenome 2：精准解析细胞级疾病根源]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/orlugphkp6ti32tu7o4jj7lrm</link>
-      <description><![CDATA[<p>DeepMind发布AlphaGenome 2模型，通过训练1.08亿个细胞profile（覆盖68种组织），可识别近两倍于前代的基因变体对细胞的影响。该模型能预测未训练的新细胞状态，并协助科学家定位实验研究方向。长期目标包括构建虚拟细胞系统。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/orlugphkp6ti32tu7o4jj7lrm">https://reisen-ww.github.io/hot-pages/aihot/items/orlugphkp6ti32tu7o4jj7lrm</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">orlugphkp6ti32tu7o4jj7lrm</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
     </item>
   </channel>
 </rss>

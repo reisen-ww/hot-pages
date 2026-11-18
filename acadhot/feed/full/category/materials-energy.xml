@@ -9,6 +9,61 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
+      <title><![CDATA[QuadSeq技术：一种用于高保真纳米孔测序的线性DNA双链合成方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g</link>
+      <description><![CDATA[<p>Waneskog团队开发QuadSeq技术，将线性DNA扩增物的错误率降低至0.0008（Q31值）。该三步合成法无需环化目标扩增物即可生成双链DNA，其共识序列在低保真Taq聚合酶下的错误率比高保真Phusion U聚合酶的原始扩增物低6.6倍。研究指出纳米孔测序的主要瓶颈在于测序设备本身而非扩增步骤，QuadSeq为提升测序准确性提供了新路径。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767292v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g">https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">uk4c68yeajlunh0cmq25nby5g</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[Furcellaria lumbricalis 红藻参考基因组的首次构建]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/qjucr8cywupmw1ouyoc9wk8ke</link>
+      <description><![CDATA[<p>某团队基于PacBio HiFi和Oxford Nanopore长读测序技术，首次为红藻Furcellaria lumbricalis构建了包含149个contigs、总长918.2 Mb的参考基因组，其中重复序列占比达90.5%，N50值为15.5 Mb。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767248v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/qjucr8cywupmw1ouyoc9wk8ke">https://reisen-ww.github.io/hot-pages/acadhot/items/qjucr8cywupmw1ouyoc9wk8ke</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">qjucr8cywupmw1ouyoc9wk8ke</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[基于空间位阻调控的罗丹明螺内酯开关在超分辨成像中的应用]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/n7b9atfez2bowq1nydgsm8fsk</link>
+      <description><![CDATA[<p>某团队在预印本平台 bioRxiv 发表研究，提出通过酰胺N-取代基的空间位阻调控罗丹明螺内酯的环状开合构象。晶体学数据显示1e衍生物开环态驻留时间达145毫秒，计算表明其环开闭能垒（1.12eV）低于1a（1.37eV）。该设计已整合到HaloTag探针中，实现SIM（超分辨显微术）与SMLM（单分子定位显微术）的联合成像，单荧光素即可完成细胞整体架构重建与单分子定位信息获取。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.767006v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/n7b9atfez2bowq1nydgsm8fsk">https://reisen-ww.github.io/hot-pages/acadhot/items/n7b9atfez2bowq1nydgsm8fsk</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">n7b9atfez2bowq1nydgsm8fsk</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[褐藻（Laminariales）DNA甲基化检测：通过无转换测试验证预测缺失]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/go8nukxts09zfmg980fdc8n46</link>
+      <description><![CDATA[<p>某团队通过无转换纳米孔测序技术，在七种褐藻基因组数据中发现未检测到 DNA 甲基化（核 5-甲基胞嘧啶占比 0.021%-0.034%，与 PCR 复制无甲基化设计一致）。对比硅藻检测到 58% CG 位点甲基化，验证了预测的甲基转移酶缺失。研究指出褐藻可能通过染色质修饰或非编码 RNA 实现遗传效应，而非 DNA 甲基化。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767002v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/go8nukxts09zfmg980fdc8n46">https://reisen-ww.github.io/hot-pages/acadhot/items/go8nukxts09zfmg980fdc8n46</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">go8nukxts09zfmg980fdc8n46</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队发表海洋森林应对气候变化的跨层次研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/aftq97qjxranffm1u2mq1500i</link>
+      <description><![CDATA[<p>某团队在 bioRxiv 发布预印本，通过实验室模拟（测试 T+2°C、T+4°C、pH 7.6 三个条件）与实地调查（测量 Ericaria balearica 覆盖度及生物量），发现升温对爱琴海藻生物量无显著影响，但酸化（pH 7.6）导致海星摄食量下降。研究首次将自然 CO2 火山区种群（Panarea 岛）与常规环境对比，揭示群落响应机制超越物种可塑性。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.766521v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/aftq97qjxranffm1u2mq1500i">https://reisen-ww.github.io/hot-pages/acadhot/items/aftq97qjxranffm1u2mq1500i</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">aftq97qjxranffm1u2mq1500i</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[美国西南部水电站夏季发电量创十年新低]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/qautxkpet8mvq1ubnq2pnrsmj</link>
       <description><![CDATA[<p>美国西南部两大水电站 Lake Powell 和 Lake Mead 在2025年夏季发电量创十年新低，其中 Lake Powell 水位低于发电临界值1%， Lake Mead 水位仅高于最低要求9%。</p>
@@ -28,61 +83,6 @@
       <category>材料与能源</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">yyzp05h49pwny90yxzzvdr5jq</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Feng 和 Blonder 在 bioRxiv 发表森林疏伐生态水文耦合模型研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/u52237oyt3f1rsehjso96tfn8</link>
-      <description><![CDATA[<p>Feng 和 Blonder 开发了多年度随机生态水文模型，参数化使用FLUXNET气候数据和TRY数据库，揭示疏伐对土壤水分和蒸散发的长期影响存在显著地点差异。模型显示土壤饱和响应与冠层恢复速率因地点而异，但总蒸散发（ET）在疏伐后保持稳定，因土壤蒸发增加和剩余冠层水分利用补偿了林分水平蒸散量的减少。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.13.766569v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/u52237oyt3f1rsehjso96tfn8">https://reisen-ww.github.io/hot-pages/acadhot/items/u52237oyt3f1rsehjso96tfn8</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">u52237oyt3f1rsehjso96tfn8</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[基质力学调控多细胞聚集体的对称性破坏机制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/tgn1a4ic2d8tbxgg6yvn4p434</link>
-      <description><![CDATA[<p>某团队在 bioRxiv 发布预印本，揭示基质力学特性（弹性、粘弹性、降解性）调控多细胞聚集体对称性破坏的机制。弹性基质下细胞保持球形，粘弹性或降解性基质促使对称性破坏。Brillouin 显微术显示破坏伴随核心软化与径向对称性丧失，三维牵引力显微术证实极化力场分布。连续模型证明极化细胞分布即可解释观测到的位移模式。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.15.766081v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/tgn1a4ic2d8tbxgg6yvn4p434">https://reisen-ww.github.io/hot-pages/acadhot/items/tgn1a4ic2d8tbxgg6yvn4p434</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tgn1a4ic2d8tbxgg6yvn4p434</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某属真菌在碳氮比不同培养基下的碳分配策略及氧化酸分泌新发现]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/n13g40nhww31dew9qaudetcsi</link>
-      <description><![CDATA[<p>某研究团队在Mucoromycota门九个菌株中发现碳分配策略存在科属特异性差异，其中Absidia属菌株在低中高C/N比培养基下均独立合成氧化酸。进一步实验确认该特性存在于Absidia属至少九个物种中，且分泌机制可能不依赖培养基碳氮比。研究首次报道该属真菌氧化酸分泌现象，为解析Mucoromycota代谢多样性提供直接证据。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.766564v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/n13g40nhww31dew9qaudetcsi">https://reisen-ww.github.io/hot-pages/acadhot/items/n13g40nhww31dew9qaudetcsi</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">n13g40nhww31dew9qaudetcsi</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Liu等团队在medRxiv发布美国全境PM2.5高分辨率时空估计研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/lewoz9cyz9uhf1enndno8n68m</link>
-      <description><![CDATA[<p>Liu等团队开发了机器学习框架，预测了2018-2024年美国全境每日1公里PM2.5浓度，并量化了野火烟雾的贡献比例。2020年西海岸野火贡献PM2.5达35%，2023年东部贡献超25%；野火相关死亡率在西海岸占比20%（2019年30倍），东部占比24%（2019年14倍）。研究强调需持续开展全国性公共卫生干预以降低野火烟雾暴露风险。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.11.26367854v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/lewoz9cyz9uhf1enndno8n68m">https://reisen-ww.github.io/hot-pages/acadhot/items/lewoz9cyz9uhf1enndno8n68m</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">lewoz9cyz9uhf1enndno8n68m</guid>
-      <author>noreply@reisen-ww.github.io (medRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[糖替代品改变致龋及非致龋牙齿细菌的氟化物抗性进化轨迹]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ab6yss9suzogoxflm24eefqc1</link>
-      <description><![CDATA[<p>糖替代品（如赤藓糖醇和木糖醇）改变了致龋菌（S. mutans）和非致龋菌（S. gordonii）对氟化物抗性的进化轨迹。研究显示：在发酵糖（葡萄糖）环境中，S. mutans 的氟化物抗性显著增强，但突变数量与糖类型无关；S. gordonii 在葡萄糖中的非同义突变更多，但氟化物抗性无显著差异。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.767098v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ab6yss9suzogoxflm24eefqc1">https://reisen-ww.github.io/hot-pages/acadhot/items/ab6yss9suzogoxflm24eefqc1</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ab6yss9suzogoxflm24eefqc1</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
