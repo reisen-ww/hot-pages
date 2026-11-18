@@ -1,6 +1,6 @@
-# Salesforce 股票引领标普 500 下跌，分析师担忧科技股易受 AI 滥用影响
+# 技术宕机引发担忧：软件公司或因AI滥用特别脆弱
 
-> 原标题：Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters
+> 原标题：Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters
 
 - 来源：MarketWatch Top Stories
 - 发布时间：2026-11-17T17:36:00.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-Salesforce 股价下跌引领标普 500 下行，分析师指出一系列技术故障让投资者担心软件公司可能特别容易受到 AI 滥用的影响。
+Salesforce股票领跌标普500指数，分析师认为连续的技术故障显示软件公司可能特别容易因AI滥用而受到影响。

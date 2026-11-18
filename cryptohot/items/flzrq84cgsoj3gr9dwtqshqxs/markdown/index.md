@@ -1,6 +1,6 @@
-# NVIDIA股价因CEO辞职及出口管制新规暴跌至7月低点
+# Nvidia因CEO辞职及政策监管股价单日暴跌4%
 
-> 原标题：Nvidia stock falls ahead of earnings as company reels from Huang resignation
+> 原标题：Nvidia closes lower ahead of earnings as company reels from Huang resignation
 
 - 来源：CNBC Top News
 - 发布时间：2026-11-17T16:49:12.000Z
@@ -9,8 +9,4 @@
 
 ## 摘要
 
-NVIDIA股价因CEO辞职及美国商务部新规限制中国访问AI芯片，单日暴跌4%至7月1日以来最低收盘价。董事会成立国家安全委员会应对监管压力，CEO Jensen Huang将出席12月1日国会听证会。尽管有19万签名请愿要求其复职，但知情人士称董事会不考虑恢复其CEO职务。
-
-## 推荐理由
-
-NVIDIA股价因CEO辞职和出口管制新规下跌4%，董事会成立国家安全委员会应对监管压力
+Nvidia股价单日下跌4%，因CEO Huang辞职及美国商务部发布限制中国公司访问AI芯片的临时规则。董事会成立国家安全委员会应对监管，Huang将出庭作证。超过190,000人联署要求其复职。

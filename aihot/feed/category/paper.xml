@@ -63,16 +63,5 @@
       <guid isPermaLink="false">h8p3jjqnri7gxeo113jxngsz0</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
-    <item>
-      <title><![CDATA[Hugging Face发布多向量嵌入模型压缩训练方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/pcyak5qzcd3ms9tocpk7c842b</link>
-      <description><![CDATA[<p>Hugging Face发布token pooling-aware训练方法，通过Ward层次聚类将平均文档向量数压缩至原值的25%（pool_factor=4），在NanoBEIR@13测试集上nDCG@10从49.03提升至51.23（+2.20），同时保持检索质量。</p>
-<p>🔗 <a href="https://huggingface.co/blog/token-pooling">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/pcyak5qzcd3ms9tocpk7c842b">https://reisen-ww.github.io/hot-pages/aihot/items/pcyak5qzcd3ms9tocpk7c842b</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">pcyak5qzcd3ms9tocpk7c842b</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
   </channel>
 </rss>

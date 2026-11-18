@@ -1,127 +1,127 @@
-# 学术日报 · 2026-11-17
+# 学术日报 · 2026-11-18
 
-- 期号：第 37 期
-- 发布：2026-11-17 08:00（北京时间）
-- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/acadhot/daily/2026-11-17)
+- 期号：第 38 期
+- 发布：2026-11-18 08:00（北京时间）
+- 本期页：[阅读本期](https://reisen-ww.github.io/hot-pages/acadhot/daily/2026-11-18)
 
 ## 头条
 
-基于NRF2响应的NMRAL2P长非编码RNA靶向调控改变非小细胞肺癌增殖的机制研究
-
-## AI 与计算
-
-1. [MIT Technology Review 提出通过设定硬边界而非预测来建立AI信任](https://reisen-ww.github.io/hot-pages/acadhot/items/e17l0m5g6wtgqi6ez298k6eb5)
-   来源：MIT Technology Review · 发布时间：2026-11-17 00:04（北京时间）
-   摘要：MIT Technology Review 提出通过设定硬边界而非预测来建立AI信任，强调需在架构层面定义AI的权限、责任与安全阈值。文章指出传统AI信任建立依赖可预测性，但AI的自主决策使可预测性失效，需通过硬约束（如权限隔离、执行审批）控制行为边界。
-   原文：[打开原文](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)
-
-2. [某团队发布新型NanoShield陷阱柱在低输入蛋白质组学中的基准测试结果](https://reisen-ww.github.io/hot-pages/acadhot/items/el5f8v6nza4d5hgozg1qmb2sg)
-   来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-   摘要：某团队在预印本平台 bioRxiv 发布新型 NanoShield 陷阱柱的基准测试结果，对比了 5 cm 和 1.2 cm 床长版本在 LC-MS 流程中的样本加载时间、正向冲洗性能缺陷及定量精度表现，发现缩短床长可消除显著性能差距，1.2 cm 版本接近直接注射水平。研究还展示了新一代更大孔径固定相的 NanoShield 进一步优化了正向冲洗性能。
-   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766175v1?rss=1)
+Garside等团队发现基于UV激发自荧光的多拷贝 suppressor筛选方法揭示Cdc14相关减数分裂缺陷的调控机制
 
 ## 生命与医学
 
-1. [基于NRF2响应的NMRAL2P长非编码RNA靶向调控改变非小细胞肺癌增殖的机制研究](https://www.biorxiv.org/content/10.64898/2026.11.13.765723v1?rss=1)
-   来源：bioRxiv · 发布时间：2026-11-14 08:00（北京时间） · 一手
-   摘要：研究证实NMRAL2P通过调控细胞粘附和MAPK信号通路促进非小细胞肺癌增殖，靶向抑制可增强化疗敏感性。实验采用SHAPE-MaP技术识别NMRAL2P可及性区域并设计反义缺口寡核苷酸，发现敲低NMRAL2P使肺癌细胞增殖受阻且对顺铂敏感性提升。
-   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.765723v1?rss=1)
+1. [Garside等团队发现基于UV激发自荧光的多拷贝 suppressor筛选方法揭示Cdc14相关减数分裂缺陷的调控机制](https://reisen-ww.github.io/hot-pages/acadhot/items/kmu99qfpozabod7co4i7y9qma)
+   来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+   摘要：Garside等团队在Saccharomyces cerevisiae中通过UV激发自荧光技术进行多拷贝 suppressor筛选，发现四个增强减数分裂的基因组库质粒。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.14.766682v1?rss=1)
 
-2. [IEEE单日撤回1417篇论文：学术会议沦为论文工厂新温床](http://www.zhishifenzi.com/news/multiple/10765.html)
-   来源：知识分子 · 发布时间：2026-11-16 03:47（北京时间）
-   摘要：2026年10月28日，IEEE宣布撤回1417篇论文，研究团队通过社交媒体广告与论文比对发现，这些论文涉及2062篇问题文章，其中93%署名包含印度学者。会议审稿周期短至3天，且IEEE将会议论文列为‘其他出版物’仅要求‘可读’标准，导致造假产业转向会议平台。
-   原文：[打开原文](http://www.zhishifenzi.com/news/multiple/10765.html)
+2. [亚洲象种群数量减少导致社会孤立：Science 发表长期追踪研究](https://reisen-ww.github.io/hot-pages/acadhot/items/dsetck2sjg05wpe4ed4oqfjpm)
+   来源：奇客 Solidot · 发布时间：2026-11-15 20:12（北京时间）
+   摘要：斯里兰卡野生亚洲象种群因数量减少导致社会网络孤立，研究追踪443头雌象12年发现近69%个体消失，社会纽带断裂加剧群体孤立。分析个体观察数据，揭示种群跨越社会临界点后规模缩小、联系减少，为濒危物种保护提供量化依据。
+   原文：[打开原文](https://www.solidot.org/story?sid=85890)
 
-3. [某研究团队发表HPV疫苗接种间接影响的贝叶斯分层模型研究](https://reisen-ww.github.io/hot-pages/acadhot/items/rho4x99bdktxce3648lscdy3h)
-   来源：medRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-   摘要：某研究团队发现HPV疫苗接种的间接保护效应随时间、覆盖率及年龄呈现动态变化。基于11个高收入地区2007-2025年HPV16/18流行率数据，采用贝叶斯分层模型与XGBoost分析显示。
-   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.13.26367966v1?rss=1)
+3. [玉米C4 PEPCK1基因突变影响植物生长与氮利用](https://reisen-ww.github.io/hot-pages/acadhot/items/fhz7qblj23c3dphunbpgmx0x0)
+   来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+   摘要：某研究团队通过转座子基因敲除技术，发现玉米C4 PEPCK1基因突变显著提升植物生长和氮利用效率，且不影响光合作用参数。田间试验多季节验证表明突变体在氮限制和充足土壤中均表现更高生物量，该成果为作物遗传改良提供了新靶点。
+   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.15.766785v1?rss=1)
 
-4. [加州与俄勒冈州芬太尼烟吸现象研究](https://reisen-ww.github.io/hot-pages/acadhot/items/xc6kzx4fmu9g0h8tn3whb979n)
-   来源：medRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-   摘要：某研究团队通过田野调查与药物检测数据分析发现，108名受访者中96%（104人）使用烟吸方式摄入芬太尼，其中87%（81人）明确采用大麻零售设备进行烟吸。研究显示烟吸方式因隐蔽性强、起效快且耐受性上升迅速而流行，但伴随设备损伤风险。该成果为药物滥用监测与临床问诊提供了新数据维度。
-   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.13.26367858v1?rss=1)
+4. [科罗拉多大学博尔德分校发表研究：三维模型首次详细揭示西 Antarctica 冰融下方地壳运动](https://reisen-ww.github.io/hot-pages/acadhot/items/lojxufrr1acluv6fpmzjyx2ui)
+   来源：Phys.org · 发布时间：2026-11-17 06:00（北京时间）
+   摘要：科罗拉多大学博尔德分校研究团队通过三维地幔粘度模型，首次详细揭示了西 Antarctica 冰融下方地壳年上升达5厘米的动态过程。该研究整合卫星重力数据、超级计算机模拟及南极实地观测数据，证实地幔粘度分层结构对冰层反弹速度的影响，解决了此前关于地幔粘度均匀性的争议。研究发表于 Science 期刊（DOI:10.1126/science.aeh5525），为海平面上升预测提供了关键地质参数支撑。
+   原文：[打开原文](https://phys.org/news/2026-11-3d-generates-picture-beneath-west.html)
 
-5. [上海交通大学医学院研究员因基因编辑试验致儿童死亡被解雇](https://www.nature.com/articles/d41586-026-03752-2)
-   来源：Nature · 发布时间：2026-11-16 08:00（北京时间） · 一手
-   摘要：上海交通大学医学院研究员Qiu因在2025年3月对一名患Snijders Blok–Campeau综合征的6岁女孩实施AAV病毒载体基因编辑疗法导致其死亡被解雇。
-   原文：[打开原文](https://www.nature.com/articles/d41586-026-03752-2)
+5. [DGIST 与 POSTECH 联合开发3D仿生衰老肌肉模型，可替代动物实验](https://reisen-ww.github.io/hot-pages/acadhot/items/wr4s2y3vv6u8d13fnihbsqb8a)
+   来源：Phys.org · 发布时间：2026-11-17 00:20（北京时间）
+   摘要：DGIST 与 POSTECH 联合开发出可模拟人类肌肉衰老变化的3D人工肌肉微组织模型。研究使用17岁和68岁男性供体的肌肉细胞，混合脱细胞外基质生物材料后通过3D打印成型。
+   原文：[打开原文](https://phys.org/news/2026-11-team-3d-biomimetic-aging-muscle.html)
 
-6. [Rockefeller University 在 Cell 发表精氨酸补充增强免疫识别能力的研究](https://www.sciencedaily.com/releases/2026/11/261113232000.htm)
-   来源：ScienceDaily 综合 · 发布时间：2026-11-15 20:36（北京时间）
-   摘要：Rockefeller University 研究发现精氨酸补充可减少小鼠结肠癌肿瘤形成并缓解流感及新冠感染症状。机制显示低精氨酸导致MHC-I蛋白合成受阻，免疫识别能力下降；研究建议未来可结合免疫疗法进行临床试验。
-   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261113232000.htm)
+6. [美国失去麻疹消除状态，CDC数据显示2026年病例数超5000例创1991年以来新高](https://reisen-ww.github.io/hot-pages/acadhot/items/qqdcjuqm2amds8vm2z3s6wnhe)
+   来源：STAT News · 发布时间：2026-11-18 00:07（北京时间） · 另有 1 家信源报道
+   摘要：美国失去麻疹消除状态，CDC数据显示2026年病例数超5000例创1991年以来新高。近20个州学龄前儿童疫苗接种率低于90%，专家指出成人感染比例上升显示防控漏洞。
+   相关：
+   - [美国失去麻疹消除状态：疫苗接种率下降引发专家担忧](https://reisen-ww.github.io/hot-pages/acadhot/items/l25voe8x9b692okcoctfyrif0) · Nature · 2026-11-17 08:00（北京时间）
+   原文：[打开原文](https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss)
 
-7. [巴西圣卡塔琳娜州Rã-Bugio自然遗产保护区树蛙因 ranavirus 病毒导致种群下降83%](https://reisen-ww.github.io/hot-pages/acadhot/items/fz2gbui00i6n76sz44gn7uio7)
-   来源：Phys.org · 发布时间：2026-11-17 01:40（北京时间）
-   摘要：巴西圣卡塔琳娜州Rã-Bugio自然遗产保护区的树蛙因 ranavirus 病毒导致种群下降83%。研究通过组织病理学分析证实病毒是死因，发现病毒载量高达近10亿拷贝/微升，并指出湿度下降至65%可能促进病毒复制和爆发。
-   原文：[打开原文](https://phys.org/news/2026-11-deadly-virus-tree-frog-population.html)
+7. [Medicaid GLP-1处方量在四州取消体重管理覆盖后的变化分析](https://reisen-ww.github.io/hot-pages/acadhot/items/mb5nhpjbvy90kg3qgd8kni25w)
+   来源：medRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+   摘要：四州取消GLP-1体重管理医保覆盖后，处方量同比下降85%（2025 Q3至2026 Q1从1.06降至0.16 per 100 enrollee-months），而保留覆盖的州变化较小（0.90-0.82）。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.15.26368150v1?rss=1)
+
+8. [某团队在 medRxiv 发表同种移植物加强 cyclodialysis 治疗难治性开角型青光眼的 12 个月结果](https://reisen-ww.github.io/hot-pages/acadhot/items/mzgl6ufrxcnzoxx6yskzxshbi)
+   来源：medRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+   摘要：47 只眼完成 12 个月随访，基线眼压 22.5 mmHg（使用 3.0 种降眼压药物），术后眼压降低 6.1 mmHg（p&lt;0.001），未增加药物负担或出现视力威胁性并发症。研究来自 CREST 多中心注册（NCT05506423），主要终点为眼压变化和再手术率。
+   原文：[打开原文](https://www.medrxiv.org/content/10.64898/2026.11.12.26367933v1?rss=1)
+
+9. [CG Oncology 膀胱癌免疫疗法临床试验显示复发风险降低68%](https://reisen-ww.github.io/hot-pages/acadhot/items/clep10dzqbpxjtbfvsvahqzuo)
+   来源：STAT News · 发布时间：2026-11-16 21:00（北京时间）
+   摘要：CG Oncology公布其冷病毒工程疗法在Ⅲ期临床试验中降低局部晚期膀胱癌患者复发风险68%的积极结果。该试验纳入367名中危患者，通过膀胱内灌注改造的常见感冒病毒靶向肿瘤突变细胞。数据显示，接受该疗法患者3个月随访中未出现复发的比例显著优于现有标准治疗。研究证实该疗法可延缓或预防术后复发，减少重复手术需求。
+   原文：[打开原文](https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss)
+
+10. [爱丁堡大学与布里斯托大学团队发现双膦酸盐类药物可阻止脊柱损伤](https://www.sciencedaily.com/releases/2026/11/261113232105.htm)
+    来源：ScienceDaily 综合 · 发布时间：2026-11-15 22:03（北京时间）
+    摘要：某研究团队在斑马鱼中发现双膦酸盐类药物能阻止脊柱异常矿化沉积，该药物已用于骨质疏松治疗。研究还揭示了脂肪代谢、mTOR信号通路、磷酸盐调节和维生素A信号通路的变化，为开发针对脊柱退化的新疗法提供了潜在靶点。该成果发表于《Communications Biology》，由爱丁堡大学癌症研究所的Erika Kague博士主导。
+    原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261113232105.htm)
 
 ## 物质与量子
 
-1. [Skoltech 团队首次直接观测光子自旋霍尔效应，推动纳米光子学与先进雷达/激光雷达发展](https://reisen-ww.github.io/hot-pages/acadhot/items/ratgrbhicm264xvy5pc8300l5)
-   来源：Phys.org · 发布时间：2026-11-17 03:20（北京时间）
-   摘要：Skoltech 研究团队首次直接观测到光子自旋霍尔效应，使用微波辐射的陶瓷颗粒验证了其可扩展性。该成果为纳米光子学技术、高精度雷达/激光雷达系统及光控纳米天线开发提供了新路径。
-   原文：[打开原文](https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html)
+1. [FDA在Summit抗癌药ivonescimab驳回信中警示VEGF相关安全风险](https://reisen-ww.github.io/hot-pages/acadhot/items/axxmxydvd4tajl54iuzzezu7h)
+   来源：Endpoints News · 发布时间：2026-11-18 04:35（北京时间）
+   摘要：FDA拒绝Summit与Akezo提交的ADC药物ivonescimab上市申请，指出需补充VEGF信号通路安全数据。ivonescimab针对实体瘤研发中，此前在II期临床试验显示客观缓解率45%。
+   原文：[打开原文](https://endpoints.news/fda-flags-potential-vegf-related-safety-concern-in-summit-rejection-letter/)
 
-2. [ESA Euclid望远镜发现宇宙黎明期31个类星体，创红移7.77新纪录](https://www.sciencedaily.com/releases/2026/11/261112230504.htm)
-   来源：ScienceDaily 综合 · 发布时间：2026-11-15 09:52（北京时间）
-   摘要：ESA Euclid团队宣布发现31个宇宙黎明期类星体，其中EUCL J172902.75+641018.1（红移7.77）和EUCL J125308.55+705432.3（红移7.69）刷新最古老类星体记录。该望远镜通过大范围天空扫描（覆盖1/3天空）和红外深空探测技术，一年内发现数量超过此前十年总和，为研究首代星系与超大质量黑洞演化提供关键数据集。
-   原文：[打开原文](https://www.sciencedaily.com/releases/2026/11/261112230504.htm)
-
-3. [美国联邦法官F. Dennis Saylor IV裁定禁止缩短外国学生签证期限](https://reisen-ww.github.io/hot-pages/acadhot/items/mkcgtvfftcw2klmiyj9k3smv3)
-   来源：STAT News · 发布时间：2026-11-17 03:59（北京时间）
-   摘要：美国联邦法官F. Dennis Saylor IV于2026年11月16日发布终审判决，裁定禁止缩短外国研究生和博士后学者签证期限的政策。该法官此前已在政策生效前一日暂缓执行该规定。判决指出原政策缺乏法律依据，违反行政程序。该裁决可能缓解美国高校对国际人才吸引力下降的担忧，但政府仍可提出上诉。
-   原文：[打开原文](https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss)
+2. [美国西南部水电站夏季发电量创十年新低](https://reisen-ww.github.io/hot-pages/acadhot/items/qautxkpet8mvq1ubnq2pnrsmj)
+   来源：MIT Technology Review · 发布时间：2026-11-18 01:52（北京时间）
+   摘要：美国西南部两大水电站 Lake Powell 和 Lake Mead 在2025年夏季发电量创十年新低，其中 Lake Powell 水位低于发电临界值1%， Lake Mead 水位仅高于最低要求9%。
+   原文：[打开原文](https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/)
 
 ## 快讯
 
-- [某团队在 bioRxiv 发布司美格鲁肽改善窦房结功能障碍的长期作用](https://reisen-ww.github.io/hot-pages/acadhot/items/o5vsew366zvd9adusau3izq6q)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：某团队在 bioRxiv 发布司美格鲁肽改善窦房结功能障碍的长期作用。急性期数据显示，受试者心率（372.76±11.06 vs 312.64±22.28 beats/min；P&lt;0.0001）和窦房结恢复时间（ADSNRT 4.22±2.75 vs 20.68±1.60 s；P=0.0009）显著优于对照组。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766590v1?rss=1)
+- [某团队在 bioRxiv 发布 SAM2 显微镜图像分割大模型](https://reisen-ww.github.io/hot-pages/acadhot/items/mgoovv3xe7cgkl2cqt6wvt6t5)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：某团队发布 SAM2 显微镜图像分割大模型，该模型在 2D 和 3D 光学/电子显微镜图像分割中达到最优性能，支持超过 2300 万细胞和核的标注数据训练。除基础分割功能外，SAM2 还具备像素/对象分类（仅需少量标注）和 2D/3D 时间序列细胞追踪能力，已集成至 SAM napari 插件。论文展示了该模型在发育生物学、类器官研究、心脏生理学和病理组织学中的跨领域应用案例
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766082v1?rss=1)
 
-- [某团队在bioRxiv发表：R5L和R5H突变通过削弱tau-tau协同性影响微管表面tau凝聚](https://www.biorxiv.org/content/10.64898/2026.11.13.766512v1?rss=1)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：某团队通过TIRF显微术和单分子测量，发现R5L和R5H突变均降低tau蛋白在微管表面的凝聚密度（较野生型减少约15%-20%），且两者在裸微管上的行为保持不变，证实其机制与微管结合无关。研究进一步表明，R5K替代保留野生型行为，而R5I替代则类似突变体，证实正电荷的重要性。pH依赖性实验支持该机制，并首次揭示PSP与FTD突变存在共同作用路径。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766512v1?rss=1)
+- [某研究团队在 bioRxiv 发表 GBA1 变体功能参考框架](https://reisen-ww.github.io/hot-pages/acadhot/items/vcci79yuo0sfaxwgdnfwq1urt)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：某研究团队通过MAVE方法建立了GBA1变体的功能参考框架，覆盖超过10400个单氨基酸替换变体，发现94个临床意义不明确的变体存在显著功能缺陷，并与Gaucher病严重程度相关。整合全球帕金森病遗传计划数据，证实功能缺陷程度与帕金森发病时间及风险比呈正相关。独立验证实验在稳定细胞系中复现了MAVE分析结果，并解决了野生型附近变体的细微功能差异问题。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.15.766795v1?rss=1)
 
-- [色氨酸代谢通过AhR信号通路驱动TSC2缺乏细胞的巨胞吞作用与肿瘤发生](https://reisen-ww.github.io/hot-pages/acadhot/items/mos06620ig09c2k8ufayg9rk0)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：本研究发现色氨酸代谢通过AhR信号通路促进TSC2缺乏细胞的巨胞吞作用和肿瘤生长，并证实AhR拮抗剂StemRegenin 1和CH-223191在体内实验中显著缩小肿瘤体积（分别达70%和90%）。TSC2缺陷细胞中IDO1和TDO2的上调被rapamycin抑制，而AhR拮抗剂使AhR从核区转移至胞质。该机制为TSC和LAM治疗提供新靶点，相关数据已发布于bioRxiv平台。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.765182v1?rss=1)
+- [某团队在bioRxiv发表基因尺度DNA与染色质原子分辨率模拟方法](https://reisen-ww.github.io/hot-pages/acadhot/items/ah15oqlm3w4kdmmiy0w4mo8lq)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：某团队提出HCG-DNA方法，通过四核苷酸片段库组装实现百万碱基级DNA结构模拟，并整合染色质原子模型。该方法验证了DNA链弹性特性与 persistence length 关系，支持从原子到染色质再到染色体尺度的结构连续性研究，为分子模拟和AI训练提供可扩展的基准模型。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766978v1?rss=1)
 
-- [SERGA 团队揭示灰飞虱 Wolbachia 生殖隔离机制受宿主抑制基因调控](https://reisen-ww.github.io/hot-pages/acadhot/items/ynqcdsek3zq3xy0ifk3efhaqj)
+- [Mannik 团队发现新型 FtsA 结合蛋白 L125 阻断晚期 divisome 聚集，揭示隐藏的收缩机制](https://www.biorxiv.org/content/10.64898/2026.11.15.766819v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：SERGA 团队通过杂交实验和基因组分析发现，灰飞虱 Wolbachia 的生殖隔离强度受宿主抑制基因影响（实验显示宿主抑制基因通过影响早期有丝分裂分离缺陷来掩盖 Wolbachia 的生殖隔离效应），而非 Wolbachia 浓度或基因组差异。研究解释了为何携带 Wolbachia 的灰飞虱未表现出生殖隔离现象，为生物防治策略优化提供了理论依据。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766142v1?rss=1)
+  摘要：Mannik 团队通过设计新型 FtsA 结合蛋白 L125，发现其阻断细菌分裂晚期蛋白聚集，并揭示了一种依赖 ZipA 的未知的收缩机制。实验显示 L125 处理的细胞形成无法完成分裂的宽浅收缩结构，该现象与 ZipA 介导的预隔膜细胞壁合成相关，此前该机制未被证实可导致收缩。研究为理解细菌分裂的分子调控提供了新视角，特别是发现 ZipA 可能参与两种不同收缩路径的调控。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.15.766819v1?rss=1)
 
-- [某研究团队在 bioRxiv 发表光激活ROS生成器以精准操控细胞功能](https://www.biorxiv.org/content/10.64898/2026.11.12.766124v1?rss=1)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：某研究团队开发出基于FAST技术的光激活ROS生成器，可精准操控线粒体功能并诱导DNA损伤。该工具通过荧光标记与ROS生成双重特性实现光控，需添加ROSgen才能激活，已验证可特异性抑制蛋白质活性或造成局部DNA氧化损伤，展示了分子工具在细胞过程精准操控中的多功能性。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.12.766124v1?rss=1)
+- [Chen 等在 bioRxiv 发表 SOX4 通过非 DNA 结合调控 HNRNPC-WNT5A 轴抑制血管钙化的新机制](https://reisen-ww.github.io/hot-pages/acadhot/items/pmc11dg6ps677fowuqcq7z0vk)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：该研究首次揭示 SOX4 通过非 DNA 结合调控 HNRNPC-WNT5A 轴抑制血管钙化的分子机制，并发现 WNT5A 抑制剂 BOX5 可有效缓解小鼠主动脉钙化。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.767198v1?rss=1)
 
-- [四味黄连物种比较基因组学研究揭示根茎发育与生物碱合成机制](https://reisen-ww.github.io/hot-pages/acadhot/items/gs8ahxi9q3raa8vff9zf1l095)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：四味黄连物种的比较基因组学研究首次公开了多组学数据库，揭示了根茎发育与生物碱合成的关键基因家族。研究显示青藏高原抬升与欧亚板块碰撞显著影响该类群进化，德尔托叶黄连呈现B亚基因组表达优势，欧眉叶黄连存在NLR抗病基因串联重复。根茎膨大与 brassinosteroid 合成与信号通路激活密切相关。研究为黄连基因组演化、适应机制及分子育种提供新资源。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.10.765818v1?rss=1)
+- [Nimac 等在 bioRxiv 发表 TDP-43 时空互作图谱揭示压力后网络重塑持续存在](https://reisen-ww.github.io/hot-pages/acadhot/items/v99rrsrd1vs6499a4ed6zcm9g)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：该研究通过APEX2近邻标记结合定量质谱，构建了野生型TDP-43及病理模拟突变体（TDP-43dNLS/CTF）在稳态、氧化应激及恢复期的互作网络图谱，发现清除应激颗粒后仍存在持续网络重塑，提示分子记忆效应。研究系统揭示了TDP-43蛋白互作网络的动态时空特征及其病理意义。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766431v1?rss=1)
 
-- [某研究团队发现碳氮代谢驱动产黄单胞菌与大肠杆菌的捕食动态](https://reisen-ww.github.io/hot-pages/acadhot/items/mbmhlxf1nzy9ismnwic84ezoj)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：该研究通过共培养实验发现：大肠杆菌通过磷酸烯醇式丙酮酸依赖性糖代谢转移系统（PTS）和柠檬酸介导的离子螯合作用，快速酸化环境抑制产黄单胞菌（EGB）捕食；EGB则通过释放挥发性氨气实现环境碱化以抵消酸化效应，同时利用土壤中的酿酒酵母和黄单胞菌代谢葡萄糖和柠檬酸。碳氮代谢互作与菌群密度及碳氮源变化共同导致捕食者与猎物种群振荡，最终达到稳定平衡。该成果为土壤微生物食物网中的代谢互作机制提供了直接证据。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.14.766615v1?rss=1)
+- [某研究团队发现肠道菌群影响神经母细胞瘤儿童GD2/GD3疫苗应答](https://reisen-ww.github.io/hot-pages/acadhot/items/y7cre8679jxay1ql1odgyoofx)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：137名高危神经母细胞瘤儿童接受GD2/GD3疫苗联合口服β-葡聚糖后，抗生素暴露组无进展生存期（PFS）显著更差。首次复发患者中，肠道菌群α多样性升高与抗GD2 IgG1抗体应答增强相关，而拟杆菌门（含Blautia属）丰度增加同样促进抗体应答，而梭菌属丰度升高则与PFS改善相关。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766479v1?rss=1)
 
-- [基于广泛基因组学的细胞多样性表征：多药耐药外源性致病大肠杆菌ST744的族系分析](https://reisen-ww.github.io/hot-pages/acadhot/items/knvpuht7oj5sbimy7rld4uhp3)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：研究分析了131,610株大肠杆菌的基因组多样性，发现ST744菌株平均携带最多抗生素耐药基因（ARGs），并与毒力相关基因（VAGs）呈负相关。后续表型分析显示，不同菌株的细胞形态、核区组织及细胞周期时间存在显著差异，即使近亲克隆菌株间也呈现多样性。该成果为解析ExPEC中基因组变异与表型差异的关系提供了新框架。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766372v1?rss=1)
+- [某研究团队在 bioRxiv 发布神经发育中 mTORC1 信号通路磷酸蛋白组学研究成果](https://reisen-ww.github.io/hot-pages/acadhot/items/fjzn1kja4uau1q3zqaq17afcb)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：某研究团队通过跨物种磷酸蛋白组学分析，首次发现 mTORC1 依赖性磷酸化调控 USP9X 并影响 mRNA 剪接，揭示神经发育新机制。该研究发布 PhosphoTargets 平台，整合小鼠与人类神经发育模型中 1000+ 蛋白及 10,000+ 磷酸化位点的数据，并验证 USP9X 作为 mTORC1 新底物的功能。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766904v1?rss=1)
 
-- [某团队在arXiv发表裸盖菇素对小鼠脑神经活动急性及持续效应的追踪研究](https://reisen-ww.github.io/hot-pages/acadhot/items/lblpdhf7c6enkasdy98jmmalm)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：某团队通过慢性植入Neuropixels探针首次直接证据显示，单次裸盖菇素注射可导致小鼠前额叶和海马区神经元活动急性变化及持续抑制（24 h后神经元放电量较对照组下降）。研究发现晚期急性反应（24 h内）可预测神经元后续活动状态，但早期峰值反应无此关联。该研究追踪了1692个神经元，揭示了致幻剂作用的双向调控机制及时间特异性神经信号传递规律。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.14.766632v1?rss=1)
+- [Rannou 等在 bioRxiv 发表杜氏肌营养不良中 cGAS-STING 通路致病机制研究](https://reisen-ww.github.io/hot-pages/acadhot/items/p1hdsyqg6mf2nu8s4ij9y9gqb)
+  来源：bioRxiv · 发布时间：2026-11-17 08:00（北京时间） · 一手
+  摘要：该研究揭示杜氏肌营养不良（DMD）患者巨噬细胞中胞内DNA水平升高且 TREX1 活性降低，导致 cGAS-STING 通路异常激活，抑制肌肉生成。合成非编码RNA药物 TY1 通过增强 TREX1 活性抑制该通路，在口服或静脉给药后有效延缓 mdx 小鼠的疾病进展并逆转心脏和骨骼肌肉病理。研究为 DMD 提供了新的治疗靶点（TREX1、cGAS、STING）。
+  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766546v1?rss=1)
 
-- [某团队在 bioRxiv 发布中风后清除性凋亡转录读出的解耦评估框架](https://reisen-ww.github.io/hot-pages/acadhot/items/ymsju07wxrm1052ysnt9f1f1h)
-  来源：bioRxiv · 发布时间：2026-11-16 08:00（北京时间） · 一手
-  摘要：某团队提出解耦评估框架，通过多组学数据验证中风后清除机制与炎症反应的关联。研究显示清除能力差异在三个队列中分别为+0.473（95%CI 0.350-0.588）、+0.014、未检出；PBMCs数据不支持清除能力差异，但人脑微胶质细胞比例显著增加（0.371 vs 0.199）；能量供应影响清除效率（oxidative phosphorylation +1.512）。
-  原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.13.766327v1?rss=1)
+- [海因里希·海涅大学杜塞尔多夫分校研究团队揭示水稻黑条病在植株内的传播机制及潜在停滞点](https://reisen-ww.github.io/hot-pages/acadhot/items/p25y1q1hpe678u1pu7ao9q2v3)
+  来源：Phys.org · 发布时间：2026-11-17 23:00（北京时间）
+  摘要：海因里希·海涅大学杜塞尔多夫分校研究团队在《植物病理学》和《微生物学杂志》发表两篇论文，揭示水稻黑条病菌Xoo通过根部维管系统感染至Coleoptile节点后停滞，并形成多细胞形态（杆状和丝状）突破叶片屏障。
+  原文：[打开原文](https://phys.org/news/2026-11-reveal-rice-blight-stall.html)

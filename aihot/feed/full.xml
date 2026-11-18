@@ -9,6 +9,72 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Amazon Bedrock AgentCore 大JSON负载下降低token成本与延迟的优化实践]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nssotndgv036yduu3soqhsyhb</link>
+      <description><![CDATA[<p>在处理20MB+ JSON数据时，通过将大JSON数据持久化存储（Amazon S3）、分页加载（get_result_page_tool）和字典结构化压缩（_oversized_descriptor），将token消耗降低71%，平均响应延迟从15.4秒降至3.1秒。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nssotndgv036yduu3soqhsyhb">https://reisen-ww.github.io/hot-pages/aihot/items/nssotndgv036yduu3soqhsyhb</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Tue, 17 Nov 2026 22:44:51 GMT</pubDate>
+      <guid isPermaLink="false">nssotndgv036yduu3soqhsyhb</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS：通过规则与模型调用平衡生成式AI成本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gekdumkwpvnk0w4rjcj26utnd</link>
+      <description><![CDATA[<p>AWS提出通过规则与模型调用平衡生成式AI成本的方法。首先用规则处理输入验证、路由等确定任务，仅将无法解决的部分提交给模型。具体实现包括：1）使用AWS Step Functions的Choice状态进行关键词快速路由；2）在Lambda中运行规则检查；3）通过Amazon Bedrock的约束决策调用处理有限选项选择；4）利用模型蒸馏技术优化模型选择。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gekdumkwpvnk0w4rjcj26utnd">https://reisen-ww.github.io/hot-pages/aihot/items/gekdumkwpvnk0w4rjcj26utnd</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Tue, 17 Nov 2026 21:14:55 GMT</pubDate>
+      <guid isPermaLink="false">gekdumkwpvnk0w4rjcj26utnd</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amazon SageMaker AI实时端点新增KV缓存感知路由功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/f0bu7gxltnb6js3635r8ezfvv</link>
+      <description><![CDATA[<p>Amazon SageMaker AI实时端点新增KV缓存感知路由功能，通过模型容器上报缓存状态实现更精准的实例分配，提升多轮对话场景下的响应速度和吞吐量。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/f0bu7gxltnb6js3635r8ezfvv">https://reisen-ww.github.io/hot-pages/aihot/items/f0bu7gxltnb6js3635r8ezfvv</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 21:11:51 GMT</pubDate>
+      <guid isPermaLink="false">f0bu7gxltnb6js3635r8ezfvv</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Meta高管发布AI深度伪造视频引发安全争议]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr</link>
+      <description><![CDATA[<p>Meta首席AI官Alexandr Wang发布AI生成视频，将Sam Altman与Muse吉祥物Jolly合成对话。Meta要求AI视频标注但静态图像无强制限制，此前OpenAI Sora上线后已出现大量冒用Altman的虚假视频。</p>
+<p>🔗 <a href="https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr">https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Tue, 17 Nov 2026 21:00:55 GMT</pubDate>
+      <guid isPermaLink="false">wt6vi5z2mjebwn7z9bhnhmasr</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS Agent Registry 发布自定义元数据功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bzo55wzkc4huv9zx904ak3d33</link>
+      <description><![CDATA[<p>AWS Agent Registry 新增自定义元数据功能，支持通过环境(prod/staging/dev)、业务单元、安全扫描状态等标准化字段统一管理智能体及 MCP 服务器。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bzo55wzkc4huv9zx904ak3d33">https://reisen-ww.github.io/hot-pages/aihot/items/bzo55wzkc4huv9zx904ak3d33</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 20:31:04 GMT</pubDate>
+      <guid isPermaLink="false">bzo55wzkc4huv9zx904ak3d33</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI发布GPT-6.2 Astra和Sol：API价格降低，部分基准测试性能提升]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/p5cip2ebac62ahwfr7amiaqby</link>
+      <description><![CDATA[<p>OpenAI发布面向专业场景的GPT-6.2 Astra和日常使用的GPT-6.2 Sol，Astra在Agents&apos; Last Exam基准测试中较前代提升5.2分且成本降低67%，在Harvey LAB-AA法律测试中通过率翻倍；Sol在编码基准中得分较前代下降3分但价格仅为其1/3。</p>
+<p>🔗 <a href="https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/p5cip2ebac62ahwfr7amiaqby">https://reisen-ww.github.io/hot-pages/aihot/items/p5cip2ebac62ahwfr7amiaqby</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Tue, 17 Nov 2026 20:30:50 GMT</pubDate>
+      <guid isPermaLink="false">p5cip2ebac62ahwfr7amiaqby</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS Bedrock AgentCore与Snowflake MCP的OAuth配置方案]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/xzs9fsro14bfbae4u01wsmd6d</link>
       <description><![CDATA[<p>本文详细介绍了三种OAuth配置方案：Pattern1（Snowflake内置OAuth，适合用户级审计）、Pattern2（第三方IdP的三重认证，适合企业SSO整合）、Pattern3（机器认证，适合无人工流程）。所有配置均通过Amazon Bedrock AgentCore Gateway实现，并附有GitHub参考实现链接。</p>
@@ -214,6 +280,17 @@
       <pubDate>Tue, 17 Nov 2026 14:00:00 GMT</pubDate>
       <guid isPermaLink="false">otpym032x6f5iruoa6l362xnr</guid>
       <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT for Sales 发布销售插件及合作伙伴工具]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/cy8osnhqa0dz01i3449e4zmfe</link>
+      <description><![CDATA[<p>OpenAI 发布 ChatGPT for Sales 销售插件及合作伙伴工具，包含30+新及扩展的合作伙伴插件，支持客户研究、提案准备、CRM更新等功能。</p>
+<p>🔗 <a href="https://openai.com/index/introducing-chatgpt-for-sales">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/cy8osnhqa0dz01i3449e4zmfe">https://reisen-ww.github.io/hot-pages/aihot/items/cy8osnhqa0dz01i3449e4zmfe</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cy8osnhqa0dz01i3449e4zmfe</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
     <item>
       <title><![CDATA[NVIDIA DGX Spark开发者套件：桌面即超级计算实验室]]></title>
@@ -474,83 +551,6 @@
       <pubDate>Mon, 16 Nov 2026 15:48:01 GMT</pubDate>
       <guid isPermaLink="false">g6pqbzv74tpy94bxov1lketwv</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Bedrock 管理知识库发布租户级定制回答功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j3q9na3j0qrphd2bu88t5g713</link>
-      <description><![CDATA[<p>AWS Bedrock 管理知识库发布租户级定制回答功能，支持企业按区域、团队等维度设置专属的语音、格式和策略。通过组合使用检索指令（retrieval instructions）和元数据过滤，可在共享知识库中实现租户数据隔离，并利用版本控制机制分阶段更新不同租户的配置。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j3q9na3j0qrphd2bu88t5g713">https://reisen-ww.github.io/hot-pages/aihot/items/j3q9na3j0qrphd2bu88t5g713</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Mon, 16 Nov 2026 15:46:28 GMT</pubDate>
-      <guid isPermaLink="false">j3q9na3j0qrphd2bu88t5g713</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[美国政府宣布加强AI芯片出口管制限制中国等D:5国家远程计算访问]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tdi2j8p7z0wvyzbl6hu4r5819</link>
-      <description><![CDATA[<p>美国政府宣布加强AI芯片出口管制，要求企业为向中国等D:5国家提供计算服务申请许可证，并废除2025年1月生效的拜登政府AI扩散规则。新规将远程访问的AI芯片和服务器限制在12 million TPP（约750块Nvidia H100/H200芯片）以下，同时要求出口商监控客户股权结构。该政策直接针对中国等国家的企业通过海外数据中心绕过出口限制的行为。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tdi2j8p7z0wvyzbl6hu4r5819">https://reisen-ww.github.io/hot-pages/aihot/items/tdi2j8p7z0wvyzbl6hu4r5819</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 16 Nov 2026 15:02:34 GMT</pubDate>
-      <guid isPermaLink="false">tdi2j8p7z0wvyzbl6hu4r5819</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Maps 新增实时行程规划与多场景预约功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qh4w7l61ktvpaz29uijwea155</link>
-      <description><![CDATA[<p>Google Maps 新增AI行程规划功能，支持实时交通、预约及多场景行程定制。新增功能包含：1）通过Ask Maps工具创建带实时细节的行程；2）自动查找用户收藏列表中的可用场所（如5人团餐）；3）扩展至欧洲30国（西班牙/德国/英国等）。用户可调整行程添加景点或餐饮，并导出至Google Docs。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qh4w7l61ktvpaz29uijwea155">https://reisen-ww.github.io/hot-pages/aihot/items/qh4w7l61ktvpaz29uijwea155</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Mon, 16 Nov 2026 14:48:13 GMT</pubDate>
-      <guid isPermaLink="false">qh4w7l61ktvpaz29uijwea155</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[英伟达CEO黄仁勋丑闻辞职致股价暴跌14%，牵连中国芯片供应与国会调查]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bny41s6zz8yf9v06tjmilhwuu</link>
-      <description><![CDATA[<p>英伟达CEO黄仁勋因丑闻辞职致股价单周暴跌14%，事件牵连中国芯片供应、国会调查及AI行业融资不确定性。董事会持续调查其涉嫌泄密，部分议员计划传唤CEO作证。AI安全机构担忧企业为营收压缩安全投入，行业或面临长期震荡。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bny41s6zz8yf9v06tjmilhwuu">https://reisen-ww.github.io/hot-pages/aihot/items/bny41s6zz8yf9v06tjmilhwuu</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Mon, 16 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bny41s6zz8yf9v06tjmilhwuu</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[美国国会拟加强AI芯片出口管制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/b344u7r3trp4ghxteaqveji8e</link>
-      <description><![CDATA[<p>美国国会拟加强AI芯片出口管制，两党支持限制中国获取AI芯片，众议院议长明确表态支持。法案包括Remote Access Security Act，该法案曾在2025年4月提交但未通过参议院。</p>
-<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/b344u7r3trp4ghxteaqveji8e">https://reisen-ww.github.io/hot-pages/aihot/items/b344u7r3trp4ghxteaqveji8e</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Sun, 15 Nov 2026 19:15:43 GMT</pubDate>
-      <guid isPermaLink="false">b344u7r3trp4ghxteaqveji8e</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[与英伟达CEO前女友关联的公司涉嫌促成近120亿美元中国芯片订单]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/vm92ml6iqsdrjfncqe0rylpmz</link>
-      <description><![CDATA[<p>Megaspeed（由Jensen Huang前女友Alice Huang控股）涉嫌通过Nvidia云合作伙伴关系优先获取稀缺AI芯片，为国内客户促成近120亿美元订单，引发美国出口管制合规调查。</p>
-<p>🔗 <a href="https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/vm92ml6iqsdrjfncqe0rylpmz">https://reisen-ww.github.io/hot-pages/aihot/items/vm92ml6iqsdrjfncqe0rylpmz</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Sun, 15 Nov 2026 14:45:12 GMT</pubDate>
-      <guid isPermaLink="false">vm92ml6iqsdrjfncqe0rylpmz</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[澳大利亚央行研究：AI优先冲击年轻从业者，软件与客服领域首当其冲]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rnsotva28sk4ivgp4wopnpyi4</link>
-      <description><![CDATA[<p>澳大利亚央行研究显示AI对年轻从业者的冲击显著，15-24岁及应届毕业生在AI高暴露行业（如编程、客服）就业率下降13%-20%，而资深员工就业率稳定或上升。LinkedIn数据显示AI相关职位一年内增长6倍，但研究强调需结合美联储加息等宏观经济因素（如2022年疫情后招聘激增后的回调），世界经济论坛预测2030年AI将创造净增7800万岗位。</p>
-<p>🔗 <a href="https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rnsotva28sk4ivgp4wopnpyi4">https://reisen-ww.github.io/hot-pages/aihot/items/rnsotva28sk4ivgp4wopnpyi4</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Sun, 15 Nov 2026 10:45:58 GMT</pubDate>
-      <guid isPermaLink="false">rnsotva28sk4ivgp4wopnpyi4</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
   </channel>
 </rss>

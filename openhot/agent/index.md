@@ -1,6 +1,6 @@
 # 开源热点 静态读取说明
 
-快照时间：2026-11-17T21:00:10.675Z；版本：f9640295-1528-40be-844c-8f6403d99656。仅包含当前允许公开的内容。
+快照时间：2026-11-18T00:30:50.006Z；版本：1bdb96a4-6a66-4c56-8224-5463c1531cc9。仅包含当前允许公开的内容。
 
 - [当前 manifest](https://reisen-ww.github.io/hot-pages/openhot/data/manifest.json)：文件使用 SHA-256 内容地址；读取方须绑定同一版本并验证字节。
 - catalog 与 bodyShards 仅覆盖当前在线文章窗口，分别用于标题摘要与获许可的全文搜索。全部历史报告保留。availability 将超窗（outside-window）与不再公开区分；缺少详情不代表来源撤回。

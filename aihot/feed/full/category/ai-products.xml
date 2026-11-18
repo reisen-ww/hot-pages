@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Amazon SageMaker AI实时端点新增KV缓存感知路由功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/f0bu7gxltnb6js3635r8ezfvv</link>
+      <description><![CDATA[<p>Amazon SageMaker AI实时端点新增KV缓存感知路由功能，通过模型容器上报缓存状态实现更精准的实例分配，提升多轮对话场景下的响应速度和吞吐量。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/f0bu7gxltnb6js3635r8ezfvv">https://reisen-ww.github.io/hot-pages/aihot/items/f0bu7gxltnb6js3635r8ezfvv</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 21:11:51 GMT</pubDate>
+      <guid isPermaLink="false">f0bu7gxltnb6js3635r8ezfvv</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS Agent Registry 发布自定义元数据功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bzo55wzkc4huv9zx904ak3d33</link>
+      <description><![CDATA[<p>AWS Agent Registry 新增自定义元数据功能，支持通过环境(prod/staging/dev)、业务单元、安全扫描状态等标准化字段统一管理智能体及 MCP 服务器。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bzo55wzkc4huv9zx904ak3d33">https://reisen-ww.github.io/hot-pages/aihot/items/bzo55wzkc4huv9zx904ak3d33</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 20:31:04 GMT</pubDate>
+      <guid isPermaLink="false">bzo55wzkc4huv9zx904ak3d33</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS Forward Deployed Engineering（FDE）助力全球企业将AI从演示落地至生产]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/c6mco6d7y8akvf166tyt2h2ll</link>
       <description><![CDATA[<p>AWS Forward Deployed Engineering（FDE）通过基础设施、工作流自动化和治理三层次方案，帮助客户将AI从原型快速落地至生产环境。 Marsh保险通过FDE实现流程效率提升70%，部分步骤耗时从小时级缩短至秒级。</p>
@@ -95,6 +117,17 @@
       <pubDate>Tue, 17 Nov 2026 15:57:09 GMT</pubDate>
       <guid isPermaLink="false">hd0wr7mx7331q05jblouzeguq</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT for Sales 发布销售插件及合作伙伴工具]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/cy8osnhqa0dz01i3449e4zmfe</link>
+      <description><![CDATA[<p>OpenAI 发布 ChatGPT for Sales 销售插件及合作伙伴工具，包含30+新及扩展的合作伙伴插件，支持客户研究、提案准备、CRM更新等功能。</p>
+<p>🔗 <a href="https://openai.com/index/introducing-chatgpt-for-sales">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/cy8osnhqa0dz01i3449e4zmfe">https://reisen-ww.github.io/hot-pages/aihot/items/cy8osnhqa0dz01i3449e4zmfe</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cy8osnhqa0dz01i3449e4zmfe</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
     <item>
       <title><![CDATA[NVIDIA DGX Spark开发者套件：桌面即超级计算实验室]]></title>
@@ -402,17 +435,6 @@
       <category>AI 产品</category>
       <pubDate>Wed, 11 Nov 2026 01:07:19 GMT</pubDate>
       <guid isPermaLink="false">teb9htf41ab5b3bgrk3znurb4</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[基于LangGraph和Amazon Bedrock AgentCore构建每日依赖监控工具]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/iyzb489lxsolx3xb1f21oakbp</link>
-      <description><![CDATA[<p>AWS推出基于LangGraph和Bedrock AgentCore的Web Search API，实现每日依赖监控工具。测试显示三个分支并行运行仅需36秒（单次顺序运行需99秒），工具通过代码控制日期范围、白名单和搜索次数限制，返回结果包含可验证的来源链接、发布日期和CVE/ advisory ID。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/iyzb489lxsolx3xb1f21oakbp">https://reisen-ww.github.io/hot-pages/aihot/items/iyzb489lxsolx3xb1f21oakbp</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 10 Nov 2026 23:34:05 GMT</pubDate>
-      <guid isPermaLink="false">iyzb489lxsolx3xb1f21oakbp</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>

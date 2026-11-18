@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[MIT与Adobe联合提出新型语言模型架构Lattice of Latents]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</link>
+      <description><![CDATA[<p>MIT与Adobe团队在GitHub开源Lattice of Latents架构，通过水平隐状态流（horizontal latents）与垂直残差流（vertical residual stream）协同工作，在20B tokens预训练基础上，406M参数模型将验证困惑度从15.41降至14.40，相比传统Transformer减少45%参数量同时保持性能优势。</p>
+<p>🔗 <a href="https://shivamduggal4.github.io/latent-lattice-language-models/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2">https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Tue, 17 Nov 2026 22:17:18 GMT</pubDate>
+      <guid isPermaLink="false">vzk2lsme82xg9gb82xrby9mf2</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[RunAnywhere 开源 Trainium LLM 推理引擎 TrnRT 上线]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9</link>
       <description><![CDATA[<p>RunAnywhere 在 GitHub 公开 TrnRT 仓库，支持 GLM-5.3-Flash 模型，提供 Docker 构建命令、编译缓存机制、双引擎部署方案及性能测试数据（单机 trn2.48xlarge 支持 32 并行请求，1M tokens 上下文，成本对比从 $0.061/百万 tokens 到 $0.040）</p>

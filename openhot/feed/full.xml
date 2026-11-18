@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[MIT与Adobe联合提出新型语言模型架构Lattice of Latents]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</link>
+      <description><![CDATA[<p>MIT与Adobe团队在GitHub开源Lattice of Latents架构，通过水平隐状态流（horizontal latents）与垂直残差流（vertical residual stream）协同工作，在20B tokens预训练基础上，406M参数模型将验证困惑度从15.41降至14.40，相比传统Transformer减少45%参数量同时保持性能优势。</p>
+<p>🔗 <a href="https://shivamduggal4.github.io/latent-lattice-language-models/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2">https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Tue, 17 Nov 2026 22:17:18 GMT</pubDate>
+      <guid isPermaLink="false">vzk2lsme82xg9gb82xrby9mf2</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[哈佛大学研究人员发现AI编码工具使代码审查成为新瓶颈]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv</link>
+      <description><![CDATA[<p>哈佛大学研究人员通过对比718家公司的代码提交与审查数据，发现AI编码工具使工程师代码量增加30%但未提升完成效率，瓶颈转移至代码审查阶段。研究特别指出法律AI工具如Harvey和Cooley的同类问题：虽然能加速初稿生成，但审查阶段耗时增加49%，且未公开审查效率的具体指标。</p>
+<p>🔗 <a href="https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv">https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Tue, 17 Nov 2026 21:16:12 GMT</pubDate>
+      <guid isPermaLink="false">vixohsf7i9s476aec9nxqdqrv</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</link>
+      <description><![CDATA[<p>Java4Shell漏洞利用方法：通过构造特定Base64编码触发OpenJDK 17.0.6+内存溢出，利用AVX-512硬件加速特性实现远程代码执行。受影响版本包括Oracle Java SE 8u511b33-perf及后续更新。PoC代码展示如何通过200万次Base64解码触发漏洞，并在内存中写入可控数据。修复建议包括禁用Base64硬件加速或AVX-512指令集。</p>
+<p>🔗 <a href="https://calif.io/java4shell/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj">https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 GMT</pubDate>
+      <guid isPermaLink="false">s06219w0ojwkjgo37ddgczjkj</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Phrack 73 期发布：23篇安全技术研究论文与历史案例分析]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</link>
       <description><![CDATA[<p>Phrack 73 期发布，包含23篇技术论文及8篇额外文章，涵盖容器逃逸、Windows智能卡架构、静态污点分析等安全研究主题，并附有历史案例与未来趋势分析</p>
@@ -522,39 +555,6 @@
       <category>安全与隐私</category>
       <pubDate>Tue, 10 Nov 2026 14:48:26 GMT</pubDate>
       <guid isPermaLink="false">r0hhlb2deubof4r1vivhw50p6</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[微软发布 .NET 11 运行时重大更新]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/o771325cyqcm624qz3dfpoo1v</link>
-      <description><![CDATA[<p>微软发布 .NET 11 运行时，硬件要求从 x86-64-v1 升级至 x86-64-v3（新增 AVX、BMI 等指令集支持），并引入 Runtime Async V2（减少13帧到5帧的调试堆栈）。新增支持超过1024核处理器，优化了 WebAssembly 调试和 SIMD 控制能力。</p>
-<p>🔗 <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/o771325cyqcm624qz3dfpoo1v">https://reisen-ww.github.io/hot-pages/openhot/items/o771325cyqcm624qz3dfpoo1v</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Tue, 10 Nov 2026 12:20:07 GMT</pubDate>
-      <guid isPermaLink="false">o771325cyqcm624qz3dfpoo1v</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google DeepMind 开源 Rust 写的 Signal 协议形式验证框架]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru</link>
-      <description><![CDATA[<p>Google DeepMind 开源 Rust 写的 Signal 协议形式验证框架，AI 代理验证代码效率提升 90%。研究团队使用多LLM框架，人类专家与AI协作制定数学规范，AI生成六百万行 Lean 代码进行验证，仅1%代码需人工复核，四周完成传统需数年的工作，工具已开源。</p>
-<p>🔗 <a href="https://deepmind.google/blog/introducing-alphaproof-code/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru">https://reisen-ww.github.io/hot-pages/openhot/items/tdhmmbc4vi6r88pje71mfdpru</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 12:11:12 GMT</pubDate>
-      <guid isPermaLink="false">tdhmmbc4vi6r88pje71mfdpru</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[JetBrains RustRover 2026.3 发布：集成 AI 调试功能提升 Rust 开发效率]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cj1ue0wbx97kvqqavheubwk0b</link>
-      <description><![CDATA[<p>JetBrains 在 RustRover 2026.3 版本中集成 AI 调试功能，允许 Codex 等模型自动设置断点、执行调试步骤并修复代码问题。对比传统调试方法（如 println!</p>
-<p>🔗 <a href="https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cj1ue0wbx97kvqqavheubwk0b">https://reisen-ww.github.io/hot-pages/openhot/items/cj1ue0wbx97kvqqavheubwk0b</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 10 Nov 2026 11:10:32 GMT</pubDate>
-      <guid isPermaLink="false">cj1ue0wbx97kvqqavheubwk0b</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>

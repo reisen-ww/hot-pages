@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Meta高管发布AI深度伪造视频引发安全争议]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr</link>
+      <description><![CDATA[<p>Meta首席AI官Alexandr Wang发布AI生成视频，将Sam Altman与Muse吉祥物Jolly合成对话。Meta要求AI视频标注但静态图像无强制限制，此前OpenAI Sora上线后已出现大量冒用Altman的虚假视频。</p>
+<p>🔗 <a href="https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr">https://reisen-ww.github.io/hot-pages/aihot/items/wt6vi5z2mjebwn7z9bhnhmasr</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Tue, 17 Nov 2026 21:00:55 GMT</pubDate>
+      <guid isPermaLink="false">wt6vi5z2mjebwn7z9bhnhmasr</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
       <title><![CDATA[微软发布决策模型 Microsoft-Decision-1.1]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/hfvdj38babtkoq0yfwxb4b7bc</link>
       <description><![CDATA[<p>微软发布决策模型 Microsoft-Decision-1.1，揭示企业级AI推理需求增长及定制化服务竞争。英国初创公司Sqwish获300万美元种子轮融资，其决策模型kettei fat通过客户数据持续优化判断能力。TypeSafe Jev模型已处理超15亿次查询，但行业普遍认为实际应用效果比基准测试更重要。</p>
@@ -502,39 +513,6 @@
       <pubDate>Wed, 11 Nov 2026 09:34:28 GMT</pubDate>
       <guid isPermaLink="false">gb2p8bzjvm9280vpinoffk2gg</guid>
       <author>noreply@reisen-ww.github.io (Latent Space)</author>
-    </item>
-    <item>
-      <title><![CDATA[Grok Build coding agent泄露大量机密数据]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/uab665t4lxdk7zpt6tb7by85w</link>
-      <description><![CDATA[<p>Grok Build coding agent泄露大量机密数据，包括SpaceXSI内部商业计划、员工信息及广告提案。研究显示该平台URL随机化设计存在漏洞，允许攻击者枚举数千个活跃项目并直接访问其数据。泄露内容涵盖医疗检查结果、游艇检查清单等敏感信息，部分数据来自SpaceXSI自家开发的24个应用。</p>
-<p>🔗 <a href="https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/uab665t4lxdk7zpt6tb7by85w">https://reisen-ww.github.io/hot-pages/aihot/items/uab665t4lxdk7zpt6tb7by85w</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 21:12:59 GMT</pubDate>
-      <guid isPermaLink="false">uab665t4lxdk7zpt6tb7by85w</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft研究人员发现Lazarus攻击：通过激活AI模型休眠神经元可在触发条件下执行恶意命令]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k2o8sjiefxyykso8jzscvgh22</link>
-      <description><![CDATA[<p>Microsoft研究人员发现Lazarus攻击：通过激活AI模型休眠神经元可在触发条件下执行恶意命令。该攻击无需模型微调，仅修改权重即可绕过标准安全评估。防御建议包括模型来源验证、容器扫描和AI驱动的权重检测，强调需将模型视为潜在内部威胁并限制其权限。</p>
-<p>🔗 <a href="https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k2o8sjiefxyykso8jzscvgh22">https://reisen-ww.github.io/hot-pages/aihot/items/k2o8sjiefxyykso8jzscvgh22</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 20:52:56 GMT</pubDate>
-      <guid isPermaLink="false">k2o8sjiefxyykso8jzscvgh22</guid>
-      <author>noreply@reisen-ww.github.io (Microsoft Research)</author>
-    </item>
-    <item>
-      <title><![CDATA[纽约AI安全法生效，OpenAI、Anthropic等需合规申报]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qiy8ed5hcb518cgsdzf60b7zw</link>
-      <description><![CDATA[<p>纽约州于2026年11月10日宣布新AI安全法（RAISE法案）正式生效，要求年营收超5亿美元的大模型公司于2027年1月1日前完成注册、公开安全框架及72小时内报告重大事故。法案同步成立DIGIT监管办公室和AI责任研究中心，并与加州、伊利诺伊州形成监管联动。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qiy8ed5hcb518cgsdzf60b7zw">https://reisen-ww.github.io/hot-pages/aihot/items/qiy8ed5hcb518cgsdzf60b7zw</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 10 Nov 2026 20:52:13 GMT</pubDate>
-      <guid isPermaLink="false">qiy8ed5hcb518cgsdzf60b7zw</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
     </item>
   </channel>
 </rss>

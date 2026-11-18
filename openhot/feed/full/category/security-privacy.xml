@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</link>
+      <description><![CDATA[<p>Java4Shell漏洞利用方法：通过构造特定Base64编码触发OpenJDK 17.0.6+内存溢出，利用AVX-512硬件加速特性实现远程代码执行。受影响版本包括Oracle Java SE 8u511b33-perf及后续更新。PoC代码展示如何通过200万次Base64解码触发漏洞，并在内存中写入可控数据。修复建议包括禁用Base64硬件加速或AVX-512指令集。</p>
+<p>🔗 <a href="https://calif.io/java4shell/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj">https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 GMT</pubDate>
+      <guid isPermaLink="false">s06219w0ojwkjgo37ddgczjkj</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Phrack 73 期发布：23篇安全技术研究论文与历史案例分析]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</link>
       <description><![CDATA[<p>Phrack 73 期发布，包含23篇技术论文及8篇额外文章，涵盖容器逃逸、Windows智能卡架构、静态污点分析等安全研究主题，并附有历史案例与未来趋势分析</p>
@@ -83,17 +94,6 @@
       <category>安全与隐私</category>
       <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
       <guid isPermaLink="false">valupcxo1s024tghy4cldjcst</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[PDG-Global 开源 Rust 写的端到端加密 VPN rVPN]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/o4qkmmpnrvm7opyoxv6nxgmf7</link>
-      <description><![CDATA[<p>PDG-Global 开源了基于 Rust 的端到端加密 VPN rVPN，支持 iOS/Android/macOS/Linux/FreeBSD 多平台，提供可验证构建流程（GitHub 仓库地址：https://github.com/PDG-Global/rVPN-core），AGPLv3 许可证确保代码永久开放</p>
-<p>🔗 <a href="https://rvpn.org/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/o4qkmmpnrvm7opyoxv6nxgmf7">https://reisen-ww.github.io/hot-pages/openhot/items/o4qkmmpnrvm7opyoxv6nxgmf7</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 10 Nov 2026 21:42:50 GMT</pubDate>
-      <guid isPermaLink="false">o4qkmmpnrvm7opyoxv6nxgmf7</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>

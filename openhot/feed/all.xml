@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[MIT与Adobe联合提出新型语言模型架构Lattice of Latents]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</link>
+      <description><![CDATA[<p>MIT与Adobe团队在GitHub开源Lattice of Latents架构，通过水平隐状态流（horizontal latents）与垂直残差流（vertical residual stream）协同工作，在20B tokens预训练基础上，406M参数模型将验证困惑度从15.41降至14.40，相比传统Transformer减少45%参数量同时保持性能优势。</p>
+<p>🔗 <a href="https://shivamduggal4.github.io/latent-lattice-language-models/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2">https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Tue, 17 Nov 2026 22:17:18 GMT</pubDate>
+      <guid isPermaLink="false">vzk2lsme82xg9gb82xrby9mf2</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[哈佛大学研究人员发现AI编码工具使代码审查成为新瓶颈]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv</link>
+      <description><![CDATA[<p>哈佛大学研究人员通过对比718家公司的代码提交与审查数据，发现AI编码工具使工程师代码量增加30%但未提升完成效率，瓶颈转移至代码审查阶段。研究特别指出法律AI工具如Harvey和Cooley的同类问题：虽然能加速初稿生成，但审查阶段耗时增加49%，且未公开审查效率的具体指标。</p>
+<p>🔗 <a href="https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv">https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Tue, 17 Nov 2026 21:16:12 GMT</pubDate>
+      <guid isPermaLink="false">vixohsf7i9s476aec9nxqdqrv</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</link>
+      <description><![CDATA[<p>Java4Shell漏洞利用方法：通过构造特定Base64编码触发OpenJDK 17.0.6+内存溢出，利用AVX-512硬件加速特性实现远程代码执行。受影响版本包括Oracle Java SE 8u511b33-perf及后续更新。PoC代码展示如何通过200万次Base64解码触发漏洞，并在内存中写入可控数据。修复建议包括禁用Base64硬件加速或AVX-512指令集。</p>
+<p>🔗 <a href="https://calif.io/java4shell/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj">https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 GMT</pubDate>
+      <guid isPermaLink="false">s06219w0ojwkjgo37ddgczjkj</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Web 浏览器工程：从 Python 代码构建基本浏览器]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/hq7ktdm59mubz6lwxbe41x5gx</link>
       <description><![CDATA[<p>这本书用不到两千行 Python 代码解释了 web 浏览器的工作原理，从网络通信到 JavaScript，涵盖了加载页面、显示文档、运行应用以及现代浏览器的特性。读者可以通过作者的博客、Mastodon 或 Twitter 跟踪更新。</p>
@@ -29,6 +62,17 @@
       <pubDate>Tue, 17 Nov 2026 19:50:40 GMT</pubDate>
       <guid isPermaLink="false">hen2crd7mgakz4j3cad83wpw3</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Sarasa Gothic Mono 字体开源发布，支持165种语言及编程 ligatures]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/im5euiqkz2di1r3xthkseymer</link>
+      <description><![CDATA[<p>Sarasa Gothic Mono 字体开源发布，支持165种语言及编程 ligatures，提供完整拉丁、西里尔、希腊字符集，可通过 GitHub 仓库获取。设计者 be5invis（林仁志）与兆邦中国联合发布，包含ExtraLight至Bold 5种权重，适用于代码编辑器、IDE及终端显示。</p>
+<p>🔗 <a href="https://picaq.github.io/sarasa">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/im5euiqkz2di1r3xthkseymer">https://reisen-ww.github.io/hot-pages/openhot/items/im5euiqkz2di1r3xthkseymer</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Tue, 17 Nov 2026 18:47:39 GMT</pubDate>
+      <guid isPermaLink="false">im5euiqkz2di1r3xthkseymer</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
       <title><![CDATA[Phrack 73 发布]]></title>
@@ -509,50 +553,6 @@
       <category>安全与隐私</category>
       <pubDate>Mon, 16 Nov 2026 05:12:27 GMT</pubDate>
       <guid isPermaLink="false">vmvo81vgo78w2fx4e2r4uezvt</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[从 GitHub 迁移到 Codeberg 的经历]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vdwvivq01d5vjzicae1d9jbam</link>
-      <description><![CDATA[<p>作者于 2009 年创建 GitHub 账号，2023 年将 Inko 项目和个人项目迁回 GitHub，旨在增加项目可见度和贡献者数量。然而，由于 GitHub 上低质量的“贡献”增多，作者决定迁移至 Codeberg，因其对非自由软件的立场、反对 AI 和更符合自由软件精神的组织结构。迁移过程中，作者手动处理了 70 多个仓库，遇到 GitHub API 限流等问题，但最终顺利完成。</p>
-<p>🔗 <a href="https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vdwvivq01d5vjzicae1d9jbam">https://reisen-ww.github.io/hot-pages/openhot/items/vdwvivq01d5vjzicae1d9jbam</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Mon, 16 Nov 2026 05:10:34 GMT</pubDate>
-      <guid isPermaLink="false">vdwvivq01d5vjzicae1d9jbam</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Hegel-clj 0.1.1 发布：Clojure测试库优化生成器与缩小算法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/d0zxil6jz8nkkkx71j6f1jdfm</link>
-      <description><![CDATA[<p>Hegel-clj 0.1.1 发布，优化了生成测试的缩小算法，解决嵌套绑定导致的效率低下问题。对比test.check在查找含42的向量时产生冗余数据结构，Hegel-clj能直接缩小为[42]。集成Clojure测试框架，提供fmap/bind等生成器组合，支持递归生成和调试信息输出。</p>
-<p>🔗 <a href="https://aphyr.com/posts/428-announcing-hegel-clj">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/d0zxil6jz8nkkkx71j6f1jdfm">https://reisen-ww.github.io/hot-pages/openhot/items/d0zxil6jz8nkkkx71j6f1jdfm</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Mon, 16 Nov 2026 04:12:25 GMT</pubDate>
-      <guid isPermaLink="false">d0zxil6jz8nkkkx71j6f1jdfm</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Paint in the Memory of Other Programs]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/p4kerzu4q6do4z8y6gg4xojiz</link>
-      <description><![CDATA[<p>Core 是一个程序调试器兼画图工具，通过可视化内存内容帮助用户理解程序内部结构。用户可以在程序内存中自由绘制，观察数据结构和编程模式在内存中的物理表现。该工具展示了程序内存的复杂性和使用方式，揭示了程序的抽象概念在物理层面上的形态。</p>
-<p>🔗 <a href="https://citrons.xyz/journal/2026-04-13">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/p4kerzu4q6do4z8y6gg4xojiz">https://reisen-ww.github.io/hot-pages/openhot/items/p4kerzu4q6do4z8y6gg4xojiz</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Mon, 16 Nov 2026 03:37:36 GMT</pubDate>
-      <guid isPermaLink="false">p4kerzu4q6do4z8y6gg4xojiz</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nix 官方文档更新：eval-profiler 使用指南与性能分析工具链]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/w3xuddwagz6m1ywjk7artxloz</link>
-      <description><![CDATA[<p>Nix 官方文档新增 eval-profiler 工具的使用指南，支持通过命令行参数配置采样频率和输出路径，并可直接生成 flamegraph 可视化图表。</p>
-<p>🔗 <a href="https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/w3xuddwagz6m1ywjk7artxloz">https://reisen-ww.github.io/hot-pages/openhot/items/w3xuddwagz6m1ywjk7artxloz</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Mon, 16 Nov 2026 01:28:22 GMT</pubDate>
-      <guid isPermaLink="false">w3xuddwagz6m1ywjk7artxloz</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>

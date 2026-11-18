@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[开源热点 日报 · 2026-11-18 — Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-18</link>
+      <description><![CDATA[<p>Java4Shell漏洞利用方法：通过构造特定Base64编码触发OpenJDK 17.0.6+内存溢出，利用AVX-512硬件加速特性实现远程代码执行。受影响版本包括Oracle Java SE 8u511b33-perf及后续更新。PoC代码展示如何通过200万次Base64解码触发漏洞，并在内存中写入可控数据。修复建议包括禁用Base64硬件加速或AVX-512指令集。</p>
+<p><strong>工具与项目</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn">uv 0.13.9 发布：优化锁文件与支持新PEP标准</a></li></ul>
+<p><strong>应用与安全</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj">Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w">Phrack 73 期发布：23篇安全技术研究论文与历史案例分析</a></li></ul>
+<p><strong>语言与底层</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/o4obo8m2cfni76lakno33mg9d">Jiff 1.0发布：Rust生态自托管日期时间库正式上线</a></li></ul>
+<p><strong>模型与数据</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2">MIT与Adobe联合提出新型语言模型架构Lattice of Latents</a></li></ul>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-18">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-18</a></p>]]></description>
+      <pubDate>Wed, 18 Nov 2026 00:00:27 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-18</guid>
+      <author>noreply@reisen-ww.github.io (开源热点)</author>
+    </item>
+    <item>
       <title><![CDATA[开源热点 日报 · 2026-11-17 — uBlock Origin 存在可被网站驱动的元素选择器 XSS 漏洞]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-17</link>
       <description><![CDATA[<p>uBlock Origin 存在一个可被恶意网站利用的元素选择器 XSS 漏洞，攻击者可通过伪造可信过滤器注入任意 JavaScript 代码。漏洞利用机制涉及窃取扩展 UUID、劫持元素选择器界面、绕过过滤类型限制。修复方案包括验证消息令牌和限制元素选择器权限。</p>
@@ -407,19 +424,6 @@
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-15">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-15</a></p>]]></description>
       <pubDate>Thu, 15 Oct 2026 00:00:27 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-15</guid>
-      <author>noreply@reisen-ww.github.io (开源热点)</author>
-    </item>
-    <item>
-      <title><![CDATA[开源热点 日报 · 2026-10-14 — XBOW 详解六天完成的 Chrome 全链漏洞利用]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-14</link>
-      <description><![CDATA[<p>XBOW披露了一条由 V8 Maglev 编译器、动画 WebP 解码器和 Crashpad 内存安全漏洞串联而成的 Chrome 全链利用，可从普通标签页中的 JavaScript 执行发展为沙箱外代码执行。</p>
-<p><strong>工具与项目</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/lcf4ate7jbcfznoa58g51dbve">Coq 机器验证的 10 状态图灵机超过 Graham 数并刷新 BB(10) 记录</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/kv0e5nkepewrs978gqai337i1">jinx 将 231,777 个 nixpkgs 属性转译为可运行的 TypeScript</a></li></ul>
-<p><strong>应用与安全</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/acij7sb8ybzp16rcq7bjqrtjo">XBOW 详解六天完成的 Chrome 全链漏洞利用</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/c72iy2454qg3nq7z4ytk6sa0p">Claroty Team82 揭露 Danfoss AK-SM 800A 制冷控制器漏洞，Danfoss 发布 R4.3.1 固件修复</a></li></ul>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-14">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-14</a></p>]]></description>
-      <pubDate>Wed, 14 Oct 2026 00:00:25 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-14</guid>
       <author>noreply@reisen-ww.github.io (开源热点)</author>
     </item>
   </channel>

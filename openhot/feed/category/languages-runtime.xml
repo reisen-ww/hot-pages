@@ -41,16 +41,5 @@
       <guid isPermaLink="false">o9tu0du26uvo9p3rnne4ilgap</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[Go 1.27发布：性能优化与安全增强推动17周年里程碑]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nh48ctzocyhsm0k4ezwuen4t6</link>
-      <description><![CDATA[<p>Go 1.27发布，包含generics优化、JSON/v2升级（10倍速解析）、内存分配改进（小对象分配提速30%）及安全增强（应对eMudhra证书事件）。新goroutine漏检器与SIMD包提升硬件利用率，工具链集成pkg.go.dev API与gopls交互式重构功能，支持AI辅助开发。</p>
-<p>🔗 <a href="https://go.dev/blog/17years">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nh48ctzocyhsm0k4ezwuen4t6">https://reisen-ww.github.io/hot-pages/openhot/items/nh48ctzocyhsm0k4ezwuen4t6</a></p>]]></description>
-      <category>编程语言与运行时</category>
-      <pubDate>Tue, 10 Nov 2026 22:47:26 GMT</pubDate>
-      <guid isPermaLink="false">nh48ctzocyhsm0k4ezwuen4t6</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
   </channel>
 </rss>

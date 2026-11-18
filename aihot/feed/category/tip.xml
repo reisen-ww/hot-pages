@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Amazon Bedrock AgentCore 大JSON负载下降低token成本与延迟的优化实践]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nssotndgv036yduu3soqhsyhb</link>
+      <description><![CDATA[<p>在处理20MB+ JSON数据时，通过将大JSON数据持久化存储（Amazon S3）、分页加载（get_result_page_tool）和字典结构化压缩（_oversized_descriptor），将token消耗降低71%，平均响应延迟从15.4秒降至3.1秒。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nssotndgv036yduu3soqhsyhb">https://reisen-ww.github.io/hot-pages/aihot/items/nssotndgv036yduu3soqhsyhb</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Tue, 17 Nov 2026 22:44:51 GMT</pubDate>
+      <guid isPermaLink="false">nssotndgv036yduu3soqhsyhb</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS：通过规则与模型调用平衡生成式AI成本]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gekdumkwpvnk0w4rjcj26utnd</link>
+      <description><![CDATA[<p>AWS提出通过规则与模型调用平衡生成式AI成本的方法。首先用规则处理输入验证、路由等确定任务，仅将无法解决的部分提交给模型。具体实现包括：1）使用AWS Step Functions的Choice状态进行关键词快速路由；2）在Lambda中运行规则检查；3）通过Amazon Bedrock的约束决策调用处理有限选项选择；4）利用模型蒸馏技术优化模型选择。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gekdumkwpvnk0w4rjcj26utnd">https://reisen-ww.github.io/hot-pages/aihot/items/gekdumkwpvnk0w4rjcj26utnd</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Tue, 17 Nov 2026 21:14:55 GMT</pubDate>
+      <guid isPermaLink="false">gekdumkwpvnk0w4rjcj26utnd</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS Bedrock AgentCore与Snowflake MCP的OAuth配置方案]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/xzs9fsro14bfbae4u01wsmd6d</link>
       <description><![CDATA[<p>本文详细介绍了三种OAuth配置方案：Pattern1（Snowflake内置OAuth，适合用户级审计）、Pattern2（第三方IdP的三重认证，适合企业SSO整合）、Pattern3（机器认证，适合无人工流程）。所有配置均通过Amazon Bedrock AgentCore Gateway实现，并附有GitHub参考实现链接。</p>
@@ -182,17 +204,6 @@
       <category>教程</category>
       <pubDate>Wed, 11 Nov 2026 16:05:33 GMT</pubDate>
       <guid isPermaLink="false">irfertyfoiwmo6ixtwx8o0qh5</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS发布Bedrock AgentCore评估工具及多维度评估方法论]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/mabd3ryeggddzea44lb4nq9b5</link>
-      <description><![CDATA[<p>AWS发布Bedrock AgentCore评估工具，支持内置、DeepEval和AutoEval三种评估模式，提供从开发测试到生产健康监控的全流程方案。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/mabd3ryeggddzea44lb4nq9b5">https://reisen-ww.github.io/hot-pages/aihot/items/mabd3ryeggddzea44lb4nq9b5</a></p>]]></description>
-      <category>教程</category>
-      <pubDate>Tue, 10 Nov 2026 22:35:03 GMT</pubDate>
-      <guid isPermaLink="false">mabd3ryeggddzea44lb4nq9b5</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>
