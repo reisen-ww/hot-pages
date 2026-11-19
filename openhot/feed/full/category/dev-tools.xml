@@ -9,14 +9,47 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
-      <title><![CDATA[Zed 1.29.1版本发布：新增Git分支对比、Claude模型支持及多项功能优化]]></title>
+      <title><![CDATA[Zed 编辑器发布 v1.29.1 版本，新增 Git 分支对比与 Claude 5.2 支持]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf</link>
-      <description><![CDATA[<p>Zed 1.29.1版本发布，新增Git分支对比模式、Claude Fable 5.2和Mythos 5.2模型支持，并修复了自动生成线程标题设置、文件打开路径问题（#66103/65436/66330）及终端链接跨系统兼容性（#66594）。</p>
+      <description><![CDATA[<p>Zed 编辑器发布 v1.29.1 版本，新增 Git 分支对比模式、Claude Fable 5.2 和 Mythos 5.2 模型支持，优化文件操作与界面交互。修复了自动复制响应、分支切换卡顿、绝对路径打开异常等 15 项问题。</p>
 <p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.29.1">阅读原文</a></p>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf">https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf</a></p>]]></description>
       <category>开发工具</category>
       <pubDate>Wed, 18 Nov 2026 16:53:02 GMT</pubDate>
       <guid isPermaLink="false">fsn8oifo8u424682gwa9rvetf</guid>
+      <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[cwida 开源 SuperEMeans 聚类算法加速方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/pwlg764cutjpof3wq8fgpmq3v</link>
+      <description><![CDATA[<p>cwida 在 GitHub 开源 SuperEMeans 聚类算法，结合 SuperKMeans 和 e-means 实现速度提升 1.8-3.2 倍，同时优化了聚类不平衡问题。对比实验显示，在 5M OpenAI 和 10M Cohere 数据集上，SuperEMeans 的召回率与 e-means 相当，但扫描的向量数量更少。</p>
+<p>🔗 <a href="https://www.lkuffo.com/superemeans/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/pwlg764cutjpof3wq8fgpmq3v">https://reisen-ww.github.io/hot-pages/openhot/items/pwlg764cutjpof3wq8fgpmq3v</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 16:09:50 GMT</pubDate>
+      <guid isPermaLink="false">pwlg764cutjpof3wq8fgpmq3v</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Context-Generic Programming v0.8.0发布：cargo-cgp工具与namespaces功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nki67nt24e2w7ds2pnc34zdt7</link>
+      <description><![CDATA[<p>Context-Generic Programming (CGP) v0.8.0发布，包含cargo-cgp工具解决宏展开后编译错误描述不直观的问题，以及namespaces功能实现组件分组配置。</p>
+<p>🔗 <a href="https://contextgeneric.dev/blog/v0.8.0-release">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nki67nt24e2w7ds2pnc34zdt7">https://reisen-ww.github.io/hot-pages/openhot/items/nki67nt24e2w7ds2pnc34zdt7</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 16:08:03 GMT</pubDate>
+      <guid isPermaLink="false">nki67nt24e2w7ds2pnc34zdt7</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Zed 1.30.0 预发布发布：新增 GPT-6.1 支持，优化 GPU 效率与键盘导航]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nci73vg38xnatyb8nh8z5a4ef</link>
+      <description><![CDATA[<p>Zed 1.30.0 预发布发布，新增对 OpenAI GPT-6.1 Terra 的支持，优化 GPU 资源使用效率，改进键盘导航和大型项目扫描性能。修复了多个崩溃和界面问题，包括解决 Windows 显示切换崩溃、Git 模块名称错误检测、终端关闭残留问题等。</p>
+<p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.30.0-pre">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nci73vg38xnatyb8nh8z5a4ef">https://reisen-ww.github.io/hot-pages/openhot/items/nci73vg38xnatyb8nh8z5a4ef</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 16:00:29 GMT</pubDate>
+      <guid isPermaLink="false">nci73vg38xnatyb8nh8z5a4ef</guid>
       <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
     </item>
     <item>

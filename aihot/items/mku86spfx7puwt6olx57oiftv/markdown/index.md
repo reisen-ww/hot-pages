@@ -1,6 +1,6 @@
-# Nvidia 明确贷款担保条件：数据中心项目未达标担保失效
+# Nvidia澄清新数据中心的融资条款与支持边界
 
-> 原标题：Nvidia clarifies when it will — and won’t —keep financing neoclouds
+> 原标题：Nvidia clarifies when it will — and won’t — keep financing neoclouds
 
 - 来源：TechCrunch · AI
 - 发布时间：2026-11-18T13:00:00.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-Nvidia 在第三季度财报中澄清，贷款担保仅在客户获得所需融资并安装其产品后生效，否则担保失效。CFO Colette Kress 表示，公司未来将更谨慎地选择资助对象，不再像前 CEO Jensen Huang 那样自由地提供贷款担保。
+Nvidia宣布新数据中心融资条款，贷款担保仅在客户完成资本筹备后生效。Nvidia CFO Colette Kress在财报电话会上解释，此前因CEO Jensen Huang的离职引发担忧，Kress将OpenAI的贷款担保从2500亿降至1050亿，强调Nvidia不再直接提供融资，而是通过担保支持客户。同时，Nvidia将更严格评估客户资质，确保数据中心建设中的土地、电力等关键资源到位。

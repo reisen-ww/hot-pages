@@ -9,6 +9,61 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Salesforce 在 AWS SageMaker AI 中实现跨区域推理路由提升全球模型服务能力]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ucpy5c8spoakeqlv6rpuagx4q</link>
+      <description><![CDATA[<p>Salesforce 在 AWS SageMaker AI 中通过跨区域推理路由机制，解决了多区域模型服务中的容量碎片化问题。测试显示，当本地模型过载时，路由器可在1分钟内将78%的请求切换至其他区域，同时保持数据驻留合规性。该方案通过统一路由逻辑替代各应用独立实现，降低架构复杂度。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ucpy5c8spoakeqlv6rpuagx4q">https://reisen-ww.github.io/hot-pages/aihot/items/ucpy5c8spoakeqlv6rpuagx4q</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 18 Nov 2026 20:13:18 GMT</pubDate>
+      <guid isPermaLink="false">ucpy5c8spoakeqlv6rpuagx4q</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google Deepmind Project Genie 更新发布 Genie 4 与社区画廊功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/oxtoahyj7i4d6za4ytkasd053</link>
+      <description><![CDATA[<p>Google Deepmind 发布 Genie 4，支持实时文本重塑世界环境及生成适配场景的声效。Genie 3 新增 3 分钟会话时长和 360 度全景模式支持，新增 AI 助手通过语音描述构建世界功能，并开放社区画廊供用户分享和混编创作。所有生成内容均带有 SynthID 水印并通过安全审核。</p>
+<p>🔗 <a href="https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/oxtoahyj7i4d6za4ytkasd053">https://reisen-ww.github.io/hot-pages/aihot/items/oxtoahyj7i4d6za4ytkasd053</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 18 Nov 2026 19:26:25 GMT</pubDate>
+      <guid isPermaLink="false">oxtoahyj7i4d6za4ytkasd053</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Stretto利用Amazon Nova 2 Sonic构建AI语音助手Tara]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tu5kj46se2ulompc3omgwdu0k</link>
+      <description><![CDATA[<p>Stretto通过Amazon Nova 2 Sonic和Claude 3 Haiku构建的AI语音助手Tara使破产咨询转化率提升20%，成本降低95%。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tu5kj46se2ulompc3omgwdu0k">https://reisen-ww.github.io/hot-pages/aihot/items/tu5kj46se2ulompc3omgwdu0k</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 18 Nov 2026 18:58:42 GMT</pubDate>
+      <guid isPermaLink="false">tu5kj46se2ulompc3omgwdu0k</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[微软发布MAI Code 2、MAI Cyber 2 Flash等自研AI模型替代外部方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qjjyvgend4ae6eab7rf6me299</link>
+      <description><![CDATA[<p>微软发布MAI Code 2、MAI Cyber 2 Flash等自研AI模型，性能接近GPT-6.1 Sol等竞品但成本降低5%-40%。</p>
+<p>🔗 <a href="https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qjjyvgend4ae6eab7rf6me299">https://reisen-ww.github.io/hot-pages/aihot/items/qjjyvgend4ae6eab7rf6me299</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 18 Nov 2026 18:47:36 GMT</pubDate>
+      <guid isPermaLink="false">qjjyvgend4ae6eab7rf6me299</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[Google AI 搜索功能新增匿名会话模式]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/nx9gzqkmxejhl3lsy7aiyqq5b</link>
+      <description><![CDATA[<p>Google AI 搜索功能新增匿名会话模式，用户可点击临时线程图标进行独立对话，避免历史记录影响推荐。该功能与 Gemini 独立聊天模式类似，对话结束后自动返回搜索界面，支持多语言和跨设备使用。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/nx9gzqkmxejhl3lsy7aiyqq5b">https://reisen-ww.github.io/hot-pages/aihot/items/nx9gzqkmxejhl3lsy7aiyqq5b</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 18 Nov 2026 18:04:05 GMT</pubDate>
+      <guid isPermaLink="false">nx9gzqkmxejhl3lsy7aiyqq5b</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
       <title><![CDATA[Hugging Face宣布通过OpenRouter路由模型请求以优化价格或速度]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/gi9yd7vsg4iyrjm28r3hw8dy3</link>
       <description><![CDATA[<p>Hugging Face宣布通过OpenRouter路由模型请求以优化价格或速度，开放模型成本仅为封闭模型的25%，并提升处理效率46%。该路由机制支持按速度或价格优先选择供应商，同时涉及Nvidia收购Hugging Face和Stripe收购OpenRouter等背景事件。</p>
@@ -20,9 +75,9 @@
       <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
     <item>
-      <title><![CDATA[NVIDIA RTX Spark Compact Desktops 正式发布]]></title>
+      <title><![CDATA[NVIDIA RTX Spark 紧凑型桌面正式发布]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ciislyh5hekj2iwywplyl7jtf</link>
-      <description><![CDATA[<p>NVIDIA宣布与ASUS、Dell、MSI推出RTX Spark Compact桌面电脑，支持本地运行大模型和实时渲染。硬件配备20核Grace CPU与6144 CUDA核心Blackwell GPU，最高128GB统一内存，性能达1 petaflop。</p>
+      <description><![CDATA[<p>NVIDIA 推出 RTX Spark 紧凑型桌面，支持本地AI模型运行、图像/视频生成及与Adobe/Blender深度集成。设备配备20核Grace CPU和6144 CUDA核心Blackwell GPU，最高128GB统一内存，可实现1 petaflop AI算力。</p>
 <p>🔗 <a href="https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/">阅读原文</a></p>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ciislyh5hekj2iwywplyl7jtf">https://reisen-ww.github.io/hot-pages/aihot/items/ciislyh5hekj2iwywplyl7jtf</a></p>]]></description>
       <category>AI 产品</category>
@@ -40,6 +95,17 @@
       <pubDate>Wed, 18 Nov 2026 10:19:04 GMT</pubDate>
       <guid isPermaLink="false">wvxkvbr8fvklvyxwauzb4xo8j</guid>
       <author>noreply@reisen-ww.github.io (Latent Space)</author>
+    </item>
+    <item>
+      <title><![CDATA[Codex 在 macOS/Linux/Windows 上的命令执行与安全控制机制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/d3lwemmfrokor3e6lo4zcf0aj</link>
+      <description><![CDATA[<p>OpenAI Codex 在 macOS、Linux 和 Windows 上运行命令并受控于用户设定的文件系统和网络限制。该机制通过沙盒环境隔离执行，同时允许开发者自定义权限边界，适用于需要安全沙盒的跨平台开发场景。</p>
+<p>🔗 <a href="https://openai.com/index/inside-the-codex-sandbox">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/d3lwemmfrokor3e6lo4zcf0aj">https://reisen-ww.github.io/hot-pages/aihot/items/d3lwemmfrokor3e6lo4zcf0aj</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">d3lwemmfrokor3e6lo4zcf0aj</guid>
+      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
     <item>
       <title><![CDATA[AWS SageMaker HyperPod Inference 集成 NVIDIA Dynamo推理框架]]></title>
@@ -403,39 +469,6 @@
       <pubDate>Wed, 11 Nov 2026 23:13:16 GMT</pubDate>
       <guid isPermaLink="false">ypeb1f0v8rmp877nn7q1fe4f3</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS发布Bedrock AgentCore及多款AI模型更新]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/b18pmb6vgyeyiyiy1cmujshnn</link>
-      <description><![CDATA[<p>AWS在2026年10月推出Bedrock AgentCore及多款AI模型，包括Claude Haiku 5.5（成本降低75%）、GPT-6.1 Terra（速度提升三倍，价格降低50%）和GLM 5.3等。新工具支持多模型调用、成本优化及本地安全运行，并新增结构化输出和语音交互功能。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/b18pmb6vgyeyiyiy1cmujshnn">https://reisen-ww.github.io/hot-pages/aihot/items/b18pmb6vgyeyiyiy1cmujshnn</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Wed, 11 Nov 2026 22:26:40 GMT</pubDate>
-      <guid isPermaLink="false">b18pmb6vgyeyiyiy1cmujshnn</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS发布官方本地测试工具aws-emulator]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ytr16cta7tqam6vxjl5ko0890</link>
-      <description><![CDATA[<p>AWS发布官方本地测试工具aws-emulator，无需付费API密钥即可模拟其多款服务。该工具由Rust编写，首月获29,684次代码贡献，但当前仅支持Docker运行于macOS或Windows平台。</p>
-<p>🔗 <a href="https://simonwillison.net/2026/Nov/11/aws-emulator/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ytr16cta7tqam6vxjl5ko0890">https://reisen-ww.github.io/hot-pages/aihot/items/ytr16cta7tqam6vxjl5ko0890</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Wed, 11 Nov 2026 21:18:30 GMT</pubDate>
-      <guid isPermaLink="false">ytr16cta7tqam6vxjl5ko0890</guid>
-      <author>noreply@reisen-ww.github.io (Simon Willison)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google 发布 Gemini Decision 1 决策 API]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9</link>
-      <description><![CDATA[<p>Google Deepmind 推出 Gemini Decision 1 决策 API，单次处理 1000 个跨模态问题（文本/图像/音频/视频/PDF）。</p>
-<p>🔗 <a href="https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9">https://reisen-ww.github.io/hot-pages/aihot/items/gcx8d0d4bglnlr8u0hazs3oa9</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Wed, 11 Nov 2026 20:12:46 GMT</pubDate>
-      <guid isPermaLink="false">gcx8d0d4bglnlr8u0hazs3oa9</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
   </channel>
 </rss>

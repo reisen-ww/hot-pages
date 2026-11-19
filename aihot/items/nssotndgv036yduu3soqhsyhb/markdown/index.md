@@ -1,4 +1,4 @@
-# Amazon Bedrock AgentCore 大JSON负载下降低token成本与延迟的优化实践
+# AWS Bedrock AgentCore 大规模JSON数据处理优化策略
 
 > 原标题：Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads
 
@@ -9,8 +9,8 @@
 
 ## 摘要
 
-在处理20MB+ JSON数据时，通过将大JSON数据持久化存储（Amazon S3）、分页加载（get_result_page_tool）和字典结构化压缩（_oversized_descriptor），将token消耗降低71%，平均响应延迟从15.4秒降至3.1秒。
+某航空调度平台通过三重优化策略将AI代理处理20MB+ JSON数据的token消耗降低71%，平均响应延迟从15.4秒降至3.1秒。核心方法包括：1) 使用Amazon S3存储重载数据，仅保留轻量级引用（策略1）；2) 对工具响应分页加载（策略2）；3) 对嵌套字典输出结构化摘要（策略3）。
 
 ## 推荐理由
 
-通过将大JSON数据持久化存储、分页加载和字典结构化压缩，在Amazon Bedrock AgentCore中实现token成本降低71%、平均响应延迟降低80%的优化方案。
+通过将大型JSON数据持久化存储到S3并采用分页和结构化摘要策略，将请求token消耗降低71%，平均响应延迟从15.4秒降至3.1秒

@@ -1,4 +1,4 @@
-# NVIDIA RTX Spark Compact Desktops 正式发布
+# NVIDIA RTX Spark 紧凑型桌面正式发布
 
 > 原标题：NVIDIA RTX Spark Compact Desktops Out Now
 
@@ -9,8 +9,8 @@
 
 ## 摘要
 
-NVIDIA宣布与ASUS、Dell、MSI推出RTX Spark Compact桌面电脑，支持本地运行大模型和实时渲染。硬件配备20核Grace CPU与6144 CUDA核心Blackwell GPU，最高128GB统一内存，性能达1 petaflop。
+NVIDIA 推出 RTX Spark 紧凑型桌面，支持本地AI模型运行、图像/视频生成及与Adobe/Blender深度集成。设备配备20核Grace CPU和6144 CUDA核心Blackwell GPU，最高128GB统一内存，可实现1 petaflop AI算力。
 
 ## 推荐理由
 
-原文给出了本地AI运行与Adobe/Blender深度集成的技术细节，读者可据此评估其对创作和开发流程的实际影响。
+原文提供了RTX Spark紧凑型桌面在本地AI运行、创意工具集成及性能参数方面的具体进展

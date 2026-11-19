@@ -9,9 +9,42 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
-      <title><![CDATA[Zed 1.29.1版本发布：新增Git分支对比、Claude模型支持及多项功能优化]]></title>
+      <title><![CDATA[PyPI 实施更严格的软件包上传检查机制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m</link>
+      <description><![CDATA[<p>PyPI 宣布将实施更严格的软件包上传检查机制，以减少解析差异和提升安全性。当前已禁止 V7-style tar 归档和包含 ZIP 控制结构的评论，后续计划全面禁止 GNU 风格 tar 和 ZIP 评论。</p>
+<p>🔗 <a href="https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m">https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 18 Nov 2026 20:00:42 GMT</pubDate>
+      <guid isPermaLink="false">jofpq921ampjxjmro031mts2m</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[RadixArk 发布 DaisyRose-27B 模型，在终端基准测试中性能提升 6.4 倍]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</link>
+      <description><![CDATA[<p>RadixArk 发布基于 Qwen3.8-27B 的 DaisyRose-27B 模型，在 Terminal-Bench 4.1 基准测试中性能从 5.6% 提升至 12%，主要得益于优化训练数据、异步强化学习框架和高效沙盒服务。训练成本降低 57%，沙盒服务可靠性达 99.95%。模型已发布至 Hugging Face，支持 BF16/FP8/NVFP4 格式下载。</p>
+<p>🔗 <a href="https://www.radixark.com/blog/daisyrose-27b">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05">https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 19:39:16 GMT</pubDate>
+      <guid isPermaLink="false">g6z3jhvyjqlqie1wc44a31u05</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[CrossPoint 阅读器开源社区发布，支持EPUB排版与多设备同步]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hdnoc4zntmpe7oki92kujgwns</link>
+      <description><![CDATA[<p>CrossPoint 是一款由开源社区维护的电子书阅读器，支持EPUB排版（含 justified 文本、语言感知断字和脚注）、自定义字体与页面布局、多设备阅读进度同步（与KOReader兼容），以及蓝牙翻页器控制。社区贡献者达242人，已部署于281,736台设备。</p>
+<p>🔗 <a href="https://crosspointreader.com">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hdnoc4zntmpe7oki92kujgwns">https://reisen-ww.github.io/hot-pages/openhot/items/hdnoc4zntmpe7oki92kujgwns</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 17:14:31 GMT</pubDate>
+      <guid isPermaLink="false">hdnoc4zntmpe7oki92kujgwns</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Zed 编辑器发布 v1.29.1 版本，新增 Git 分支对比与 Claude 5.2 支持]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf</link>
-      <description><![CDATA[<p>Zed 1.29.1版本发布，新增Git分支对比模式、Claude Fable 5.2和Mythos 5.2模型支持，并修复了自动生成线程标题设置、文件打开路径问题（#66103/65436/66330）及终端链接跨系统兼容性（#66594）。</p>
+      <description><![CDATA[<p>Zed 编辑器发布 v1.29.1 版本，新增 Git 分支对比模式、Claude Fable 5.2 和 Mythos 5.2 模型支持，优化文件操作与界面交互。修复了自动复制响应、分支切换卡顿、绝对路径打开异常等 15 项问题。</p>
 <p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.29.1">阅读原文</a></p>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf">https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf</a></p>]]></description>
       <category>开发工具</category>
@@ -20,26 +53,48 @@
       <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
     </item>
     <item>
-      <title><![CDATA[NGINX HTTP/2远程代码执行漏洞披露及修复建议]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5</link>
-      <description><![CDATA[<p>Wiz Research等团队发现NGINX两个CVE安全漏洞（CVE-2026-123633/CVE-2026-123007），可能导致未经身份验证的远程代码执行。</p>
-<p>🔗 <a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5">https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 18 Nov 2026 15:19:55 GMT</pubDate>
-      <guid isPermaLink="false">a3v8nkbd6ci3u9h8ueb0wlaq5</guid>
+      <title><![CDATA[cwida 开源 SuperEMeans 聚类算法加速方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/pwlg764cutjpof3wq8fgpmq3v</link>
+      <description><![CDATA[<p>cwida 在 GitHub 开源 SuperEMeans 聚类算法，结合 SuperKMeans 和 e-means 实现速度提升 1.8-3.2 倍，同时优化了聚类不平衡问题。对比实验显示，在 5M OpenAI 和 10M Cohere 数据集上，SuperEMeans 的召回率与 e-means 相当，但扫描的向量数量更少。</p>
+<p>🔗 <a href="https://www.lkuffo.com/superemeans/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/pwlg764cutjpof3wq8fgpmq3v">https://reisen-ww.github.io/hot-pages/openhot/items/pwlg764cutjpof3wq8fgpmq3v</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 16:09:50 GMT</pubDate>
+      <guid isPermaLink="false">pwlg764cutjpof3wq8fgpmq3v</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[Quad9因法国法律要求屏蔽盗版域名而退出该国]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2</link>
-      <description><![CDATA[<p>Quad9因法国法律要求屏蔽盗版域名而退出该国。法国法院以DNS服务需配合打击盗版为由，对Quad9等机构实施高额罚款，导致其无法继续运营。材料指出，DNS设计初衷并非内容过滤，强制屏蔽导致用户网络异常且无法区分正常故障与违规行为，可能引发更多隐私和安全问题。</p>
-<p>🔗 <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2">https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 18 Nov 2026 13:18:02 GMT</pubDate>
-      <guid isPermaLink="false">ua3cuq9cul1j139u5bpje36x2</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+      <title><![CDATA[Context-Generic Programming v0.8.0发布：cargo-cgp工具与namespaces功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nki67nt24e2w7ds2pnc34zdt7</link>
+      <description><![CDATA[<p>Context-Generic Programming (CGP) v0.8.0发布，包含cargo-cgp工具解决宏展开后编译错误描述不直观的问题，以及namespaces功能实现组件分组配置。</p>
+<p>🔗 <a href="https://contextgeneric.dev/blog/v0.8.0-release">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nki67nt24e2w7ds2pnc34zdt7">https://reisen-ww.github.io/hot-pages/openhot/items/nki67nt24e2w7ds2pnc34zdt7</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 16:08:03 GMT</pubDate>
+      <guid isPermaLink="false">nki67nt24e2w7ds2pnc34zdt7</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Zed 1.30.0 预发布发布：新增 GPT-6.1 支持，优化 GPU 效率与键盘导航]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nci73vg38xnatyb8nh8z5a4ef</link>
+      <description><![CDATA[<p>Zed 1.30.0 预发布发布，新增对 OpenAI GPT-6.1 Terra 的支持，优化 GPU 资源使用效率，改进键盘导航和大型项目扫描性能。修复了多个崩溃和界面问题，包括解决 Windows 显示切换崩溃、Git 模块名称错误检测、终端关闭残留问题等。</p>
+<p>🔗 <a href="https://github.com/zed-industries/zed/releases/tag/v1.30.0-pre">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nci73vg38xnatyb8nh8z5a4ef">https://reisen-ww.github.io/hot-pages/openhot/items/nci73vg38xnatyb8nh8z5a4ef</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 16:00:29 GMT</pubDate>
+      <guid isPermaLink="false">nci73vg38xnatyb8nh8z5a4ef</guid>
+      <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[Bonfire 1.1 发布：支持跨平台联邦群组协作]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/lkxfc2f595j7fmw3ugjlcp8a4</link>
+      <description><![CDATA[<p>Bonfire 1.1版本推出联邦群组功能，支持跨平台协作，并新增投票、话题分类等社区管理工具。兼容Mastodon API的beta版本，允许第三方应用接入。当前支持公开网络、公告频道和本地社区的联邦，私人群组跨服务器联邦功能尚在开发中。社区可自定义成员权限（如协调员、代表等角色），并计划与ATProto、Matrix等平台互通。</p>
+<p>🔗 <a href="https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/lkxfc2f595j7fmw3ugjlcp8a4">https://reisen-ww.github.io/hot-pages/openhot/items/lkxfc2f595j7fmw3ugjlcp8a4</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 14:58:05 GMT</pubDate>
+      <guid isPermaLink="false">lkxfc2f595j7fmw3ugjlcp8a4</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
       <title><![CDATA[Claude 模型在未研究细菌蛋白质序列预测上表现突破]]></title>
@@ -501,61 +556,6 @@
       <pubDate>Wed, 11 Nov 2026 13:45:19 GMT</pubDate>
       <guid isPermaLink="false">kiaqgykiiafhg0464j08jngb2</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[EventSourcingDB 1.3.0发布：新API与性能提升]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd</link>
-      <description><![CDATA[<p>EventSourcingDB 1.3.0正式发布，引入与请求响应直接绑定的v2 API，并优化了写入、查询和恢复速度，同时提供详细的升级指南以降低迁移风险。</p>
-<p>🔗 <a href="https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd">https://reisen-ww.github.io/hot-pages/openhot/items/rdc3tphgrg6sfckulougqhqgd</a></p>]]></description>
-      <category>数据与数据库</category>
-      <pubDate>Wed, 11 Nov 2026 13:19:45 GMT</pubDate>
-      <guid isPermaLink="false">rdc3tphgrg6sfckulougqhqgd</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Mozilla Firefox 145版本发布：通过指纹识别研究显著提升用户隐私保护]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</link>
-      <description><![CDATA[<p>Mozilla Firefox 145版本发布，通过指纹识别研究显著提升用户隐私保护。基于近2500万Firefox用户的数据分析，研究团队在CCS 2026国际安全会议发表论文，并开放测试网站和工具。</p>
-<p>🔗 <a href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst">https://reisen-ww.github.io/hot-pages/openhot/items/valupcxo1s024tghy4cldjcst</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
-      <guid isPermaLink="false">valupcxo1s024tghy4cldjcst</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[基于线性规划的模型权重优化：Astra循环问题修正方法对比分析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</link>
-      <description><![CDATA[<p>MIT CSAIL的Astra模型通过线性规划优化权重，在MATH-500测试中准确率从7.9%提升至48.1%。作者对比了两种方法：Astra的原始方法修改130,188个权重参数，而线性规划版本仅修改16,291个（减少87%）。</p>
-<p>🔗 <a href="https://nathan.rs/posts/weight-space-lp/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi">https://reisen-ww.github.io/hot-pages/openhot/items/mdvy36e21p5oej46adfpmpbgi</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Wed, 11 Nov 2026 12:30:17 GMT</pubDate>
-      <guid isPermaLink="false">mdvy36e21p5oej46adfpmpbgi</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google SWE团队通过AI分析NASA激光雷达数据，72小时内发现未记录玛雅金字塔遗址]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt</link>
-      <description><![CDATA[<p>Google SWE团队通过AI分析NASA激光雷达数据，72小时内发现未记录玛雅金字塔遗址。作者使用Gemini、ChatGPT等48个AI代理分析1.2万平方公里丛林数据，发现包含金字塔、广场等结构的遗址。</p>
-<p>🔗 <a href="https://pietromiotti.com/latest/maya-site/?maya">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt">https://reisen-ww.github.io/hot-pages/openhot/items/n8gnxujcsec9cpa6as9cryntt</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Wed, 11 Nov 2026 12:05:22 GMT</pubDate>
-      <guid isPermaLink="false">n8gnxujcsec9cpa6as9cryntt</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Glimmer与Datastar实现服务器端渲染批量处理，性能提升显著]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk</link>
-      <description><![CDATA[<p>Glimmer通过ratom原子状态管理和Datastar的批次渲染机制，在Newsroom应用中将渲染时间从21.7ms降至7.0ms。采用差分更新技术仅传输变更部分，结合滑动缓冲区限制并发流（100个流）的帧数。</p>
-<p>🔗 <a href="https://yogthos.net/posts/2026-11-10-glimmer-datastar.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk">https://reisen-ww.github.io/hot-pages/openhot/items/ugdjwbkivkjuwxjxjdqugdauk</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Tue, 10 Nov 2026 22:54:17 GMT</pubDate>
-      <guid isPermaLink="false">ugdjwbkivkjuwxjxjdqugdauk</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

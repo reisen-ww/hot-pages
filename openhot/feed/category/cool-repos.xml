@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[RadixArk 发布 DaisyRose-27B 模型，在终端基准测试中性能提升 6.4 倍]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</link>
+      <description><![CDATA[<p>RadixArk 发布基于 Qwen3.8-27B 的 DaisyRose-27B 模型，在 Terminal-Bench 4.1 基准测试中性能从 5.6% 提升至 12%，主要得益于优化训练数据、异步强化学习框架和高效沙盒服务。训练成本降低 57%，沙盒服务可靠性达 99.95%。模型已发布至 Hugging Face，支持 BF16/FP8/NVFP4 格式下载。</p>
+<p>🔗 <a href="https://www.radixark.com/blog/daisyrose-27b">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05">https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 19:39:16 GMT</pubDate>
+      <guid isPermaLink="false">g6z3jhvyjqlqie1wc44a31u05</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[CrossPoint 阅读器开源社区发布，支持EPUB排版与多设备同步]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hdnoc4zntmpe7oki92kujgwns</link>
+      <description><![CDATA[<p>CrossPoint 是一款由开源社区维护的电子书阅读器，支持EPUB排版（含 justified 文本、语言感知断字和脚注）、自定义字体与页面布局、多设备阅读进度同步（与KOReader兼容），以及蓝牙翻页器控制。社区贡献者达242人，已部署于281,736台设备。</p>
+<p>🔗 <a href="https://crosspointreader.com">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hdnoc4zntmpe7oki92kujgwns">https://reisen-ww.github.io/hot-pages/openhot/items/hdnoc4zntmpe7oki92kujgwns</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 17:14:31 GMT</pubDate>
+      <guid isPermaLink="false">hdnoc4zntmpe7oki92kujgwns</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Bonfire 1.1 发布：支持跨平台联邦群组协作]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/lkxfc2f595j7fmw3ugjlcp8a4</link>
+      <description><![CDATA[<p>Bonfire 1.1版本推出联邦群组功能，支持跨平台协作，并新增投票、话题分类等社区管理工具。兼容Mastodon API的beta版本，允许第三方应用接入。当前支持公开网络、公告频道和本地社区的联邦，私人群组跨服务器联邦功能尚在开发中。社区可自定义成员权限（如协调员、代表等角色），并计划与ATProto、Matrix等平台互通。</p>
+<p>🔗 <a href="https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/lkxfc2f595j7fmw3ugjlcp8a4">https://reisen-ww.github.io/hot-pages/openhot/items/lkxfc2f595j7fmw3ugjlcp8a4</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 14:58:05 GMT</pubDate>
+      <guid isPermaLink="false">lkxfc2f595j7fmw3ugjlcp8a4</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[个人开发者开源 Python SQLite 函数缓存库 FunkyCache]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/zei58gxjawq9mr6za2n1paidd</link>
       <description><![CDATA[<p>作者发布 Python 库 FunkyCache，利用 SQLite 实现函数缓存，减少静态网站生成时间。该库支持依赖文件追踪（如 Markdown 文件）、静态值监控（如 Pygments 版本），并对比 MD5 与 XXH64 哈希算法性能，证明 XXH64 在大键场景下速度提升显著。</p>
@@ -72,17 +105,6 @@
       <category>社区新奇仓库</category>
       <pubDate>Wed, 11 Nov 2026 23:58:14 GMT</pubDate>
       <guid isPermaLink="false">atwhho99o0a2mgnhupzle7ot1</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[MattiaPARRINELLO 开源自托管个人助手，支持多账户加密与模块化扩展]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</link>
-      <description><![CDATA[<p>MattiaPARRINELLO 在 GitHub 开源自托管个人助手项目，支持多用户独立加密存储与模块化部署。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtomhw/im_making_my_selfhosted_personal_assistant/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z">https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Wed, 11 Nov 2026 17:54:52 GMT</pubDate>
-      <guid isPermaLink="false">dc8y2yl0gkf7eupoc6jjenu6z</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>

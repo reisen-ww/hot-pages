@@ -1,6 +1,6 @@
-# 美股今日最大波动股票：NVIDIA、Take-Two互动、洛威氏等
+# 美股今日最大波动股票：埃克森美孚、TJX、Take-Two互动、Cal-Maine等
 
-> 原标题：Stocks making the biggest moves Wednesday: Nvidia, Take-Two Interactive, Lowe's & more
+> 原标题：Stocks making the biggest moves Wednesday: ExxonMobil, TJX, Take-Two Interactive, Cal-Maine & more
 
 - 来源：CNBC Top News
 - 发布时间：2026-11-18T12:53:32.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-NVIDIA、Take-Two互动、洛威氏等股票今日波动最大。
+埃克森美孚、TJX、Take-Two互动、Cal-Maine等股票今日波动最大。

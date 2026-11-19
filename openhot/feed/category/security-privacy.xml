@@ -9,26 +9,15 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
-      <title><![CDATA[NGINX HTTP/2远程代码执行漏洞披露及修复建议]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5</link>
-      <description><![CDATA[<p>Wiz Research等团队发现NGINX两个CVE安全漏洞（CVE-2026-123633/CVE-2026-123007），可能导致未经身份验证的远程代码执行。</p>
-<p>🔗 <a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5">https://reisen-ww.github.io/hot-pages/openhot/items/a3v8nkbd6ci3u9h8ueb0wlaq5</a></p>]]></description>
+      <title><![CDATA[PyPI 实施更严格的软件包上传检查机制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m</link>
+      <description><![CDATA[<p>PyPI 宣布将实施更严格的软件包上传检查机制，以减少解析差异和提升安全性。当前已禁止 V7-style tar 归档和包含 ZIP 控制结构的评论，后续计划全面禁止 GNU 风格 tar 和 ZIP 评论。</p>
+<p>🔗 <a href="https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m">https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m</a></p>]]></description>
       <category>安全与隐私</category>
-      <pubDate>Wed, 18 Nov 2026 15:19:55 GMT</pubDate>
-      <guid isPermaLink="false">a3v8nkbd6ci3u9h8ueb0wlaq5</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Quad9因法国法律要求屏蔽盗版域名而退出该国]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2</link>
-      <description><![CDATA[<p>Quad9因法国法律要求屏蔽盗版域名而退出该国。法国法院以DNS服务需配合打击盗版为由，对Quad9等机构实施高额罚款，导致其无法继续运营。材料指出，DNS设计初衷并非内容过滤，强制屏蔽导致用户网络异常且无法区分正常故障与违规行为，可能引发更多隐私和安全问题。</p>
-<p>🔗 <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2">https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 18 Nov 2026 13:18:02 GMT</pubDate>
-      <guid isPermaLink="false">ua3cuq9cul1j139u5bpje36x2</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+      <pubDate>Wed, 18 Nov 2026 20:00:42 GMT</pubDate>
+      <guid isPermaLink="false">jofpq921ampjxjmro031mts2m</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
       <title><![CDATA[Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
@@ -94,28 +83,6 @@
       <category>安全与隐私</category>
       <pubDate>Thu, 12 Nov 2026 14:49:26 GMT</pubDate>
       <guid isPermaLink="false">rjk2rgntfr00banarhoa82bft</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[C++26标准因社区争议投票失败，暴露开源治理流程问题]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</link>
-      <description><![CDATA[<p>C++26标准因社区争议投票失败，核心争议围绕Contracts新特性。多国反馈的安全机制与标准库强耦合问题未获采纳，最终投票未达通过门槛。事件反映C++标准制定流程的分裂与协调失效，引发对开源治理模式的讨论。</p>
-<p>🔗 <a href="https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar">https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 11 Nov 2026 18:49:35 GMT</pubDate>
-      <guid isPermaLink="false">jjkg7losfy4z6qnhwar4sljar</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[GitHub Actions 新增锁文件机制防范供应链攻击]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</link>
-      <description><![CDATA[<p>GitHub Actions 在 2026 年 11 月正式支持工作流锁文件，通过锁定依赖库的版本号（如 v7.0.1、v3.1.0）避免恶意代码替换。作者演示了使用 `gh actions-lock` 工具生成锁文件（actions.lock）的配置方法，并建议通过 `zizmor` 工具验证锁文件有效性。</p>
-<p>🔗 <a href="https://hugovk.dev/blog/2026/lock-github-actions/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o">https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 11 Nov 2026 18:16:01 GMT</pubDate>
-      <guid isPermaLink="false">cc92w3d9y8vpvwqtxlwymi71o</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>

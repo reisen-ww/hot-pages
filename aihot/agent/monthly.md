@@ -147,7 +147,7 @@ Google 发布 Gemini 4 Argon，面向复杂任务全球开放
    摘要：Epoch AI 通过 InnovationEval 测试 Claude Fable 5 和 GPT-5.6 Sol 独立提出、实现并改进语言模型训练方法，发现两者主要复用了已知技术，未接近人工设计的 SDPO 参考方法。
    原文：[打开原文](https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/)
 
-2. [Hugging Face发布论文及基准：LLM评估研究新颖性存在显著偏差](https://reisen-ww.github.io/hot-pages/aihot/items/hw2m26kmmhwc8siy6g14zploa)
+2. [Hugging Face发布论文及基准：LLM评估研究新颖性存在显著偏差](https://huggingface.co/blog/allenai/novelty-bench)
    来源：Hugging Face Blog · 发布时间：2026-10-28 00:12（北京时间） · 一手
    摘要：Hugging Face发布论文及基准，揭示LLM评估研究新颖性存在显著偏差：测试6种模型时，提示词细微调整导致准确率波动超50个百分点；简单提示词（Claude Opus 4.6）成本仅$2.59且准确率达0.854，优于专用系统（$82.05/0.772）。研究显示AI生成内容评估易受提示词设计影响，且检索增强未显著提升判断稳定性。
    原文：[打开原文](https://huggingface.co/blog/allenai/novelty-bench)

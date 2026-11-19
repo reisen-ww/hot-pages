@@ -1,0 +1,12 @@
+# MSC Industrial Direct CEO谈金属加工业务贡献及公司战略
+
+> 原标题：MSC Industrial Direct Co., Inc. (MSM) Presents at 2026 Stephens Annual Investment Conference | NASH2026 Transcript
+
+- 来源：Seeking Alpha
+- 发布时间：2026-11-18T20:42:46.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/jux2vh39bb0f3l2vkld5b0nn4
+- 原文：https://seekingalpha.com/article/4969728-msc-industrial-direct-co-inc-msm-presents-at-2026-stephens-annual-investment-conference?source=feed_all_articles
+
+## 摘要
+
+MSC Industrial Direct CEO Martina McIsaac 表示，金属加工业务占公司收入约45%，是公司核心业务之一。金属加工业务覆盖制造过程中的安全、清洁、物料搬运和设备维护等功能，对客户设施至关重要。

@@ -1,0 +1,12 @@
+# Fortress投资策略师指出AI股票选择转向基本面分析
+
+> 原标题：Investors shift focus to fundamentals in AI stock selection: Fortress
+
+- 来源：Crypto Briefing
+- 发布时间：2026-11-18T18:22:20.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/vescmoa0wfiz0clcrbgfzw7b3
+- 原文：https://cryptobriefing.com/investors-shift-focus-to-fundamentals-in-ai-stock-selection-fortress/
+
+## 摘要
+
+Elizabeth Burton（Fortress首席策略师）指出投资者在AI股票选择中更关注收益和生产力而非资本支出，这与Fortress半年展望中强调的AI相关风险溢价和收入导向投资策略一致。市场对Anthropic能否在年底达成6000亿美元估值目标的信心可能因此动摇。需关注12月31日前后Anthropic的战略投资者动向及市场对AI投资财务结果的持续审视。

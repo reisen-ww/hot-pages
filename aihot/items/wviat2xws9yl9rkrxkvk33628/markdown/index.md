@@ -1,6 +1,6 @@
-# Humyn Labs 获 4700 万美元 A 轮融资，为美国机器人公司提供训练数据
+# Humyn Labs 获 4700 万美元融资助力美国机器人公司训练模型
 
-> 原标题：India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need
+> 原标题：India’s Humyn Labs raises $47M to feed US robotics companies the data they need
 
 - 来源：TechCrunch · AI
 - 发布时间：2026-11-18T11:30:00.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-印度初创公司 Humyn Labs 完成A轮融资（金额：4700万美元），计划通过自有双摄像头硬件和软件系统收集全球20+国家用户的日常行为数据，为美国机器人公司提供训练素材。其技术包含实时标注手部动作、物体交互等细节，已签约12家客户（含前沿AI实验室和机器人企业），2023年4-10月营收达1000万美元，另有2000万美元合同待确认。
+Humyn Labs 获得 4700 万美元 A 轮融资，用于为美国 AI 和机器人公司提供训练数据。该公司开发了双摄像头硬件记录日常活动，并通过软件处理和标注视频，已与 12 家客户合作，其中 90% 收入来自美国。

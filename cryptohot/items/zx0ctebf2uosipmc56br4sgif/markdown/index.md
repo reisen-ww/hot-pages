@@ -1,6 +1,6 @@
-# 摩根士丹利分析：即使最悲观假设下甲骨文股价仍被低估
+# Oracle 股票即使在最悲观情景下也被认为严重低估
 
-> 原标题：Oracle’s stock is ridiculously cheap even under the most gloomy scenarios, analyst says
+> 原标题：Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says
 
 - 来源：MarketWatch Top Stories
 - 发布时间：2026-11-18T15:57:00.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-摩根士丹利分析认为，即使假设甲骨文的AI数据中心业务消失且债务不变，其股价仍低于合理水平。
+根据 Bernstein 的最新分析，即使假设 Oracle 的 AI 数据中心业务消失且债务不变，其股价仍被低估。

@@ -1,6 +1,6 @@
-# NVIDIA 赚钱了，但 CoreWeave、Iren 和 Nebius 股价下跌
+# NVIDIA 赚报不佳，拖累新云服务商 CoreWeave 和 Iren 下跌
 
-> 原标题：CoreWeave, Iren, Nebius shares sink following Nvidia earnings
+> 原标题：Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren
 
 - 来源：CNBC Top News
 - 发布时间：2026-11-18T10:00:17.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-NVIDIA 发布了财报，但其股价表现并未提振关联公司 CoreWeave、Iren 和 Nebius 的股价。
+NVIDIA 发布了令人失望的财报，导致旗下新云服务商 CoreWeave 和 Iren 的股价下跌。
