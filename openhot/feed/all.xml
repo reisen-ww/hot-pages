@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[FailTrace：通过URL本地复现GitHub Actions失败运行]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e4d3fzfnvne7vbcke44m9nhiy</link>
+      <description><![CDATA[<p>FailTrace 是一个开源工具，允许用户通过GitHub Actions失败运行的URL直接复现失败场景。核心功能包括：1. 解析失败步骤的上下文，包括具体错误行、工具链版本和环境变量；2. 生成本地复现计划，支持Docker容器内运行并对比结果；3. 生成Markdown报告，标注与CI环境差异（如基础镜像版本、用户权限、预装工具缺失等）。</p>
+<p>🔗 <a href="https://github.com/Ri4dH/failtrace">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e4d3fzfnvne7vbcke44m9nhiy">https://reisen-ww.github.io/hot-pages/openhot/items/e4d3fzfnvne7vbcke44m9nhiy</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 19 Nov 2026 01:30:43 GMT</pubDate>
+      <guid isPermaLink="false">e4d3fzfnvne7vbcke44m9nhiy</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Ruby 发布修复正则表达式与字符串转换漏洞的多个安全更新]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln</link>
+      <description><![CDATA[<p>Ruby 官方发布安全更新，修复了正则表达式和字符串转换中的七个漏洞，部分漏洞可导致远程代码执行。修复版本为 Ruby 4.0.10、3.4.13 和 3.3.14，旧版本已不再维护。</p>
+<p>🔗 <a href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln">https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 18 Nov 2026 23:52:50 GMT</pubDate>
+      <guid isPermaLink="false">u8f37kuz5o5o7jibpid294yln</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Maak 开源命令运行器 v1.0.0 发布，支持多语言构建工具与实时监控]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/eu1mtrr9xt2v1wr8jwqxbmttp</link>
+      <description><![CDATA[<p>Maak 项目团队在 GitHub 开源了一款支持 Lisp 语法定义命令和构建任务的命令运行器，正式发布 v1.0.0 版本。该工具提供详细的任务计划生成、依赖关系可视化解释和实时监控功能，支持包括 Rust、Python、Maven、Gradle 等在内的多种构建工具与容器系统。</p>
+<p>🔗 <a href="https://lobste.rs/s/4heeke">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/eu1mtrr9xt2v1wr8jwqxbmttp">https://reisen-ww.github.io/hot-pages/openhot/items/eu1mtrr9xt2v1wr8jwqxbmttp</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Wed, 18 Nov 2026 23:46:59 GMT</pubDate>
+      <guid isPermaLink="false">eu1mtrr9xt2v1wr8jwqxbmttp</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[v1.30.1-pre 版本发布包含官方 Snap 包]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/qfy425n8qcptg991lmhkq58qz</link>
       <description><![CDATA[<p>Zed 发布 v1.30.1-pre 版本，包含一个官方 Snap 包供 Linux 用户使用 (#67163)。</p>
@@ -18,6 +51,17 @@
       <pubDate>Wed, 18 Nov 2026 22:35:16 GMT</pubDate>
       <guid isPermaLink="false">qfy425n8qcptg991lmhkq58qz</guid>
       <author>noreply@reisen-ww.github.io (Zed 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[GTA6-like 游戏以 942KB UEFI 启动镜像形式发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/f0zsull62wo42wjlu7j34pujp</link>
+      <description><![CDATA[<p>这是一个基于真实迈阿密的 GTA 风格游戏，直接从 UEFI 启动，无需 Windows。游戏文件 game.efi 大小为 964,608 字节，运行时完全由 CPU 绘制画面。作者已在 QEMU 中测试，支持使用箭头或 WASD 控制移动，鼠标控制视角，M 查看地图等功能。</p>
+<p>🔗 <a href="https://github.com/eklavya-raj/gta6-uefi">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/f0zsull62wo42wjlu7j34pujp">https://reisen-ww.github.io/hot-pages/openhot/items/f0zsull62wo42wjlu7j34pujp</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 22:26:48 GMT</pubDate>
+      <guid isPermaLink="false">f0zsull62wo42wjlu7j34pujp</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
       <title><![CDATA[Skylake-X 中的 Next-Page Prefetcher 反汇编]]></title>
@@ -64,12 +108,12 @@
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[RadixArk 发布 DaisyRose-27B 模型，在终端基准测试中性能提升 6.4 倍]]></title>
+      <title><![CDATA[RadixArk开源首个长程推理模型DaisyRose-27B]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</link>
-      <description><![CDATA[<p>RadixArk 发布基于 Qwen3.8-27B 的 DaisyRose-27B 模型，在 Terminal-Bench 4.1 基准测试中性能从 5.6% 提升至 12%，主要得益于优化训练数据、异步强化学习框架和高效沙盒服务。训练成本降低 57%，沙盒服务可靠性达 99.95%。模型已发布至 Hugging Face，支持 BF16/FP8/NVFP4 格式下载。</p>
+      <description><![CDATA[<p>RadixArk在GitHub发布首个开源模型DaisyRose-27B，基于Qwen3.8-27B训练优化，在Terminal-Bench 4.1等长程推理基准测试中表现提升至12.0%，训练成本降低57%。模型提供BF16/FP8/NVFP4三种格式，训练采用自研Miles框架，沙箱服务支持百万级并发。</p>
 <p>🔗 <a href="https://www.radixark.com/blog/daisyrose-27b">阅读原文</a></p>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05">https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</a></p>]]></description>
-      <category>社区新奇仓库</category>
+      <category>模型与数据集</category>
       <pubDate>Wed, 18 Nov 2026 19:39:16 GMT</pubDate>
       <guid isPermaLink="false">g6z3jhvyjqlqie1wc44a31u05</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
@@ -512,50 +556,6 @@
       <pubDate>Tue, 17 Nov 2026 14:45:36 GMT</pubDate>
       <guid isPermaLink="false">ooxqw08cksa43720y4iznz7dd</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Red Hat Quay 存在严重漏洞，攻击者可读取并覆盖所有私有容器镜像]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hpjekpbuutvnyk09ho1ooy81b</link>
-      <description><![CDATA[<p>2026年11月17日，Lobsters 热榜报道 Red Hat Quay 存在安全漏洞（原文链接），允许攻击者读取并覆盖所有私有容器镜像。该漏洞影响容器镜像仓库管理工具，需立即关注修复方案。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hpjekpbuutvnyk09ho1ooy81b">https://reisen-ww.github.io/hot-pages/openhot/items/hpjekpbuutvnyk09ho1ooy81b</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 17 Nov 2026 14:38:24 GMT</pubDate>
-      <guid isPermaLink="false">hpjekpbuutvnyk09ho1ooy81b</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[形式化验证的 C 编译器能否达到与 gcc -O2 相当的性能？]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ie825xdc9oe6yxjelj017vuw3</link>
-      <description><![CDATA[<p>CompCert 是一个用 Rocq 和 OCaml 编写的正式验证 C 编译器，它通过一系列验证过的优化生成 x86-64 汇编代码，确保优化不改变程序行为。然而，CompCert 目前的性能比 gcc -O2 慢约 28% 至 55%。研究发现，主要差距在于 CompCert 的语义模型限制了某些优化，如整数溢出处理、类型相关性假设、融合乘加运算和 SIMD 向量化。</p>
-<p>🔗 <a href="https://ut-infraai.github.io/2026/11/13/trying-to-make-compcert-as-fast-as-gcc-o2/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ie825xdc9oe6yxjelj017vuw3">https://reisen-ww.github.io/hot-pages/openhot/items/ie825xdc9oe6yxjelj017vuw3</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 17 Nov 2026 12:45:22 GMT</pubDate>
-      <guid isPermaLink="false">ie825xdc9oe6yxjelj017vuw3</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[uv 0.13.9 发布：优化锁文件与支持新PEP标准]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn</link>
-      <description><![CDATA[<p>uv 0.13.9 版本发布，优化锁文件大小和读取速度（#23184），新增 PEP 832 支持（#21822）及 HTTP/2 连接管理功能（#23236），同时将 Rust 依赖版本提升至 1.98（#23263）。支持多平台预构建包（ARM64/PPC64LE/RISC-V 等），可通过 GitHub CLI 验证发布包完整性（#23185）</p>
-<p>🔗 <a href="https://github.com/astral-sh/uv/releases/tag/0.13.9">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn">https://reisen-ww.github.io/hot-pages/openhot/items/wj5k3wnh6t3kpd3va6rwyzzsn</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 17 Nov 2026 09:57:55 GMT</pubDate>
-      <guid isPermaLink="false">wj5k3wnh6t3kpd3va6rwyzzsn</guid>
-      <author>noreply@reisen-ww.github.io (uv 版本发布)</author>
-    </item>
-    <item>
-      <title><![CDATA[Github 重新设计：简化界面与提升用户体验]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/t59b5e9m9vwdlijvtmkg25sfb</link>
-      <description><![CDATA[<p>Github 当前的设计虽然实用，但仍有许多改进空间。本文提出了一种简化界面的方法，包括扁平化标签、移除图标、优化标签计数、改进“关注”按钮以及调整仓库描述位置。这些改进旨在提高用户体验，使界面更加直观和简洁。</p>
-<p>🔗 <a href="https://tonsky.me/blog/github-redesign/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/t59b5e9m9vwdlijvtmkg25sfb">https://reisen-ww.github.io/hot-pages/openhot/items/t59b5e9m9vwdlijvtmkg25sfb</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 17 Nov 2026 09:28:18 GMT</pubDate>
-      <guid isPermaLink="false">t59b5e9m9vwdlijvtmkg25sfb</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
   </channel>
 </rss>

@@ -31,6 +31,17 @@
       <author>noreply@reisen-ww.github.io (科学网博客)</author>
     </item>
     <item>
+      <title><![CDATA[某团队在 fastVEP 中实现并基准测试 ACMG/AMP 变异数据分类框架]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/y5ghbi79ncobg473dderzdwof</link>
+      <description><![CDATA[<p>某团队在 fastVEP 中开发了 ACMG/AMP 变异数据分类引擎，并对比了不同证据组合方案和阈值设置的效果。最终方案采用Tavtigian点评分（致病侧）与2015年ACMG/AMP结合表（良性侧），在673,660个ClinVar变异数据中实现0.0076%反向分类错误率。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368228v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/y5ghbi79ncobg473dderzdwof">https://reisen-ww.github.io/hot-pages/acadhot/items/y5ghbi79ncobg473dderzdwof</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">y5ghbi79ncobg473dderzdwof</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[ARGeement 工具发布：基于序列的抗生素耐药基因数据库版本化映射方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/xxh35nbmyfe5pl410j2rzr7mo</link>
       <description><![CDATA[<p>该研究提出基于序列的版本化映射方法，解决抗生素耐药基因数据库（包括AMRFinderPlus、CARD、ResFinder/DisinFinder）名称差异导致的比较困难问题。</p>
@@ -51,6 +62,17 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">wj7yynur11rpplmwwctya6csq</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[瑞典多中心研究验证全基因组与转录组测序在白血病诊断中的准确性]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/tg0rsses7hygd3nw5gsmw2rnd</link>
+      <description><![CDATA[<p>瑞典多中心研究显示，全基因组与转录组测序（WGTS）较传统方法检测到更多白血病相关基因重排（如RUNX1::RUNX1T1、KMT2A和NUP98），但低频FLT3-ITD仍需高灵敏度检测补充。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26367955v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/tg0rsses7hygd3nw5gsmw2rnd">https://reisen-ww.github.io/hot-pages/acadhot/items/tg0rsses7hygd3nw5gsmw2rnd</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tg0rsses7hygd3nw5gsmw2rnd</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[Bai 等在 bioRxiv 发表新型微型蛋白结合器靶向瘦素受体 CRH2 域的研究]]></title>
@@ -106,6 +128,17 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">cjoi6tgx2bgszyfivc4z1lfpa</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某研究团队在 ALIVE 临床试验中发现联合驱虫治疗导致埃塞俄比亚儿童肠道菌群显著变化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ag93bod4xpu74eh2kzjdhxlmr</link>
+      <description><![CDATA[<p>某研究团队在 ALIVE 临床试验中发现，联合使用阿苯达唑-伊维菌素治疗显著降低了埃塞俄比亚儿童肠道中的大肠杆菌数量及与其相关的耐药基因。基于 858 对粪便样本的宏基因组测序和 22,032 优质基因组组装分析，该研究揭示了联合治疗对菌群结构的群体依赖性影响，并提供了非洲肠道菌群的重要基因组资源。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.10.26367728v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ag93bod4xpu74eh2kzjdhxlmr">https://reisen-ww.github.io/hot-pages/acadhot/items/ag93bod4xpu74eh2kzjdhxlmr</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ag93bod4xpu74eh2kzjdhxlmr</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[乔治梅森大学团队在《运营管理》发表供应链风险与银行信贷成本关联研究]]></title>

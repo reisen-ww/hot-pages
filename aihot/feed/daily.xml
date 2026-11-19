@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[MyHOT 日报 · 2026-11-19 — Salesforce 在 AWS SageMaker AI 中实现跨区域推理路由提升全球模型服务能力]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-19</link>
+      <description><![CDATA[<p>Salesforce 在 AWS SageMaker AI 中通过跨区域推理路由机制，解决了多区域模型服务中的容量碎片化问题。测试显示，当本地模型过载时，路由器可在1分钟内将78%的请求切换至其他区域，同时保持数据驻留合规性。该方案通过统一路由逻辑替代各应用独立实现，降低架构复杂度。</p>
+<p><strong>产品发布/更新</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ucpy5c8spoakeqlv6rpuagx4q">Salesforce 在 AWS SageMaker AI 中实现跨区域推理路由提升全球模型服务能力</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/q2iz2n5h2hurvjzmrssn5xkkw">AWS SageMaker HyperPod Inference 集成 NVIDIA Dynamo推理框架</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/ciislyh5hekj2iwywplyl7jtf">NVIDIA RTX Spark 紧凑型桌面正式发布</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/oxtoahyj7i4d6za4ytkasd053">Google Deepmind Project Genie 更新发布 Genie 4 与社区画廊功能</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/d3lwemmfrokor3e6lo4zcf0aj">Codex 在 macOS/Linux/Windows 上的命令执行与安全控制机制</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/qjjyvgend4ae6eab7rf6me299">微软发布MAI Code 2、MAI Cyber 2 Flash等自研AI模型替代外部方案</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/nx9gzqkmxejhl3lsy7aiyqq5b">Google AI 搜索功能新增匿名会话模式</a></li></ul>
+<p><strong>行业动态</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/hjzmk1ewsce1qhzy2kdig04ww">Perplexity 2026年营收突破10亿美元，同比增4倍</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/od2k61oycz5o4e0g4n61wolnt">美国国会推动立法限制科技平台仲裁条款，打击深伪滥用</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/fz0ng3hbz9fhgjmiiutdquwcm">微软Copilot集成Office套件，定位为新一代工作操作系统</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/kvwrrb9t57bc6du3hng6ksr0z">Nvidia因CEO更迭停止向中国销售H200芯片</a></li></ul>
+<p><strong>技巧与观点</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/psdyvx4w627c5ac6f5y861zj9">Prime Radiant 与 Simon Willison 发布安全代码执行沙盒工具（v86/容器/Quicksand）</a></li></ul>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-19">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-19</a></p>]]></description>
+      <pubDate>Thu, 19 Nov 2026 00:00:33 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-19</guid>
+      <author>noreply@reisen-ww.github.io (MyHOT)</author>
+    </item>
+    <item>
       <title><![CDATA[MyHOT 日报 · 2026-11-18 — ArisGlobal 在 Amazon Bedrock 上实现生成式AI推理规模化]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-11-18</link>
       <description><![CDATA[<p>ArisGlobal 通过调整prompt顺序和缓存策略，在AWS Bedrock上实现生成式AI推理规模化。核心成果：65%输入token来自共享prefix缓存，有效成本降低50%，月度支出减少40%，同时支持15%更多企业租户。关键设计将稳定prefix前置并设置缓存点，在保持EU跨区域推理不变的前提下优化成本结构。</p>
@@ -295,7 +310,7 @@
 <p><strong>行业动态</strong></p>
 <ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/q6mjasvj6jxr3taprkhtx1fvk">某房产平台在AWS Bedrock上通过评估偏差修正实现模型性能与成本双提升</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/toln8988lyvkbp8uihkrlx2bj">General Compute完成1亿美元A轮融资，逆势布局AI专用芯片租赁</a></li><li><a href="https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/">NVIDIA与C-BRAIN合作开发AI工具加速阿尔茨海默病研究</a></li><li><a href="https://www.theverge.com/policy/1019152/data-centers-midterm-elections">数据中心监管成为美国中期选举关键议题</a></li><li><a href="https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/">Meta 从 Nvidia 获得 30 亿美元投资并计划增加 Nvidia 芯片支出</a></li></ul>
 <p><strong>论文研究</strong></p>
-<ul><li><a href="https://huggingface.co/blog/allenai/novelty-bench">Hugging Face发布论文及基准：LLM评估研究新颖性存在显著偏差</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/bjoxdidgwpiyqmdsee4d1d3mb">Google Research提出睡眠框架：LLM持续学习中的新型知识保留方法</a></li><li><a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/">Google DeepMind 发布 Genie 4 世界模型，新增音频与实时交互功能</a></li></ul>
+<ul><li><a href="https://huggingface.co/blog/allenai/novelty-bench">Hugging Face发布论文及基准：LLM评估研究新颖性存在显著偏差</a></li><li><a href="https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/">Google Research提出睡眠框架：LLM持续学习中的新型知识保留方法</a></li><li><a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/">Google DeepMind 发布 Genie 4 世界模型，新增音频与实时交互功能</a></li></ul>
 <p><strong>技巧与观点</strong></p>
 <ul><li><a href="https://latent.space/p/offline-coding/">离线使用 OpenCode 编程代理的实践指南：喜马拉雅山麓测试实录</a></li></ul>
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-28">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-28</a></p>]]></description>
@@ -447,25 +462,6 @@
 <p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-15">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-15</a></p>]]></description>
       <pubDate>Thu, 15 Oct 2026 00:00:22 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-15</guid>
-      <author>noreply@reisen-ww.github.io (MyHOT)</author>
-    </item>
-    <item>
-      <title><![CDATA[MyHOT 日报 · 2026-10-14 — Google 发布 Gemini 4 Argon，面向复杂任务全球开放]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-14</link>
-      <description><![CDATA[<p>Google 发布 Gemini 4 Argon，现已面向开发者、企业、研究人员和消费者全球开放，支持 API、AI Studio、Gemini 应用及 AI Mode in Search 等入口。</p>
-<p><strong>模型发布/更新</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/bfqs2of2i8lkbp4jc5a1hm1ub">Google 发布 Gemini 4 Argon，面向复杂任务全球开放</a></li><li><a href="https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b">Liquid AI 发布面向端侧智能体的 LFM2.5-24B-A2B</a></li><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/gh9hg86rad7dd812ep6a12qvs">Meta 发布 Muse Wonder 与 Muse Wonder Full 前沿模型</a></li></ul>
-<p><strong>产品发布/更新</strong></p>
-<ul><li><a href="https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/">NVIDIA RTX Spark 将于 10 月 16 日上市，配套软件生态同步更新</a></li><li><a href="https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/">Google Play 支持创建仅供个人使用的 AI 编码 Android 应用</a></li><li><a href="https://simonwillison.net/2026/Oct/13/llm-gemini/">Gemini 4 Argon 通过 Gemini API 提供，llm-gemini 0.35 增加支持</a></li><li><a href="https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents">Shopify向更多AI智能体开放商品目录与代购功能</a></li></ul>
-<p><strong>行业动态</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/aihot/items/vpx87rjjgo59fp6kuoplw8778">Character.AI 申请破产保护并拟以 $20 million 向 Disney 出售部分资产</a></li><li><a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney">Character.AI 申请破产保护并拟向 Disney 出售部分资产</a></li></ul>
-<p><strong>论文研究</strong></p>
-<ul><li><a href="https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/">Anthropic 研究警告小型 AI 模型可能在消费设备间自我复制</a></li></ul>
-<p><strong>技巧与观点</strong></p>
-<ul><li><a href="https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/">Anchor Browser 如何集成 AgentCore payments 实现 x402 自动支付</a></li><li><a href="https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/">AWS 如何在 Amazon Bedrock 上用 Grok 4.7 构建长时程智能体</a></li></ul>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-14">https://reisen-ww.github.io/hot-pages/aihot/daily/2026-10-14</a></p>]]></description>
-      <pubDate>Wed, 14 Oct 2026 00:00:37 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-14</guid>
       <author>noreply@reisen-ww.github.io (MyHOT)</author>
     </item>
   </channel>

@@ -9,6 +9,28 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS SageMaker AI Serverless 支持全微调（FFT）功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ehja1jsoxspf4ae0yxn2lyexx</link>
+      <description><![CDATA[<p>AWS SageMaker AI Serverless Model Customization 新增全微调（FFT）功能，实验表明在数据量超过10万条时，FFT的语义正确率（90%）和代码生成质量（BLEU 89.5%）优于LoRA，但需控制学习率（2e-5）和epoch数（3）以避免灾难性遗忘，同时保留MMLU等通用知识。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ehja1jsoxspf4ae0yxn2lyexx">https://reisen-ww.github.io/hot-pages/aihot/items/ehja1jsoxspf4ae0yxn2lyexx</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Thu, 19 Nov 2026 00:15:58 GMT</pubDate>
+      <guid isPermaLink="false">ehja1jsoxspf4ae0yxn2lyexx</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS SageMaker JumpStart 模型排行榜发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gymsfhqqd2azbb7ul6hf75gb5</link>
+      <description><![CDATA[<p>AWS 发布 SageMaker JumpStart 模型排行榜，提供标准化评测方法及模型选择指南，涵盖 70+ 模型（包括 Meta、Google、Qwen 等）的质量、速度和成本对比，支持用户按需筛选和部署。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gymsfhqqd2azbb7ul6hf75gb5">https://reisen-ww.github.io/hot-pages/aihot/items/gymsfhqqd2azbb7ul6hf75gb5</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Wed, 18 Nov 2026 22:31:04 GMT</pubDate>
+      <guid isPermaLink="false">gymsfhqqd2azbb7ul6hf75gb5</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[OpenAI 的 GPT-6 Astra 首次证明标准模型相位对称难题]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/sp8vyk3a2d57iaq1r165isry0</link>
       <description><![CDATA[<p>OpenAI 的 GPT-6 Astra 首次通过 lattice 模型证明标准模型相位对称难题，物理学家 Nathaniel Craig 在 OpenAI 博客和预印本论文中披露了这一成果。论文经 Lattice 场论专家 Maarten Golterman 等人评审后引发争议， Craig 承认该工作仅为起点，距离实际物理模拟仍有距离。</p>
@@ -29,17 +51,6 @@
       <pubDate>Fri, 13 Nov 2026 20:47:18 GMT</pubDate>
       <guid isPermaLink="false">xntund3bmho9l8hdst87i1s9s</guid>
       <author>noreply@reisen-ww.github.io (Google Research)</author>
-    </item>
-    <item>
-      <title><![CDATA[Amazon SageMaker HyperPod 静默数据损坏检测与恢复方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc</link>
-      <description><![CDATA[<p>本文介绍了在Amazon SageMaker HyperPod中检测和恢复静默数据损坏的三种方法：1）梯度非有限值检查（捕获NaN/Inf异常）；2）环式回放审计（通过跨节点微批次复现验证计算路径错误）；3）权重指纹比较（检测更新后权重不一致）。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc">https://reisen-ww.github.io/hot-pages/aihot/items/veryldoyvs8e4iaxuf62k4hrc</a></p>]]></description>
-      <category>论文</category>
-      <pubDate>Wed, 11 Nov 2026 23:30:03 GMT</pubDate>
-      <guid isPermaLink="false">veryldoyvs8e4iaxuf62k4hrc</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>
 </rss>

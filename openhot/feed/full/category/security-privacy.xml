@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Ruby 发布修复正则表达式与字符串转换漏洞的多个安全更新]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln</link>
+      <description><![CDATA[<p>Ruby 官方发布安全更新，修复了正则表达式和字符串转换中的七个漏洞，部分漏洞可导致远程代码执行。修复版本为 Ruby 4.0.10、3.4.13 和 3.3.14，旧版本已不再维护。</p>
+<p>🔗 <a href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln">https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 18 Nov 2026 23:52:50 GMT</pubDate>
+      <guid isPermaLink="false">u8f37kuz5o5o7jibpid294yln</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[PyPI 实施更严格的软件包上传检查机制]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m</link>
       <description><![CDATA[<p>PyPI 宣布将实施更严格的软件包上传检查机制，以减少解析差异和提升安全性。当前已禁止 V7-style tar 归档和包含 ZIP 控制结构的评论，后续计划全面禁止 GNU 风格 tar 和 ZIP 评论。</p>
@@ -51,6 +62,17 @@
       <pubDate>Tue, 17 Nov 2026 17:40:32 GMT</pubDate>
       <guid isPermaLink="false">gddk3fga0rdlu1wu0ud7fv75w</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[zkSecurity 发布哈希函数碰撞测试工具，覆盖 MD5、SHA-1 等旧算法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wegjs0cv0rj0qeesziphr0a0a</link>
+      <description><![CDATA[<p>zkSecurity 开源哈希碰撞测试工具，可验证 MD5、SHA-1 等算法的碰撞漏洞。工具要求 Python 3.10，提供 `list` 查看支持算法、`verify` 验证碰撞对、`unittest` 测试用例，并包含原始 SHA-1 碰撞论文的验证流程。</p>
+<p>🔗 <a href="https://collisions.zksecurity.xyz/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wegjs0cv0rj0qeesziphr0a0a">https://reisen-ww.github.io/hot-pages/openhot/items/wegjs0cv0rj0qeesziphr0a0a</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 01:11:09 GMT</pubDate>
+      <guid isPermaLink="false">wegjs0cv0rj0qeesziphr0a0a</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
       <title><![CDATA[uBlock Origin 存在可被网站驱动的元素选择器 XSS 漏洞]]></title>

@@ -9,17 +9,6 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
-      <title><![CDATA[RadixArk 发布 DaisyRose-27B 模型，在终端基准测试中性能提升 6.4 倍]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</link>
-      <description><![CDATA[<p>RadixArk 发布基于 Qwen3.8-27B 的 DaisyRose-27B 模型，在 Terminal-Bench 4.1 基准测试中性能从 5.6% 提升至 12%，主要得益于优化训练数据、异步强化学习框架和高效沙盒服务。训练成本降低 57%，沙盒服务可靠性达 99.95%。模型已发布至 Hugging Face，支持 BF16/FP8/NVFP4 格式下载。</p>
-<p>🔗 <a href="https://www.radixark.com/blog/daisyrose-27b">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05">https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Wed, 18 Nov 2026 19:39:16 GMT</pubDate>
-      <guid isPermaLink="false">g6z3jhvyjqlqie1wc44a31u05</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
       <title><![CDATA[CrossPoint 阅读器开源社区发布，支持EPUB排版与多设备同步]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/hdnoc4zntmpe7oki92kujgwns</link>
       <description><![CDATA[<p>CrossPoint 是一款由开源社区维护的电子书阅读器，支持EPUB排版（含 justified 文本、语言感知断字和脚注）、自定义字体与页面布局、多设备阅读进度同步（与KOReader兼容），以及蓝牙翻页器控制。社区贡献者达242人，已部署于281,736台设备。</p>
@@ -95,17 +84,6 @@
       <pubDate>Thu, 12 Nov 2026 15:23:10 GMT</pubDate>
       <guid isPermaLink="false">b6pq3oxqw947aorxfxkjgyju6</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[PocketBase 社区版 v0.0.1 开源发布]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</link>
-      <description><![CDATA[<p>PocketBase 社区版 v0.0.1 开源，提供更开放的贡献环境，包含核心扩展如多页应用、PITR 数据库恢复和 MCP 多租户支持，以及可选的容器化、集群管理等功能。仓库地址：https://github.com/pockethost/pocketbase</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtxrhi/pocketbase_community_edition_v001/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1">https://reisen-ww.github.io/hot-pages/openhot/items/atwhho99o0a2mgnhupzle7ot1</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Wed, 11 Nov 2026 23:58:14 GMT</pubDate>
-      <guid isPermaLink="false">atwhho99o0a2mgnhupzle7ot1</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>
 </rss>

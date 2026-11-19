@@ -97,6 +97,17 @@
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
+      <title><![CDATA[Broad Institute 等团队提出血浆代谢组学与蛋白质组学框架系统研究基因-环境交互作用]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rnlvdfn8et8z23c681e7fkx64</link>
+      <description><![CDATA[<p>该研究提出血浆代谢组学与蛋白质组学框架，系统分析基因-环境交互作用，并扩展至未探索的细胞类型。主要发现包括：1）通过血浆代谢物和蛋白模块关联构建环境暴露代理；2）验证该代理与可修饰的临床特征（如饮食、感染）相关；3）发现95.2%基因和5.9%甲基化位点的显著交互；4）通过零样本迁移模型扩展至新细胞类型。数据通过dbGaP（phs001416.v4.p1）和Zenodo（22865894）公开。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368215v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rnlvdfn8et8z23c681e7fkx64">https://reisen-ww.github.io/hot-pages/acadhot/items/rnlvdfn8et8z23c681e7fkx64</a></p>]]></description>
+      <category>基因与细胞</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rnlvdfn8et8z23c681e7fkx64</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[某团队在 bioRxiv 发表 LISH 域抑制转录的分子机制研究]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/r0sx14xxj4y3asazlk4omchd2</link>
       <description><![CDATA[<p>某团队发现 LISH 域通过捕获转录因子 Taf5 抑制酵母和人类癌细胞转录，并验证了其使 HCT-15 细胞增殖速度降低的效果。研究首次在真核生物中展示 LISH 域的转录调控功能，并揭示 Taf5 是抑制信号的关键受体。实验采用合成酿酒酵母系统筛选关键残基，并通过过表达 Taf5 部分逆转抑制效果。</p>
@@ -160,17 +171,6 @@
       <category>基因与细胞</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">kmu99qfpozabod7co4i7y9qma</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某研究团队发表细菌遗传密码 sense-to-sense 变化的实验验证]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/bwc5zn6d1ylp8uw13g3rvvw25</link>
-      <description><![CDATA[<p>某研究团队通过体外翻译和蛋白质组学验证了细菌遗传密码中 sense-to-sense 变化的可行性。实验显示 CGG-decoding tRNA 可剂量依赖地恢复 sfGFP 报告子的荧光，蛋白质组学证实 Anaerococcus prevotii 中 CGG 编码 Trp 而非 Arg，蛋白质质谱数据与 Arg-to-Trp 替代一致。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.764470v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/bwc5zn6d1ylp8uw13g3rvvw25">https://reisen-ww.github.io/hot-pages/acadhot/items/bwc5zn6d1ylp8uw13g3rvvw25</a></p>]]></description>
-      <category>基因与细胞</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bwc5zn6d1ylp8uw13g3rvvw25</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
   </channel>

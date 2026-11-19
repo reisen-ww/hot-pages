@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[开源热点 日报 · 2026-11-19 — Claude 模型在未研究细菌蛋白质序列预测上表现突破]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-19</link>
+      <description><![CDATA[<p>Claude Opus 5.5 和 Fable 5.2 在未研究细菌蛋白质序列预测上分别达到34.9%和54.7%的正确率，显著优于其他开源模型。实验通过668个未研究蛋白质的10步序列预测，对比发现Claude模型在顺序依赖和家族规模相关性上均优于蛋白语言模型。测试排除了已研究蛋白和依赖文献的干扰，证明其能力来自大规模蛋白质数据训练而非文献学习。</p>
+<p><strong>工具与项目</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/osnn3oiqwa6lhsenqgyvr7p26">Unref 开源 Rust 编写的 Python 死代码查找器</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf">Zed 编辑器发布 v1.29.1 版本，新增 Git 分支对比与 Claude 5.2 支持</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/lkxfc2f595j7fmw3ugjlcp8a4">Bonfire 1.1 发布：支持跨平台联邦群组协作</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/nci73vg38xnatyb8nh8z5a4ef">Zed 1.30.0 预发布发布：新增 GPT-6.1 支持，优化 GPU 效率与键盘导航</a></li></ul>
+<p><strong>应用与安全</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m">PyPI 实施更严格的软件包上传检查机制</a></li></ul>
+<p><strong>模型与数据</strong></p>
+<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/ttqb1gs0kkyv5y208zd5d83co">Claude 模型在未研究细菌蛋白质序列预测上表现突破</a></li></ul>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-19">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-19</a></p>]]></description>
+      <pubDate>Thu, 19 Nov 2026 00:00:32 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-19</guid>
+      <author>noreply@reisen-ww.github.io (开源热点)</author>
+    </item>
+    <item>
       <title><![CDATA[开源热点 日报 · 2026-11-18 — Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-11-18</link>
       <description><![CDATA[<p>Java4Shell漏洞利用方法：通过构造特定Base64编码触发OpenJDK 17.0.6+内存溢出，利用AVX-512硬件加速特性实现远程代码执行。受影响版本包括Oracle Java SE 8u511b33-perf及后续更新。PoC代码展示如何通过200万次Base64解码触发漏洞，并在内存中写入可控数据。修复建议包括禁用Base64硬件加速或AVX-512指令集。</p>
@@ -411,19 +426,6 @@
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-16">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-16</a></p>]]></description>
       <pubDate>Fri, 16 Oct 2026 00:00:10 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-16</guid>
-      <author>noreply@reisen-ww.github.io (开源热点)</author>
-    </item>
-    <item>
-      <title><![CDATA[开源热点 日报 · 2026-10-15 — curl 8.23.0 修复 HTTP/2 上传 Use-After-Free 漏洞 CVE-2026-92392]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-15</link>
-      <description><![CDATA[<p>curl 8.23.0 修复了 HTTP/2 上传中的 Use-After-Free 漏洞 CVE-2026-92392，该问题在特定条件下可能被恶意服务器利用为远程代码执行。</p>
-<p><strong>工具与项目</strong></p>
-<ul><li><a href="https://anoma.ly/notes/opencode-2-0/">OpenCode 2.0 大幅重构，推出共享服务、Code Mode 与后台任务</a></li><li><a href="https://github.com/zed-industries/zed/releases/tag/v1.25.0-pre">Zed v1.25.0-pre 发布，改进 Agent 集成并缩减多平台二进制体积</a></li><li><a href="https://github.com/astral-sh/uv/releases/tag/0.13.1">uv 发布 0.13.1，改进解析性能并支持 Linux SPARC</a></li></ul>
-<p><strong>应用与安全</strong></p>
-<ul><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/ocvwr9aaajlxx8jljlyg8ed9y">curl 8.23.0 修复 HTTP/2 上传 Use-After-Free 漏洞 CVE-2026-92392</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/qplvo2kh51thqxx2lur9gblh9">GitLab 修复 CI/CD 正则表达式编译器最高严重性远程代码执行漏洞</a></li><li><a href="https://reisen-ww.github.io/hot-pages/openhot/items/su6z32tcm7ksf2sv6wi07250l">Ledger 钱包供应链出现硬件后门，约 $102 million 加密货币被盗</a></li></ul>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-15">https://reisen-ww.github.io/hot-pages/openhot/daily/2026-10-15</a></p>]]></description>
-      <pubDate>Thu, 15 Oct 2026 00:00:27 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-15</guid>
       <author>noreply@reisen-ww.github.io (开源热点)</author>
     </item>
   </channel>

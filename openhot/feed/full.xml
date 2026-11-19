@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[Ruby 发布修复正则表达式与字符串转换漏洞的多个安全更新]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln</link>
+      <description><![CDATA[<p>Ruby 官方发布安全更新，修复了正则表达式和字符串转换中的七个漏洞，部分漏洞可导致远程代码执行。修复版本为 Ruby 4.0.10、3.4.13 和 3.3.14，旧版本已不再维护。</p>
+<p>🔗 <a href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln">https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Wed, 18 Nov 2026 23:52:50 GMT</pubDate>
+      <guid isPermaLink="false">u8f37kuz5o5o7jibpid294yln</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[PyPI 实施更严格的软件包上传检查机制]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/jofpq921ampjxjmro031mts2m</link>
       <description><![CDATA[<p>PyPI 宣布将实施更严格的软件包上传检查机制，以减少解析差异和提升安全性。当前已禁止 V7-style tar 归档和包含 ZIP 控制结构的评论，后续计划全面禁止 GNU 风格 tar 和 ZIP 评论。</p>
@@ -20,12 +31,12 @@
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
-      <title><![CDATA[RadixArk 发布 DaisyRose-27B 模型，在终端基准测试中性能提升 6.4 倍]]></title>
+      <title><![CDATA[RadixArk开源首个长程推理模型DaisyRose-27B]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</link>
-      <description><![CDATA[<p>RadixArk 发布基于 Qwen3.8-27B 的 DaisyRose-27B 模型，在 Terminal-Bench 4.1 基准测试中性能从 5.6% 提升至 12%，主要得益于优化训练数据、异步强化学习框架和高效沙盒服务。训练成本降低 57%，沙盒服务可靠性达 99.95%。模型已发布至 Hugging Face，支持 BF16/FP8/NVFP4 格式下载。</p>
+      <description><![CDATA[<p>RadixArk在GitHub发布首个开源模型DaisyRose-27B，基于Qwen3.8-27B训练优化，在Terminal-Bench 4.1等长程推理基准测试中表现提升至12.0%，训练成本降低57%。模型提供BF16/FP8/NVFP4三种格式，训练采用自研Miles框架，沙箱服务支持百万级并发。</p>
 <p>🔗 <a href="https://www.radixark.com/blog/daisyrose-27b">阅读原文</a></p>
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05">https://reisen-ww.github.io/hot-pages/openhot/items/g6z3jhvyjqlqie1wc44a31u05</a></p>]]></description>
-      <category>社区新奇仓库</category>
+      <category>模型与数据集</category>
       <pubDate>Wed, 18 Nov 2026 19:39:16 GMT</pubDate>
       <guid isPermaLink="false">g6z3jhvyjqlqie1wc44a31u05</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
@@ -183,6 +194,17 @@
       <pubDate>Tue, 17 Nov 2026 09:57:55 GMT</pubDate>
       <guid isPermaLink="false">wj5k3wnh6t3kpd3va6rwyzzsn</guid>
       <author>noreply@reisen-ww.github.io (uv 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[zkSecurity 发布哈希函数碰撞测试工具，覆盖 MD5、SHA-1 等旧算法]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wegjs0cv0rj0qeesziphr0a0a</link>
+      <description><![CDATA[<p>zkSecurity 开源哈希碰撞测试工具，可验证 MD5、SHA-1 等算法的碰撞漏洞。工具要求 Python 3.10，提供 `list` 查看支持算法、`verify` 验证碰撞对、`unittest` 测试用例，并包含原始 SHA-1 碰撞论文的验证流程。</p>
+<p>🔗 <a href="https://collisions.zksecurity.xyz/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wegjs0cv0rj0qeesziphr0a0a">https://reisen-ww.github.io/hot-pages/openhot/items/wegjs0cv0rj0qeesziphr0a0a</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Tue, 17 Nov 2026 01:11:09 GMT</pubDate>
+      <guid isPermaLink="false">wegjs0cv0rj0qeesziphr0a0a</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
       <title><![CDATA[Three.js光照管线优化：G缓冲、SSR与SSGI整合方案及性能对比]]></title>
@@ -533,28 +555,6 @@
       <category>社区新奇仓库</category>
       <pubDate>Wed, 11 Nov 2026 17:54:52 GMT</pubDate>
       <guid isPermaLink="false">dc8y2yl0gkf7eupoc6jjenu6z</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rust项目公布2026年Google Summer of Code 13个成功项目成果]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</link>
-      <description><![CDATA[<p>Rust项目在GitHub发布2026年GSoC成果，13个项目全部通过终评。涉及Wild linker支持Linux内核模块链接（性能比BFD快2-4倍）、rust-analyzer迁移至SyntaxEditor减少内存占用、libc解决32/64位兼容性问题等。</p>
-<p>🔗 <a href="https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3">https://reisen-ww.github.io/hot-pages/openhot/items/vx4mmrg94x1bh1fy6kygncwz3</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Wed, 11 Nov 2026 15:03:06 GMT</pubDate>
-      <guid isPermaLink="false">vx4mmrg94x1bh1fy6kygncwz3</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[PipesHub开源自托管向量数据库在EnterpriseRAG-Bench评测中排名第一]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2</link>
-      <description><![CDATA[<p>PipesHub开源自托管向量数据库在EnterpriseRAG-Bench评测中排名第一，综合得分93.24，正确率95%。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xti468/self_hosted_glean_alternative_just_ranked_1_on/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2">https://reisen-ww.github.io/hot-pages/openhot/items/kiaqgykiiafhg0464j08jngb2</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Wed, 11 Nov 2026 13:45:19 GMT</pubDate>
-      <guid isPermaLink="false">kiaqgykiiafhg0464j08jngb2</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>

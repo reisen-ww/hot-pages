@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
+      <title><![CDATA[Anthropic IPO定价83美元；华为与阿里成立AI安全研究中心]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/owgxq10nuag7bsyo911hp2mfp</link>
+      <description><![CDATA[<p>Anthropic于11月18日将IPO发行价定为每股83美元，高于此前预估，计划于周四在纳斯达克上市，可能使公司估值达1.5万亿美元。同时，华中科技大学与阿里巴巴集团签署合作协议，成立AI前沿安全研究中心，首批启动9个课题，覆盖大模型安全攻防等领域。</p>
+<p>🔗 <a href="https://36kr.com/p/4075920892581000?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/owgxq10nuag7bsyo911hp2mfp">https://reisen-ww.github.io/hot-pages/acadhot/items/owgxq10nuag7bsyo911hp2mfp</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Thu, 19 Nov 2026 00:01:22 GMT</pubDate>
+      <guid isPermaLink="false">owgxq10nuag7bsyo911hp2mfp</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
       <title><![CDATA[中国水稻研究所王丹英、陈松团队与长江大学张运波教授合作提出水稻产量预测新模型]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/c33f03r7xp33xq0es00qgnanv</link>
       <description><![CDATA[<p>中国水稻研究所王丹英、陈松团队与长江大学张运波教授合作，在《农业科学学报（英文）》（JIA）发表研究，提出基于跨时期注意力Transformer模型（riceCPAT）的多品种水稻产量预测方法，R²达74.39%，参数量减少66.7%，计算效率提升至2分21秒。模型在杭州、荆州、平湖三个独立试验中迁移验证，平均R²为67.20%，优于传统对齐方法。</p>
@@ -216,17 +227,6 @@
       <pubDate>Mon, 16 Nov 2026 16:04:28 GMT</pubDate>
       <guid isPermaLink="false">e17l0m5g6wtgqi6ez298k6eb5</guid>
       <author>noreply@reisen-ww.github.io (MIT Technology Review)</author>
-    </item>
-    <item>
-      <title><![CDATA[鱼转移图谱：系统分析癌症在不同器官中的特异性转移模式]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/tbi6456tt8acf2pu1mceqhygc</link>
-      <description><![CDATA[<p>研究团队利用鱼模型和数据驱动的计算框架，揭示了不同癌症细胞系在鱼体内的转移模式，发现器官特异性转移模式与癌症细胞系和疾病阶段相关。该框架适用于多种癌症类型和基因/药物干预的研究，有助于个性化治疗策略的制定。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.10.765467v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/tbi6456tt8acf2pu1mceqhygc">https://reisen-ww.github.io/hot-pages/acadhot/items/tbi6456tt8acf2pu1mceqhygc</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tbi6456tt8acf2pu1mceqhygc</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
   </channel>
 </rss>

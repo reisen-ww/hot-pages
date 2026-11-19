@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
+      <title><![CDATA[Anthropic IPO定价83美元；华为与阿里成立AI安全研究中心]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/owgxq10nuag7bsyo911hp2mfp</link>
+      <description><![CDATA[<p>Anthropic于11月18日将IPO发行价定为每股83美元，高于此前预估，计划于周四在纳斯达克上市，可能使公司估值达1.5万亿美元。同时，华中科技大学与阿里巴巴集团签署合作协议，成立AI前沿安全研究中心，首批启动9个课题，覆盖大模型安全攻防等领域。</p>
+<p>🔗 <a href="https://36kr.com/p/4075920892581000?f=rss">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/owgxq10nuag7bsyo911hp2mfp">https://reisen-ww.github.io/hot-pages/acadhot/items/owgxq10nuag7bsyo911hp2mfp</a></p>]]></description>
+      <category>AI 前沿</category>
+      <pubDate>Thu, 19 Nov 2026 00:01:22 GMT</pubDate>
+      <guid isPermaLink="false">owgxq10nuag7bsyo911hp2mfp</guid>
+      <author>noreply@reisen-ww.github.io (36氪)</author>
+    </item>
+    <item>
       <title><![CDATA[法国CNRS与摩纳哥科学中心合作：帝企鹅幼崽首次入海遭遇工业磷虾捕捞]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/anuyowbtrjais27c70nlmvtmp</link>
       <description><![CDATA[<p>法国CNRS、摩纳哥科学中心与大西洋海洋研究所合作研究显示，2023-2024年追踪的48只帝企鹅幼崽在迁徙途中，32%时间出现在西德利尔海拟议海洋保护区，但西海岸种群（Snow Hill Island和Jason Peninsula）因靠近南极半岛渔场，遭遇磷虾捕捞比例达60%以上。</p>
@@ -97,6 +108,17 @@
       <author>noreply@reisen-ww.github.io (科学网博客)</author>
     </item>
     <item>
+      <title><![CDATA[Lifelines队列研究联合生物样本库公布跨物种GWAS元分析框架]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/zmd3uj8bg86l7wp9r9hkrgjec</link>
+      <description><![CDATA[<p>本研究通过整合人类和牛的基因组关联研究数据，开发了跨物种基因关联分析框架，发现FSHR和GDF9基因在两种物种中均与双胞胎出生显著相关（人类样本量1395万，牛样本量2656头），并首次在牛中验证了GDF9的遗传效应。该框架可扩展至其他物种的多组学比较研究。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26367253v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/zmd3uj8bg86l7wp9r9hkrgjec">https://reisen-ww.github.io/hot-pages/acadhot/items/zmd3uj8bg86l7wp9r9hkrgjec</a></p>]]></description>
+      <category>生命科学</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">zmd3uj8bg86l7wp9r9hkrgjec</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[某团队在 bioRxiv 发表 Kinesin-1 微管选择性结合机制研究]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ynn16cgb85bqdjmag8pr2jha8</link>
       <description><![CDATA[<p>研究揭示 MAP7D1 通过识别扩展型微管 lattice 结构决定 Kinesin-1 的选择性运动。通过敲除 MAP7D1 并重构体外微管系统，证实其特异性结合扩展 lattice，且与微管修饰无关。实验采用 Kinesin-1 截短体和 MAP7 蛋白家族缺失模型，发现 coiled-coil 1 区域介导 MAP7 结合，单独缺失 MAP7D1 会导致非选择性运动。</p>
@@ -117,6 +139,17 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">yhr2ltt7q5x4h15zvk1barz8m</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队在 fastVEP 中实现并基准测试 ACMG/AMP 变异数据分类框架]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/y5ghbi79ncobg473dderzdwof</link>
+      <description><![CDATA[<p>某团队在 fastVEP 中开发了 ACMG/AMP 变异数据分类引擎，并对比了不同证据组合方案和阈值设置的效果。最终方案采用Tavtigian点评分（致病侧）与2015年ACMG/AMP结合表（良性侧），在673,660个ClinVar变异数据中实现0.0076%反向分类错误率。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368228v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/y5ghbi79ncobg473dderzdwof">https://reisen-ww.github.io/hot-pages/acadhot/items/y5ghbi79ncobg473dderzdwof</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">y5ghbi79ncobg473dderzdwof</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[英国国家河流监测网络发表基于18S rRNA基因测序的微真核生物指标研究]]></title>
@@ -161,6 +194,17 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">xuj4upcfofbfceewslbgevfzu</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[青少年认知发展纵向研究揭示大麻使用与自杀意念及尝试的关联]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/xlmdmof81imu4zfzarkxsqjmj</link>
+      <description><![CDATA[<p>某研究团队在青少年认知发展纵向研究中发现，大麻使用显著增加自杀意念（OR=3.18）和尝试（OR=4.86）风险，认知测试得分（β=-0.08至-0.16）与风险呈负相关，尤其记忆能力影响显著。研究纳入10228名青少年，采用混合效应回归模型分析，发现 ever use 与自杀行为风险升高相关（OR=3.18和4.86），95%CI分别为2.52-4.00和3.36-7.03。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368218v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/xlmdmof81imu4zfzarkxsqjmj">https://reisen-ww.github.io/hot-pages/acadhot/items/xlmdmof81imu4zfzarkxsqjmj</a></p>]]></description>
+      <category>临床医学</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">xlmdmof81imu4zfzarkxsqjmj</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[Stress granule 跨结直肠癌亚区的转录对比受评分方法和测序深度影响]]></title>
@@ -218,6 +262,28 @@
       <author>noreply@reisen-ww.github.io (Nature)</author>
     </item>
     <item>
+      <title><![CDATA[美国不同种族和族裔幽门螺杆菌感染差异的贝叶斯元分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/w87pujmvrxtj1zaodtrdhrb2r</link>
+      <description><![CDATA[<p>研究显示，美国非裔、美洲原住民和拉丁裔人群的幽门螺杆菌感染率差距持续扩大，且感染高峰年龄显著早于白人人群。具体而言，1960年后出生的Hispanic和AI/AN/NHB群体最大感染率差距从33.2%扩大至51.4%，感染高峰年龄分别为19.3年（95%CI:14.9-23.5）和3.20年（95%CI:1.99-4.63）。连续出生队列分析验证了这一发现。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26367144v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/w87pujmvrxtj1zaodtrdhrb2r">https://reisen-ww.github.io/hot-pages/acadhot/items/w87pujmvrxtj1zaodtrdhrb2r</a></p>]]></description>
+      <category>临床医学</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">w87pujmvrxtj1zaodtrdhrb2r</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队发表耳声症与临床情绪失调的多方法比较研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/vzrippthr8d9nlowf13cw3sb1</link>
+      <description><![CDATA[<p>某团队发表耳声症与临床情绪失调的多方法比较研究，纳入 60 名受试者（耳声症 30 例，临床情绪失调 30 例），通过临床访谈和生理监测发现：耳声症组基线高频率心率变异性（HF-HRV）显著低于临床组（p = .010）；任务期间及后测 HF-HRV 差异持续存在（ps = .002-.017），但皮肤电导（SCL）和皮肤电导反应（SCR）无显著差异。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368227v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/vzrippthr8d9nlowf13cw3sb1">https://reisen-ww.github.io/hot-pages/acadhot/items/vzrippthr8d9nlowf13cw3sb1</a></p>]]></description>
+      <category>临床医学</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">vzrippthr8d9nlowf13cw3sb1</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[数字双胞胎大脑的反事实衰老揭示潜在抗衰老维度]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/vkif09mm58p2vtt6a87dyjtu9</link>
       <description><![CDATA[<p>某团队开发 Brain-VRNN 模型，通过反事实衰老实验揭示个体认知储备与 BMI 相关的潜在抗衰老维度。该模型在未观测个体中复现了四项功能衰老指标（r=0.93-0.96），识别准确率达0.98。实验发现，BMI下降可使衰老相关认知衰退恢复幅度提升1.6倍。脑区衰老模式分析显示，所有个体共享一个侧颞-角区功能衰退特征。</p>
@@ -260,6 +326,17 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">u2jxrscmut4oemxgf3n85ddbw</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[瑞典多中心研究验证全基因组与转录组测序在白血病诊断中的准确性]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/tg0rsses7hygd3nw5gsmw2rnd</link>
+      <description><![CDATA[<p>瑞典多中心研究显示，全基因组与转录组测序（WGTS）较传统方法检测到更多白血病相关基因重排（如RUNX1::RUNX1T1、KMT2A和NUP98），但低频FLT3-ITD仍需高灵敏度检测补充。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26367955v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/tg0rsses7hygd3nw5gsmw2rnd">https://reisen-ww.github.io/hot-pages/acadhot/items/tg0rsses7hygd3nw5gsmw2rnd</a></p>]]></description>
+      <category>药物与疗法</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tg0rsses7hygd3nw5gsmw2rnd</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[某团队在 Nature 发表关于肠道环境中 egoviruses 普遍存在的成果]]></title>
@@ -317,6 +394,17 @@
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
+      <title><![CDATA[某研究团队在 medRxiv 发表埃塞俄比亚产后评估缺失的全国性分析]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/swsqb6bj3g1eayryfnng8lkd1</link>
+      <description><![CDATA[<p>埃塞俄比亚2024-2025年人口与健康调查显示，40.1%（95% CI 37.0-43.3）的设施分娩女性出院前未接受产后评估。多水平分析表明：剖腹产（AOR 0.32）、产前护理≥4次（AOR 0.49）与评估缺失风险降低相关；索马里地区风险升高（AOR 2.07）。研究强调设施分娩覆盖率可能高估有效产后护理，建议国际政策需纳入出院前基础评估标准。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26366337v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/swsqb6bj3g1eayryfnng8lkd1">https://reisen-ww.github.io/hot-pages/acadhot/items/swsqb6bj3g1eayryfnng8lkd1</a></p>]]></description>
+      <category>临床医学</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">swsqb6bj3g1eayryfnng8lkd1</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[基于靶向测序的感染性鲑鱼贫血病毒（ISAV）跨基因型重组首次在大西洋加拿大沿岸发现]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/sp0hi5y1pxlexbimo1n68wwlg</link>
       <description><![CDATA[<p>某团队基于靶向测序技术分析加拿大大西洋沿岸14个养殖场37份ISAV阳性样本，发现27份完整病毒基因组，其中2份为混合感染。通过分段系统发育分析首次确认ISAV欧洲基因型与北美基因型（第3段）的跨基因重组事件，并利用时间校准系统发育树推算该重组事件发生于2016年9月（置信区间2013年3月至2019年6月）。该成果为ISAV跨境传播监测提供了新的分子分型依据。</p>
@@ -361,6 +449,28 @@
       <author>noreply@reisen-ww.github.io (Nature)</author>
     </item>
     <item>
+      <title><![CDATA[Broad Institute 等团队提出血浆代谢组学与蛋白质组学框架系统研究基因-环境交互作用]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rnlvdfn8et8z23c681e7fkx64</link>
+      <description><![CDATA[<p>该研究提出血浆代谢组学与蛋白质组学框架，系统分析基因-环境交互作用，并扩展至未探索的细胞类型。主要发现包括：1）通过血浆代谢物和蛋白模块关联构建环境暴露代理；2）验证该代理与可修饰的临床特征（如饮食、感染）相关；3）发现95.2%基因和5.9%甲基化位点的显著交互；4）通过零样本迁移模型扩展至新细胞类型。数据通过dbGaP（phs001416.v4.p1）和Zenodo（22865894）公开。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368215v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rnlvdfn8et8z23c681e7fkx64">https://reisen-ww.github.io/hot-pages/acadhot/items/rnlvdfn8et8z23c681e7fkx64</a></p>]]></description>
+      <category>基因与细胞</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rnlvdfn8et8z23c681e7fkx64</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队在 medRxiv 发表老年人视觉预览与步态及认知成本关联研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/r4q54n0wc5g5mfh8tj0f1kadv</link>
+      <description><![CDATA[<p>某团队对 29 名老年人（平均年龄 73.9 岁）进行实验，发现视觉预览序列复杂度（LZC_task）与认知双任务成本呈负相关（p=0.003），而视觉转换幅度与步速负相关（p=0.012）。研究证实有效预览需整合近远距离信息，为降低老年人双任务步态障碍提供了新干预靶点。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368206v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/r4q54n0wc5g5mfh8tj0f1kadv">https://reisen-ww.github.io/hot-pages/acadhot/items/r4q54n0wc5g5mfh8tj0f1kadv</a></p>]]></description>
+      <category>神经科学</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">r4q54n0wc5g5mfh8tj0f1kadv</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
+    </item>
+    <item>
       <title><![CDATA[速度型ORG技术临床应用评估：疾病视网膜视锥细胞功能测量]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/r1ebc53uxuoh6xpkucu06qohv</link>
       <description><![CDATA[<p>某研究团队使用速度型ORG技术评估了疾病和健康视网膜的视锥细胞功能，发现疾病组响应幅度和时序动态显著降低，治疗后维生素A缺乏视网膜出现功能改善。实验采用相位敏感100-kHz、1060-nm swept-source OCT系统，在暗适应后400Hz刺激频率下采集B-扫描数据，通过测量内节/外节交界处与视锥外段顶端的路径长度变化量化响应。</p>
@@ -392,6 +502,17 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">r0iq2u915ppslozob3xt9qtm5</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[乌干达与南非儿童结核病诊断中舌咽拭子与痰液拭子检测的准确性比较]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/qvig6kpz33vg033vzi3858ucw</link>
+      <description><![CDATA[<p>乌干达与南非 335 名儿童结核病诊断研究显示，痰液拭子 MiniDock MTB 的灵敏度（85.7%）与 Xpert Ultra相当（p=0.45），但显著高于舌咽拭子（50%）和痰涂片镜检（39.3%）。研究证实当痰液不可用时，舌咽拭子检测可有效识别微生物确诊病例。伦理审查由开普敦大学健康科学学院、乌干达穆拉戈医院伦理委员会及美国加州大学旧金山分校 IRB 批准。</p>
+<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.16.26368102v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/qvig6kpz33vg033vzi3858ucw">https://reisen-ww.github.io/hot-pages/acadhot/items/qvig6kpz33vg033vzi3858ucw</a></p>]]></description>
+      <category>临床医学</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">qvig6kpz33vg033vzi3858ucw</guid>
+      <author>noreply@reisen-ww.github.io (medRxiv)</author>
     </item>
     <item>
       <title><![CDATA[某研究团队发现体外抗生素敏感测试（DDA）无法可靠预测线虫感染模型中的疗效差异]]></title>
@@ -435,127 +556,6 @@
       <category>临床医学</category>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">pz3djeszu1roumqztcmdelqyl</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Doctronic 公布医疗AI平台用户主动健康问题的真实世界咨询分析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/pujpnault8uh7l70xy5ygal03</link>
-      <description><![CDATA[<p>Doctronic 的医疗AI平台用户中，56.7%为女性，50.9%年龄在18-34岁之间。研究显示，77,597个临床概念被识别，包括头痛、腹痛等常见症状。60.1%的咨询涉及新发或加重症状，74.3%包含症状询问或健康担忧，53.9%生成结构化SOAP笔记，15.1%转诊至医生远程评估。</p>
-<p>🔗 <a href="https://www.medrxiv.org/content/10.64898/2026.11.15.26368158v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/pujpnault8uh7l70xy5ygal03">https://reisen-ww.github.io/hot-pages/acadhot/items/pujpnault8uh7l70xy5ygal03</a></p>]]></description>
-      <category>临床医学</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">pujpnault8uh7l70xy5ygal03</guid>
-      <author>noreply@reisen-ww.github.io (medRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某研究团队在 Nature 发表 TransA-MERFISH 揭示视网膜后方向选择性神经回路分化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/pcytp9gx0p6bv3gi91049yods</link>
-      <description><![CDATA[<p>某研究团队在 Nature 发表 TransA-MERFISH 揭示视网膜后方向选择性神经回路分化。该技术结合抗逆向追踪与空间转录组学，首次在顶盖核层区分出依赖和独立于视网膜方向选择性的神经回路，为早期视觉处理接线图重构提供了高分辨率细胞类型分辨率框架。</p>
-<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11235-7">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/pcytp9gx0p6bv3gi91049yods">https://reisen-ww.github.io/hot-pages/acadhot/items/pcytp9gx0p6bv3gi91049yods</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">pcytp9gx0p6bv3gi91049yods</guid>
-      <author>noreply@reisen-ww.github.io (Nature)</author>
-    </item>
-    <item>
-      <title><![CDATA[棕榈酸通过TGF-β1上调促进足细胞肾小球硬化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/p8y6b525ynouuofbb0gj2ev1o</link>
-      <description><![CDATA[<p>某团队发现棕榈酸通过激活TGF-β1信号通路导致足细胞异常并引发肾小球硬化。实验显示PA（100μM）处理24小时后足细胞出现脂滴堆积、WT1表达上调，伴随细胞骨架异常、podocin/nephrin/synaptopodin等结构蛋白减少，以及纤维连接蛋白、胶原蛋白和α-SMA的过度表达。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.14.766626v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/p8y6b525ynouuofbb0gj2ev1o">https://reisen-ww.github.io/hot-pages/acadhot/items/p8y6b525ynouuofbb0gj2ev1o</a></p>]]></description>
-      <category>神经科学</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">p8y6b525ynouuofbb0gj2ev1o</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Karagöl 团队提出基于双差异的蛋白质突变路径精确测试方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/p58u10sdpk3qweadpuqrvqlm4</link>
-      <description><![CDATA[<p>Karagöl 团队提出基于双差异的蛋白质突变路径精确测试方法。在 MaveDB 数据库中验证了 102,421 条两步突变路径，发现 46 个蛋白质家族的中位数相关系数达 0.965，其中 34 个家族超过 0.9。测试通过计算背景差异的协方差矩阵实现，能排除单一碱基变化干扰，准确区分实验组别差异与随机波动。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767252v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/p58u10sdpk3qweadpuqrvqlm4">https://reisen-ww.github.io/hot-pages/acadhot/items/p58u10sdpk3qweadpuqrvqlm4</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">p58u10sdpk3qweadpuqrvqlm4</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某研究团队在 Nature 发表恒星常见包内螺旋进动观测成果]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/p21y3vzm0o3b0t1qimf1coxco</link>
-      <description><![CDATA[<p>某研究团队通过 AT 2025abao 的观测，直接证实了恒星在常见包内的螺旋进动现象，揭示了摩擦性能量耗散机制，并限制了轨道能量驱动恒星包抛射的定量关系。</p>
-<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11221-z">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/p21y3vzm0o3b0t1qimf1coxco">https://reisen-ww.github.io/hot-pages/acadhot/items/p21y3vzm0o3b0t1qimf1coxco</a></p>]]></description>
-      <category>量子与物理</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">p21y3vzm0o3b0t1qimf1coxco</guid>
-      <author>noreply@reisen-ww.github.io (Nature)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 Nature 发表高维时空量子场模拟的类比实验]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/p0datrv03azekd84rzedwztq4</link>
-      <description><![CDATA[<p>某团队在 Nature 发表高维时空量子场模拟的类比实验，通过二维原子玻色-爱因斯坦凝聚体实现 massive relativistic quantum fields 的模拟。该实验采用两套自旋耦合组件，在 2+1 维度下验证了量子场方程的类比解法。</p>
-<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11268-y">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/p0datrv03azekd84rzedwztq4">https://reisen-ww.github.io/hot-pages/acadhot/items/p0datrv03azekd84rzedwztq4</a></p>]]></description>
-      <category>量子与物理</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">p0datrv03azekd84rzedwztq4</guid>
-      <author>noreply@reisen-ww.github.io (Nature)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在bioRxiv发表Elflow：高维流式细胞术自动化质控与自监督表征学习框架]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/oso6wub2r5ehxyr8o2n8swvb8</link>
-      <description><![CDATA[<p>Elflow 是一个模块化、自监督的高维流式细胞术分析框架，整合了自动化质控、单细胞表征学习与患者级建模。在四个公开基准测试中，该工具能适应不同生物面板和临床目标，并在22通道光谱流式细胞术中保持T细胞功能分级的自监督嵌入，优于经典方法的不监督聚类，同时通过锚点引导复现了手动门控层次结构。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767309v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oso6wub2r5ehxyr8o2n8swvb8">https://reisen-ww.github.io/hot-pages/acadhot/items/oso6wub2r5ehxyr8o2n8swvb8</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">oso6wub2r5ehxyr8o2n8swvb8</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Bai 等在 bioRxiv 发表新型微型蛋白结合器靶向瘦素受体 CRH2 域的研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/oqehko1i7l1xr6qg3uq7cpuz7</link>
-      <description><![CDATA[<p>Bai 等团队在 bioRxiv 发布了一项关于设计新型微型蛋白结合器靶向瘦素受体 CRH2 域的研究，其结合常数 Kd 为 30 nM。结构分析与突变研究显示，Mini-19484 的 Arg18 是关键结合位点，其作用模式与天然瘦素不同，为开发新型疗法提供了新思路。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.766359v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oqehko1i7l1xr6qg3uq7cpuz7">https://reisen-ww.github.io/hot-pages/acadhot/items/oqehko1i7l1xr6qg3uq7cpuz7</a></p>]]></description>
-      <category>药物与疗法</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">oqehko1i7l1xr6qg3uq7cpuz7</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在bioRxiv发表核mRNA成熟机制研究：最小核心蛋白Yra1p与Pab1p主导动态组装]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/oi7ltqaprragfd6ad0nywceo3</link>
-      <description><![CDATA[<p>某团队通过34个蛋白结合探针和18个转录结合探针的亲和纯化调查，结合MS2标记核转录物多阶段纯化技术，发现核mRNA成熟存在最小核心蛋白Yra1p和Pab1p，其他蛋白动态组装形成阶段特异性模块。研究揭示内含子类型而非存在与否决定剪接体组成，且蛋白关联范围与启动子类型及染色质域边界距离相关。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.767097v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/oi7ltqaprragfd6ad0nywceo3">https://reisen-ww.github.io/hot-pages/acadhot/items/oi7ltqaprragfd6ad0nywceo3</a></p>]]></description>
-      <category>生命科学</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">oi7ltqaprragfd6ad0nywceo3</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[金属 EuSi 中近费米能级 p 波磁性的证据]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ob780t8qsp6wequ65s0t1n7ig</link>
-      <description><![CDATA[<p>某研究通过对称分析、第一性原理计算、中子散射和光电子能谱，证实金属 EuSi 中近费米能级存在 p 波磁性。</p>
-<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11295-9">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ob780t8qsp6wequ65s0t1n7ig">https://reisen-ww.github.io/hot-pages/acadhot/items/ob780t8qsp6wequ65s0t1n7ig</a></p>]]></description>
-      <category>量子与物理</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ob780t8qsp6wequ65s0t1n7ig</guid>
-      <author>noreply@reisen-ww.github.io (Nature)</author>
-    </item>
-    <item>
-      <title><![CDATA[FULL-seq 揭示单细胞中异构体特异性调控架构]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ob0olxdsqm1hrdmoj7ny1z7jv</link>
-      <description><![CDATA[<p>预印本研究提出单细胞多组学平台 FULL-seq，可同时分析染色质可及性与全长转录覆盖，精准定位基因异构体调控位点。在结直肠癌细胞中发现CALB1异构体激活与转移相关，并通过独立数据集验证。实验证实CRISPRi介导抑制该异构体可减少细胞迁移，为靶向异构体治疗提供新思路。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767299v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/ob0olxdsqm1hrdmoj7ny1z7jv">https://reisen-ww.github.io/hot-pages/acadhot/items/ob0olxdsqm1hrdmoj7ny1z7jv</a></p>]]></description>
-      <category>AI 前沿</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ob0olxdsqm1hrdmoj7ny1z7jv</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
   </channel>

@@ -9,6 +9,82 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[AWS SageMaker AI Serverless 支持全微调（FFT）功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ehja1jsoxspf4ae0yxn2lyexx</link>
+      <description><![CDATA[<p>AWS SageMaker AI Serverless Model Customization 新增全微调（FFT）功能，实验表明在数据量超过10万条时，FFT的语义正确率（90%）和代码生成质量（BLEU 89.5%）优于LoRA，但需控制学习率（2e-5）和epoch数（3）以避免灾难性遗忘，同时保留MMLU等通用知识。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ehja1jsoxspf4ae0yxn2lyexx">https://reisen-ww.github.io/hot-pages/aihot/items/ehja1jsoxspf4ae0yxn2lyexx</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Thu, 19 Nov 2026 00:15:58 GMT</pubDate>
+      <guid isPermaLink="false">ehja1jsoxspf4ae0yxn2lyexx</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Exa基于AWS Neuron芯片优化嵌入模型吞吐量提升50%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/i9xagugm77a8u1mkjdu4cbb3n</link>
+      <description><![CDATA[<p>Exa通过硬件优化和算法调整在AWS Neuron芯片上实现嵌入吞吐量提升50%，并建立跨芯片调度机制降低长期成本。关键技术包括：1）使用NKI库优化注意力机制内核，2）定制SwiGLU MLP融合计算内核减少内存访问，3）通过Flyte平台实现智能体分工协作（轻量级模型负责参数搜索，强代码生成模型编写定制内核），4）在AWS Trainium2上延续优化成果。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/i9xagugm77a8u1mkjdu4cbb3n">https://reisen-ww.github.io/hot-pages/aihot/items/i9xagugm77a8u1mkjdu4cbb3n</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Wed, 18 Nov 2026 23:58:22 GMT</pubDate>
+      <guid isPermaLink="false">i9xagugm77a8u1mkjdu4cbb3n</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[纽约、洛杉矶、芝加哥公立学校考虑弃用Google搜索]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/z1jy9san4bnijti48f715gpeg</link>
+      <description><![CDATA[<p>纽约、洛杉矶、芝加哥三所公立学校因Google宣布禁用AI功能后无法单独使用搜索服务，计划转向其他解决方案。Google回应将试点AI引导学习功能，并计划从2024年起默认禁用Gemini相关服务。教育界担忧AI影响学生批判性思维，已有研究显示使用AI的学生测试成绩更差。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z1jy9san4bnijti48f715gpeg">https://reisen-ww.github.io/hot-pages/aihot/items/z1jy9san4bnijti48f715gpeg</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Wed, 18 Nov 2026 23:18:35 GMT</pubDate>
+      <guid isPermaLink="false">z1jy9san4bnijti48f715gpeg</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amazon SageMaker HyperPod发布工作负载恢复与基础设施检查增强功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/csksxlnpkuloarckeq0z2huwl</link>
+      <description><![CDATA[<p>Amazon SageMaker HyperPod发布工作负载恢复与基础设施检查增强功能。新增的MultiNodeTrainingValidation深度健康检查可检测训练作业中因硬件问题导致的NaN或无限损失。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/csksxlnpkuloarckeq0z2huwl">https://reisen-ww.github.io/hot-pages/aihot/items/csksxlnpkuloarckeq0z2huwl</a></p>]]></description>
+      <pubDate>Wed, 18 Nov 2026 23:03:29 GMT</pubDate>
+      <guid isPermaLink="false">csksxlnpkuloarckeq0z2huwl</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS SageMaker JumpStart 模型排行榜发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gymsfhqqd2azbb7ul6hf75gb5</link>
+      <description><![CDATA[<p>AWS 发布 SageMaker JumpStart 模型排行榜，提供标准化评测方法及模型选择指南，涵盖 70+ 模型（包括 Meta、Google、Qwen 等）的质量、速度和成本对比，支持用户按需筛选和部署。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gymsfhqqd2azbb7ul6hf75gb5">https://reisen-ww.github.io/hot-pages/aihot/items/gymsfhqqd2azbb7ul6hf75gb5</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Wed, 18 Nov 2026 22:31:04 GMT</pubDate>
+      <guid isPermaLink="false">gymsfhqqd2azbb7ul6hf75gb5</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Airbnb 如何通过成本每任务优化 Amazon Bedrock 上的编码智能体部署]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ujxbw5icn7kbreexedfelwgt0</link>
+      <description><![CDATA[<p>Airbnb 通过成本每任务和实时监控优化智能体部署，指导模型选择与资源分配。具体方法包括：1）在模型发布后立即运行自定义任务集的评估（evals），记录每个模型在8个维度的得分及成本；2）通过CloudWatch监控生产环境指标（如请求延迟、令牌消耗），对比评估结果与实际使用差异；3）根据成本/任务和性能调整默认模型及推理强度上限。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ujxbw5icn7kbreexedfelwgt0">https://reisen-ww.github.io/hot-pages/aihot/items/ujxbw5icn7kbreexedfelwgt0</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Wed, 18 Nov 2026 21:48:19 GMT</pubDate>
+      <guid isPermaLink="false">ujxbw5icn7kbreexedfelwgt0</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[设计 Amazon Aurora PostgreSQL 的负责任 AI 控制]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/f7lz5bbkfpxajhagx7k3pvabt</link>
+      <description><![CDATA[<p>AWS 将其定义的八大负责任 AI 维度应用于 Amazon Aurora PostgreSQL，通过其内置的 Aurora Machine Learning 能力，简化了负责任 AI 的实施。本文详细探讨了可解释性维度，展示了如何使用 Retrieval Augmented Generation (RAG) 基础的客服聊天机器人实现透明、可解释的响应。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/f7lz5bbkfpxajhagx7k3pvabt">https://reisen-ww.github.io/hot-pages/aihot/items/f7lz5bbkfpxajhagx7k3pvabt</a></p>]]></description>
+      <category>教程</category>
+      <pubDate>Wed, 18 Nov 2026 21:38:22 GMT</pubDate>
+      <guid isPermaLink="false">f7lz5bbkfpxajhagx7k3pvabt</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Palmer Luckey警告AI网络攻击速度远超防御系统升级能力]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/l9wbxm8ylqwgvjq9q1649kf4k</link>
       <description><![CDATA[<p>Palmer Luckey指出AI驱动的网络攻击速度远超防御系统升级能力，并强调防御方需加速AI技术应用以应对威胁。他提到近期技术故障与朝鲜等国家的AI攻击行为有关，认为防御方应通过更快速的技术迭代弥补与攻击方的效率差距。</p>
@@ -84,17 +160,6 @@
       <pubDate>Wed, 18 Nov 2026 19:56:39 GMT</pubDate>
       <guid isPermaLink="false">wfu4ro9lwxy66rlkv6srqx42y</guid>
       <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nvidia 利润飙升，AI 行业巨头地位稳固]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rwhxosyjiv789ya91jkel849d</link>
-      <description><![CDATA[<p>Nvidia 每秒赚取 8300 美元的利润，季度收入高达 650 亿美元，远超竞争对手 AMD、Intel 和 Qualcomm。尽管失去了创始人 CEO Jensen Huang，Nvidia 仍承诺将尽可能多的现金返还给投资者，并预计未来收入将持续增长。</p>
-<p>🔗 <a href="https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rwhxosyjiv789ya91jkel849d">https://reisen-ww.github.io/hot-pages/aihot/items/rwhxosyjiv789ya91jkel849d</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 18 Nov 2026 19:30:00 GMT</pubDate>
-      <guid isPermaLink="false">rwhxosyjiv789ya91jkel849d</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
     </item>
     <item>
       <title><![CDATA[Social Department 如何构建文化感知视频发现系统]]></title>
@@ -468,91 +533,26 @@
       <author>noreply@reisen-ww.github.io (Latent Space)</author>
     </item>
     <item>
-      <title><![CDATA[Codex 在 macOS/Linux/Windows 上的命令执行与安全控制机制]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/d3lwemmfrokor3e6lo4zcf0aj</link>
-      <description><![CDATA[<p>OpenAI Codex 在 macOS、Linux 和 Windows 上运行命令并受控于用户设定的文件系统和网络限制。该机制通过沙盒环境隔离执行，同时允许开发者自定义权限边界，适用于需要安全沙盒的跨平台开发场景。</p>
-<p>🔗 <a href="https://openai.com/index/inside-the-codex-sandbox">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/d3lwemmfrokor3e6lo4zcf0aj">https://reisen-ww.github.io/hot-pages/aihot/items/d3lwemmfrokor3e6lo4zcf0aj</a></p>]]></description>
-      <category>AI 产品</category>
+      <title><![CDATA[OpenAI 探讨编码智能体加速 AI 研究的不均衡进展]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/zm6u5siipxpnb4hwh32wzos9n</link>
+      <description><![CDATA[<p>OpenAI 分析编码智能体如何推动 AI 研究，指出其性能参差不齐，并探讨这预示着递归自我改进的前景。</p>
+<p>🔗 <a href="https://openai.com/index/research-acceleration-jagged-frontier">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/zm6u5siipxpnb4hwh32wzos9n">https://reisen-ww.github.io/hot-pages/aihot/items/zm6u5siipxpnb4hwh32wzos9n</a></p>]]></description>
+      <category>论文</category>
       <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d3lwemmfrokor3e6lo4zcf0aj</guid>
+      <guid isPermaLink="false">zm6u5siipxpnb4hwh32wzos9n</guid>
       <author>noreply@reisen-ww.github.io (OpenAI News)</author>
     </item>
     <item>
-      <title><![CDATA[OpenAI 发布前沿AI风险管理体系]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/moz9103cra7vc70kponnlu8if</link>
-      <description><![CDATA[<p>OpenAI 发布前沿AI风险管理体系，涵盖模型对齐、沙盒测试、阻止保障及全流程监控。具体措施包括通过沙盒环境验证模型行为、部署实时阻止机制防止有害输出、建立跨团队协作的监控体系，以及将安全评估嵌入模型训练环节。</p>
-<p>🔗 <a href="https://openai.com/index/managing-frontier-ai-risk">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/moz9103cra7vc70kponnlu8if">https://reisen-ww.github.io/hot-pages/aihot/items/moz9103cra7vc70kponnlu8if</a></p>]]></description>
-      <category>观点</category>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="false">moz9103cra7vc70kponnlu8if</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nvidia初创投资价值激增至65亿美元，黄仁勋离职致未来合作存疑]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ic87wdy1o0rhnreqsnfygga7u</link>
-      <description><![CDATA[<p>Nvidia初创投资价值近九个月激增至65亿美元，但黄仁勋离职引发未来合作不确定性。TechCrunch报道指出其投资组合公司估值上涨推动增长，高管变动可能影响战略协同与生态合作。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ic87wdy1o0rhnreqsnfygga7u">https://reisen-ww.github.io/hot-pages/aihot/items/ic87wdy1o0rhnreqsnfygga7u</a></p>]]></description>
+      <title><![CDATA[Sumitomo Life 探索 ChatGPT Enterprise 在保险业的应用]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k9hfboc6hxdg3b83gnniug5d3</link>
+      <description><![CDATA[<p>Sumitomo Life 利用 ChatGPT Enterprise 进行保险研究、提案准备和投资分析代码编写。高管的早期试用促进了该工具的推广使用。</p>
+<p>🔗 <a href="https://openai.com/business/customer-stories/sumitomo-life">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k9hfboc6hxdg3b83gnniug5d3">https://reisen-ww.github.io/hot-pages/aihot/items/k9hfboc6hxdg3b83gnniug5d3</a></p>]]></description>
       <category>行业动态</category>
-      <pubDate>Wed, 18 Nov 2026 01:44:21 GMT</pubDate>
-      <guid isPermaLink="false">ic87wdy1o0rhnreqsnfygga7u</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[微软Copilot集成Office套件，定位为新一代工作操作系统]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fz0ng3hbz9fhgjmiiutdquwcm</link>
-      <description><![CDATA[<p>微软将Word/Excel/PowerPoint整合至Copilot，定位为新一代工作操作系统。常驻智能体即将推出，微软强调Copilot作为统一工作平台将提升跨应用协作效率。</p>
-<p>🔗 <a href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fz0ng3hbz9fhgjmiiutdquwcm">https://reisen-ww.github.io/hot-pages/aihot/items/fz0ng3hbz9fhgjmiiutdquwcm</a></p>]]></description>
-      <pubDate>Wed, 18 Nov 2026 00:27:29 GMT</pubDate>
-      <guid isPermaLink="false">fz0ng3hbz9fhgjmiiutdquwcm</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Le Figaro 与 OpenAI 合作将新闻引入 ChatGPT]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/u5ayfpbfy2j3ngfidlhfayaee</link>
-      <description><![CDATA[<p>Le Groupe Figaro 与 OpenAI 合作，通过摘要和节选将 Le Figaro 的新闻引入 ChatGPT，用户可通过链接访问原始报道。</p>
-<p>🔗 <a href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/u5ayfpbfy2j3ngfidlhfayaee">https://reisen-ww.github.io/hot-pages/aihot/items/u5ayfpbfy2j3ngfidlhfayaee</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">u5ayfpbfy2j3ngfidlhfayaee</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">k9hfboc6hxdg3b83gnniug5d3</guid>
       <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 探讨更强大 AI 如何重塑社会及控制权保持]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ldu72vbfldr4b40z263hwqamq</link>
-      <description><![CDATA[<p>OpenAI 高管 Dean Ball 分析更先进的人工智能可能如何改变社会结构，并探讨人们如何维持对机构的控制。</p>
-<p>🔗 <a href="https://openai.com/index/the-silent-consensus">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ldu72vbfldr4b40z263hwqamq">https://reisen-ww.github.io/hot-pages/aihot/items/ldu72vbfldr4b40z263hwqamq</a></p>]]></description>
-      <category>观点</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ldu72vbfldr4b40z263hwqamq</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 模型优化 Jalapeño 芯片电路设计]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/dhy3r08aelaw9hmrhu915g783</link>
-      <description><![CDATA[<p>OpenAI 的 GPT-6 Astra 模型优化了 Jalapeño 芯片的电路设计和 RISC-V 核心架构，展示了 AI 在芯片设计中的应用进展。</p>
-<p>🔗 <a href="https://openai.com/index/advancing-chip-design-with-our-models">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/dhy3r08aelaw9hmrhu915g783">https://reisen-ww.github.io/hot-pages/aihot/items/dhy3r08aelaw9hmrhu915g783</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">dhy3r08aelaw9hmrhu915g783</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Satya Nadella谈AGI对经济结构、公司角色和民主的潜在影响]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e8xg4r3mvvzebg2jgnsxjtzhq</link>
-      <description><![CDATA[<p>微软CEO Satya Nadella在Ignite大会后的圆桌讨论中，探讨了AGI可能对经济结构、公司角色和民主产生的影响。他指出若单一模型垄断资本，可能导致经济崩溃和民主终结，并强调微软通过提供多模型选择、本地化部署和自主数据控制来应对这一风险。</p>
-<p>🔗 <a href="https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e8xg4r3mvvzebg2jgnsxjtzhq">https://reisen-ww.github.io/hot-pages/aihot/items/e8xg4r3mvvzebg2jgnsxjtzhq</a></p>]]></description>
-      <category>观点</category>
-      <pubDate>Tue, 17 Nov 2026 23:41:18 GMT</pubDate>
-      <guid isPermaLink="false">e8xg4r3mvvzebg2jgnsxjtzhq</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
     </item>
   </channel>
 </rss>
