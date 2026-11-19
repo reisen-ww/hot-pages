@@ -96,17 +96,17 @@
   摘要：某团队通过无转换纳米孔测序技术，在七种褐藻基因组数据中发现未检测到 DNA 甲基化（核 5-甲基胞嘧啶占比 0.021%-0.034%，与 PCR 复制无甲基化设计一致）。对比硅藻检测到 58% CG 位点甲基化，验证了预测的甲基转移酶缺失。研究指出褐藻可能通过染色质修饰或非编码 RNA 实现遗传效应，而非 DNA 甲基化。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.17.767002v1?rss=1)
 
-- [某研究团队在bioRxiv发表关于FOLR2在分娩中协调免疫与组织重塑的巨噬细胞亚群研究](https://reisen-ww.github.io/hot-pages/acadhot/items/pz3djeszu1roumqztcmdelqyl)
+- [某研究团队在bioRxiv发表关于FOLR2在分娩中协调免疫与组织重塑的巨噬细胞亚群研究](https://www.biorxiv.org/content/10.64898/2026.11.16.767055v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-18 08:00（北京时间） · 一手
   摘要：某研究团队在bioRxiv发表预印本，通过RNA测序和流式细胞术发现FOLR2-蜕膜巨噬细胞富集炎症相关通路（IL-8和CCL5表达更高），而FOLR2+细胞具有更强的胶原降解能力（MMP9和MMP19表达显著升高）。研究指出这两种亚群在白细胞招募、组织重塑及分娩启动中发挥互补作用，颠覆了传统M1/M2极化分类模式。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.767055v1?rss=1)
 
-- [数字双胞胎大脑的反事实衰老揭示潜在抗衰老维度](https://reisen-ww.github.io/hot-pages/acadhot/items/vkif09mm58p2vtt6a87dyjtu9)
+- [数字双胞胎大脑的反事实衰老揭示潜在抗衰老维度](https://www.biorxiv.org/content/10.64898/2026.11.18.767485v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-18 08:00（北京时间） · 一手
   摘要：某团队开发 Brain-VRNN 模型，通过反事实衰老实验揭示个体认知储备与 BMI 相关的潜在抗衰老维度。该模型在未观测个体中复现了四项功能衰老指标（r=0.93-0.96），识别准确率达0.98。实验发现，BMI下降可使衰老相关认知衰退恢复幅度提升1.6倍。脑区衰老模式分析显示，所有个体共享一个侧颞-角区功能衰退特征。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.18.767485v1?rss=1)
 
-- [Daphniphyllum macropodum 基因组组装揭示两种新型生物碱修饰酶](https://reisen-ww.github.io/hot-pages/acadhot/items/wwpn480deczaaf7eas3q59asp)
+- [Daphniphyllum macropodum 基因组组装揭示两种新型生物碱修饰酶](https://www.biorxiv.org/content/10.64898/2026.11.16.766977v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-18 08:00（北京时间） · 一手
   摘要：本研究首次完成Daphniphyllum macropodum的染色体水平基因组组装，并开发高通量筛选方法鉴定出两种细胞色素P450酶（CYP82C230和CYP82C231），分别催化daphhimalenine B的2-和13-羟基化反应，为解析该植物复杂生物碱合成途径奠定基础。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.766977v1?rss=1)
@@ -121,7 +121,7 @@
   摘要：某团队解析了玉米ABCC1转运蛋白在结合PC2-As(III)复合物时的冷冻电镜结构，发现其ATP酶活性随PC链长度增加而提升。结构显示As(III)通过PC2的两个硫原子形成三配位三角锥配位，Arg1200通过非极性侧链与As(III)结合，并电负性相互作用与PC2的羧基基团。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.16.767027v1?rss=1)
 
-- [QuadSeq技术：一种用于高保真纳米孔测序的线性DNA双链合成方法](https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g)
+- [QuadSeq技术：一种用于高保真纳米孔测序的线性DNA双链合成方法](https://www.biorxiv.org/content/10.64898/2026.11.17.767292v1?rss=1)
   来源：bioRxiv · 发布时间：2026-11-18 08:00（北京时间） · 一手
   摘要：Waneskog团队开发QuadSeq技术，将线性DNA扩增物的错误率降低至0.0008（Q31值）。该三步合成法无需环化目标扩增物即可生成双链DNA，其共识序列在低保真Taq聚合酶下的错误率比高保真Phusion U聚合酶的原始扩增物低6.6倍。研究指出纳米孔测序的主要瓶颈在于测序设备本身而非扩增步骤，QuadSeq为提升测序准确性提供了新路径。
   原文：[打开原文](https://www.biorxiv.org/content/10.64898/2026.11.17.767292v1?rss=1)

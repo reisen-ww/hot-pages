@@ -1,4 +1,4 @@
-# AWS Quick 发布智能体与自动化流程功能
+# AWS Quick 用户组 DC 首次聚会回顾：迈向生成式和智能型 AI
 
 > 原标题：From reporting to reasoning: Getting enterprise data ready for AI agents
 
@@ -9,8 +9,4 @@
 
 ## 摘要
 
-AWS Quick 发布智能体与自动化流程功能，客户 Financial Independence Group 实现新想法落地时间从数周缩短至数小时。产品整合 CRM 系统等结构化数据与内部知识库等非结构化数据，通过统一工作环境实现跨工具协作，并提供 hands-on 实践指导用户构建定制应用和自动化流程
-
-## 推荐理由
-
-通过客户案例展示 AWS Quick 如何将新想法的落地时间从数周缩短至数小时，并整合多工具数据实现自动化流程
+AWS Quick 用户组 DC 首次聚会展示了如何利用 AWS Quick 将静态报告仪表板升级为生成式和智能型 AI 工具。Financial Independence Group (FIG) 分享了如何采用 AWS Quick 将结构化数据转化为可信数据基础，推动 AI 助手在企业中的应用。参会者通过实际操作了解了如何快速构建决策工具和自动化流程，加速团队创新。

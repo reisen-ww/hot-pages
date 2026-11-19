@@ -42,39 +42,6 @@
       <author>noreply@reisen-ww.github.io (Phys.org)</author>
     </item>
     <item>
-      <title><![CDATA[QuadSeq技术：一种用于高保真纳米孔测序的线性DNA双链合成方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g</link>
-      <description><![CDATA[<p>Waneskog团队开发QuadSeq技术，将线性DNA扩增物的错误率降低至0.0008（Q31值）。该三步合成法无需环化目标扩增物即可生成双链DNA，其共识序列在低保真Taq聚合酶下的错误率比高保真Phusion U聚合酶的原始扩增物低6.6倍。研究指出纳米孔测序的主要瓶颈在于测序设备本身而非扩增步骤，QuadSeq为提升测序准确性提供了新路径。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767292v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g">https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">uk4c68yeajlunh0cmq25nby5g</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队在 bioRxiv 发表超滤膜对携带抗生素耐药基因质粒去除的影响]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/u25whreb5sy3n9lv081sowufp</link>
-      <description><![CDATA[<p>某团队在 bioRxiv 发表超滤膜对携带抗生素耐药基因质粒去除的影响，发现质粒构象（超螺旋或线状）显著影响去除效率，超螺旋质粒保留率高达98.8-99.6%，而线状质粒仅为82.4-92.4%。研究显示膜污染会导致去除效率从99%降至95%以下，并证实质粒形态差异是影响超滤膜性能的核心因素。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767232v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/u25whreb5sy3n9lv081sowufp">https://reisen-ww.github.io/hot-pages/acadhot/items/u25whreb5sy3n9lv081sowufp</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">u25whreb5sy3n9lv081sowufp</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[Furcellaria lumbricalis 红藻参考基因组的首次构建]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/qjucr8cywupmw1ouyoc9wk8ke</link>
-      <description><![CDATA[<p>某团队基于PacBio HiFi和Oxford Nanopore长读测序技术，首次为红藻Furcellaria lumbricalis构建了包含149个contigs、总长918.2 Mb的参考基因组，其中重复序列占比达90.5%，N50值为15.5 Mb。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767248v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/qjucr8cywupmw1ouyoc9wk8ke">https://reisen-ww.github.io/hot-pages/acadhot/items/qjucr8cywupmw1ouyoc9wk8ke</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">qjucr8cywupmw1ouyoc9wk8ke</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
       <title><![CDATA[基于空间位阻调控的罗丹明螺内酯开关在超分辨成像中的应用]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/n7b9atfez2bowq1nydgsm8fsk</link>
       <description><![CDATA[<p>某团队在预印本平台 bioRxiv 发表研究，提出通过酰胺N-取代基的空间位阻调控罗丹明螺内酯的环状开合构象。晶体学数据显示1e衍生物开环态驻留时间达145毫秒，计算表明其环开闭能垒（1.12eV）低于1a（1.37eV）。该设计已整合到HaloTag探针中，实现SIM（超分辨显微术）与SMLM（单分子定位显微术）的联合成像，单荧光素即可完成细胞整体架构重建与单分子定位信息获取。</p>

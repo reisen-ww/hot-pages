@@ -85,38 +85,5 @@
       <guid isPermaLink="false">qsadfum3ylesqz3yasbh0q108</guid>
       <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
     </item>
-    <item>
-      <title><![CDATA[Google Gemini 4 Hydrogen四周内超越Argon：性能与成本优势解析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9</link>
-      <description><![CDATA[<p>Google Gemini 4 Hydrogen在AA Index测试中xhigh模式得分54，接近Claude Sonnet 5.5和GPT-6.1 Sol的55分；终端任务测试得分50，略低于Argon的51分。</p>
-<p>🔗 <a href="https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9">https://reisen-ww.github.io/hot-pages/aihot/items/fu1bnp3zvk19e8wquxo2t0dm9</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 19:58:43 GMT</pubDate>
-      <guid isPermaLink="false">fu1bnp3zvk19e8wquxo2t0dm9</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Search 升级发布 Gemini 4 Hydrogen 模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7</link>
-      <description><![CDATA[<p>Google Search 升级发布 Gemini 4 Hydrogen 模型，该模型在速度（比前代快2.5倍）、多步骤任务处理（Agent Arena第5名）和纠错能力上实现突破，支持自然语言查询、跨语言响应及工具调用。部署范围包括AI Studio、Gemini API、App及付费订阅服务。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7">https://reisen-ww.github.io/hot-pages/aihot/items/s16bhdwh4lh2pbp5ylcgfnul7</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 19:27:45 GMT</pubDate>
-      <guid isPermaLink="false">s16bhdwh4lh2pbp5ylcgfnul7</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google DeepMind发布Gemini 4 Hydrogen]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q</link>
-      <description><![CDATA[<p>Google DeepMind发布Gemini 4 Hydrogen，提升多模型工作流程效率与安全性。该模型在速度上比3.8 Flash快2.5倍，在Terminal-Bench 4.1得分从18.2%跃升至57%，同时通过Orchestrator动态切换Carbon/Hydrogen模型，降低24%配额消耗。</p>
-<p>🔗 <a href="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q">https://reisen-ww.github.io/hot-pages/aihot/items/k58hgl2fg6w3tw7df5ecwzd3q</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 18:00:50 GMT</pubDate>
-      <guid isPermaLink="false">k58hgl2fg6w3tw7df5ecwzd3q</guid>
-      <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
-    </item>
   </channel>
 </rss>

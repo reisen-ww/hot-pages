@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[PostgreSQL 19发布：引入REPACK命令与性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g</link>
+      <description><![CDATA[<p>PostgreSQL全球开发团队于2026年11月19日发布v19版本，新增REPACK并发优化命令、pg_plan_advice扩展及逻辑复制改进，查询性能提升近两倍。</p>
+<p>🔗 <a href="https://www.postgresql.org/about/news/postgresql-19-released-3449/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g">https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g</a></p>]]></description>
+      <category>数据与数据库</category>
+      <pubDate>Thu, 19 Nov 2026 15:12:08 GMT</pubDate>
+      <guid isPermaLink="false">n8gxsk2mp66yyzqj53tu22u1g</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Ruby 发布修复正则表达式与字符串转换漏洞的多个安全更新]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/u8f37kuz5o5o7jibpid294yln</link>
       <description><![CDATA[<p>Ruby 官方发布安全更新，修复了正则表达式和字符串转换中的七个漏洞，部分漏洞可导致远程代码执行。修复版本为 Ruby 4.0.10、3.4.13 和 3.3.14，旧版本已不再维护。</p>
@@ -215,6 +226,28 @@
       <category>Web 与前端</category>
       <pubDate>Mon, 16 Nov 2026 21:07:43 GMT</pubDate>
       <guid isPermaLink="false">ya19v5tqy6npwd9ft1vua42oo</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[LLVM LLDB项目首次支持Fortran调试]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mbgjwxxkfzxn9hllb7im29p3u</link>
+      <description><![CDATA[<p>LLVM在LLDB中新增Fortran调试支持，通过RFC流程和合成子类实现动态数组解析，提供了完整的测试套件和运行时类型解析机制。</p>
+<p>🔗 <a href="https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mbgjwxxkfzxn9hllb7im29p3u">https://reisen-ww.github.io/hot-pages/openhot/items/mbgjwxxkfzxn9hllb7im29p3u</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 18:34:37 GMT</pubDate>
+      <guid isPermaLink="false">mbgjwxxkfzxn9hllb7im29p3u</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队开源 Rust 写的向量数据库，单机可处理千万级向量]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ziloslgdhj7z8rwq1wcz91nu4</link>
+      <description><![CDATA[<p>某团队在GitHub公开了Apache DataSketches的Rust实现，包含HLL/CpcSketch算法的逆向推导、压缩表生成代码的恢复、多项式系数的数学反推，以及百万级蒙特卡洛验证。</p>
+<p>🔗 <a href="https://www.tisonkun.io/posts/ai-repair-program/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ziloslgdhj7z8rwq1wcz91nu4">https://reisen-ww.github.io/hot-pages/openhot/items/ziloslgdhj7z8rwq1wcz91nu4</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Mon, 16 Nov 2026 13:58:56 GMT</pubDate>
+      <guid isPermaLink="false">ziloslgdhj7z8rwq1wcz91nu4</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
@@ -522,39 +555,6 @@
       <category>社区新奇仓库</category>
       <pubDate>Wed, 11 Nov 2026 23:58:14 GMT</pubDate>
       <guid isPermaLink="false">atwhho99o0a2mgnhupzle7ot1</guid>
-      <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
-    </item>
-    <item>
-      <title><![CDATA[C++26标准因社区争议投票失败，暴露开源治理流程问题]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</link>
-      <description><![CDATA[<p>C++26标准因社区争议投票失败，核心争议围绕Contracts新特性。多国反馈的安全机制与标准库强耦合问题未获采纳，最终投票未达通过门槛。事件反映C++标准制定流程的分裂与协调失效，引发对开源治理模式的讨论。</p>
-<p>🔗 <a href="https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar">https://reisen-ww.github.io/hot-pages/openhot/items/jjkg7losfy4z6qnhwar4sljar</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 11 Nov 2026 18:49:35 GMT</pubDate>
-      <guid isPermaLink="false">jjkg7losfy4z6qnhwar4sljar</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[GitHub Actions 新增锁文件机制防范供应链攻击]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</link>
-      <description><![CDATA[<p>GitHub Actions 在 2026 年 11 月正式支持工作流锁文件，通过锁定依赖库的版本号（如 v7.0.1、v3.1.0）避免恶意代码替换。作者演示了使用 `gh actions-lock` 工具生成锁文件（actions.lock）的配置方法，并建议通过 `zizmor` 工具验证锁文件有效性。</p>
-<p>🔗 <a href="https://hugovk.dev/blog/2026/lock-github-actions/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o">https://reisen-ww.github.io/hot-pages/openhot/items/cc92w3d9y8vpvwqtxlwymi71o</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Wed, 11 Nov 2026 18:16:01 GMT</pubDate>
-      <guid isPermaLink="false">cc92w3d9y8vpvwqtxlwymi71o</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[MattiaPARRINELLO 开源自托管个人助手，支持多账户加密与模块化扩展]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</link>
-      <description><![CDATA[<p>MattiaPARRINELLO 在 GitHub 开源自托管个人助手项目，支持多用户独立加密存储与模块化部署。</p>
-<p>🔗 <a href="https://www.reddit.com/r/selfhosted/comments/1xtomhw/im_making_my_selfhosted_personal_assistant/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z">https://reisen-ww.github.io/hot-pages/openhot/items/dc8y2yl0gkf7eupoc6jjenu6z</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Wed, 11 Nov 2026 17:54:52 GMT</pubDate>
-      <guid isPermaLink="false">dc8y2yl0gkf7eupoc6jjenu6z</guid>
       <author>noreply@reisen-ww.github.io (Reddit r/selfhosted)</author>
     </item>
   </channel>

@@ -64,6 +64,17 @@
       <author>noreply@reisen-ww.github.io (uv 版本发布)</author>
     </item>
     <item>
+      <title><![CDATA[LLVM LLDB项目首次支持Fortran调试]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mbgjwxxkfzxn9hllb7im29p3u</link>
+      <description><![CDATA[<p>LLVM在LLDB中新增Fortran调试支持，通过RFC流程和合成子类实现动态数组解析，提供了完整的测试套件和运行时类型解析机制。</p>
+<p>🔗 <a href="https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mbgjwxxkfzxn9hllb7im29p3u">https://reisen-ww.github.io/hot-pages/openhot/items/mbgjwxxkfzxn9hllb7im29p3u</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Mon, 16 Nov 2026 18:34:37 GMT</pubDate>
+      <guid isPermaLink="false">mbgjwxxkfzxn9hllb7im29p3u</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Unref 开源 Rust 编写的 Python 死代码查找器]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/osnn3oiqwa6lhsenqgyvr7p26</link>
       <description><![CDATA[<p>团队开源 Rust 编写的 Python 死代码查找器 Unref，比 vulture 快 20 倍。支持 pytest、Pydantic、SQLAlchemy 等框架，配置在 pyproject.toml，提供预提交钩子集成方案，文档地址为 unref.readthedocs.io</p>
@@ -95,17 +106,6 @@
       <pubDate>Fri, 13 Nov 2026 16:48:01 GMT</pubDate>
       <guid isPermaLink="false">lqxw4wq37xyv27ju4yfd0q8v2</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[uv 0.13.8 发布：更新 Python 依赖与性能优化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wm36tw4s87fln941pe7amezmq</link>
-      <description><![CDATA[<p>uv 0.13.8 发布，更新 Python 依赖到 3.16.0a2 并优化性能（避免重复环境构建）。修复 macOS 上的 CPU 检测问题，新增对 Google TPUs 和更多 Linux 架构的支持。安装指南包含 shell 和 PowerShell 脚本，提供各平台预构建二进制文件及验证方法。</p>
-<p>🔗 <a href="https://github.com/astral-sh/uv/releases/tag/0.13.8">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wm36tw4s87fln941pe7amezmq">https://reisen-ww.github.io/hot-pages/openhot/items/wm36tw4s87fln941pe7amezmq</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Thu, 12 Nov 2026 17:03:07 GMT</pubDate>
-      <guid isPermaLink="false">wm36tw4s87fln941pe7amezmq</guid>
-      <author>noreply@reisen-ww.github.io (uv 版本发布)</author>
     </item>
   </channel>
 </rss>

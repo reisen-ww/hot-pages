@@ -63,16 +63,5 @@
       <guid isPermaLink="false">mm71surul71wuo6w5qblycb5l</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[某团队开源解决四块GPU内存分配冲突的Linux PCIe桥接方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/e4t7m0fsus2ovhvk7hqnn54oy</link>
-      <description><![CDATA[<p>某团队在GitHub开源了调整Linux PCIe桥接窗口的模块，测试了内核补丁修复效果并解释了资源分配问题原因。该方案通过initramfs在驱动加载前调整BAR对齐，使四块R9700显卡获得32GB BAR，同时保持两块RTX3090的512MB分配。</p>
-<p>🔗 <a href="https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/e4t7m0fsus2ovhvk7hqnn54oy">https://reisen-ww.github.io/hot-pages/openhot/items/e4t7m0fsus2ovhvk7hqnn54oy</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Thu, 12 Nov 2026 15:14:52 GMT</pubDate>
-      <guid isPermaLink="false">e4t7m0fsus2ovhvk7hqnn54oy</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
   </channel>
 </rss>

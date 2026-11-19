@@ -1,6 +1,6 @@
-# 我妻子为家人访美预订酒店花费数千美元，我该如何选择
+# 我妻子想带家人来纽约，但酒店费用高达400美元一晚，我该怎么告诉她？
 
-> 原标题：My wife pays thousands for her family to visit us in New York. How can I ask her to choose between them and me?
+> 原标题：My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?
 
 - 来源：MarketWatch Top Stories
 - 发布时间：2026-11-19T10:15:00.000Z
@@ -9,4 +9,4 @@
 
 ## 摘要
 
-这篇文章提到酒店房间每晚费用高达 400 美元。作者面临困境，需决定是否要求妻子在家庭和自己之间做出选择。
+酒店房间每晚可能高达400美元，但作者无法承担家人来纽约的费用，需告知妻子这一情况。

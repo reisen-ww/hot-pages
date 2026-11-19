@@ -53,6 +53,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[某团队开源 Rust 写的向量数据库，单机可处理千万级向量]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ziloslgdhj7z8rwq1wcz91nu4</link>
+      <description><![CDATA[<p>某团队在GitHub公开了Apache DataSketches的Rust实现，包含HLL/CpcSketch算法的逆向推导、压缩表生成代码的恢复、多项式系数的数学反推，以及百万级蒙特卡洛验证。</p>
+<p>🔗 <a href="https://www.tisonkun.io/posts/ai-repair-program/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ziloslgdhj7z8rwq1wcz91nu4">https://reisen-ww.github.io/hot-pages/openhot/items/ziloslgdhj7z8rwq1wcz91nu4</a></p>]]></description>
+      <category>模型与数据集</category>
+      <pubDate>Mon, 16 Nov 2026 13:58:56 GMT</pubDate>
+      <guid isPermaLink="false">ziloslgdhj7z8rwq1wcz91nu4</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Xuan Phi Nguyen 提出长上下文 MoE 模型训练内存峰值全消解方案]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/pxcnzz19j4twh9duxll3qjli3</link>
       <description><![CDATA[<p>Xuan Phi Nguyen 提出四项技术优化长上下文 MoE 模型训练内存峰值问题：PipelinedLLEP 控制分片数据量，Ring-DTP 优化词表投影，Selective checkpoint offload 分离长生命周期张量，OffloadStreamAdamW 并行化 Adam 优化器更新。</p>

@@ -37,7 +37,7 @@ Google 发布 Gemini 4 Argon，面向复杂任务全球开放
    摘要：Reflection 发布 501B 开源模型 Beam，采用 MoE 架构，每 token 激活 23B 参数，支持 1M 上下文，以 Apache 2.0 许可证开放。模型提供 BF16、FP8、NVFP4 三种格式，支持 transformers、vLLM、SGLang 推理及 SFT 和 RL 后训练方案，并附带 $10,000 Hub credits 项目竞赛。
    原文：[打开原文](https://huggingface.co/blog/reflection-beam)
 
-6. [NVIDIA Nemotron 3.5 Transcribe与Granary v2发布：支持多语言指令的智能转录模型及数据管道](https://reisen-ww.github.io/hot-pages/aihot/items/t2izwwupsipqufnha335k87l0)
+6. [NVIDIA Nemotron 3.5 Transcribe与Granary v2发布：支持多语言指令的智能转录模型及数据管道](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
    来源：Hugging Face Blog · 发布时间：2026-10-28 22:58（北京时间） · 一手
    摘要：NVIDIA发布多语言智能转录模型Nemotron 3.5 Transcribe及开源数据管道Granary v2。该模型支持40种语言转录、31种语言翻译及13种语言说话者归属，在Hugging Face Open ASR榜单中英语赛道排名第一（5.33% WER），多语言赛道最低（4.62% WER）。
    原文：[打开原文](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)

@@ -9,6 +9,72 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[pgledger-ui 开源发布：基于 PostgreSQL 的复杂数据流可视化工具]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hr7xd75u2sn3tb6n284cd2x7g</link>
+      <description><![CDATA[<p>开发者 pgr0ss 开源了基于 PostgreSQL 的数据流可视化工具 pgledger-ui，支持点击追踪交易、统一搜索和列式视图展示。工具通过数据库查询生成网页界面，提供账户详情、时间序列图表和交易记录，支持通过元数据键关联交易，并允许分离流入和流出流量，类似标准借贷对账表视图。作者邀请用户反馈和试用，并特别提到适用于企业级财务或供应链场景的调试需求。</p>
+<p>🔗 <a href="https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hr7xd75u2sn3tb6n284cd2x7g">https://reisen-ww.github.io/hot-pages/openhot/items/hr7xd75u2sn3tb6n284cd2x7g</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Thu, 19 Nov 2026 19:55:10 GMT</pubDate>
+      <guid isPermaLink="false">hr7xd75u2sn3tb6n284cd2x7g</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[重构本地语音助手流水线]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/y1atctlz22uzu8qjqztxj2je3</link>
+      <description><![CDATA[<p>作者重构了其语音助手的唤醒词检测和语音转文本模块，采用新的 `assistant.microwakeword` 插件替代了旧的 `assistant.openwakeword`，并使用 `assistant.openai` 进行语音转文本处理。新流水线在噪声环境下的表现更佳，减少了误触发和漏触发的情况。</p>
+<p>🔗 <a href="https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/y1atctlz22uzu8qjqztxj2je3">https://reisen-ww.github.io/hot-pages/openhot/items/y1atctlz22uzu8qjqztxj2je3</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 19 Nov 2026 19:50:25 GMT</pubDate>
+      <guid isPermaLink="false">y1atctlz22uzu8qjqztxj2je3</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[OpenRun 1.0 正式发布：支持 Docker/Kubernetes 的内部工具声明式部署]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/brq0uz302i8a6h1kgr44q6jz3</link>
+      <description><![CDATA[<p>OpenRun 1.0 版本发布，提供基于 Docker 或 Kubernetes 的内部工具声明式部署方案。内置 OIDC/SAML 认证、RBAC 权限控制与审计日志功能，支持通过 Starlark 配置与 PostgreSQL/MySQL/Redis 等数据库绑定。</p>
+<p>🔗 <a href="https://openrun.dev/blog/openrun-1.0/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/brq0uz302i8a6h1kgr44q6jz3">https://reisen-ww.github.io/hot-pages/openhot/items/brq0uz302i8a6h1kgr44q6jz3</a></p>]]></description>
+      <category>基础设施</category>
+      <pubDate>Thu, 19 Nov 2026 18:46:21 GMT</pubDate>
+      <guid isPermaLink="false">brq0uz302i8a6h1kgr44q6jz3</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Onlook 开源设计师工具：本地运行与多格式导出方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gjo8se7v8af8zqbceeshu8yte</link>
+      <description><![CDATA[<p>Onlook 开源设计师工具支持本地运行和多种导出格式（HTML/PNG/JPEG/PDF），与现有开发工具链兼容。项目基于 Electron 和 React 构建桌面端，允许通过 Claude Code 或 ChatGPT/Codex 集成自定义 AI 代理，导出内容包含 HTML/CSS、图像及 PDF 格式。</p>
+<p>🔗 <a href="https://github.com/onlook-dev/onlook/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gjo8se7v8af8zqbceeshu8yte">https://reisen-ww.github.io/hot-pages/openhot/items/gjo8se7v8af8zqbceeshu8yte</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Thu, 19 Nov 2026 16:34:04 GMT</pubDate>
+      <guid isPermaLink="false">gjo8se7v8af8zqbceeshu8yte</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Pete Warden 讨论本地 AI、开放模型与语音接口]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jeoj4d1mubqxn0bvnf326dk30</link>
+      <description><![CDATA[<p>Pete Warden 讨论了本地 AI 的发展现状，指出虽然目前工具的易用性仍有待提高，但开放模型正迅速进步，本地 AI 在笔记本电脑和浏览器上的运行已变得更为简便。他预测，随着技术的发展，本地 AI 将逐渐取代云模型，成为知识工作的新选择。</p>
+<p>🔗 <a href="https://thedataexchange.media/pete-warden-moonshine/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jeoj4d1mubqxn0bvnf326dk30">https://reisen-ww.github.io/hot-pages/openhot/items/jeoj4d1mubqxn0bvnf326dk30</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Thu, 19 Nov 2026 15:38:12 GMT</pubDate>
+      <guid isPermaLink="false">jeoj4d1mubqxn0bvnf326dk30</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[PostgreSQL 19发布：引入REPACK命令与性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g</link>
+      <description><![CDATA[<p>PostgreSQL全球开发团队于2026年11月19日发布v19版本，新增REPACK并发优化命令、pg_plan_advice扩展及逻辑复制改进，查询性能提升近两倍。</p>
+<p>🔗 <a href="https://www.postgresql.org/about/news/postgresql-19-released-3449/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g">https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g</a></p>]]></description>
+      <category>数据与数据库</category>
+      <pubDate>Thu, 19 Nov 2026 15:12:08 GMT</pubDate>
+      <guid isPermaLink="false">n8gxsk2mp66yyzqj53tu22u1g</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[PHP团队发布8.5.13版本，包含多项安全修复与性能优化]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/nywugkeh1a0rwrqzo0hmofv1j</link>
       <description><![CDATA[<p>PHP团队在GitHub公开8.5.13版本仓库，修复了CVE-2026-129474（使用after-free漏洞）、CVE-2026-129182（后追踪错误回溯漏洞）等安全问题，并优化了系统ID重初始化、AST输出、JIT编译等性能模块。</p>
@@ -18,6 +84,17 @@
       <pubDate>Thu, 19 Nov 2026 14:09:50 GMT</pubDate>
       <guid isPermaLink="false">nywugkeh1a0rwrqzo0hmofv1j</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Elixir v1.21 实现逆箭头进行类型推断与细化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/mjn0nwmk04vspeq2tzj3v4u46</link>
+      <description><![CDATA[<p>Elixir v1.21 通过逆箭头实现类型推断与细化，使其能在 If-T: Type Narrowing Benchmark 中通过所有测试，能更精确地发现现有代码中的错误。此功能得益于 CNRS 和 Remote 的合作，目前由 Fresha、Supermethod 和 Dashbit 资助。</p>
+<p>🔗 <a href="https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/mjn0nwmk04vspeq2tzj3v4u46">https://reisen-ww.github.io/hot-pages/openhot/items/mjn0nwmk04vspeq2tzj3v4u46</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 19 Nov 2026 13:34:58 GMT</pubDate>
+      <guid isPermaLink="false">mjn0nwmk04vspeq2tzj3v4u46</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
     </item>
     <item>
       <title><![CDATA[欧盟委员会在9个月内部署Matrix通讯工具至4万员工]]></title>
@@ -39,6 +116,16 @@
       <category>编程语言与运行时</category>
       <pubDate>Thu, 19 Nov 2026 09:27:15 GMT</pubDate>
       <guid isPermaLink="false">kwv2i868nlj65qe8nm16xy4z4</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[2027年下半年 SSD价格有望率先下跌，硬盘价格或延至2028年]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/i06s4xjiiikfqn0zbeyzkbzqo</link>
+      <description><![CDATA[<p>2027年下半年 SSD价格有望因NAND供应增加而逐步下降，硬盘价格或延至2028年；建议按需购买存储，并利用DriveVault工具管理现有设备。当前价格较2024年仍高，需关注TrendForce预测及厂商合同动态。</p>
+<p>🔗 <a href="https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/i06s4xjiiikfqn0zbeyzkbzqo">https://reisen-ww.github.io/hot-pages/openhot/items/i06s4xjiiikfqn0zbeyzkbzqo</a></p>]]></description>
+      <pubDate>Thu, 19 Nov 2026 09:05:34 GMT</pubDate>
+      <guid isPermaLink="false">i06s4xjiiikfqn0zbeyzkbzqo</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
@@ -262,6 +349,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[Monumental Labs 发布首个端到端自主 CNC 石雕系统]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/x1cdkk2rzu1p59xwi0pdf6638</link>
+      <description><![CDATA[<p>Monumental Labs 发布首个端到端自主 CNC 石雕系统，结合机器学习与计算几何实现零人工干预的自动化雕刻流程。系统通过体素网格构建 signed distance field，利用等距线追踪曲面实现精准雕刻，并复现了 SIGGRAPH 2000 年与 2001 年的经典石雕案例。</p>
+<p>🔗 <a href="https://eleanorwiesler.com/blog/robotic-stone-carving/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/x1cdkk2rzu1p59xwi0pdf6638">https://reisen-ww.github.io/hot-pages/openhot/items/x1cdkk2rzu1p59xwi0pdf6638</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 17:03:53 GMT</pubDate>
+      <guid isPermaLink="false">x1cdkk2rzu1p59xwi0pdf6638</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Zed 编辑器发布 v1.29.1 版本，新增 Git 分支对比与 Claude 5.2 支持]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/fsn8oifo8u424682gwa9rvetf</link>
       <description><![CDATA[<p>Zed 编辑器发布 v1.29.1 版本，新增 Git 分支对比模式、Claude Fable 5.2 和 Mythos 5.2 模型支持，优化文件操作与界面交互。修复了自动复制响应、分支切换卡顿、绝对路径打开异常等 15 项问题。</p>
@@ -458,104 +556,6 @@
       <pubDate>Wed, 18 Nov 2026 01:29:03 GMT</pubDate>
       <guid isPermaLink="false">tl7w6swhsvh91vgvn5qotkxyz</guid>
       <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[jQuery 4.1.0 发布，带来新功能与改进]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nl6qk3ygceifhlx6jimoizhgf</link>
-      <description><![CDATA[<p>jQuery 4.1.0 和 3.8.0 已发布，后者包含过去几年累积的修复和改进。4.1.0 引入了新的 AJAX 运输完全回调 API，改进了选择器性能，并支持 XML 文档中的 CSS 方法。从 3.x 切换到 4.x 的用户可参考升级指南和 jQuery Migrate 插件。</p>
-<p>🔗 <a href="https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nl6qk3ygceifhlx6jimoizhgf">https://reisen-ww.github.io/hot-pages/openhot/items/nl6qk3ygceifhlx6jimoizhgf</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Wed, 18 Nov 2026 00:17:39 GMT</pubDate>
-      <guid isPermaLink="false">nl6qk3ygceifhlx6jimoizhgf</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[MIT与Adobe联合提出新型语言模型架构Lattice of Latents]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</link>
-      <description><![CDATA[<p>MIT与Adobe团队在GitHub开源Lattice of Latents架构，通过水平隐状态流（horizontal latents）与垂直残差流（vertical residual stream）协同工作，在20B tokens预训练基础上，406M参数模型将验证困惑度从15.41降至14.40，相比传统Transformer减少45%参数量同时保持性能优势。</p>
-<p>🔗 <a href="https://shivamduggal4.github.io/latent-lattice-language-models/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2">https://reisen-ww.github.io/hot-pages/openhot/items/vzk2lsme82xg9gb82xrby9mf2</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Tue, 17 Nov 2026 22:17:18 GMT</pubDate>
-      <guid isPermaLink="false">vzk2lsme82xg9gb82xrby9mf2</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[哈佛大学研究人员发现AI编码工具使代码审查成为新瓶颈]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv</link>
-      <description><![CDATA[<p>哈佛大学研究人员通过对比718家公司的代码提交与审查数据，发现AI编码工具使工程师代码量增加30%但未提升完成效率，瓶颈转移至代码审查阶段。研究特别指出法律AI工具如Harvey和Cooley的同类问题：虽然能加速初稿生成，但审查阶段耗时增加49%，且未公开审查效率的具体指标。</p>
-<p>🔗 <a href="https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv">https://reisen-ww.github.io/hot-pages/openhot/items/vixohsf7i9s476aec9nxqdqrv</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Tue, 17 Nov 2026 21:16:12 GMT</pubDate>
-      <guid isPermaLink="false">vixohsf7i9s476aec9nxqdqrv</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Java4Shell漏洞：OpenJDK Base64解码器远程代码执行利用方法]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</link>
-      <description><![CDATA[<p>Java4Shell漏洞利用方法：通过构造特定Base64编码触发OpenJDK 17.0.6+内存溢出，利用AVX-512硬件加速特性实现远程代码执行。受影响版本包括Oracle Java SE 8u511b33-perf及后续更新。PoC代码展示如何通过200万次Base64解码触发漏洞，并在内存中写入可控数据。修复建议包括禁用Base64硬件加速或AVX-512指令集。</p>
-<p>🔗 <a href="https://calif.io/java4shell/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj">https://reisen-ww.github.io/hot-pages/openhot/items/s06219w0ojwkjgo37ddgczjkj</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 17 Nov 2026 21:11:28 GMT</pubDate>
-      <guid isPermaLink="false">s06219w0ojwkjgo37ddgczjkj</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Web 浏览器工程：从 Python 代码构建基本浏览器]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hq7ktdm59mubz6lwxbe41x5gx</link>
-      <description><![CDATA[<p>这本书用不到两千行 Python 代码解释了 web 浏览器的工作原理，从网络通信到 JavaScript，涵盖了加载页面、显示文档、运行应用以及现代浏览器的特性。读者可以通过作者的博客、Mastodon 或 Twitter 跟踪更新。</p>
-<p>🔗 <a href="https://browser.engineering/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hq7ktdm59mubz6lwxbe41x5gx">https://reisen-ww.github.io/hot-pages/openhot/items/hq7ktdm59mubz6lwxbe41x5gx</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Tue, 17 Nov 2026 20:01:35 GMT</pubDate>
-      <guid isPermaLink="false">hq7ktdm59mubz6lwxbe41x5gx</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[jQuery 4.1.0 发布，安全修复与性能优化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hen2crd7mgakz4j3cad83wpw3</link>
-      <description><![CDATA[<p>jQuery 4.1.0 发布，包含安全漏洞修复（如 Fix ReDoS in identifier matching）和性能优化（如 Data Shave off some bytes），更新了 API 以支持现代浏览器标准。</p>
-<p>🔗 <a href="https://github.com/jquery/jquery/releases/tag/4.1.0">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hen2crd7mgakz4j3cad83wpw3">https://reisen-ww.github.io/hot-pages/openhot/items/hen2crd7mgakz4j3cad83wpw3</a></p>]]></description>
-      <category>Web 与前端</category>
-      <pubDate>Tue, 17 Nov 2026 19:50:40 GMT</pubDate>
-      <guid isPermaLink="false">hen2crd7mgakz4j3cad83wpw3</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Sarasa Gothic Mono 字体开源发布，支持165种语言及编程 ligatures]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/im5euiqkz2di1r3xthkseymer</link>
-      <description><![CDATA[<p>Sarasa Gothic Mono 字体开源发布，支持165种语言及编程 ligatures，提供完整拉丁、西里尔、希腊字符集，可通过 GitHub 仓库获取。设计者 be5invis（林仁志）与兆邦中国联合发布，包含ExtraLight至Bold 5种权重，适用于代码编辑器、IDE及终端显示。</p>
-<p>🔗 <a href="https://picaq.github.io/sarasa">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/im5euiqkz2di1r3xthkseymer">https://reisen-ww.github.io/hot-pages/openhot/items/im5euiqkz2di1r3xthkseymer</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 17 Nov 2026 18:47:39 GMT</pubDate>
-      <guid isPermaLink="false">im5euiqkz2di1r3xthkseymer</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Phrack 73 期发布：23篇技术论文探讨 exploitation、AI 与硬件安全]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jtltpdmhm5w5z2wu7t3dih77h</link>
-      <description><![CDATA[<p>Phrack 73 期发布，包含23篇技术论文，涵盖 exploitation、reverse engineering、AI 与硬件安全，并回顾历史漏洞如 SSH1 CRC32 的问题，探讨AI后门与信任问题。杂志通过周年纪念活动，激励社区贡献新研究，并附有4篇开源历史文章，包括2003年Linux内核后门尝试的复盘。</p>
-<p>🔗 <a href="https://phrack.org/issues/73/introduction_md">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jtltpdmhm5w5z2wu7t3dih77h">https://reisen-ww.github.io/hot-pages/openhot/items/jtltpdmhm5w5z2wu7t3dih77h</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 17 Nov 2026 18:31:25 GMT</pubDate>
-      <guid isPermaLink="false">jtltpdmhm5w5z2wu7t3dih77h</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[谁制造制造机器的机器？]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ebyw5f1manekg8r6y97qayi2u</link>
-      <description><![CDATA[<p>美国进口了其使用机器工具的一半，价值约58亿美元。假设需求保持不变，美国需要增加63%至83%的机器工具产量以替代进口。精密磨床和齿轮加工机等高端设备在美国没有确认的生产商，进口量分别增长了29.5%和76.7%。美国在低端机器工具方面具有生产能力，但在高端精密设备方面依赖进口。</p>
-<p>🔗 <a href="https://read.corematter.com/p/section-232-us-machine-tools">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ebyw5f1manekg8r6y97qayi2u">https://reisen-ww.github.io/hot-pages/openhot/items/ebyw5f1manekg8r6y97qayi2u</a></p>]]></description>
-      <pubDate>Tue, 17 Nov 2026 17:45:39 GMT</pubDate>
-      <guid isPermaLink="false">ebyw5f1manekg8r6y97qayi2u</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>
 </rss>

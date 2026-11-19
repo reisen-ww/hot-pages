@@ -9,6 +9,116 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Cisco与AWS合作举办AI技能竞赛，1,200名工程师实战提升]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/wozndl4ic9lkk5ny61bdre82m</link>
+      <description><![CDATA[<p>Cisco通过AWS AI League两年内提升1,200名工程师AI技能，形成持续学习文化。2025年冠军Hemanth V从内部活动成长为AWS re:Invent全球冠军，2026年决赛中Nishanth Aluhonnu通过单智能体架构优化（减少12%输出token）夺冠。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/wozndl4ic9lkk5ny61bdre82m">https://reisen-ww.github.io/hot-pages/aihot/items/wozndl4ic9lkk5ny61bdre82m</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 19 Nov 2026 18:26:22 GMT</pubDate>
+      <guid isPermaLink="false">wozndl4ic9lkk5ny61bdre82m</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amazon SageMaker AI 发布跨区域推理路由功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qc83pdn6ylb8spmfx6uio1gz1</link>
+      <description><![CDATA[<p>Amazon SageMaker AI 发布跨区域推理路由功能，支持模型服务在多个AWS区域间无缝切换，保持高可用性。核心配置方法包括注册路由目标、设置跨区域流量上限，并利用健康评分机制动态迁移流量。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qc83pdn6ylb8spmfx6uio1gz1">https://reisen-ww.github.io/hot-pages/aihot/items/qc83pdn6ylb8spmfx6uio1gz1</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 18:20:54 GMT</pubDate>
+      <guid isPermaLink="false">qc83pdn6ylb8spmfx6uio1gz1</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS推出Bedrock AgentCore Gateway与Skyflow数据保护方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/i9z6bwjr21ctmkxp6vglkmzvj</link>
+      <description><![CDATA[<p>AWS通过Skyflow拦截器与Bedrock AgentCore Gateway的集成，实现AI代理工具调用中敏感数据的双向保护：请求端自动脱敏，响应端智能恢复。方案支持文档存储（如S3/Box/Google Drive）和第三方API调用，通过AWS Systems Manager配置策略，无需 redeploy 即可生效。案例显示可防止客户姓名、邮箱等数据泄露至外部工具或模型。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/i9z6bwjr21ctmkxp6vglkmzvj">https://reisen-ww.github.io/hot-pages/aihot/items/i9z6bwjr21ctmkxp6vglkmzvj</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 18:14:36 GMT</pubDate>
+      <guid isPermaLink="false">i9z6bwjr21ctmkxp6vglkmzvj</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[中国科技公司遭双重打击：芯片运输停滞与海外云服务中断]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e80ci5rqkp8nynydkjf84tmq0</link>
+      <description><![CDATA[<p>中国科技公司因美国出口管制面临芯片运输停滞和海外云服务中断的双重打击。Moonshot AI因无法获得Nvidia芯片取消1500万美元合同，TSMC/Samsung暂停向中国客户供货。事件源于华为等企业被指控利用第三方绕过出口限制，美国商务部新规使 workaround 不再可行。</p>
+<p>🔗 <a href="https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e80ci5rqkp8nynydkjf84tmq0">https://reisen-ww.github.io/hot-pages/aihot/items/e80ci5rqkp8nynydkjf84tmq0</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 19 Nov 2026 17:02:41 GMT</pubDate>
+      <guid isPermaLink="false">e80ci5rqkp8nynydkjf84tmq0</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
+      <title><![CDATA[前阿里巴巴高管创立的Everful获4850万美元A轮融资]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yo3h8yglaiwk3oh0jflx17pcp</link>
+      <description><![CDATA[<p>跨境电商平台Everful宣布获4850万美元A轮融资，由Vertex Ventures领投，计划用于拓展欧美市场并加强AI自动化采购流程。公司年化营收目标达10亿美元，通过AI智能体实现供应商追踪、订单整合、质检及物流全链条管理，其核心优势在于全流程责任承担而非单纯交易撮合。创始团队特别提及中美贸易摩擦对业务的影响，并披露已建立70人研发团队（含45人AI研发组）。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yo3h8yglaiwk3oh0jflx17pcp">https://reisen-ww.github.io/hot-pages/aihot/items/yo3h8yglaiwk3oh0jflx17pcp</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">yo3h8yglaiwk3oh0jflx17pcp</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 在纳斯达克上市股价较IPO价高33%]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/z24elph6nw7lq7wl4xzva1736</link>
+      <description><![CDATA[<p>Anthropic在纳斯达克上市首日股价较IPO价高33%，市值超2万亿美元。公司通过IPO及私募融资获得81亿美元，现金储备达220亿美元，超越Meta、特斯拉等企业。CEO Dario Amodei在上市演讲中强调安全承诺，称此举为行业树立安全与商业成功的标杆。</p>
+<p>🔗 <a href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z24elph6nw7lq7wl4xzva1736">https://reisen-ww.github.io/hot-pages/aihot/items/z24elph6nw7lq7wl4xzva1736</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 19 Nov 2026 16:59:23 GMT</pubDate>
+      <guid isPermaLink="false">z24elph6nw7lq7wl4xzva1736</guid>
+      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amazon SageMaker HyperPod 增强基础设施观测功能发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rikx2oer02638t64fhd34zs4l</link>
+      <description><![CDATA[<p>AWS发布Amazon SageMaker HyperPod增强观测功能，支持EKS和Slurm集群的GPU训练问题快速诊断，包含硬件状态监控（温度/功耗/错误码）、网络流量分析（EFA吞吐量/重传率）和负载追踪三大模块。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rikx2oer02638t64fhd34zs4l">https://reisen-ww.github.io/hot-pages/aihot/items/rikx2oer02638t64fhd34zs4l</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 16:41:35 GMT</pubDate>
+      <guid isPermaLink="false">rikx2oer02638t64fhd34zs4l</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT 实时语音转写功能上线]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k0zp2b9vn1lf7tt1gpw31yta7</link>
+      <description><![CDATA[<p>ChatGPT 上线实时语音转写功能，支持边说边记，移除10分钟录制限制并提升可靠性。此前测试的语音转写功能（仅限Plus等高级版）现整合进主流程，用户可通过波形图实时查看生成文本并编辑。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k0zp2b9vn1lf7tt1gpw31yta7">https://reisen-ww.github.io/hot-pages/aihot/items/k0zp2b9vn1lf7tt1gpw31yta7</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 15:16:45 GMT</pubDate>
+      <guid isPermaLink="false">k0zp2b9vn1lf7tt1gpw31yta7</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic IPO引争议：长期利益信托能否制衡创始人权力]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/idr1v91j0sjg9m1805gcj2znx</link>
+      <description><![CDATA[<p>Anthropic上市后面临公司治理争议：长期利益信托（LTBT）虽名义上拥有四席董事提名权，但需创始人批准且缺乏对日常决策的监督权。员工和外部专家指出，该结构可能无法约束创始人追求自改进AI（RSI）的激进路线，同时公司需大量算力支撑研发与商业化，引发安全承诺与资本压力的冲突。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/idr1v91j0sjg9m1805gcj2znx">https://reisen-ww.github.io/hot-pages/aihot/items/idr1v91j0sjg9m1805gcj2znx</a></p>]]></description>
+      <category>行业动态</category>
+      <pubDate>Thu, 19 Nov 2026 14:25:37 GMT</pubDate>
+      <guid isPermaLink="false">idr1v91j0sjg9m1805gcj2znx</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[GeForce NOW黑五促销：六个月会员30%折扣及扩展至亚马逊三款流媒体设备]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/l1vyu29qqgjow9c2lhibzutj7</link>
+      <description><![CDATA[<p>GeForce NOW宣布黑五期间推出六个月会员30%折扣，并扩展至亚马逊三款流媒体设备（Fire TV Stick HD/4K Select/4K 2026 model）运行Vega OS系统。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/l1vyu29qqgjow9c2lhibzutj7">https://reisen-ww.github.io/hot-pages/aihot/items/l1vyu29qqgjow9c2lhibzutj7</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 14:00:12 GMT</pubDate>
+      <guid isPermaLink="false">l1vyu29qqgjow9c2lhibzutj7</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Canva 新增 AI 功能开关：用户可自主关闭生成式 AI 工具]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ggznazx0i9m9qrvqmx1vobkov</link>
       <description><![CDATA[<p>Canva 新增 AI 功能开关，允许用户禁用生成式 AI 工具（如 Magic Expand 和 Canva Chatbot），但部分工具（如背景移除）仍保留。用户可通过账户设置减少 AI 内容展示比例，且该功能对所有用户开放。</p>
@@ -160,17 +270,6 @@
       <category>AI 产品</category>
       <pubDate>Wed, 18 Nov 2026 18:58:42 GMT</pubDate>
       <guid isPermaLink="false">tu5kj46se2ulompc3omgwdu0k</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Quick 发布智能体与自动化流程功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lvomusrxmf4r1zeikhwokqi3p</link>
-      <description><![CDATA[<p>AWS Quick 发布智能体与自动化流程功能，客户 Financial Independence Group 实现新想法落地时间从数周缩短至数小时。产品整合 CRM 系统等结构化数据与内部知识库等非结构化数据，通过统一工作环境实现跨工具协作，并提供 hands-on 实践指导用户构建定制应用和自动化流程</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lvomusrxmf4r1zeikhwokqi3p">https://reisen-ww.github.io/hot-pages/aihot/items/lvomusrxmf4r1zeikhwokqi3p</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Wed, 18 Nov 2026 18:54:08 GMT</pubDate>
-      <guid isPermaLink="false">lvomusrxmf4r1zeikhwokqi3p</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
     <item>
@@ -457,105 +556,6 @@
       <pubDate>Tue, 17 Nov 2026 19:05:22 GMT</pubDate>
       <guid isPermaLink="false">c6mco6d7y8akvf166tyt2h2ll</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google 将 Spark AI 助手重命名为 Tasks 并免费开放]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/j56uj9rpf4jrq4ni0q6nib6cc</link>
-      <description><![CDATA[<p>Google 将 Spark AI 助手重命名为 Tasks 并免费开放，适用于美国、加拿大、日本、韩国、澳大利亚和印度用户。新功能包括创建餐单、管理日历、自动检查邮件费用，以及通过邮件或短信指令执行任务。</p>
-<p>🔗 <a href="https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/j56uj9rpf4jrq4ni0q6nib6cc">https://reisen-ww.github.io/hot-pages/aihot/items/j56uj9rpf4jrq4ni0q6nib6cc</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 17 Nov 2026 18:58:01 GMT</pubDate>
-      <guid isPermaLink="false">j56uj9rpf4jrq4ni0q6nib6cc</guid>
-      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Bedrock AgentCore + SMART工具套件：在WhatsApp上构建AI代理的完整指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/oya9e6bnewgt5t5n0brfcto7i</link>
-      <description><![CDATA[<p>SMART工具套件简化了在WhatsApp上部署AI代理的复杂集成，提供基础设施和工具链，用户只需关注代理逻辑。支持消息处理、会话记忆、定时任务、媒体处理等功能，部署步骤包括克隆仓库、初始化项目、本地测试、AWS资源部署及管理控制台。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/oya9e6bnewgt5t5n0brfcto7i">https://reisen-ww.github.io/hot-pages/aihot/items/oya9e6bnewgt5t5n0brfcto7i</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 17 Nov 2026 18:48:50 GMT</pubDate>
-      <guid isPermaLink="false">oya9e6bnewgt5t5n0brfcto7i</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[微软发布决策模型 Microsoft-Decision-1.1]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/hfvdj38babtkoq0yfwxb4b7bc</link>
-      <description><![CDATA[<p>微软发布决策模型 Microsoft-Decision-1.1，揭示企业级AI推理需求增长及定制化服务竞争。英国初创公司Sqwish获300万美元种子轮融资，其决策模型kettei fat通过客户数据持续优化判断能力。TypeSafe Jev模型已处理超15亿次查询，但行业普遍认为实际应用效果比基准测试更重要。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/hfvdj38babtkoq0yfwxb4b7bc">https://reisen-ww.github.io/hot-pages/aihot/items/hfvdj38babtkoq0yfwxb4b7bc</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 17 Nov 2026 18:10:00 GMT</pubDate>
-      <guid isPermaLink="false">hfvdj38babtkoq0yfwxb4b7bc</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS SageMaker JumpStart 推出 OpenTSLM 时序语言模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ry9z70xdptybx102ia5u8swq4</link>
-      <description><![CDATA[<p>AWS 在 SageMaker JumpStart 中推出 OpenTSLM 时序语言模型，支持企业通过设备传感器数据与上下文结合分析异常问题。材料展示了如何部署模型、通过 ARFBench 数据集微调并实现与 IT 支持系统的联动，例如 Nexthink 的 Spark 智能体利用该模型识别设备性能下降并指导用户操作。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ry9z70xdptybx102ia5u8swq4">https://reisen-ww.github.io/hot-pages/aihot/items/ry9z70xdptybx102ia5u8swq4</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 17 Nov 2026 18:06:44 GMT</pubDate>
-      <guid isPermaLink="false">ry9z70xdptybx102ia5u8swq4</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 发布 GPT-6.2 Astra 和 Sol]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ak7kiszxmz5icata6rxkhahad</link>
-      <description><![CDATA[<p>OpenAI 发布 GPT-6.2 Astra 和 Sol，在专业输出、编码和计算机使用效率上实现改进，成本降低。</p>
-<p>🔗 <a href="https://openai.com/index/introducing-gpt-6-2-astra-sol">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ak7kiszxmz5icata6rxkhahad">https://reisen-ww.github.io/hot-pages/aihot/items/ak7kiszxmz5icata6rxkhahad</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="false">ak7kiszxmz5icata6rxkhahad</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Proton Lumo 桌面版发布：本地AI任务与隐私保护方案]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/e75wijoz0jshw9g7uk2wmvr13</link>
-      <description><![CDATA[<p>Proton发布Lumo桌面版，主打本地AI任务自动化与隐私保护，采用瑞士法律加密、无服务器日志，并支持与邮箱、Confluence等工具集成。与OpenAI、Anthropic等竞品相比，Lumo强调用户对AI权限的精细控制（如自动/审批/禁止三级权限）及数据不用于广告或模型训练。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/e75wijoz0jshw9g7uk2wmvr13">https://reisen-ww.github.io/hot-pages/aihot/items/e75wijoz0jshw9g7uk2wmvr13</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 17 Nov 2026 17:32:25 GMT</pubDate>
-      <guid isPermaLink="false">e75wijoz0jshw9g7uk2wmvr13</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS Quick 在 re:Invent 2026 的完整指南]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qnp1lurmesmzixyylzavs9nqt</link>
-      <description><![CDATA[<p>AWS Quick 在 re:Invent 2026 中展示了多行业应用案例，包括金融、教育、航空领域。核心功能涵盖企业级治理架构、多租户数据隔离、跨系统自动化工作流设计，并提供了从试点到规模化部署的实践路径。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qnp1lurmesmzixyylzavs9nqt">https://reisen-ww.github.io/hot-pages/aihot/items/qnp1lurmesmzixyylzavs9nqt</a></p>]]></description>
-      <category>行业动态</category>
-      <pubDate>Tue, 17 Nov 2026 17:08:21 GMT</pubDate>
-      <guid isPermaLink="false">qnp1lurmesmzixyylzavs9nqt</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[LoanPro基于Amazon Bedrock AgentCore构建智能贷款服务助手]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/a0mo2824av3xf5pdan4ufks88</link>
-      <description><![CDATA[<p>LoanPro与AWS合作开发多智能体AI助手，通过Amazon Bedrock调用Claude Sonnet/Haiku/Opus模型，结合Strands Agents SDK实现数据检索与行动推荐。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/a0mo2824av3xf5pdan4ufks88">https://reisen-ww.github.io/hot-pages/aihot/items/a0mo2824av3xf5pdan4ufks88</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 17 Nov 2026 17:01:08 GMT</pubDate>
-      <guid isPermaLink="false">a0mo2824av3xf5pdan4ufks88</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Gemini 用户数据控制升级：可自主选择不贡献训练数据]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/vrh07h5gsc2ivao7rw7wnd735</link>
-      <description><![CDATA[<p>Google Gemini 新增用户数据控制选项，允许用户自主选择不贡献聊天记录用于AI训练。设置路径：Gemini 应用内「活动」→「数据与隐私」→「我的活动」→「Gemini 应用活动」，历史记录可单独设置保留期限。此前用户需关闭全部历史才能避免数据被用于训练，新功能实现隐私与功能平衡。</p>
-<p>🔗 <a href="https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/vrh07h5gsc2ivao7rw7wnd735">https://reisen-ww.github.io/hot-pages/aihot/items/vrh07h5gsc2ivao7rw7wnd735</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Tue, 17 Nov 2026 16:50:10 GMT</pubDate>
-      <guid isPermaLink="false">vrh07h5gsc2ivao7rw7wnd735</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
     </item>
   </channel>
 </rss>

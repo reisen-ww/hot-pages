@@ -9,6 +9,61 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Amazon SageMaker AI 发布跨区域推理路由功能]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/qc83pdn6ylb8spmfx6uio1gz1</link>
+      <description><![CDATA[<p>Amazon SageMaker AI 发布跨区域推理路由功能，支持模型服务在多个AWS区域间无缝切换，保持高可用性。核心配置方法包括注册路由目标、设置跨区域流量上限，并利用健康评分机制动态迁移流量。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/qc83pdn6ylb8spmfx6uio1gz1">https://reisen-ww.github.io/hot-pages/aihot/items/qc83pdn6ylb8spmfx6uio1gz1</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 18:20:54 GMT</pubDate>
+      <guid isPermaLink="false">qc83pdn6ylb8spmfx6uio1gz1</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[AWS推出Bedrock AgentCore Gateway与Skyflow数据保护方案]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/i9z6bwjr21ctmkxp6vglkmzvj</link>
+      <description><![CDATA[<p>AWS通过Skyflow拦截器与Bedrock AgentCore Gateway的集成，实现AI代理工具调用中敏感数据的双向保护：请求端自动脱敏，响应端智能恢复。方案支持文档存储（如S3/Box/Google Drive）和第三方API调用，通过AWS Systems Manager配置策略，无需 redeploy 即可生效。案例显示可防止客户姓名、邮箱等数据泄露至外部工具或模型。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/i9z6bwjr21ctmkxp6vglkmzvj">https://reisen-ww.github.io/hot-pages/aihot/items/i9z6bwjr21ctmkxp6vglkmzvj</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 18:14:36 GMT</pubDate>
+      <guid isPermaLink="false">i9z6bwjr21ctmkxp6vglkmzvj</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Amazon SageMaker HyperPod 增强基础设施观测功能发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/rikx2oer02638t64fhd34zs4l</link>
+      <description><![CDATA[<p>AWS发布Amazon SageMaker HyperPod增强观测功能，支持EKS和Slurm集群的GPU训练问题快速诊断，包含硬件状态监控（温度/功耗/错误码）、网络流量分析（EFA吞吐量/重传率）和负载追踪三大模块。</p>
+<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/rikx2oer02638t64fhd34zs4l">https://reisen-ww.github.io/hot-pages/aihot/items/rikx2oer02638t64fhd34zs4l</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 16:41:35 GMT</pubDate>
+      <guid isPermaLink="false">rikx2oer02638t64fhd34zs4l</guid>
+      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT 实时语音转写功能上线]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k0zp2b9vn1lf7tt1gpw31yta7</link>
+      <description><![CDATA[<p>ChatGPT 上线实时语音转写功能，支持边说边记，移除10分钟录制限制并提升可靠性。此前测试的语音转写功能（仅限Plus等高级版）现整合进主流程，用户可通过波形图实时查看生成文本并编辑。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k0zp2b9vn1lf7tt1gpw31yta7">https://reisen-ww.github.io/hot-pages/aihot/items/k0zp2b9vn1lf7tt1gpw31yta7</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 15:16:45 GMT</pubDate>
+      <guid isPermaLink="false">k0zp2b9vn1lf7tt1gpw31yta7</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
+      <title><![CDATA[GeForce NOW黑五促销：六个月会员30%折扣及扩展至亚马逊三款流媒体设备]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/l1vyu29qqgjow9c2lhibzutj7</link>
+      <description><![CDATA[<p>GeForce NOW宣布黑五期间推出六个月会员30%折扣，并扩展至亚马逊三款流媒体设备（Fire TV Stick HD/4K Select/4K 2026 model）运行Vega OS系统。</p>
+<p>🔗 <a href="https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/l1vyu29qqgjow9c2lhibzutj7">https://reisen-ww.github.io/hot-pages/aihot/items/l1vyu29qqgjow9c2lhibzutj7</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 14:00:12 GMT</pubDate>
+      <guid isPermaLink="false">l1vyu29qqgjow9c2lhibzutj7</guid>
+      <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
+    </item>
+    <item>
       <title><![CDATA[Canva 新增 AI 功能开关：用户可自主关闭生成式 AI 工具]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ggznazx0i9m9qrvqmx1vobkov</link>
       <description><![CDATA[<p>Canva 新增 AI 功能开关，允许用户禁用生成式 AI 工具（如 Magic Expand 和 Canva Chatbot），但部分工具（如背景移除）仍保留。用户可通过账户设置减少 AI 内容展示比例，且该功能对所有用户开放。</p>
@@ -370,72 +425,6 @@
       <pubDate>Fri, 13 Nov 2026 13:00:42 GMT</pubDate>
       <guid isPermaLink="false">tonp3xfmdh11wknipj1feh2z2</guid>
       <author>noreply@reisen-ww.github.io (NVIDIA Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[Amplitude 如何用 OpenAI 模型在1-2天内完成产品迭代]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</link>
-      <description><![CDATA[<p>Amplitude 通过 OpenAI 模型在1-2天内完成产品迭代，其智能体 Wave 负责识别开发方向、协调代码生成，并量化改进效果。该案例展示了企业级 AI 智能体在敏捷开发中的实际应用</p>
-<p>🔗 <a href="https://openai.com/business/customer-stories/amplitude">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp">https://reisen-ww.github.io/hot-pages/aihot/items/gitdqwbzd1409kmzhl20r88bp</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">gitdqwbzd1409kmzhl20r88bp</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Amplitude 如何与 OpenAI 合作实现 1-2 天内快速迭代产品功能]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</link>
-      <description><![CDATA[<p>Amplitude 通过集成 OpenAI 模型，利用智能体 Wave 实现了 1-2 天内快速迭代产品功能，并引入了代码智能体辅助开发流程。该方案包含需求识别、开发执行和效果测量三个环节，展示了 AI 智能体在 SaaS 产品迭代中的落地应用。</p>
-<p>🔗 <a href="https://openai.com/index/amplitude">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx">https://reisen-ww.github.io/hot-pages/aihot/items/bgjccsz52d0x5gr14wqhlr4sx</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">bgjccsz52d0x5gr14wqhlr4sx</guid>
-      <author>noreply@reisen-ww.github.io (OpenAI News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google发布Gemini 4 Hydrogen，正式取代3.8 Flash模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk</link>
-      <description><![CDATA[<p>Google发布Gemini 4 Hydrogen模型，取代原有3.8 Flash版本。该模型在高速运行（比3.8 Flash快2.5倍）、代码生成能力（Terminal-Bench得分翻倍）和访问权限（开放即用）方面均有显著提升，甚至与Argon模型竞争。</p>
-<p>🔗 <a href="https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk">https://reisen-ww.github.io/hot-pages/aihot/items/lc1x2nnj60qfhsnwyz73egbxk</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 19:23:03 GMT</pubDate>
-      <guid isPermaLink="false">lc1x2nnj60qfhsnwyz73egbxk</guid>
-      <author>noreply@reisen-ww.github.io (Ars Technica · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Nectar 推出智能体 Creator Agent 实现品牌创作者发现与触达自动化]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy</link>
-      <description><![CDATA[<p>Nectar 推出 Creator Agent 智能体，实现品牌创作者发现与触达自动化。该工具可分析视频内容、跨平台集成（通过 Model Context Protocol 支持 Claude/ChatGPT/Gemini 等工具）、检查创作者历史合作并生成符合品牌声量的个性化消息，同时与 Anthropic 合作。</p>
-<p>🔗 <a href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy">https://reisen-ww.github.io/hot-pages/aihot/items/yvnjaqlbentp1eynsmuc70rwy</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 19:11:00 GMT</pubDate>
-      <guid isPermaLink="false">yvnjaqlbentp1eynsmuc70rwy</guid>
-      <author>noreply@reisen-ww.github.io (TechCrunch · AI)</author>
-    </item>
-    <item>
-      <title><![CDATA[Granite 4.1 发布支持 LLMON 标记语言的预览模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2</link>
-      <description><![CDATA[<p>Hugging Face 发布 granite-4.1-3b-LLMON-preview 和 granite-4.1-8b-LLMON-preview 两个实验预览模型，通过 LLMON 标记语言实现指令/数据/约束的显式结构分离。</p>
-<p>🔗 <a href="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2">https://reisen-ww.github.io/hot-pages/aihot/items/ccq7ilb7xw2k8lr9n90hullv2</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 GMT</pubDate>
-      <guid isPermaLink="false">ccq7ilb7xw2k8lr9n90hullv2</guid>
-      <author>noreply@reisen-ww.github.io (Hugging Face Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[AWS发布新一代AgentCore运行时：性能提升与安全增强]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx</link>
-      <description><![CDATA[<p>AWS发布新一代AgentCore运行时，核心改进包括：1）启动速度提升15倍，支持8vCPU/32GB内存环境；2）运行效率提升68%，支持10GB容器镜像；3）数据隔离扩展至存储层，可动态挂载S3桶。客户实测显示推理请求冷启动速度提升35%，健康检查启动快77%，内存成本降低17%。该版本通过硬件隔离Firecracker微虚拟机（MicroVM）实现安全执行，并支持按需弹性扩展。</p>
-<p>🔗 <a href="https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx">https://reisen-ww.github.io/hot-pages/aihot/items/ub5ixhvlcsnztadutvqou2wnx</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 17:59:59 GMT</pubDate>
-      <guid isPermaLink="false">ub5ixhvlcsnztadutvqou2wnx</guid>
-      <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
     </item>
   </channel>
 </rss>

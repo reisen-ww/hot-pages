@@ -8,6 +8,16 @@
     <atom:link href="https://reisen-ww.github.io/hot-pages/openhot/feed/full/category/data-database.xml" rel="self" type="application/rss+xml" />
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
-
+    <item>
+      <title><![CDATA[PostgreSQL 19发布：引入REPACK命令与性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g</link>
+      <description><![CDATA[<p>PostgreSQL全球开发团队于2026年11月19日发布v19版本，新增REPACK并发优化命令、pg_plan_advice扩展及逻辑复制改进，查询性能提升近两倍。</p>
+<p>🔗 <a href="https://www.postgresql.org/about/news/postgresql-19-released-3449/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g">https://reisen-ww.github.io/hot-pages/openhot/items/n8gxsk2mp66yyzqj53tu22u1g</a></p>]]></description>
+      <category>数据与数据库</category>
+      <pubDate>Thu, 19 Nov 2026 15:12:08 GMT</pubDate>
+      <guid isPermaLink="false">n8gxsk2mp66yyzqj53tu22u1g</guid>
+      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
+    </item>
   </channel>
 </rss>
