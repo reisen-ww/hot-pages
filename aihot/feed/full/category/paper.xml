@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[OCR模型成本18个月内降五倍，百万页数字化成本低于130美元]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/n6e9t5bayr35sx31vmo84uhd7</link>
+      <description><![CDATA[<p>Hugging Face测试显示OCR模型成本18个月内下降五倍，百万页数字化成本低于130美元。测试了8个模型在古籍、百科全书等文档上的性能，最新模型LightOnOCR-3-0.8B成本降至近10美分/千页，但部分模型存在文本幻觉问题。</p>
+<p>🔗 <a href="https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/n6e9t5bayr35sx31vmo84uhd7">https://reisen-ww.github.io/hot-pages/aihot/items/n6e9t5bayr35sx31vmo84uhd7</a></p>]]></description>
+      <category>论文</category>
+      <pubDate>Thu, 19 Nov 2026 09:28:01 GMT</pubDate>
+      <guid isPermaLink="false">n6e9t5bayr35sx31vmo84uhd7</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
       <title><![CDATA[AWS SageMaker AI Serverless 支持全微调（FFT）功能]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ehja1jsoxspf4ae0yxn2lyexx</link>
       <description><![CDATA[<p>AWS SageMaker AI Serverless Model Customization 新增全微调（FFT）功能，实验表明在数据量超过10万条时，FFT的语义正确率（90%）和代码生成质量（BLEU 89.5%）优于LoRA，但需控制学习率（2e-5）和epoch数（3）以避免灾难性遗忘，同时保留MMLU等通用知识。</p>

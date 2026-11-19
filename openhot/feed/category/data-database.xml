@@ -8,16 +8,6 @@
     <atom:link href="https://reisen-ww.github.io/hot-pages/openhot/feed/category/data-database.xml" rel="self" type="application/rss+xml" />
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
-    <item>
-      <title><![CDATA[PostgreSQL 发布安全更新修复52个漏洞]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/h98a2atur2d18rasc7gvftj2v</link>
-      <description><![CDATA[<p>PostgreSQL Global Development Group于2026-11-12发布安全更新，修复18.7、17.12等支持版本中的52个安全漏洞（含CVE-2026-6460至CVE-2026-120154），涉及执行任意代码、SQL注入、内存泄露等高危问题。</p>
-<p>🔗 <a href="https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/h98a2atur2d18rasc7gvftj2v">https://reisen-ww.github.io/hot-pages/openhot/items/h98a2atur2d18rasc7gvftj2v</a></p>]]></description>
-      <category>数据与数据库</category>
-      <pubDate>Thu, 12 Nov 2026 14:25:23 GMT</pubDate>
-      <guid isPermaLink="false">h98a2atur2d18rasc7gvftj2v</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
+
   </channel>
 </rss>

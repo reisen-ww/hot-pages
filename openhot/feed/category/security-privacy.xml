@@ -96,16 +96,5 @@
       <guid isPermaLink="false">p18sp3k2wv16xh13ijb6kvel1</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
-    <item>
-      <title><![CDATA[GCC字符串分块优化影响路径检测：包管理器如何应对]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft</link>
-      <description><![CDATA[<p>GCC在编译时将长字符串拆分为16字节块以优化性能，导致包管理器的路径检测机制失效。作者对比了GCC与Clang的优化差异，指出Debian通过记录构建信息增强移植性，并建议开发者通过-mstore-max参数控制优化强度。</p>
-<p>🔗 <a href="https://stoppels.ch/2026/11/12/paths-in-pieces.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft">https://reisen-ww.github.io/hot-pages/openhot/items/rjk2rgntfr00banarhoa82bft</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Thu, 12 Nov 2026 14:49:26 GMT</pubDate>
-      <guid isPermaLink="false">rjk2rgntfr00banarhoa82bft</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
   </channel>
 </rss>

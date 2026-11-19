@@ -1,4 +1,4 @@
-# Nvidia CEO Jensen Huang被董事会免职引发行业震动
+# Nvidia CEO Jensen Huang被董事会解职引发行业震动，Palmer Luckey呼吁恢复其职位
 
 > 原标题：Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated
 
@@ -9,8 +9,8 @@
 
 ## 摘要
 
-Nvidia CEO Jensen Huang因婚外情牵涉中国芯片走私调查被董事会免职，Anduril CEO Palmer Luckey公开反对称此举削弱美国技术实力。中国限制Nvidia H200芯片进口以扶持本土芯片产业，目前已有包括Elon Musk在内的超20万人联署请愿要求复职。
+Nvidia CEO Jensen Huang因婚外情调查及涉嫌向中国走私芯片被董事会解职，引发行业震动。Anduril CEO Palmer Luckey公开表示中国对Huang离任'欣喜若狂'，并联合20万签名者呼吁Nvidia恢复创始人职位。Nvidia回应称将全面停止向中国销售H200芯片，但未回应是否考虑重新任命Huang。
 
 ## 推荐理由
 
-原文提供了中美半导体博弈的微观案例，包含具体人物立场、企业应对策略和超过20万签名的请愿数据，可辅助分析地缘政治对AI产业链的影响。
+原文揭示了中美技术博弈背景下Nvidia领导层变动对全球AI芯片供应链的影响，以及行业领袖联署呼吁恢复创始人的事件进展。

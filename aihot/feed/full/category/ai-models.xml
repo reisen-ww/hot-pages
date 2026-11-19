@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Google DeepMind七周内发布Gemini 4 Neon，性能与成本均超越前代Carbon]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/tu1vkcrfs5fqwf061ovolx11n</link>
+      <description><![CDATA[<p>Google DeepMind发布Gemini 4 Neon，在Coding Agent Index评测中得分59（Carbon为55），成本降低50%。视觉处理方面，&apos;high&apos;模式在GDP.pdf测试中得分33.4%领先Carbon，但&apos;xhigh&apos;模式得分28.0%反低于Carbon。输入token成本$3，输出$15，低于Carbon常规价格$4.20。</p>
+<p>🔗 <a href="https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/tu1vkcrfs5fqwf061ovolx11n">https://reisen-ww.github.io/hot-pages/aihot/items/tu1vkcrfs5fqwf061ovolx11n</a></p>]]></description>
+      <category>AI 模型</category>
+      <pubDate>Thu, 19 Nov 2026 11:18:18 GMT</pubDate>
+      <guid isPermaLink="false">tu1vkcrfs5fqwf061ovolx11n</guid>
+      <author>noreply@reisen-ww.github.io (The Decoder)</author>
+    </item>
+    <item>
       <title><![CDATA[OpenAI发布GPT-6.2 Astra与Sol：价格调整及性能对比]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/eq0p1uprzopcwwh6rq0l3k9c6</link>
       <description><![CDATA[<p>OpenAI发布GPT-6.2 Astra（面向复杂项目）和GPT-6.2 Sol（日常场景），Astra输入价$8/MTok（较前代降20%）、输出价$40/MTok，缓存价格降至$0.40/百万（原价$1）。</p>
@@ -106,17 +117,6 @@
       <pubDate>Thu, 12 Nov 2026 18:00:50 GMT</pubDate>
       <guid isPermaLink="false">k58hgl2fg6w3tw7df5ecwzd3q</guid>
       <author>noreply@reisen-ww.github.io (Google DeepMind)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google Deepmind推出AlphaGenome 2单细胞基因组分析模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i</link>
-      <description><![CDATA[<p>Google Deepmind发布AlphaGenome 2单细胞基因组分析模型，在疾病基因和疫苗响应预测上精度提升30%，并支持AI药物研发。该模型基于1070万个体细胞数据训练，可预测DNA物理包装和甲基化标记，在TenK10K基准测试中识别出约30%的致病基因变体，优于前代模型16%的准确率。系统支持通过少量细胞数据推断新细胞状态，已在COVID-19疫苗研究中验证其区分激活T细胞的能力。</p>
-<p>🔗 <a href="https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i">https://reisen-ww.github.io/hot-pages/aihot/items/z8ecskpqxdj2jc98qan7ad24i</a></p>]]></description>
-      <category>AI 模型</category>
-      <pubDate>Thu, 12 Nov 2026 12:09:43 GMT</pubDate>
-      <guid isPermaLink="false">z8ecskpqxdj2jc98qan7ad24i</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
     </item>
   </channel>
 </rss>

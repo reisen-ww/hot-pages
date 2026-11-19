@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>MyHOT (https://reisen-ww.github.io/hot-pages/aihot/agent)</generator>
     <item>
+      <title><![CDATA[Canva 新增 AI 功能开关：用户可自主关闭生成式 AI 工具]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/aihot/items/ggznazx0i9m9qrvqmx1vobkov</link>
+      <description><![CDATA[<p>Canva 新增 AI 功能开关，允许用户禁用生成式 AI 工具（如 Magic Expand 和 Canva Chatbot），但部分工具（如背景移除）仍保留。用户可通过账户设置减少 AI 内容展示比例，且该功能对所有用户开放。</p>
+<p>🔗 <a href="https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button">阅读原文</a></p>
+<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/ggznazx0i9m9qrvqmx1vobkov">https://reisen-ww.github.io/hot-pages/aihot/items/ggznazx0i9m9qrvqmx1vobkov</a></p>]]></description>
+      <category>AI 产品</category>
+      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="false">ggznazx0i9m9qrvqmx1vobkov</guid>
+      <author>noreply@reisen-ww.github.io (The Verge · AI)</author>
+    </item>
+    <item>
       <title><![CDATA[Salesforce 在 AWS SageMaker AI 中实现跨区域推理路由提升全球模型服务能力]]></title>
       <link>https://reisen-ww.github.io/hot-pages/aihot/items/ucpy5c8spoakeqlv6rpuagx4q</link>
       <description><![CDATA[<p>Salesforce 在 AWS SageMaker AI 中通过跨区域推理路由机制，解决了多区域模型服务中的容量碎片化问题。测试显示，当本地模型过载时，路由器可在1分钟内将78%的请求切换至其他区域，同时保持数据驻留合规性。该方案通过统一路由逻辑替代各应用独立实现，降低架构复杂度。</p>
@@ -425,39 +436,6 @@
       <pubDate>Thu, 12 Nov 2026 17:59:59 GMT</pubDate>
       <guid isPermaLink="false">ub5ixhvlcsnztadutvqou2wnx</guid>
       <author>noreply@reisen-ww.github.io (AWS Machine Learning Blog)</author>
-    </item>
-    <item>
-      <title><![CDATA[ElevenLabs 发布 Scribe v3 和 v3 Live 语音识别模型]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f</link>
-      <description><![CDATA[<p>ElevenLabs 发布 Scribe v3（预录音频）和 v3 Live（实时对话）语音识别模型，支持多语言上下文分析，说话人分离准确率提升，但速度较慢且价格较高。对比显示其准确率优于 Microsoft、Mistral、xAI 等竞品，但速度和成本方面落后。</p>
-<p>🔗 <a href="https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f">https://reisen-ww.github.io/hot-pages/aihot/items/k96d9drvdiimwnpooaxz8bp5f</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 13:48:19 GMT</pubDate>
-      <guid isPermaLink="false">k96d9drvdiimwnpooaxz8bp5f</guid>
-      <author>noreply@reisen-ww.github.io (The Decoder)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google发布Gemini Decision 1决策模型API]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</link>
-      <description><![CDATA[<p>Google发布Gemini Decision 1决策模型API，支持文本/图像/音频/视频/PDF输入，单次请求最多处理1000个问题，上下文窗口256K，端到端延迟150-250ms。评测显示其5项基准测试得分优于Jev 1.14，成本为$0.10/1M tokens。</p>
-<p>🔗 <a href="https://latent.space/p/ainews-d-day-decision-models-day/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir">https://reisen-ww.github.io/hot-pages/aihot/items/jv01m5sdubxlugsc3afgns7ir</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 05:26:54 GMT</pubDate>
-      <guid isPermaLink="false">jv01m5sdubxlugsc3afgns7ir</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
-    </item>
-    <item>
-      <title><![CDATA[Jev 系统一模型发布：工程师如何构建自动化软件]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/aihot/items/zzz87fix1ln62h2247y3la0i9</link>
-      <description><![CDATA[<p>TypeSafe AI 发布 Jev 系统一模型，推动自动化软件可靠性提升。Glean通过零样本灵活性和多模型协同实现业务流程优化，UiPath用Jev进行文档相关性竞赛筛选，Workday展示实时预填表单的推理升级。Almeida强调系统一模型应深度集成代码，通过快速调用实现&apos;预测行为而非意图&apos;的智能升级，并类比早期互联网的探索性开发。</p>
-<p>🔗 <a href="https://latent.space/p/jev-revolution/">阅读原文</a></p>
-<p>via MyHOT · <a href="https://reisen-ww.github.io/hot-pages/aihot/items/zzz87fix1ln62h2247y3la0i9">https://reisen-ww.github.io/hot-pages/aihot/items/zzz87fix1ln62h2247y3la0i9</a></p>]]></description>
-      <category>AI 产品</category>
-      <pubDate>Thu, 12 Nov 2026 05:08:20 GMT</pubDate>
-      <guid isPermaLink="false">zzz87fix1ln62h2247y3la0i9</guid>
-      <author>noreply@reisen-ww.github.io (Latent Space)</author>
     </item>
   </channel>
 </rss>

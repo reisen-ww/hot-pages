@@ -1,0 +1,16 @@
+# Anthropic 上市后数十亿股将陆续解禁
+
+> 原标题：Anthropic 或面临巨额抛压，数十亿股将陆续解禁
+
+- 来源：链捕手 ChainCatcher
+- 发布时间：2026-11-19T12:58:15.000Z
+- 金融热点：https://reisen-ww.github.io/hot-pages/cryptohot/items/zp01wl6euj4mj9y00roefr7hq
+- 原文：https://www.chaincatcher.com/article/2306367
+
+## 摘要
+
+Anthropic 上市首日允许创始人等股东额外出售最多 3.16 亿股，未来数月随着限售期届满及 2027 年初业绩公布，数十亿股内部持股将陆续解禁。市场关注点在于解禁规模与后续买盘能否承接。
+
+## 推荐理由
+
+原文提供了解禁股份数量、出售限制和业绩公布时间，读者可据此评估市场供应压力。

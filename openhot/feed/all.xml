@@ -9,6 +9,83 @@
     <ttl>30</ttl>
     <generator>开源热点 (https://reisen-ww.github.io/hot-pages/openhot/agent)</generator>
     <item>
+      <title><![CDATA[PHP团队发布8.5.13版本，包含多项安全修复与性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/nywugkeh1a0rwrqzo0hmofv1j</link>
+      <description><![CDATA[<p>PHP团队在GitHub公开8.5.13版本仓库，修复了CVE-2026-129474（使用after-free漏洞）、CVE-2026-129182（后追踪错误回溯漏洞）等安全问题，并优化了系统ID重初始化、AST输出、JIT编译等性能模块。</p>
+<p>🔗 <a href="https://www.php.net/ChangeLog-8.php">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/nywugkeh1a0rwrqzo0hmofv1j">https://reisen-ww.github.io/hot-pages/openhot/items/nywugkeh1a0rwrqzo0hmofv1j</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Thu, 19 Nov 2026 14:09:50 GMT</pubDate>
+      <guid isPermaLink="false">nywugkeh1a0rwrqzo0hmofv1j</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[欧盟委员会在9个月内部署Matrix通讯工具至4万员工]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gtdxgke0s5x25tqhyp850enzo</link>
+      <description><![CDATA[<p>欧盟委员会通过Element Server Suite Pro部署Matrix通讯工具，覆盖4万名员工，解决了大规模部署中的发现、账户创建、实时状态和基础设施扩展问题。</p>
+<p>🔗 <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gtdxgke0s5x25tqhyp850enzo">https://reisen-ww.github.io/hot-pages/openhot/items/gtdxgke0s5x25tqhyp850enzo</a></p>]]></description>
+      <category>基础设施</category>
+      <pubDate>Thu, 19 Nov 2026 10:58:29 GMT</pubDate>
+      <guid isPermaLink="false">gtdxgke0s5x25tqhyp850enzo</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[PHP 8.6正式发布：引入Partial Function Application等新功能及性能优化]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/kwv2i868nlj65qe8nm16xy4z4</link>
+      <description><![CDATA[<p>PHP 8.6正式发布，包含Partial Function Application、Polling API等新功能及性能优化。新增的clamp()函数确保值在指定范围内，SortDirection枚举提供类型安全的排序方式，反射API改进支持文档注释和属性读写检查。</p>
+<p>🔗 <a href="https://www.php.net/releases/8.6/en.php">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/kwv2i868nlj65qe8nm16xy4z4">https://reisen-ww.github.io/hot-pages/openhot/items/kwv2i868nlj65qe8nm16xy4z4</a></p>]]></description>
+      <category>编程语言与运行时</category>
+      <pubDate>Thu, 19 Nov 2026 09:27:15 GMT</pubDate>
+      <guid isPermaLink="false">kwv2i868nlj65qe8nm16xy4z4</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Bun v1.4.5 发布]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/eqd94ege8dozgh543sib8bv7p</link>
+      <description><![CDATA[<p>通过 `curl -fsSL | bash` 可安装 Bun v1.4.5，或使用 `npm install -g bun`。Windows 用户可运行 `irm bun.com/install.ps1|iex` 安装。此次发布感谢 3 位贡献者。</p>
+<p>🔗 <a href="https://github.com/oven-sh/bun/releases/tag/bun-v1.4.5">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/eqd94ege8dozgh543sib8bv7p">https://reisen-ww.github.io/hot-pages/openhot/items/eqd94ege8dozgh543sib8bv7p</a></p>]]></description>
+      <category>开发工具</category>
+      <pubDate>Thu, 19 Nov 2026 08:48:44 GMT</pubDate>
+      <guid isPermaLink="false">eqd94ege8dozgh543sib8bv7p</guid>
+      <author>noreply@reisen-ww.github.io (Bun 版本发布)</author>
+    </item>
+    <item>
+      <title><![CDATA[Zerodha开源基于SQLite的分布式对象存储系统Blobasaur]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/m7pg5fqu252dps31sc07zc2nr</link>
+      <description><![CDATA[<p>Zerodha开源基于SQLite的分布式对象存储系统Blobasaur，单机可处理千万级向量，吞吐量达1.66GB/s。替代SSDB后，通过分片架构将写入吞吐量提升3.3倍，p99延迟降至2ms。支持zstd压缩（平均11倍压缩率），采用Redis集群协议兼容现有客户端。部署时通过增量真空机制解决SQLite文件膨胀问题，并优化异步写入的读一致性保障。</p>
+<p>🔗 <a href="https://zerodha.tech/blog/high-performance-distributed-blob-storage/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/m7pg5fqu252dps31sc07zc2nr">https://reisen-ww.github.io/hot-pages/openhot/items/m7pg5fqu252dps31sc07zc2nr</a></p>]]></description>
+      <category>数据与数据库</category>
+      <pubDate>Thu, 19 Nov 2026 08:39:45 GMT</pubDate>
+      <guid isPermaLink="false">m7pg5fqu252dps31sc07zc2nr</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队用Rust和smoltcp实现单VM运行1500万Web服务器]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/vlo2dta8oui95gsrbrfhiauuo</link>
+      <description><![CDATA[<p>某团队在GitHub开源基于Rust和smoltcp的高密度Web服务器方案，单VM运行1500万实例。通过DPDK和AF_XDP技术实现硬件直连，内存占用降至620字节/空闲实例+1KB/活跃实例，对比传统内核网络栈节省83%内存。</p>
+<p>🔗 <a href="https://kapteko.com/15-million-webservers/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/vlo2dta8oui95gsrbrfhiauuo">https://reisen-ww.github.io/hot-pages/openhot/items/vlo2dta8oui95gsrbrfhiauuo</a></p>]]></description>
+      <category>Web 与前端</category>
+      <pubDate>Thu, 19 Nov 2026 05:56:36 GMT</pubDate>
+      <guid isPermaLink="false">vlo2dta8oui95gsrbrfhiauuo</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
+      <title><![CDATA[Ruby2ßhell：Stock Rails 预认证 RCE 漏洞披露]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rsc2yx9s7qot99s0agl80df5d</link>
+      <description><![CDATA[<p>Ruby2ßhell披露Stock Rails预认证远程代码执行漏洞，影响GitLab 19.6.0、GitHub Enterprise Server 3.22.5等主流软件，建议升级至Ruby 3.3.14/3.4.13/4.0.10。漏洞源于Ruby单字节编码处理不当，攻击者可通过输入21个ß字符触发缓冲区溢出，已通过上游提交d582f8f修复。</p>
+<p>🔗 <a href="https://verialabs.com/ruby2shell/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rsc2yx9s7qot99s0agl80df5d">https://reisen-ww.github.io/hot-pages/openhot/items/rsc2yx9s7qot99s0agl80df5d</a></p>]]></description>
+      <category>安全与隐私</category>
+      <pubDate>Thu, 19 Nov 2026 05:09:11 GMT</pubDate>
+      <guid isPermaLink="false">rsc2yx9s7qot99s0agl80df5d</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[FailTrace：通过URL本地复现GitHub Actions失败运行]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/e4d3fzfnvne7vbcke44m9nhiy</link>
       <description><![CDATA[<p>FailTrace 是一个开源工具，允许用户通过GitHub Actions失败运行的URL直接复现失败场景。核心功能包括：1. 解析失败步骤的上下文，包括具体错误行、工具链版本和环境变量；2. 生成本地复现计划，支持Docker容器内运行并对比结果；3. 生成Markdown报告，标注与CI环境差异（如基础镜像版本、用户权限、预装工具缺失等）。</p>
@@ -295,6 +372,17 @@
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
     <item>
+      <title><![CDATA[魔法集换式卡片游戏中的指数级行为]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hse9wzc9x8q0gbysmztx9ikea</link>
+      <description><![CDATA[<p>作者开发了一个名为 Arcana 的规则引擎，旨在改进魔法集换式卡片游戏（MTG）的人工智能玩法。Scute Swarm 卡牌因其指数级增长特性而闻名，作者通过构建复杂的卡组组合展示了这一特性带来的巨大计算复杂度。使用六张地牌时，Scute Swarm 可以迅速复制成数千张，带来数万点生命值的增长，揭示了游戏中指数级行为的挑战。</p>
+<p>🔗 <a href="https://levineuwirth.org/essays/exponential-magic/">阅读原文</a></p>
+<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hse9wzc9x8q0gbysmztx9ikea">https://reisen-ww.github.io/hot-pages/openhot/items/hse9wzc9x8q0gbysmztx9ikea</a></p>]]></description>
+      <category>社区新奇仓库</category>
+      <pubDate>Wed, 18 Nov 2026 14:07:09 GMT</pubDate>
+      <guid isPermaLink="false">hse9wzc9x8q0gbysmztx9ikea</guid>
+      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
+    </item>
+    <item>
       <title><![CDATA[Quad9因法国法律强制DNS屏蔽而退出本土市场]]></title>
       <link>https://reisen-ww.github.io/hot-pages/openhot/items/ua3cuq9cul1j139u5bpje36x2</link>
       <description><![CDATA[<p>法国法律强制要求DNS服务屏蔽盗版网站，导致隐私与安全受损，并引发欧洲其他国家的类似争议。Quad9作为瑞士非营利组织，因无法执行地理限制屏蔽而退出法国市场，其服务被用于过滤恶意和钓鱼网站，用户需迁移至其他DNS服务。</p>
@@ -467,94 +555,6 @@
 <p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ebyw5f1manekg8r6y97qayi2u">https://reisen-ww.github.io/hot-pages/openhot/items/ebyw5f1manekg8r6y97qayi2u</a></p>]]></description>
       <pubDate>Tue, 17 Nov 2026 17:45:39 GMT</pubDate>
       <guid isPermaLink="false">ebyw5f1manekg8r6y97qayi2u</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Phrack 73 期发布：23篇安全技术研究论文与历史案例分析]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</link>
-      <description><![CDATA[<p>Phrack 73 期发布，包含23篇技术论文及8篇额外文章，涵盖容器逃逸、Windows智能卡架构、静态污点分析等安全研究主题，并附有历史案例与未来趋势分析</p>
-<p>🔗 <a href="https://phrack.org/issues/73/introduction_md.html">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w">https://reisen-ww.github.io/hot-pages/openhot/items/gddk3fga0rdlu1wu0ud7fv75w</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 17 Nov 2026 17:40:32 GMT</pubDate>
-      <guid isPermaLink="false">gddk3fga0rdlu1wu0ud7fv75w</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Go语言ECS架构游戏开发实战与AI协作思考]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/jxvmhleikoupim1s9yklxzl3i</link>
-      <description><![CDATA[<p>作者使用Donburi ECS库在Go中构建游戏，展示实体组件系统如何通过分离身份、数据和行为提升复杂度管理。核心实现包括：1）基于查询的分层渲染系统 2）动态事件驱动机制（Killed/Collected事件） 3）可扩展的AI行为组件 4）通过domain包管理游戏规则。</p>
-<p>🔗 <a href="https://threedots.tech/post/making-games-in-go-ecs/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/jxvmhleikoupim1s9yklxzl3i">https://reisen-ww.github.io/hot-pages/openhot/items/jxvmhleikoupim1s9yklxzl3i</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 17 Nov 2026 17:18:53 GMT</pubDate>
-      <guid isPermaLink="false">jxvmhleikoupim1s9yklxzl3i</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Optimizely 供应链攻击感染 CNN、Fox News、BBC 和 Salesforce 网站]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/hb0v7nxzj1x1o5oxxg1c81z7q</link>
-      <description><![CDATA[<p>Optimizely 供应链攻击导致 CNN、Fox News、BBC 和 Salesforce 网站感染恶意软件。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/hb0v7nxzj1x1o5oxxg1c81z7q">https://reisen-ww.github.io/hot-pages/openhot/items/hb0v7nxzj1x1o5oxxg1c81z7q</a></p>]]></description>
-      <category>安全与隐私</category>
-      <pubDate>Tue, 17 Nov 2026 17:13:57 GMT</pubDate>
-      <guid isPermaLink="false">hb0v7nxzj1x1o5oxxg1c81z7q</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[RunAnywhere 开源 Trainium LLM 推理引擎 TrnRT 上线]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9</link>
-      <description><![CDATA[<p>RunAnywhere 在 GitHub 公开 TrnRT 仓库，支持 GLM-5.3-Flash 模型，提供 Docker 构建命令、编译缓存机制、双引擎部署方案及性能测试数据（单机 trn2.48xlarge 支持 32 并行请求，1M tokens 上下文，成本对比从 $0.061/百万 tokens 到 $0.040）</p>
-<p>🔗 <a href="https://github.com/RunanywhereAI/trnrt">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9">https://reisen-ww.github.io/hot-pages/openhot/items/wieiohja07pxzgnyyqef4ams9</a></p>]]></description>
-      <category>模型与数据集</category>
-      <pubDate>Tue, 17 Nov 2026 16:01:04 GMT</pubDate>
-      <guid isPermaLink="false">wieiohja07pxzgnyyqef4ams9</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[C 的指定初始化器提供命名可选参数]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ar3oq2wfgz3n9pv0w8m654qf1</link>
-      <description><![CDATA[<p>C 语言的指定初始化器允许参数以任意顺序出现并可重复指定，这使得函数调用更加灵活。通过宏定义，可以轻松添加新的命名参数而不破坏现有接口，仅需重新编译。该技术在多个开源项目中被实际应用，如 EpicGames/raddebugger 和 gab462/hof-flecs-raylib。</p>
-<p>🔗 <a href="https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ar3oq2wfgz3n9pv0w8m654qf1">https://reisen-ww.github.io/hot-pages/openhot/items/ar3oq2wfgz3n9pv0w8m654qf1</a></p>]]></description>
-      <category>社区新奇仓库</category>
-      <pubDate>Tue, 17 Nov 2026 15:58:44 GMT</pubDate>
-      <guid isPermaLink="false">ar3oq2wfgz3n9pv0w8m654qf1</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[如何绕过 Rust 的 Orphan 规则：通过 trait 通用槽实现跨库类型转换]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/qwsbl7qnti0teagt5hkegv97p</link>
-      <description><![CDATA[<p>通过在 trait 中添加 generic slot 实现跨库类型转换，并以 Kova ORM 为例说明其应用场景和优势。具体方法包括：1. 在 trait 中预留 Ctx 参数；2. 在下游服务 crate 中定义本地 marker struct；3. 通过 PhantomData 实现零运行时开销的上下文切换。</p>
-<p>🔗 <a href="https://edvong.com/bypass-orphan-rule/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/qwsbl7qnti0teagt5hkegv97p">https://reisen-ww.github.io/hot-pages/openhot/items/qwsbl7qnti0teagt5hkegv97p</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 17 Nov 2026 15:35:36 GMT</pubDate>
-      <guid isPermaLink="false">qwsbl7qnti0teagt5hkegv97p</guid>
-      <author>noreply@reisen-ww.github.io (Lobsters 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[Antfly开源项目将许可证从Elastic 2.0更改为Apache 2.0]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/rlefpd2h6u0ewfh1xxh9n6lmt</link>
-      <description><![CDATA[<p>Antfly宣布将许可证从Elastic License 2.0迁移到Apache 2.0，解释了选择Apache 2.0的原因（包括云服务竞争、开源社区需求），并说明0.3版本更新内容（支持SQL查询、知识图谱构建、研究代理等），仓库地址为github.com/antflydb/antfly</p>
-<p>🔗 <a href="https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/rlefpd2h6u0ewfh1xxh9n6lmt">https://reisen-ww.github.io/hot-pages/openhot/items/rlefpd2h6u0ewfh1xxh9n6lmt</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 17 Nov 2026 15:33:15 GMT</pubDate>
-      <guid isPermaLink="false">rlefpd2h6u0ewfh1xxh9n6lmt</guid>
-      <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
-    </item>
-    <item>
-      <title><![CDATA[AI辅助优化开源工具：以uv为例提升Python包安装效率]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/openhot/items/ooxqw08cksa43720y4iznz7dd</link>
-      <description><![CDATA[<p>作者 Jordan Krueger 提出通过AI优化开源工具，以uv为例展示Python包安装效率提升8-10倍（缓存优化达115倍）。指出开源工具常存在安装复杂、资源占用高（4GB RAM）、文档不足等问题，建议开发者聚焦性能优化与易用性改进，并强调维护者需平衡社区贡献与安全验证。文中引用 uv项目、Astral、curl漏洞赏金计划等案例佐证观点。</p>
-<p>🔗 <a href="https://jordankrueger.com/blog/better-open-source-not-more-apps/">阅读原文</a></p>
-<p>via 开源热点 · <a href="https://reisen-ww.github.io/hot-pages/openhot/items/ooxqw08cksa43720y4iznz7dd">https://reisen-ww.github.io/hot-pages/openhot/items/ooxqw08cksa43720y4iznz7dd</a></p>]]></description>
-      <category>开发工具</category>
-      <pubDate>Tue, 17 Nov 2026 14:45:36 GMT</pubDate>
-      <guid isPermaLink="false">ooxqw08cksa43720y4iznz7dd</guid>
       <author>noreply@reisen-ww.github.io (Hacker News 热榜)</author>
     </item>
   </channel>

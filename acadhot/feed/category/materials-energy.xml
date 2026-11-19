@@ -9,6 +9,39 @@
     <ttl>30</ttl>
     <generator>学术热点 (https://reisen-ww.github.io/hot-pages/acadhot/agent)</generator>
     <item>
+      <title><![CDATA[某团队在bioRxiv发表蜱虫原代细胞系新培养基研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/yjvbs5ms5y04oad2of0z6na0c</link>
+      <description><![CDATA[<p>某团队首次使用DMEM/F12 + GlutaMAX培养基成功建立Dermacentor reticulatus和Ixodes persulcatus蜱虫原代细胞系，并实现1-2个月内获得亚传代细胞。该培养基解决了传统L-15培养基难以维持蜱虫细胞系的技术难题，为后续蜱媒病原体研究提供标准化培养基方案。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767464v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/yjvbs5ms5y04oad2of0z6na0c">https://reisen-ww.github.io/hot-pages/acadhot/items/yjvbs5ms5y04oad2of0z6na0c</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">yjvbs5ms5y04oad2of0z6na0c</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[基于保守糖蛋白结合特性的AAV载体筛选方法（CReST）在视网膜基因治疗中的应用]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/k4uc0ji79z90g1m5sdagiguvo</link>
+      <description><![CDATA[<p>Wang等团队在bioRxiv发表研究，提出基于heparan sulfate（HS）和 terminal N-acetylglucosamine（GlcNAc）的AAV载体筛选方法（CReST）。实验显示该载体在鼠中使转基因表达提升6.5倍，在猪中光感受器转导效率提高2.5倍，并部分保留光感受器功能，抑制激光诱导的脉络膜新生血管化。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767272v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/k4uc0ji79z90g1m5sdagiguvo">https://reisen-ww.github.io/hot-pages/acadhot/items/k4uc0ji79z90g1m5sdagiguvo</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">k4uc0ji79z90g1m5sdagiguvo</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[KAIST 研究团队在 JACS 发表 Ruthenium 催化剂纳米化提升氨合成效率 57 倍的研究]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/rph8skdb3g7p0blvqjrnjg2q5</link>
+      <description><![CDATA[<p>韩国KAIST研究团队在《Journal of the American Chemical Society》发表论文，通过将 ruthenium 催化剂颗粒尺寸减小至1纳米，使氨合成效率提升57倍。实验表明，纳米化不仅增加活性位点数量（较10纳米催化剂提升4.4倍/位点活性），还显著提升单个位点活性，电子促进效应（电子从BaO传递至Ru表面）是关键机制。研究团队计划进一步开发低能耗氨合成催化剂。</p>
+<p>🔗 <a href="https://phys.org/news/2026-11-ruthenium-catalysts-boosts-ammonia-production.html">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/rph8skdb3g7p0blvqjrnjg2q5">https://reisen-ww.github.io/hot-pages/acadhot/items/rph8skdb3g7p0blvqjrnjg2q5</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Wed, 18 Nov 2026 22:20:01 GMT</pubDate>
+      <guid isPermaLink="false">rph8skdb3g7p0blvqjrnjg2q5</guid>
+      <author>noreply@reisen-ww.github.io (Phys.org)</author>
+    </item>
+    <item>
       <title><![CDATA[QuadSeq技术：一种用于高保真纳米孔测序的线性DNA双链合成方法]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/uk4c68yeajlunh0cmq25nby5g</link>
       <description><![CDATA[<p>Waneskog团队开发QuadSeq技术，将线性DNA扩增物的错误率降低至0.0008（Q31值）。该三步合成法无需环化目标扩增物即可生成双链DNA，其共识序列在低保真Taq聚合酶下的错误率比高保真Phusion U聚合酶的原始扩增物低6.6倍。研究指出纳米孔测序的主要瓶颈在于测序设备本身而非扩增步骤，QuadSeq为提升测序准确性提供了新路径。</p>
@@ -17,6 +50,17 @@
       <category>材料与能源</category>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">uk4c68yeajlunh0cmq25nby5g</guid>
+      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
+    </item>
+    <item>
+      <title><![CDATA[某团队在 bioRxiv 发表超滤膜对携带抗生素耐药基因质粒去除的影响]]></title>
+      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/u25whreb5sy3n9lv081sowufp</link>
+      <description><![CDATA[<p>某团队在 bioRxiv 发表超滤膜对携带抗生素耐药基因质粒去除的影响，发现质粒构象（超螺旋或线状）显著影响去除效率，超螺旋质粒保留率高达98.8-99.6%，而线状质粒仅为82.4-92.4%。研究显示膜污染会导致去除效率从99%降至95%以下，并证实质粒形态差异是影响超滤膜性能的核心因素。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.17.767232v1?rss=1">阅读原文</a></p>
+<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/u25whreb5sy3n9lv081sowufp">https://reisen-ww.github.io/hot-pages/acadhot/items/u25whreb5sy3n9lv081sowufp</a></p>]]></description>
+      <category>材料与能源</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">u25whreb5sy3n9lv081sowufp</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
@@ -53,50 +97,6 @@
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
     </item>
     <item>
-      <title><![CDATA[某团队比较不同干燥与磨碎处理对VSWIR光谱下叶部功能性状估计的影响]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/gbp35esemuo1op3dmouxwv977</link>
-      <description><![CDATA[<p>某团队在11种木本植物61个样本中对比了冻干/烤箱干燥和粗/细旋转磨/球磨方法对VSWIR光谱预测氮钙含量的影响，发现冻干和精细磨样本的预测误差（NRMSE）更低，但所有处理效应均小于物种间差异</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.11.765977v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/gbp35esemuo1op3dmouxwv977">https://reisen-ww.github.io/hot-pages/acadhot/items/gbp35esemuo1op3dmouxwv977</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">gbp35esemuo1op3dmouxwv977</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[西安交通大学团队在 Nature 发表钙钛矿太阳能电池界面修饰新策略]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/g23mt1bxxfqh05yb26faqw69m</link>
-      <description><![CDATA[<p>西安交通大学团队在《Nature》发表研究，提出基于带边扩展异质界面的修饰剂，使钙钛矿太阳能电池的认证功率转换效率（PCE）达到27.96%，并验证了2000小时连续最大功率点跟踪下的稳定性（保留初始效率95%以上）。该策略同时应用于钙钛矿-硅叠层电池，实现34.71%的稳定输出功率。研究重点解析了界面电子耦合机制及其在提升电荷提取效率中的作用。</p>
-<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11427-1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/g23mt1bxxfqh05yb26faqw69m">https://reisen-ww.github.io/hot-pages/acadhot/items/g23mt1bxxfqh05yb26faqw69m</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">g23mt1bxxfqh05yb26faqw69m</guid>
-      <author>noreply@reisen-ww.github.io (Nature)</author>
-    </item>
-    <item>
-      <title><![CDATA[某团队发表海洋森林应对气候变化的跨层次研究]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/aftq97qjxranffm1u2mq1500i</link>
-      <description><![CDATA[<p>某团队在 bioRxiv 发布预印本，通过实验室模拟（测试 T+2°C、T+4°C、pH 7.6 三个条件）与实地调查（测量 Ericaria balearica 覆盖度及生物量），发现升温对爱琴海藻生物量无显著影响，但酸化（pH 7.6）导致海星摄食量下降。研究首次将自然 CO2 火山区种群（Panarea 岛）与常规环境对比，揭示群落响应机制超越物种可塑性。</p>
-<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.11.16.766521v1?rss=1">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/aftq97qjxranffm1u2mq1500i">https://reisen-ww.github.io/hot-pages/acadhot/items/aftq97qjxranffm1u2mq1500i</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">aftq97qjxranffm1u2mq1500i</guid>
-      <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[美国西南部水电站夏季发电量创十年新低]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/qautxkpet8mvq1ubnq2pnrsmj</link>
-      <description><![CDATA[<p>美国西南部两大水电站 Lake Powell 和 Lake Mead 在2025年夏季发电量创十年新低，其中 Lake Powell 水位低于发电临界值1%， Lake Mead 水位仅高于最低要求9%。</p>
-<p>🔗 <a href="https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/qautxkpet8mvq1ubnq2pnrsmj">https://reisen-ww.github.io/hot-pages/acadhot/items/qautxkpet8mvq1ubnq2pnrsmj</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Tue, 17 Nov 2026 17:52:10 GMT</pubDate>
-      <guid isPermaLink="false">qautxkpet8mvq1ubnq2pnrsmj</guid>
-      <author>noreply@reisen-ww.github.io (MIT Technology Review)</author>
-    </item>
-    <item>
       <title><![CDATA[UC Santa Cruz 团队成功用微藻和菜籽油替代传统鱼粉和鱼油]]></title>
       <link>https://reisen-ww.github.io/hot-pages/acadhot/items/ljboksvswz9jzhv7qstw2u0w3</link>
       <description><![CDATA[<p>UC Santa Cruz 团队在 Antioxidants 发表论文，成功用微藻和菜籽油替代传统鱼粉和鱼油，维持了虹鳟鱼的生长、营养质量和成本效益。研究显示，这种替代方案在经济上可行，有助于可持续水产养殖。</p>
@@ -117,17 +117,6 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">uvx8r8big9e19adnzh1de4q4l</guid>
       <author>noreply@reisen-ww.github.io (bioRxiv)</author>
-    </item>
-    <item>
-      <title><![CDATA[上海交通大学胡海涛团队在 Carbon Energy 发表三维高导热石墨烯块体突破性成果]]></title>
-      <link>https://reisen-ww.github.io/hot-pages/acadhot/items/cupauhg9g3x17fbiwgzs3dh3i</link>
-      <description><![CDATA[<p>上海交通大学胡海涛团队在 Carbon Energy 发表最新研究，制备出12.1毫米厚、热扩散能力达6.3 W/K的三维石墨烯块体（GPB-MBP），较现有材料提升8–53倍。</p>
-<p>🔗 <a href="http://blog.sciencenet.cn/home.php?mod=space&amp;uid=3424837&amp;do=blog&amp;id=1560875">阅读原文</a></p>
-<p>via 学术热点 · <a href="https://reisen-ww.github.io/hot-pages/acadhot/items/cupauhg9g3x17fbiwgzs3dh3i">https://reisen-ww.github.io/hot-pages/acadhot/items/cupauhg9g3x17fbiwgzs3dh3i</a></p>]]></description>
-      <category>材料与能源</category>
-      <pubDate>Thu, 12 Nov 2026 04:51:30 GMT</pubDate>
-      <guid isPermaLink="false">cupauhg9g3x17fbiwgzs3dh3i</guid>
-      <author>noreply@reisen-ww.github.io (科学网博客)</author>
     </item>
   </channel>
 </rss>
